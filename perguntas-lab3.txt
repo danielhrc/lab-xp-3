@@ -1,0 +1,7 @@
+Perguntas:
+
+1. Repositórios populares têm mais interação com issues no StackOverFlow?
+
+2. Repositórios populares despertam mais interesse constantemente?
+
+3. Repositórios com linguagem diferentes mas com a mesma função geram perguntas parecidas?
