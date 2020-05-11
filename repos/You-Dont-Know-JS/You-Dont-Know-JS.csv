@@ -1,0 +1,834 @@
+number;id;comments;title;createdAt;closedAt
+3;MDU6SXNzdWUyMjc3MzE4OA==;{'totalCount': 4};Missing image;2013-11-16T06:03:44Z;2014-02-08T07:42:17Z
+9;MDU6SXNzdWUyMjg5MDUwOQ==;{'totalCount': 17};Is the open parts of book welcome translate to other language like chinese?;2013-11-19T05:51:57Z;2014-03-17T16:24:01Z
+11;MDU6SXNzdWUyMjk5MjUwNg==;{'totalCount': 0};Code missing in code snippet -  Module section, Chapter 5;2013-11-20T13:57:54Z;2013-11-20T14:50:14Z
+12;MDU6SXNzdWUyMzA5ODMxNA==;{'totalCount': 2};Joining?;2013-11-21T21:18:09Z;2014-03-31T15:03:15Z
+22;MDU6SXNzdWUyNDY4MjkwNw==;{'totalCount': 0};Appendix to discuss indirect `this` bindings;2013-12-22T15:47:44Z;2014-03-31T06:45:31Z
+23;MDU6SXNzdWUyNDY5MTM0MQ==;{'totalCount': 4};"""types & grammar"": cover (some) native functions and control flows";2013-12-23T01:10:26Z;2014-09-02T03:02:51Z
+25;MDU6SXNzdWUyNDc0NzAzNA==;{'totalCount': 0};"""this & object prototypes"": Add discussion of ES5's (`forEach`, `every`, `some`) array value-iterations";2013-12-24T13:45:06Z;2014-03-31T03:56:10Z
+26;MDU6SXNzdWUyNDc0NzkyMw==;{'totalCount': 0};Add discussion of moot/ignored value for `this` binding;2013-12-24T14:21:20Z;2014-03-31T06:45:31Z
+28;MDU6SXNzdWUyNTE4NDgyNg==;{'totalCount': 1};"Chapter 1, ""Compilation"" Section edits";2014-01-07T18:01:04Z;2014-01-13T06:23:59Z
+29;MDU6SXNzdWUyNTE4NDkyNQ==;{'totalCount': 1};"Chapter 1, ""Scope Conversations"" section edits";2014-01-07T18:02:01Z;2014-01-13T06:18:07Z
+30;MDU6SXNzdWUyNTE4NDk1NQ==;{'totalCount': 0};"Chapter 1, ""Conversation?"" section edits";2014-01-07T18:02:35Z;2014-01-13T06:12:41Z
+31;MDU6SXNzdWUyNTE4NDk4OA==;{'totalCount': 1};"Chapter 1, ""Building on Metaphors"" section edits";2014-01-07T18:03:32Z;2014-02-08T07:41:04Z
+32;MDU6SXNzdWUyNTE4NTE0Mg==;{'totalCount': 1};"Chapter 2, ""Lex-Time"" section edits";2014-01-07T18:06:18Z;2014-01-13T05:11:14Z
+33;MDU6SXNzdWUyNTE4NTE3MQ==;{'totalCount': 1};"Chapter 2, ""Cheating Lexical"" section edits";2014-01-07T18:06:42Z;2014-01-07T19:03:06Z
+34;MDU6SXNzdWUyNTE4NTE5MQ==;{'totalCount': 0};"Chapter 3, ""Collision Avoidance"" section edits";2014-01-07T18:07:04Z;2014-01-13T05:15:42Z
+35;MDU6SXNzdWUyNTE4NTIyNA==;{'totalCount': 4};"Chapter 3, ""IIFE"" section edits";2014-01-07T18:07:31Z;2014-01-14T07:43:53Z
+36;MDU6SXNzdWUyNTE4NTI5Nw==;{'totalCount': 1};"Chapter 5, ""Future Modules"" section edits";2014-01-07T18:08:57Z;2014-01-14T08:02:20Z
+37;MDU6SXNzdWUyNTI3NzU5OA==;{'totalCount': 28};Tech Editors;2014-01-08T23:05:31Z;2018-03-18T20:06:49Z
+38;MDU6SXNzdWUyNTQ4MDM2MA==;{'totalCount': 5};technical review - iennae@gmail.com  ;2014-01-13T06:53:39Z;2014-02-08T06:26:15Z
+39;MDU6SXNzdWUyNTQ5OTg0MQ==;{'totalCount': 7};technical review -harlinjesse@gmail.com;2014-01-13T14:22:47Z;2014-02-09T19:57:49Z
+40;MDU6SXNzdWUyNTUwMTg2Mg==;{'totalCount': 8};technical review - evan@evan-borden.com;2014-01-13T14:53:09Z;2014-02-09T19:58:01Z
+41;MDU6SXNzdWUyNTUyNTU1OQ==;{'totalCount': 13};scope & closure technical review - shelley.just@gmail.com;2014-01-13T20:26:49Z;2014-02-09T19:58:27Z
+42;MDU6SXNzdWUyNTU2MTE3Mg==;{'totalCount': 2};ES6 modules are privileged over other module systems;2014-01-14T09:14:07Z;2014-01-14T15:47:21Z
+43;MDU6SXNzdWUyNTU5NzQ2Mw==;{'totalCount': 0};"ES6 has no ""inline module"" syntax";2014-01-14T19:13:26Z;2014-01-14T19:17:29Z
+44;MDU6SXNzdWUyNjA1NzkyNg==;{'totalCount': 13};technical review - vball525;2014-01-22T00:45:16Z;2014-02-09T19:57:33Z
+45;MDU6SXNzdWUyNjA5NzU3OQ==;{'totalCount': 2};"""types & grammar"": address parseInt() crazy";2014-01-22T15:31:47Z;2014-08-18T16:00:50Z
+47;MDU6SXNzdWUyNjIyMjQ4MQ==;{'totalCount': 1};For objects, explain `writable`/`configurable` and `Object.seal()/freeze()`;2014-01-24T06:46:05Z;2014-03-26T07:14:00Z
+48;MDU6SXNzdWUyNjU2OTU2OQ==;{'totalCount': 0};"""types & grammar"": cover stuff like `(i++)`";2014-01-30T01:47:38Z;2014-08-31T07:23:34Z
+49;MDU6SXNzdWUyNjYxOTcwNg==;{'totalCount': 0};"""types & grammar"": cover when toString() and valueOf() are implicitly called";2014-01-30T18:19:21Z;2014-08-16T07:37:13Z
+50;MDU6SXNzdWUyNjgwNDM1Ng==;{'totalCount': 1};"""types & grammar"": cover everything in this quiz";2014-02-03T14:03:07Z;2014-09-01T18:34:08Z
+52;MDU6SXNzdWUyNzIyODE2MA==;{'totalCount': 1};"Ch4 ""Scope & Closures"": add discussion of functions in block scopes";2014-02-09T18:48:06Z;2014-02-27T05:13:13Z
+54;MDU6SXNzdWUyNzM2MzcxNw==;{'totalCount': 0};"""types & grammar"": cover what `&&` and `||` operators ACTUALLY do";2014-02-11T16:46:56Z;2014-08-25T01:03:13Z
+55;MDU6SXNzdWUyNzUyNTQ3Nw==;{'totalCount': 0};"""types & grammar"": mention falsy objects";2014-02-13T15:23:20Z;2014-08-15T20:16:50Z
+56;MDU6SXNzdWUyNzU0NDI2MA==;{'totalCount': 1};"for ""scope & closures"", point out that `let` declarations DON'T hoist!";2014-02-13T19:18:45Z;2014-02-27T04:51:26Z
+57;MDU6SXNzdWUyNzU0NjExOA==;{'totalCount': 1};"for ""scope & closures"", point out that `var` inside a `with` block doesn't declare to that block";2014-02-13T19:42:29Z;2014-02-27T03:55:00Z
+58;MDU6SXNzdWUyNzYxNTA3Ng==;{'totalCount': 2};"for ""scope & closures"", point out that `eval` in strict mode is in its own lexical block";2014-02-14T18:28:38Z;2014-02-27T04:22:32Z
+59;MDU6SXNzdWUyNzYxNTU3MQ==;{'totalCount': 0};"""types & grammar"": cover ints versus floating point";2014-02-14T18:36:38Z;2014-07-24T20:11:16Z
+60;MDU6SXNzdWUyNzYxODg0MQ==;{'totalCount': 3};"For 'Scope and closures' point out var x = y= z =10; puts y, z in global scope always.";2014-02-14T19:28:20Z;2014-02-14T20:15:42Z
+62;MDU6SXNzdWUyNzY1MDYzMg==;{'totalCount': 2};Can you please explain when we declare x : y = 10 in the global context, It results in y=10 and x = Reference Error.;2014-02-15T15:14:17Z;2014-02-15T16:50:15Z
+63;MDU6SXNzdWUyNzY1OTU1Mg==;{'totalCount': 5};Ch 4 Functions First is a little confusing;2014-02-15T23:10:20Z;2014-02-16T06:59:53Z
+65;MDU6SXNzdWUyNzY2NzU2Nw==;{'totalCount': 1};The book has a degrading title to its readers;2014-02-16T10:01:20Z;2014-02-16T14:19:00Z
+66;MDU6SXNzdWUyNzY2NzY5MQ==;{'totalCount': 2};Copyright attribution isn't explicit;2014-02-16T10:10:50Z;2014-02-16T14:18:30Z
+67;MDU6SXNzdWUyNzY4MzAxOA==;{'totalCount': 1};"""types & grammar"": cover how IEEE-754 numbers work";2014-02-16T21:51:02Z;2014-07-24T20:11:16Z
+69;MDU6SXNzdWUyNzczOTgzMQ==;{'totalCount': 2};"""types & grammar"": cover what `Array(3)` is actually doing";2014-02-17T18:19:19Z;2014-07-18T06:19:58Z
+71;MDU6SXNzdWUyNzkyNzQ3Mg==;{'totalCount': 1};"for ""this & object prototypes"", add more explanation of for-of iterators";2014-02-20T01:14:25Z;2014-03-31T03:42:23Z
+73;MDU6SXNzdWUyODEzMTI4OA==;{'totalCount': 0};"""types & grammar"": cover `if..else if..else`";2014-02-23T23:57:18Z;2014-09-01T16:11:49Z
+74;MDU6SXNzdWUyODM5MjYyOQ==;{'totalCount': 1};"""types & grammar"": cover `Number(..)`";2014-02-27T04:04:54Z;2014-08-16T07:37:13Z
+75;MDU6SXNzdWUyODUzNTcwNQ==;{'totalCount': 0};"for ""this & object prototypes"", clarify constructor vs constructor call";2014-02-28T21:45:48Z;2014-03-17T16:37:48Z
+77;MDU6SXNzdWUyODU5MTI2Ng==;{'totalCount': 0};"""types & grammar"": cover difference between missing argument and explicit `undefined` argument";2014-03-02T23:10:59Z;2014-09-02T02:59:38Z
+79;MDU6SXNzdWUyOTAxMTMxNA==;{'totalCount': 1};"""scope & closures"": errata";2014-03-08T01:14:17Z;2014-04-24T02:41:56Z
+86;MDU6SXNzdWUyOTQxMjg3OA==;{'totalCount': 1};"""types & grammar"": explain how coercion disallows `obj == obj`";2014-03-14T06:05:02Z;2014-08-25T04:49:59Z
+87;MDU6SXNzdWUyOTQ4Nzk4Mw==;{'totalCount': 1};"""this & object prototypes"": Explain how the instaceof works in these two cases.";2014-03-15T07:29:37Z;2014-03-16T03:06:26Z
+90;MDU6SXNzdWUyOTUzODk2Ng==;{'totalCount': 0};"""this & object prototypes"": cover ""parasitic inheritance"" (probably ch4)";2014-03-17T05:56:59Z;2014-03-17T16:25:45Z
+91;MDU6SXNzdWUyOTg3NzgxNw==;{'totalCount': 23};"""this & object prototypes"": cover shadowing properties";2014-03-21T03:48:35Z;2014-03-31T08:21:29Z
+92;MDU6SXNzdWUyOTg5MTc4Mw==;{'totalCount': 4};Hoisting of let;2014-03-21T10:50:54Z;2014-03-21T11:41:18Z
+93;MDU6SXNzdWUyOTk4Njc2Mg==;{'totalCount': 1};There is no figures for Chapter 4: Mixing Class Copies;2014-03-23T12:57:48Z;2014-03-24T02:19:11Z
+94;MDU6SXNzdWUzMDMzMzg3NQ==;{'totalCount': 0};"""types & grammar"": explain Symbol and == behavior";2014-03-27T19:25:36Z;2014-08-25T04:50:25Z
+95;MDU6SXNzdWUzMDQ1OTI3MA==;{'totalCount': 0};"""this & object prototypes"": ch6, add discussion of object-method shorthand";2014-03-30T05:03:19Z;2014-03-30T17:53:27Z
+98;MDU6SXNzdWUzMDUxODU0MQ==;{'totalCount': 0};"preface: typo ""famoulsy""";2014-03-31T14:52:06Z;2014-03-31T14:52:37Z
+99;MDU6SXNzdWUzMDUzMjQ3NA==;{'totalCount': 0};"""this & object prototypes"": discuss Object.assign(..)";2014-03-31T17:38:46Z;2014-03-31T20:37:46Z
+100;MDU6SXNzdWUzMDg1MjkxMQ==;{'totalCount': 1};"Example in ""this & object prototypes / apA.md"" will throw TypeError at runtime";2014-04-04T11:33:53Z;2014-04-04T13:08:11Z
+101;MDU6SXNzdWUzMDkxNjgwNQ==;{'totalCount': 6};"""this & object prototypes"": discuss devtools serialization/output of objects";2014-04-05T14:34:47Z;2014-04-13T12:49:35Z
+102;MDU6SXNzdWUzMDkyMjE4Mg==;{'totalCount': 0};"""this & object prototypes"": discuss `ø = Object.create(null)` for `this` bindings";2014-04-05T19:27:43Z;2014-04-06T11:54:37Z
+103;MDU6SXNzdWUzMTAxODE3Mg==;{'totalCount': 0};"""this & object prototypes"": explain the `for..of` caveat with `done:true`";2014-04-07T20:17:00Z;2014-04-07T20:47:52Z
+104;MDU6SXNzdWUzMTAyNTExNA==;{'totalCount': 1};"""types & grammar"": explain == && == && ==";2014-04-07T21:44:34Z;2014-08-25T05:48:55Z
+106;MDU6SXNzdWUzMTE1OTkwMg==;{'totalCount': 0};"""this & object prototypes"": cover ""computed property names"" in ch3";2014-04-09T14:08:11Z;2014-04-11T02:16:29Z
+107;MDU6SXNzdWUzMTIwNzUzMw==;{'totalCount': 8};"""this & Object Prototypes"": Editorial Comments";2014-04-10T00:57:25Z;2014-04-11T00:50:53Z
+108;MDU6SXNzdWUzMTM3NTk2NA==;{'totalCount': 0};"""this & object prototypes"": ch2, cover ""soft binding""";2014-04-12T04:12:30Z;2014-04-12T19:10:31Z
+109;MDU6SXNzdWUzMTQwNzMwOA==;{'totalCount': 1};"""types & grammar"": explain `typeof` + TDZ";2014-04-13T14:58:46Z;2014-09-01T19:37:53Z
+110;MDU6SXNzdWUzMTUwMjU2Ng==;{'totalCount': 2};"""scope & closures"": auto-globals from DOM element id's";2014-04-14T20:42:41Z;2020-03-03T05:20:29Z
+111;MDU6SXNzdWUzMTUxMDgyOA==;{'totalCount': 6};“*this* & Object Prototypes”: OLOO and pseudo-polymorphic calls;2014-04-14T22:29:10Z;2014-04-19T12:30:45Z
+112;MDU6SXNzdWUzMTUyNzI5Ng==;{'totalCount': 0};"""this & object prototypes"": discuss introspection styles between class and oloo";2014-04-15T05:31:30Z;2014-04-19T21:24:39Z
+113;MDU6SXNzdWUzMTU1MjAyMQ==;{'totalCount': 1};typo ch3;2014-04-15T13:17:47Z;2014-04-15T13:26:54Z
+115;MDU6SXNzdWUzMTg2MDY3OA==;{'totalCount': 1};Discuus Object Oriented JavaScript;2014-04-20T05:26:14Z;2014-04-20T16:38:03Z
+116;MDU6SXNzdWUzMTg3NzcyOQ==;{'totalCount': 2};"""types & grammar"": cover the ""types"" of the built-in's prototypes";2014-04-21T02:41:33Z;2014-07-18T18:31:23Z
+117;MDU6SXNzdWUzMTg3ODM3Mw==;{'totalCount': 1};'let' in for-loop?;2014-04-21T03:08:46Z;2014-04-21T03:33:27Z
+118;MDU6SXNzdWUzMjAzMTYyOA==;{'totalCount': 7};this & object prototypes / tech review;2014-04-23T04:14:23Z;2014-07-18T06:19:12Z
+119;MDU6SXNzdWUzMjExNTgyMQ==;{'totalCount': 0};"""scope & closures"": typo";2014-04-24T02:29:09Z;2014-04-24T02:29:39Z
+120;MDU6SXNzdWUzMjEyMzUyMQ==;{'totalCount': 1};this & object prototype / Chapter 2 - Small correction in code;2014-04-24T06:30:21Z;2014-04-24T07:10:20Z
+122;MDU6SXNzdWUzMjMwMzY0Mw==;{'totalCount': 3};"""scope & closures"": function decl overrides named param";2014-04-27T03:26:38Z;2020-03-03T05:17:54Z
+123;MDU6SXNzdWUzMjMxNTQ2MA==;{'totalCount': 2};"""scope & closures"" - question about the for-loop";2014-04-27T16:55:12Z;2014-04-27T19:41:41Z
+124;MDU6SXNzdWUzMjQxODQ0NA==;{'totalCount': 1};"""types & grammar"": array concat vs. push.apply";2014-04-29T04:35:01Z;2014-09-01T18:31:12Z
+125;MDU6SXNzdWUzMjQxODQ0OQ==;{'totalCount': 0};"""types & grammar"": in discussing references, talk about truncating array";2014-04-29T04:35:13Z;2014-07-19T12:46:30Z
+126;MDU6SXNzdWUzMjUzODg5OQ==;{'totalCount': 0};"""types & grammar"": cover labeled statements, labeled for-loops w/ labeled continue/break";2014-04-30T14:22:31Z;2014-09-01T16:11:49Z
+130;MDU6SXNzdWUzMjc0NjMzNw==;{'totalCount': 2};Need Explanation...;2014-05-03T12:49:02Z;2014-05-03T16:27:13Z
+134;MDU6SXNzdWUzNDI0NTc4OA==;{'totalCount': 0};"""async & performance"": cover tail call optimization";2014-05-24T22:54:57Z;2014-12-19T21:42:26Z
+135;MDU6SXNzdWUzNDI4NDQ2Ng==;{'totalCount': 0};"""async & performance"": cover SIMD extensions";2014-05-26T06:20:53Z;2014-12-19T21:42:10Z
+136;MDU6SXNzdWUzNDMyMjgzNw==;{'totalCount': 1};"""this & object prototypes"": bound functions have a `.name` property in ES6";2014-05-26T18:16:30Z;2014-06-30T20:04:35Z
+137;MDU6SXNzdWUzNDM0Njk0OA==;{'totalCount': 2};"""this & object prototypes"": non-configurable property";2014-05-27T07:11:44Z;2014-06-30T20:13:51Z
+138;MDU6SXNzdWUzNDQ3Njk5Mw==;{'totalCount': 1};"""types & grammar"": covering 'integer' detection";2014-05-28T15:24:40Z;2014-07-27T05:29:57Z
+139;MDU6SXNzdWUzNDcyNzA0Mw==;{'totalCount': 0};"""types & grammar"": cover `Object.is(..)`";2014-06-01T11:56:37Z;2014-09-01T18:27:56Z
+140;MDU6SXNzdWUzNTE5MzI3OQ==;{'totalCount': 1};"""es6 & beyond"": great proxy example";2014-06-07T00:12:06Z;
+141;MDU6SXNzdWUzNTQ5MzIzNQ==;{'totalCount': 1};"""types & grammar"": cover early errors (strict mode), run-time errors, etc";2014-06-11T15:08:20Z;2014-09-01T19:37:53Z
+143;MDU6SXNzdWUzNTc2NjkwOQ==;{'totalCount': 1};"""this & object prototypes"": primitive values are boxed";2014-06-16T04:10:32Z;2014-06-30T19:23:05Z
+150;MDU6SXNzdWUzNjc2OTUzMQ==;{'totalCount': 0};"""types & grammar"": cover this about NaN";2014-06-30T05:20:08Z;2014-07-17T19:47:01Z
+151;MDU6SXNzdWUzNzIzODAxMw==;{'totalCount': 3};Anonymous functions can have names;2014-07-07T04:00:59Z;2014-07-07T23:12:23Z
+152;MDU6SXNzdWUzNzMyMTY5OQ==;{'totalCount': 1};"""types & grammar"": cover the replacer param of regular expression `replace(..)`";2014-07-07T23:57:39Z;2014-09-01T18:30:40Z
+153;MDU6SXNzdWUzNzMyMTc0Mg==;{'totalCount': 0};"""this & object prototypes"": mention subclassing of bound functions";2014-07-07T23:58:36Z;2014-07-09T02:18:24Z
+154;MDU6SXNzdWUzNzMyMjE3Mg==;{'totalCount': 0};"""types & grammar"": cover `Object(..)` for coercing primitive to object wrapper";2014-07-08T00:08:11Z;2014-07-19T12:45:36Z
+155;MDU6SXNzdWUzNzUzMTg2NQ==;{'totalCount': 1};"""async & performance"": cover promise theory";2014-07-10T05:00:07Z;2014-10-24T01:46:59Z
+156;MDU6SXNzdWUzNzYwMDEyNw==;{'totalCount': 0};"""types & grammar"": cover ""primitive"" vs. ""scalar""";2014-07-10T20:10:44Z;2014-07-18T20:32:06Z
+159;MDU6SXNzdWUzODEyNDA1Ng==;{'totalCount': 1};"""types & grammar"": cover completion-values for various statements";2014-07-17T20:45:37Z;2014-09-01T06:11:45Z
+160;MDU6SXNzdWUzODIxMTQxMQ==;{'totalCount': 5};Values vs References semantics;2014-07-18T20:53:51Z;2014-07-19T13:12:07Z
+161;MDU6SXNzdWUzODI3MTEyNA==;{'totalCount': 1};Add LICENSE file with CC-BY-NC-ND as contents;2014-07-21T01:08:12Z;2014-07-21T04:34:13Z
+162;MDU6SXNzdWUzODM4NTEzNQ==;{'totalCount': 0};"""types & grammar"": cover `JSON.stringify(..)` params, details";2014-07-22T09:57:51Z;2014-08-18T05:10:55Z
+165;MDU6SXNzdWUzODY5ODc0OA==;{'totalCount': 0};"""types & grammar"": cover 32-bit integers";2014-07-25T05:39:03Z;2014-07-25T05:53:01Z
+167;MDU6SXNzdWUzOTIwNjkyOQ==;{'totalCount': 1};"""types & grammar"": coverage of void function";2014-07-31T15:37:57Z;2014-08-09T15:33:33Z
+168;MDU6SXNzdWUzOTIzNzE5Nw==;{'totalCount': 1};code examples should have multiple outcome examples;2014-07-31T21:00:16Z;2014-09-02T03:03:28Z
+169;MDU6SXNzdWUzOTI4NDQ4Mw==;{'totalCount': 1};"""types & grammar"": Editorial comment: Introduce coercion earlier";2014-08-01T12:18:52Z;2014-08-02T06:55:52Z
+170;MDU6SXNzdWUzOTkyNTI2Ng==;{'totalCount': 75};"""types & grammar"": review - vball525";2014-08-11T03:12:15Z;2014-09-12T14:22:48Z
+174;MDU6SXNzdWU0MDA1MzE2OQ==;{'totalCount': 1};spelling mistake;2014-08-12T13:13:33Z;2014-08-12T13:16:14Z
+176;MDU6SXNzdWU0MDMwODAwMw==;{'totalCount': 11};[Question][Scope & Closure] Modules Pattern in Chapter 5;2014-08-14T22:46:06Z;2014-08-15T01:15:57Z
+177;MDU6SXNzdWU0MDYyMDAyMA==;{'totalCount': 0};"""types & grammar"": cover grammar gotchas";2014-08-19T18:13:28Z;2014-09-01T16:11:49Z
+178;MDU6SXNzdWU0MDY2ODQ5NA==;{'totalCount': 22};"""types & grammar"": review - jesseharlin";2014-08-20T06:56:53Z;2014-09-27T05:31:20Z
+179;MDU6SXNzdWU0MTI1NjA2Mw==;{'totalCount': 2};"""scope & closures"": one more eval example";2014-08-27T07:34:17Z;2019-12-11T15:32:56Z
+180;MDU6SXNzdWU0MTM5NTI3NA==;{'totalCount': 1};Chapter 6 - AuthController code errata;2014-08-28T14:22:14Z;2014-08-28T17:21:40Z
+182;MDU6SXNzdWU0MTU3NzkxNQ==;{'totalCount': 3};"""types & grammar"": appendix, cover dangers of mutable native prototypes";2014-08-31T04:09:50Z;2014-09-08T19:12:03Z
+183;MDU6SXNzdWU0MTc2NjY0Mg==;{'totalCount': 2};"""types & grammar"": Editorial comments, Chapter 5";2014-09-02T23:23:46Z;2014-09-09T15:50:46Z
+187;MDU6SXNzdWU0MjMyMTA5OA==;{'totalCount': 4};"""types & grammar"": Editorial comments, Appx A";2014-09-09T15:48:07Z;2014-09-27T05:33:01Z
+188;MDU6SXNzdWU0MjY5NTM1OQ==;{'totalCount': 1};"""types & grammar"": typo in chapter 2";2014-09-13T13:00:01Z;2014-09-13T13:16:19Z
+189;MDU6SXNzdWU0MjkyMjYwMA==;{'totalCount': 0};Type & Grammer - name not complete;2014-09-16T19:27:47Z;2014-09-17T12:57:29Z
+191;MDU6SXNzdWU0MzAzODcyNA==;{'totalCount': 4};"""types & grammar"": use for short circuiting with &&";2014-09-17T17:14:25Z;2014-09-27T05:29:45Z
+192;MDU6SXNzdWU0MzA1MTAzNw==;{'totalCount': 1};Types & Grammer - final sentence need to be more clarify;2014-09-17T19:10:21Z;2014-09-17T19:20:09Z
+193;MDU6SXNzdWU0MzA1Mjc2Ng==;{'totalCount': 0};Types & Grammer - typo ;2014-09-17T19:28:54Z;2014-09-27T05:25:01Z
+194;MDU6SXNzdWU0MzA1NDY3OA==;{'totalCount': 1};types & Grammer - Weird coercion i think missing;2014-09-17T19:49:39Z;2014-09-19T07:44:44Z
+195;MDU6SXNzdWU0MzA3MTkxMQ==;{'totalCount': 0};"""types & grammar"": Result value of `delete` operator explained wrong?";2014-09-17T22:55:11Z;2014-09-27T05:25:01Z
+196;MDU6SXNzdWU0MzIyNDQyOA==;{'totalCount': 1};Types & Grammer - space before comma(s);2014-09-19T10:23:28Z;2014-09-27T05:23:36Z
+197;MDU6SXNzdWU0MzIzMDI0NA==;{'totalCount': 1};types & Grammer - Automatic Semicolons section, something to add.;2014-09-19T11:55:08Z;2014-09-19T12:11:22Z
+198;MDU6SXNzdWU0MzIzMTc1Nw==;{'totalCount': 0};Types & Grammer - double comma;2014-09-19T12:15:45Z;2014-09-27T05:16:20Z
+199;MDU6SXNzdWU0MzMzNTA4OQ==;{'totalCount': 8};"""scope & closures"": another scope/hoisting oddity";2014-09-21T13:34:42Z;2019-12-11T15:32:00Z
+205;MDU6SXNzdWU0NTQ3MTY4Ng==;{'totalCount': 3};"""types & grammar"": A note about conversion to Number";2014-10-10T11:36:31Z;2014-10-13T00:03:22Z
+206;MDU6SXNzdWU0NTQ4NDIwMg==;{'totalCount': 4};"""types & grammar"": a note about code example";2014-10-10T14:08:54Z;2014-10-13T00:03:22Z
+207;MDU6SXNzdWU0NTU1MDM0MQ==;{'totalCount': 6};"""types & grammar"": a question about array's ToPrimitive result";2014-10-11T12:52:22Z;2014-10-12T22:29:54Z
+208;MDU6SXNzdWU0NTg3MzE3NA==;{'totalCount': 6};"""this & object prototypes"": cover strict mode `this` differences";2014-10-15T14:31:26Z;
+209;MDU6SXNzdWU0NTg3MzM0Nw==;{'totalCount': 1};"""es6 & beyond"": cover ES6 lexical `this` (arrow functions)";2014-10-15T14:32:26Z;2015-03-11T05:50:09Z
+210;MDU6SXNzdWU0NjAzMDY5NA==;{'totalCount': 0};"""types & grammar"": talk about implementation-specific limits";2014-10-16T20:19:28Z;2014-12-22T02:24:15Z
+211;MDU6SXNzdWU0NjIxMTE3MA==;{'totalCount': 3};"""scope & closures"": IIFE benefits in minification";2014-10-19T17:23:16Z;2019-12-11T15:29:24Z
+213;MDU6SXNzdWU0NjUyNTgxMA==;{'totalCount': 2};"""scope & closures"": (second edition) : Misleading explanation";2014-10-22T15:47:57Z;2014-10-24T01:46:26Z
+215;MDU6SXNzdWU0NjcxMzkzNQ==;{'totalCount': 2};"""scope & closures"": hoisting of let";2014-10-24T08:14:38Z;2014-10-24T12:23:07Z
+217;MDU6SXNzdWU0Njg0NTQ1NA==;{'totalCount': 9};Translated it into Chinese language?;2014-10-26T15:17:36Z;2014-11-05T03:47:19Z
+220;MDU6SXNzdWU0NzM2MzQ4OQ==;{'totalCount': 1};"""scope & closures"": ch1.md,it is in fact a compiled language";2014-10-31T05:54:48Z;2014-10-31T13:22:41Z
+223;MDU6SXNzdWU0NzcxMTM3Ng==;{'totalCount': 6};"""scope & closures"": explain immutable binding of function-expression name";2014-11-04T13:15:01Z;2019-12-11T15:28:44Z
+224;MDU6SXNzdWU0Nzk4OTM4Nw==;{'totalCount': 1};this and object prototypes;2014-11-06T17:23:35Z;2014-11-06T19:29:50Z
+226;MDU6SXNzdWU0ODE1NzIxMQ==;{'totalCount': 1};this & Object Prototypes : prototype chain of native objects;2014-11-08T06:14:34Z;2014-11-08T11:42:05Z
+227;MDU6SXNzdWU0ODE3NjkyMw==;{'totalCount': 1};Test whether a variable is NaN;2014-11-08T19:19:17Z;2014-11-08T20:18:56Z
+231;MDU6SXNzdWU0ODcyNjQ0Nw==;{'totalCount': 13};"""async & performance"" - vball525";2014-11-14T03:35:15Z;2015-01-27T21:27:26Z
+232;MDU6SXNzdWU0OTAxMzkwMA==;{'totalCount': 3};Types & Grammar: Link Backs;2014-11-16T20:11:05Z;2014-11-18T13:26:55Z
+233;MDU6SXNzdWU0OTAxMzkyNQ==;{'totalCount': 8};Types & Grammar: Crazy Edge Cases ;2014-11-16T20:12:05Z;2014-11-16T20:46:37Z
+234;MDU6SXNzdWU0OTAxMzk2OA==;{'totalCount': 2};Types & Grammar: Operators || and &&;2014-11-16T20:13:38Z;2014-11-16T20:36:38Z
+235;MDU6SXNzdWU0OTAxNDAwOQ==;{'totalCount': 4};Types & Grammar: Associativity;2014-11-16T20:14:47Z;2014-11-16T20:54:19Z
+237;MDU6SXNzdWU0OTAyMDcwMw==;{'totalCount': 3};Block Scoping Revisited - let loop;2014-11-16T23:41:26Z;2014-11-18T13:24:11Z
+246;MDU6SXNzdWU0OTYxMjEyOQ==;{'totalCount': 0};"""async & performance"": missing part of sentence in ch4.md";2014-11-20T20:10:44Z;2014-11-20T20:16:49Z
+248;MDU6SXNzdWU0OTgxMTQ3MQ==;{'totalCount': 15};"""async & performance"" - ljharb";2014-11-23T01:58:39Z;2015-01-19T19:50:07Z
+249;MDU6SXNzdWU0OTgxODkzNg==;{'totalCount': 1};async chapter 3: return a promise from a rejection handler;2014-11-23T08:44:18Z;2014-11-23T20:41:50Z
+250;MDU6SXNzdWU0OTg1MDQ1Mg==;{'totalCount': 2};"""this & object prototypes"": node.js REPL environment differences";2014-11-24T02:18:48Z;
+251;MDU6SXNzdWU1MDI4OTU4Nw==;{'totalCount': 3};"""async & performance"": editorial comments";2014-11-27T13:07:35Z;2015-01-27T21:27:09Z
+253;MDU6SXNzdWU1MDQzNTAzNQ==;{'totalCount': 1};"""es6 & beyond"": cover function `name` behavior";2014-11-29T19:37:17Z;2015-04-30T05:59:26Z
+256;MDU6SXNzdWU1MDg0NTM3NQ==;{'totalCount': 1};"""async & performance"": Chapter 2 - Trying to save callbacks";2014-12-03T14:41:07Z;2014-12-22T00:40:19Z
+257;MDU6SXNzdWU1MTIyOTc0NQ==;{'totalCount': 1};Threads are not and do not necessarily have queues;2014-12-07T20:11:14Z;2014-12-19T21:49:53Z
+258;MDU6SXNzdWU1MTI0MTkyNw==;{'totalCount': 2};Alternate pit of success;2014-12-08T02:11:35Z;2014-12-19T21:56:10Z
+260;MDU6SXNzdWU1MTMzMDYwNg==;{'totalCount': 0};"""async & performance"": need to cover `Generator#return(..)`";2014-12-08T17:48:00Z;2014-12-21T21:10:29Z
+261;MDU6SXNzdWU1MTg1MTAzMg==;{'totalCount': 3};"""async & performance""";2014-12-12T20:45:46Z;2015-01-27T21:26:43Z
+262;MDU6SXNzdWU1MTkxNTM2Nw==;{'totalCount': 1};pdf repo;2014-12-14T10:11:42Z;2014-12-20T05:11:58Z
+264;MDU6SXNzdWU1MjQ5NzM2NA==;{'totalCount': 1};"&nbsp;";2014-12-19T15:55:18Z;2014-12-19T16:03:12Z
+265;MDU6SXNzdWU1MjUxNjM0OQ==;{'totalCount': 0};"""types & grammar"": add Brendan's 2012 thoughts on ASI";2014-12-19T18:57:42Z;2014-12-22T02:50:07Z
+267;MDU6SXNzdWU1MjU4MzMxNQ==;{'totalCount': 0};"""types & grammar"": add ""reserved words"" discussion, maybe to appendix";2014-12-21T02:02:26Z;2014-12-22T02:24:15Z
+268;MDU6SXNzdWU1MjYwNjYxNQ==;{'totalCount': 0};"""types & grammar"": cover `finally` clause";2014-12-21T21:25:33Z;2014-12-22T03:43:37Z
+270;MDU6SXNzdWU1Mjk0MjQ3NA==;{'totalCount': 3};"""scope & closures"": declaring functions in blocks under strict mode will throw error";2014-12-26T23:18:15Z;2019-12-11T15:27:32Z
+271;MDU6SXNzdWU1Mjk1NDU4Mw==;{'totalCount': 2};"""types & grammar"": primitives and objects";2014-12-27T11:01:26Z;2014-12-27T15:15:59Z
+273;MDU6SXNzdWU1MzA3MDg2NQ==;{'totalCount': 0};"""types & grammar"": explain how `Object.create(null)` makes a non-coercable object ";2014-12-29T20:53:33Z;2014-12-29T21:28:54Z
+274;MDU6SXNzdWU1MzI1OTU4NQ==;{'totalCount': 11};"""types & grammar"": explain Symbol coercion in ch4";2015-01-02T15:54:47Z;2015-01-06T16:43:28Z
+281;MDU6SXNzdWU1MzUyMzQyNw==;{'totalCount': 0};"""async & performance"": fix incorrect function references in text";2015-01-06T15:06:31Z;2015-01-06T15:06:41Z
+283;MDU6SXNzdWU1MzY1NTQyMA==;{'totalCount': 3};Conditionals example;2015-01-07T17:05:09Z;2015-01-07T17:18:21Z
+284;MDU6SXNzdWU1MzY1Nzg5MA==;{'totalCount': 1};"""up & going"": chapter 1, ask readers to try things as early as possible";2015-01-07T17:27:41Z;2015-01-07T19:25:14Z
+285;MDU6SXNzdWU1Mzk1MzQzMQ==;{'totalCount': 2};Up & Going sentence change?;2015-01-10T10:09:51Z;2015-01-10T13:24:06Z
+286;MDU6SXNzdWU1Mzk2MTgxMQ==;{'totalCount': 0};"""up & running"": sentence change? - Ch. 2";2015-01-10T15:47:21Z;2015-01-12T07:01:47Z
+287;MDU6SXNzdWU1Mzk2MTk4Nw==;{'totalCount': 1};"""up & running"": ire? - Ch. 2";2015-01-10T15:53:45Z;2015-01-12T07:01:47Z
+288;MDU6SXNzdWU1Mzk2MjI3MA==;{'totalCount': 0};"""up & running"": intpreted - Ch. 2";2015-01-10T16:03:16Z;2015-01-12T07:01:47Z
+289;MDU6SXNzdWU1Mzk2MjYyMw==;{'totalCount': 0};"""up & running"": global variable - Ch. 2";2015-01-10T16:15:18Z;2015-01-12T07:01:47Z
+290;MDU6SXNzdWU1Mzk2Mjc1NQ==;{'totalCount': 0};"""up & running"": Let people know about harmony flag";2015-01-10T16:19:40Z;2015-01-12T07:05:07Z
+291;MDU6SXNzdWU1Mzk2MzE5NA==;{'totalCount': 1};"""up & running"": Ch. 2 - Conditional !! ?";2015-01-10T16:33:28Z;2015-01-12T07:07:01Z
+292;MDU6SXNzdWU1Mzk3MTkzNw==;{'totalCount': 3};"""up & going"": A couple thoughts on chapter 1";2015-01-10T21:27:18Z;2015-01-26T06:20:06Z
+294;MDU6SXNzdWU1NDA1NDA3MA==;{'totalCount': 1};"""up & running"": ch.3, ambiguous/confusing wording";2015-01-12T13:37:34Z;2015-01-13T17:39:09Z
+295;MDU6SXNzdWU1NDA1NDQ5OQ==;{'totalCount': 2};"""up & running"": ch.3, s/ire/frustrating/g";2015-01-12T13:42:13Z;2015-01-13T17:39:09Z
+296;MDU6SXNzdWU1NDA1NTQ0Mw==;{'totalCount': 0};"""up & running"": ch.3, referencing ""other books""";2015-01-12T13:52:05Z;2015-01-13T17:39:09Z
+297;MDU6SXNzdWU1NDA2MTQyOQ==;{'totalCount': 9};Emphasizing the importance of running the code;2015-01-12T14:48:37Z;2015-01-13T17:44:41Z
+298;MDU6SXNzdWU1NDA2ODU3Ng==;{'totalCount': 3};"""async & performance"": ch.1, break long sentence";2015-01-12T15:47:23Z;2015-01-21T08:53:49Z
+301;MDU6SXNzdWU1NDI2ODMwOA==;{'totalCount': 2};"""async & performance"": ch.1, understanding of 10m";2015-01-14T00:22:44Z;2015-01-21T08:52:23Z
+302;MDU6SXNzdWU1NDQ0NTg3Mw==;{'totalCount': 3};"""types & grammar"": ch1, Test for a null value";2015-01-15T12:52:36Z;2015-01-15T14:54:11Z
+303;MDU6SXNzdWU1NDU5OTUyNw==;{'totalCount': 1};"""async & performance"" ch.2: so or say?";2015-01-16T17:08:15Z;2015-01-21T08:53:13Z
+304;MDU6SXNzdWU1NDY4MTk4NQ==;{'totalCount': 5};"""up & going"": Chapter 1";2015-01-18T01:06:28Z;2015-01-26T06:23:49Z
+305;MDU6SXNzdWU1NDY4NzU2Nw==;{'totalCount': 1};"""async & performance"": ch5, remove ""Parallel JavaScript"" section";2015-01-18T06:13:33Z;2015-01-21T08:42:26Z
+306;MDU6SXNzdWU1NDcwNTcxNw==;{'totalCount': 2};up and going chapter 2;2015-01-18T18:48:04Z;2015-01-25T17:40:52Z
+307;MDU6SXNzdWU1NDcwNTkxMA==;{'totalCount': 1};up and going chapter 2;2015-01-18T18:54:38Z;2015-01-25T17:38:15Z
+308;MDU6SXNzdWU1NDcwNjI0NA==;{'totalCount': 1};up and going chapter 2;2015-01-18T19:05:51Z;2015-01-25T17:41:29Z
+309;MDU6SXNzdWU1NDcwNjQ0Mw==;{'totalCount': 5};Up and Running;2015-01-18T19:11:57Z;2015-01-25T17:42:03Z
+311;MDU6SXNzdWU1NDg3Nzc3NQ==;{'totalCount': 13};"""async & performance"": generator for promises example";2015-01-20T12:33:09Z;2015-02-09T22:41:51Z
+312;MDU6SXNzdWU1NDk0NDAwMQ==;{'totalCount': 5};"""up & going"": Editorial comments";2015-01-20T21:40:50Z;2015-02-01T21:13:37Z
+314;MDU6SXNzdWU1NTExMjcxMg==;{'totalCount': 2};"""up & going"": Some Editorial Comments/Suggestions";2015-01-22T04:16:00Z;2015-01-27T21:25:35Z
+315;MDU6SXNzdWU1NTQ1NDk3NA==;{'totalCount': 1};In Scope&Closures AppendixB let-er seems not added at end of chapter?;2015-01-26T07:57:31Z;2015-01-27T20:32:38Z
+316;MDU6SXNzdWU1NTczMDY2NQ==;{'totalCount': 2};JavaScript internals;2015-01-28T09:08:23Z;2015-02-01T21:13:06Z
+320;MDU6SXNzdWU1NjUyODA0MQ==;{'totalCount': 0};"""this & object prototypes"": update appendix A `class` syntax to spec";2015-02-04T13:48:27Z;
+321;MDU6SXNzdWU1NjYwMDQ1NA==;{'totalCount': 4};this & Object Prototypes: what would be the solution to the end code on chapter 2;2015-02-04T22:52:23Z;2015-02-11T08:32:41Z
+322;MDU6SXNzdWU1NjYzNTcxNQ==;{'totalCount': 3};Microbenchmarking harness;2015-02-05T07:12:14Z;2015-02-11T08:32:27Z
+323;MDU6SXNzdWU1NjY5NTUwNA==;{'totalCount': 4};"""this & object prototypes"": cover `__proto__` in object literals";2015-02-05T16:44:49Z;
+325;MDU6SXNzdWU1NzI3Mzk5NQ==;{'totalCount': 2};"""up & going"": Code Sample Clarity";2015-02-11T03:59:12Z;2015-02-21T04:40:48Z
+330;MDU6SXNzdWU1NzYzMjQ5OA==;{'totalCount': 1};Memory footprint;2015-02-13T18:02:39Z;2015-02-21T04:40:58Z
+333;MDU6SXNzdWU1NzgyMDQ5NQ==;{'totalCount': 1};"""scope & closures"" - O'Reilly Safari Listing";2015-02-16T15:54:39Z;2016-01-15T13:50:13Z
+335;MDU6SXNzdWU1Nzg0NTA2Nw==;{'totalCount': 5};"""scope & closures"" and ""this & Object Prototypes"": editorial comments";2015-02-16T19:56:17Z;2020-03-03T05:17:12Z
+338;MDU6SXNzdWU1Nzg2Nzc2MA==;{'totalCount': 2};Types & Grammar: Chapter 1 doesn't include functions as a type;2015-02-17T00:20:17Z;2015-02-17T00:21:01Z
+345;MDU6SXNzdWU1ODI3OTE4OA==;{'totalCount': 0};"""up & going"": ch1, fix references to bank-account as ""constant""";2015-02-19T22:16:45Z;2015-02-21T04:39:58Z
+346;MDU6SXNzdWU1ODMxNDY1Nw==;{'totalCount': 0};"""types & grammar"": update ch3 to talk about ES6 change to native's prototypes";2015-02-20T06:21:38Z;
+348;MDU6SXNzdWU1ODk0MzA4Ng==;{'totalCount': 4};"""async & performance"": Document unhandled rejection hooks";2015-02-25T17:56:24Z;
+349;MDU6SXNzdWU1OTEzNjk0Mg==;{'totalCount': 0};"""async & performance"": keep an eye on SharedArrayBuffer proposals";2015-02-26T20:21:36Z;
+350;MDU6SXNzdWU1OTM4ODIwNg==;{'totalCount': 1};"""scope & closure"": ""loops + closure"" alternative closure solution";2015-03-01T08:29:05Z;2015-03-11T05:46:53Z
+357;MDU6SXNzdWU1OTM5MDc0NQ==;{'totalCount': 1};"""up & going"":""chapter 1: into programming"" equivalent for & while loops";2015-03-01T10:17:16Z;2015-03-11T05:46:23Z
+370;MDU6SXNzdWU1OTQxOTc0NQ==;{'totalCount': 5};"""this & object prototypes"": editorial review (about chapter 6)";2015-03-01T21:59:14Z;
+372;MDU6SXNzdWU1OTc1MjYxNw==;{'totalCount': 1};"""es6 & beyond"": meta properties";2015-03-04T05:35:42Z;2015-04-23T15:53:32Z
+373;MDU6SXNzdWU2MDIxNTE3OQ==;{'totalCount': 1};"""types & grammar"": explicitly: parsing numeric strings";2015-03-07T17:15:11Z;2015-03-08T02:14:42Z
+376;MDU6SXNzdWU2MDI3NTc5Ng==;{'totalCount': 3};Is this really correct and why?;2015-03-08T20:58:29Z;2015-03-10T00:56:33Z
+377;MDU6SXNzdWU2MDQzNTI2OQ==;{'totalCount': 0};"""es6 & beyond"": computed properties in object destructuring";2015-03-10T00:59:33Z;2015-03-12T05:12:22Z
+379;MDU6SXNzdWU2MDUyOTA3Nw==;{'totalCount': 2};"""scope & closures"": clear up misleading wording";2015-03-10T16:36:28Z;2019-12-11T15:13:20Z
+380;MDU6SXNzdWU2MDU2NjU1OQ==;{'totalCount': 6};"""es6 & beyond"": Setting [[Prototype]] section needs to be updated";2015-03-10T20:46:14Z;2015-03-10T21:24:58Z
+381;MDU6SXNzdWU2MDYxMjM4OA==;{'totalCount': 11};"""async & performance"": Trying to save callbacks example";2015-03-11T05:26:26Z;2015-03-12T02:46:23Z
+382;MDU6SXNzdWU2MDc0MTQ5OA==;{'totalCount': 1};"""async & performance"": slim down general explanations of iterators/generators";2015-03-11T22:33:52Z;
+385;MDU6SXNzdWU2MTc5NDMyOA==;{'totalCount': 5};"""async & performance"": interleaving example";2015-03-15T11:14:59Z;2015-03-16T00:05:28Z
+387;MDU6SXNzdWU2MTg4NzE4NQ==;{'totalCount': 1};"""types & grammar"": Value vs. Reference";2015-03-15T19:29:43Z;2015-04-04T12:20:49Z
+389;MDU6SXNzdWU2MTkxMzQwNA==;{'totalCount': 0};"""types & grammar"": typo in code samples in apA";2015-03-15T22:38:02Z;2015-03-15T22:40:05Z
+394;MDU6SXNzdWU2MjM5MjQ0MA==;{'totalCount': 2};"""async & performance"": `runAll()` utility solution";2015-03-17T13:14:05Z;2016-01-15T13:44:44Z
+395;MDU6SXNzdWU2MjUxNzYyOQ==;{'totalCount': 3};"""up & going"": Chapter 1 console.log coercion";2015-03-17T21:01:49Z;2019-12-11T15:22:46Z
+401;MDU6SXNzdWU2NDk5MzYwOQ==;{'totalCount': 0};"""async & performance"": revise ""TCO"" discussion";2015-03-28T21:51:38Z;
+402;MDU6SXNzdWU2NTA5MzM5OA==;{'totalCount': 1};Trivial Issue in Async & Performance ;2015-03-29T20:33:44Z;2015-04-04T12:14:42Z
+403;MDU6SXNzdWU2NTYyNDYxNw==;{'totalCount': 4};Hoisting;2015-04-01T07:39:28Z;2015-04-23T15:16:25Z
+404;MDU6SXNzdWU2NjA1NTA1Nw==;{'totalCount': 1};"""up & going"": ch1, clarify/correct `while` loop equiv of `for` loop example";2015-04-03T02:20:14Z;2015-04-04T12:10:19Z
+405;MDU6SXNzdWU2NjMyMTY4MA==;{'totalCount': 2};Module resolution;2015-04-04T13:41:51Z;2015-04-23T15:15:50Z
+406;MDU6SXNzdWU2NjcxMzk4MQ==;{'totalCount': 1};"""es6 & beyond"": ch5, discuss typed arrays as ""real"" arrays";2015-04-06T21:49:09Z;2015-05-10T19:36:31Z
+411;MDU6SXNzdWU2NzQ0ODA1Mw==;{'totalCount': 7};"""this & object prototypes"": Unit testing classless code?";2015-04-09T20:47:44Z;2016-01-15T13:49:56Z
+412;MDU6SXNzdWU2ODg5OTQ4MQ==;{'totalCount': 0};"""es6 & beyond"": ch2, object destructuring form no longer valid";2015-04-16T11:00:35Z;2015-04-16T11:53:35Z
+413;MDU6SXNzdWU2OTExNzczNA==;{'totalCount': 5};Is it okay to translate YDKJS?;2015-04-17T11:09:15Z;2015-04-23T14:58:45Z
+414;MDU6SXNzdWU2OTIxNDIwMA==;{'totalCount': 0};"""es6 & beyond"": ch7, cover object property order";2015-04-17T20:44:17Z;2015-04-30T05:58:59Z
+419;MDU6SXNzdWU3MDQwMzQ5NA==;{'totalCount': 5};"""Async & Performance"" chapter4 Delegating Recursion example";2015-04-23T12:46:26Z;2015-04-23T15:25:35Z
+421;MDU6SXNzdWU3MDg2NjYyMw==;{'totalCount': 6};Default value syntax trick;2015-04-25T06:51:50Z;2015-05-10T17:25:12Z
+423;MDU6SXNzdWU3MTkwOTI2MA==;{'totalCount': 40};"""es6 & beyond"": ch 7, errors in example code";2015-04-29T15:32:44Z;2015-04-29T21:55:07Z
+424;MDU6SXNzdWU3MjA2MzkwMA==;{'totalCount': 0};Minor issues/questions for first part of Ch 2;2015-04-30T05:02:06Z;2015-05-31T13:06:24Z
+425;MDU6SXNzdWU3MjIwMzY0OQ==;{'totalCount': 4};"""es6 and beyond"": remarks on destructuring";2015-04-30T16:00:12Z;2015-05-10T17:24:22Z
+427;MDU6SXNzdWU3MjYwMjY5Nw==;{'totalCount': 0};"""this & object prototypes"": ch2, fix misleading code/info";2015-05-02T07:16:46Z;
+430;MDU6SXNzdWU3MzMyOTg5MQ==;{'totalCount': 3};"""this & object prototypes"": Chapter 2 Clarification??";2015-05-05T14:26:25Z;
+431;MDU6SXNzdWU3MzM5NDQzMQ==;{'totalCount': 0};"""es6 & beyond"": ch2, ""block-scoped declarations""";2015-05-05T18:36:28Z;2015-05-08T18:48:34Z
+435;MDU6SXNzdWU3NDAyODA5MQ==;{'totalCount': 2};ToBoolean in comparison operators;2015-05-07T15:32:13Z;2015-05-07T16:53:02Z
+436;MDU6SXNzdWU3NDA5MzQ5OQ==;{'totalCount': 1};Map Keys;2015-05-07T19:07:28Z;2015-05-08T18:29:47Z
+437;MDU6SXNzdWU3NDEzNzU3OA==;{'totalCount': 4};"es6: ch2: ""const declarations"", GC admonition may be inaccurate";2015-05-07T21:40:44Z;2015-05-08T21:29:31Z
+438;MDU6SXNzdWU3NDE0MzU3NQ==;{'totalCount': 2};"es6: ch2: ""const declarations"", clarifying optimizations";2015-05-07T22:08:17Z;2015-05-29T14:12:40Z
+443;MDU6SXNzdWU3NDk5MTU0MA==;{'totalCount': 0};"""es6 & beyond"": ch5, discussion typedarray sort's difference";2015-05-10T20:09:14Z;2015-05-19T21:18:12Z
+448;MDU6SXNzdWU3NjczNjkwOQ==;{'totalCount': 2};https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch7.md#review;2015-05-15T14:07:14Z;2015-05-15T15:45:48Z
+452;MDU6SXNzdWU3ODc1Mjk2NA==;{'totalCount': 0};"""es6 & beyond"": Editorial Comments";2015-05-21T00:11:35Z;2015-09-03T03:01:41Z
+453;MDU6SXNzdWU3OTEzMDY2Nw==;{'totalCount': 5};Idea: Using a plus sign instead of parentheses at the start of an IIFE.;2015-05-21T19:32:39Z;2015-05-26T21:00:23Z
+456;MDU6SXNzdWU4MTc0OTM1MA==;{'totalCount': 17};"""up & going"": Ch1 Practice. Purchase is always unaffordable";2015-05-28T04:16:54Z;2019-12-11T15:22:19Z
+464;MDU6SXNzdWU4NjEwNjkwNw==;{'totalCount': 3};"""this & Object Prototypes"": Ch6 - using Object.assign for consistency?";2015-06-08T09:44:58Z;2015-06-12T07:35:12Z
+465;MDU6SXNzdWU4NzE4OTkyMA==;{'totalCount': 1};"""Async & Performance"": Ch6 - typo: justifcation  -> justification";2015-06-11T02:56:19Z;2015-06-11T03:17:16Z
+468;MDU6SXNzdWU4ODUxODYwNA==;{'totalCount': 1};Promises chapter. Gate vs Barrier.;2015-06-15T19:35:07Z;2015-06-16T10:50:10Z
+470;MDU6SXNzdWU4OTE4ODczMg==;{'totalCount': 4};"""this & object prototypes"": ch2 issue about polyfill of Function.prototype.bind()";2015-06-18T03:37:38Z;
+471;MDU6SXNzdWU4OTgzNjA2MA==;{'totalCount': 1};"""es6 & beyond"": ch2, add variation of destructuring";2015-06-20T23:40:13Z;2015-07-03T10:11:54Z
+472;MDU6SXNzdWU5MDIzNTI3Mg==;{'totalCount': 1};"""up & going"": Chapter 2, pg 38; ""by reference""";2015-06-22T22:56:14Z;2019-12-11T15:21:50Z
+473;MDU6SXNzdWU5MTY3NjY0OQ==;{'totalCount': 0};"""async & performance"": ch6, update TCO section to mention strict mode";2015-06-29T02:44:53Z;
+474;MDU6SXNzdWU5MjU3MTI1NQ==;{'totalCount': 3};"""async & performance"" Appendix B - Extending an Iterable Async Sequence example";2015-07-02T07:36:11Z;2015-07-03T07:20:48Z
+476;MDU6SXNzdWU5Mjg2Nzk2NA==;{'totalCount': 4};"""async & performance"": ch4, Delegating Recursion";2015-07-03T12:42:08Z;
+477;MDU6SXNzdWU5MzAyMzU2NQ==;{'totalCount': 2};Up and Going: Chapter 2 - Values and Types, return values of typeof operator;2015-07-04T15:50:17Z;2015-07-05T13:10:42Z
+478;MDU6SXNzdWU5MzEyNjMwNg==;{'totalCount': 0};"""This & Object Prototypes"": Ch 3 Existence minor typo";2015-07-05T16:57:18Z;2015-07-05T17:03:57Z
+480;MDU6SXNzdWU5MzE3MTYwNQ==;{'totalCount': 4};asynquence-contrib version Issue;2015-07-06T02:25:11Z;2015-07-09T14:17:45Z
+486;MDU6SXNzdWU5NDM1MTg5Mg==;{'totalCount': 1};static;2015-07-10T17:28:57Z;2015-07-10T18:04:45Z
+487;MDU6SXNzdWU5NDQ4NTcwMg==;{'totalCount': 1};Object#assign & symbols;2015-07-11T16:00:49Z;2015-07-11T16:31:47Z
+498;MDU6SXNzdWU5ODUzOTc0OA==;{'totalCount': 2};"Niggling comment re: ""promisory""";2015-08-01T14:07:57Z;2015-08-02T23:23:53Z
+504;MDU6SXNzdWU5OTI1MzE2OA==;{'totalCount': 1};Link to Reactive Extensions Lib on Async & Performance - Appendix B is broken;2015-08-05T17:10:33Z;2015-08-07T03:31:31Z
+506;MDU6SXNzdWU5OTQ0NTg2NQ==;{'totalCount': 2};"""Loops + Closure"": ch5, First value is random";2015-08-06T14:18:38Z;2015-08-06T15:01:00Z
+509;MDU6SXNzdWU5OTg4MDQ0Ng==;{'totalCount': 3};Does browser based JS have any way to get data synchonously?;2015-08-09T09:51:32Z;2015-08-11T07:39:29Z
+512;MDU6SXNzdWUxMDAyMDcyMzM=;{'totalCount': 2};Default parameters & TDZ;2015-08-11T01:56:21Z;2015-08-11T12:20:46Z
+513;MDU6SXNzdWUxMDA0Njc5MTg=;{'totalCount': 6};Differences between `bind(..)` and fat arrow functions;2015-08-12T05:12:28Z;2015-08-12T14:05:28Z
+514;MDU6SXNzdWUxMDA4MDUzMjI=;{'totalCount': 0};"""up & going"": ch1, fix first bullet point in review";2015-08-13T15:57:31Z;2015-09-03T02:43:12Z
+518;MDU6SXNzdWUxMDI4Njc1NDA=;{'totalCount': 0};Error return in code;2015-08-24T19:00:53Z;2015-08-25T01:34:09Z
+523;MDU6SXNzdWUxMDMxOTU4NTc=;{'totalCount': 1};es6 modules and OLOO;2015-08-26T07:20:46Z;2015-08-30T05:44:04Z
+524;MDU6SXNzdWUxMDMzNDIxODA=;{'totalCount': 7};Recommend trying gitbook.com;2015-08-26T19:01:26Z;2015-08-26T19:04:23Z
+526;MDU6SXNzdWUxMDM5MDM4MTg=;{'totalCount': 4};ES6: Use of super and OLOO?;2015-08-30T06:05:07Z;2015-09-03T03:00:28Z
+528;MDU6SXNzdWUxMDQwMzgzODg=;{'totalCount': 3};Lexical scope created by catch();2015-08-31T11:47:51Z;2015-09-03T03:00:07Z
+529;MDU6SXNzdWUxMDQ2ODM5MTc=;{'totalCount': 3};"""scope & closures"": Block Scoping Revisited - clarification of scope created by let (question)";2015-09-03T12:47:21Z;2015-09-03T13:36:05Z
+530;MDU6SXNzdWUxMDUxMzU5NzY=;{'totalCount': 1};Is there a recommended order to reading this series?;2015-09-07T02:49:58Z;2015-09-07T12:25:37Z
+531;MDU6SXNzdWUxMDU2MjYyNjM=;{'totalCount': 4};"""types & grammar"": ch4, JSON Stringification is not always a string";2015-09-09T15:51:13Z;
+532;MDU6SXNzdWUxMDU2NDMwNjI=;{'totalCount': 1};"""types & grammar"": ch4, a few more ""crazy"" comparisons";2015-09-09T17:12:17Z;
+533;MDU6SXNzdWUxMDU5MzU4MzE=;{'totalCount': 1};"""Types and Grammer"" Section ""Implicitly: * --> Boolean"" Typo";2015-09-11T02:59:33Z;2015-09-11T03:00:52Z
+535;MDU6SXNzdWUxMDYxMjUzODA=;{'totalCount': 10};Portuguese translation;2015-09-12T03:31:01Z;2015-09-13T18:56:48Z
+537;MDU6SXNzdWUxMDY3MjcyNjM=;{'totalCount': 1};Port it to gitbook;2015-09-16T08:44:01Z;2015-09-16T13:15:30Z
+539;MDU6SXNzdWUxMDc0ODc4MjY=;{'totalCount': 0};"""es6 & beyond"": ch2, ""tagged template literals"", cover explicit multiline string literals";2015-09-21T10:56:48Z;
+540;MDU6SXNzdWUxMDc1MTQwMjQ=;{'totalCount': 3};"""scope & closures"": ch3,'const' example seems wrong in chrome";2015-09-21T13:38:06Z;2015-09-21T16:27:44Z
+541;MDU6SXNzdWUxMDc2NTk5MjY=;{'totalCount': 1};types & grammar / Coercion;2015-09-22T07:29:56Z;2015-11-09T14:13:49Z
+543;MDU6SXNzdWUxMDgwNzgwODI=;{'totalCount': 3};Async & Performance - Ch1 - process.nextTick();2015-09-24T07:54:17Z;
+552;MDU6SXNzdWUxMDk5NTgzNDk=;{'totalCount': 3};typeof check for null;2015-10-06T08:23:28Z;2015-10-06T14:42:30Z
+568;MDU6SXNzdWUxMTI4NDI2NDY=;{'totalCount': 1};ES6 & Beyond - Ch3 Organization;2015-10-22T16:37:09Z;2015-10-22T17:25:18Z
+572;MDU6SXNzdWUxMTI5OTczNzM=;{'totalCount': 2};"""this & object prototypes"": ch2 explain 'this'-style code";2015-10-23T10:52:54Z;2016-01-15T13:43:48Z
+576;MDU6SXNzdWUxMTM5OTY3NjQ=;{'totalCount': 2};ES6 & Beyond Chapter 4: Async Flow Control - Promise.race example;2015-10-29T07:41:00Z;2015-10-29T11:56:04Z
+577;MDU6SXNzdWUxMTQxNDY5MTc=;{'totalCount': 3};ES6 & Beyond - Chapter 6: API Additions - instanceof;2015-10-29T21:04:51Z;2015-10-29T21:46:34Z
+579;MDU6SXNzdWUxMTQ3MzU2MTg=;{'totalCount': 4};same name in different obj in same prototype chain.;2015-11-03T03:29:30Z;2016-01-15T13:43:29Z
+581;MDU6SXNzdWUxMTUyMzU0NzI=;{'totalCount': 4};Async & Performance - Ch5 - one to one relationship?;2015-11-05T08:48:49Z;2016-01-15T13:43:01Z
+582;MDU6SXNzdWUxMTUyNTM0MDg=;{'totalCount': 5};Constant is not a variable;2015-11-05T10:25:24Z;2015-11-18T23:12:26Z
+585;MDU6SXNzdWUxMTU2NDQ4NzE=;{'totalCount': 1};delegation direction reverse?;2015-11-07T07:41:15Z;2016-01-15T13:42:34Z
+587;MDU6SXNzdWUxMTU4ODQ4ODg=;{'totalCount': 2};es6 & beyond: ch8, remove `Object.observe(..)`;2015-11-09T14:14:47Z;
+591;MDU6SXNzdWUxMTg5MzYyOTc=;{'totalCount': 2};Async & Performance - ch6 - Calculation error;2015-11-25T22:42:12Z;
+594;MDU6SXNzdWUxMTkzODEwMzU=;{'totalCount': 7};"""Scope & Closures""- Ch.3 Function Versus Block Scope";2015-11-29T19:33:34Z;2019-12-11T15:24:23Z
+595;MDU6SXNzdWUxMTk1NjQwNzg=;{'totalCount': 2};Time to Practice! How many phones you can afford. [YDKJS: Up & Going. Chapter 1: Into Programming];2015-11-30T19:36:59Z;2015-12-19T17:42:50Z
+600;MDU6SXNzdWUxMjA2ODQ1MTU=;{'totalCount': 8};Results Are Same But The Book Says They Are Different;2015-12-07T02:18:12Z;2015-12-07T13:15:31Z
+601;MDU6SXNzdWUxMjE4MzQ4NzY=;{'totalCount': 2};Couldn't understand this paragraph. Can anyone give a gist of it in a simpler way. Everything else is well understood.;2015-12-12T05:31:22Z;2015-12-19T17:44:45Z
+606;MDU6SXNzdWUxMjI5NDUxNjY=;{'totalCount': 2};"Chapter 4: Mixing (Up) ""Class"" Objects - Parasitic Inheritance - Is it possible to inherit another class?";2015-12-18T13:03:57Z;2016-01-15T13:42:14Z
+609;MDU6SXNzdWUxMjI5OTk0NzQ=;{'totalCount': 2};"""This & Object Prototypes"" Chapter 5, ""Constructor or Call?"": Unexpected results in testing";2015-12-18T18:09:06Z;2016-01-15T13:41:52Z
+610;MDU6SXNzdWUxMjMwOTA3ODE=;{'totalCount': 2};JS: Scope & Closures - Chapter 3: Function vs. Block Scope - No difference in syntax ( IIFE function style);2015-12-19T15:02:48Z;2016-01-15T13:41:18Z
+611;MDU6SXNzdWUxMjMzMzE3MTk=;{'totalCount': 2};Create a GitHub Pahge for reading this repo.;2015-12-21T18:21:40Z;2015-12-21T19:42:29Z
+612;MDU6SXNzdWUxMjM0NzQyMDU=;{'totalCount': 5};Why this is false;2015-12-22T12:33:17Z;2015-12-22T15:13:07Z
+615;MDU6SXNzdWUxMjM4OTIwOTA=;{'totalCount': 1};This & Object Prototypes: Chp 5 - Objects: Typo;2015-12-25T17:45:32Z;2015-12-25T22:06:37Z
+616;MDU6SXNzdWUxMjM5Nzk0OTI=;{'totalCount': 4};Tilde is one's complement;2015-12-27T13:50:23Z;
+617;MDU6SXNzdWUxMjM5ODE3NDI=;{'totalCount': 1};missing 'return' in hard bindings section?;2015-12-27T14:40:00Z;2015-12-28T01:16:26Z
+618;MDU6SXNzdWUxMjQwMzU0ODU=;{'totalCount': 2};this & prototypes, chapter 5 #Setting & Shadowing Properties;2015-12-28T08:39:46Z;2015-12-28T13:08:15Z
+620;MDU6SXNzdWUxMjQ2MDc4NDU=;{'totalCount': 2};Double negation - is it safe?;2016-01-02T19:35:33Z;2016-02-13T15:03:27Z
+621;MDU6SXNzdWUxMjQ2MTI2Njk=;{'totalCount': 7};"""this & Object Prototypes"" chapter 5:Prototypes [[Prototype]] section";2016-01-02T21:37:42Z;2016-01-05T23:23:09Z
+624;MDU6SXNzdWUxMjUzMDM3Njc=;{'totalCount': 5};json-safe about deep copy;2016-01-07T01:43:15Z;2016-01-07T21:17:20Z
+629;MDU6SXNzdWUxMjU3NTA4OTE=;{'totalCount': 2};Async & Performance, Chapter 4, Interleaving ;2016-01-09T10:17:44Z;2016-01-14T18:46:40Z
+634;MDU6SXNzdWUxMjY1NTE2MjQ=;{'totalCount': 3};"object oriented or not! at the end of the day. this & Object Prototypes,ch5,""class""";2016-01-14T00:53:42Z;2016-01-14T19:30:41Z
+635;MDU6SXNzdWUxMjY2Nzg3OTI=;{'totalCount': 4};Have you thought of using GitBook?;2016-01-14T15:32:48Z;2016-01-14T16:25:48Z
+636;MDU6SXNzdWUxMjcwMzQ0NzQ=;{'totalCount': 1};es6 export keyword correction;2016-01-16T16:23:23Z;2016-01-16T17:13:13Z
+637;MDU6SXNzdWUxMjcwODUzMzY=;{'totalCount': 1};"""this & Object Prototypes"" - ch6 Behavior Delegation - Minor grammatical error";2016-01-17T09:59:35Z;
+638;MDU6SXNzdWUxMjcxNTkwMzQ=;{'totalCount': 1};Async & Performance - ch2 - Timeoutify callback arguments;2016-01-18T05:58:28Z;
+639;MDU6SXNzdWUxMjcyNzU3Njc=;{'totalCount': 2};this & object prototypes - ch4 - DNA metaphor;2016-01-18T17:32:16Z;2016-02-22T20:13:27Z
+640;MDU6SXNzdWUxMjc2NDQzNjU=;{'totalCount': 2};Scope & Closures - Chapter 3 - Try Catch scope;2016-01-20T09:53:02Z;2016-02-13T15:01:33Z
+641;MDU6SXNzdWUxMjc5NjAxMjg=;{'totalCount': 2};Scope & Closures - LHS look-ups;2016-01-21T16:14:29Z;2016-01-21T16:33:21Z
+645;MDU6SXNzdWUxMjgzOTM0Mjg=;{'totalCount': 2};es6 & beyond: ch4 - are examples from promises + generators equivalent?;2016-01-24T12:33:26Z;2016-02-13T14:56:01Z
+646;MDU6SXNzdWUxMjg3MTQ4MDE=;{'totalCount': 3};This & Object Prototypes;2016-01-26T03:40:31Z;2016-01-26T04:20:46Z
+647;MDU6SXNzdWUxMjg4NTE2Mzg=;{'totalCount': 2};"""up & going"": Chapter 2: introducing the concept of methods";2016-01-26T15:19:39Z;2019-12-11T15:20:53Z
+649;MDU6SXNzdWUxMzAxMDYzODA=;{'totalCount': 1};"""this & Object Prototypes"" - Chapter 5 (Setting & Shadowing Properties)";2016-01-31T09:19:41Z;2016-01-31T14:46:18Z
+650;MDU6SXNzdWUxMzAyMTI1MjA=;{'totalCount': 1};Object oriented design pattern in JS and different perspectives;2016-01-31T23:25:09Z;2016-02-13T15:15:44Z
+653;MDU6SXNzdWUxMzEyMDA5NDQ=;{'totalCount': 1};"""es6 & beyond"": regex clarification";2016-02-04T00:33:42Z;
+654;MDU6SXNzdWUxMzE2MTA3NzI=;{'totalCount': 2};"""Scope & Closures"": Chapter 3: `let`";2016-02-05T10:47:51Z;2016-02-13T15:00:10Z
+655;MDU6SXNzdWUxMzE3NDYxMjk=;{'totalCount': 2};'Scopes & Closures': Appendix C - discussion of this using fat arrow;2016-02-05T20:21:54Z;2020-03-03T05:15:54Z
+656;MDU6SXNzdWUxMzE4MjQ1Mjg=;{'totalCount': 4};In async & performance - Chapter 3, apply/call with 'null' as context.;2016-02-06T05:43:57Z;2016-02-07T04:21:17Z
+657;MDU6SXNzdWUxMzE4OTk1MzM=;{'totalCount': 2};ES6 & Beyond - Chapter 2 - Number Literals;2016-02-06T21:00:32Z;2016-02-07T04:23:16Z
+658;MDU6SXNzdWUxMzIyMjI1ODA=;{'totalCount': 4};types & grammar ch3 > Object Wrapper Gotchas;2016-02-08T18:30:23Z;2016-02-08T21:43:32Z
+660;MDU6SXNzdWUxMzM0MzQwNzc=;{'totalCount': 1};"""this & Object Prototypes"" - Seal section - Minor grammatical error";2016-02-13T13:49:47Z;2016-02-13T14:58:44Z
+664;MDU6SXNzdWUxMzM3OTM2NjI=;{'totalCount': 1};"""Scopes & closures"": ch5, Future modules - Wrong keyword";2016-02-15T19:06:19Z;2016-02-15T20:05:43Z
+671;MDU6SXNzdWUxMzU0NDcwNjM=;{'totalCount': 1};IIFE's namespace?;2016-02-22T15:11:50Z;2016-04-23T01:15:21Z
+674;MDU6SXNzdWUxMzc0NTMyNzA=;{'totalCount': 1};Translate this serie to other languages;2016-03-01T03:08:05Z;2016-03-01T07:02:58Z
+675;MDU6SXNzdWUxMzc1NzY3OTM=;{'totalCount': 3};"""types & grammar"": Pre-ES6 Number.isSafeInteger(..) polyfill - Number.MAX_SAFE_INTEGER is also introduced ES6";2016-03-01T13:39:47Z;
+680;MDU6SXNzdWUxMzg0OTY0Njk=;{'totalCount': 1};Receiving support? ;2016-03-04T15:02:40Z;2016-07-28T13:37:33Z
+681;MDU6SXNzdWUxMzg2NDYwNzE=;{'totalCount': 2};May I publish a translated version of these books on other blogs? (Of course it will link back to this repo);2016-03-05T05:03:37Z;2016-03-05T15:26:25Z
+682;MDU6SXNzdWUxMzk1MzQwNzI=;{'totalCount': 2};Scope & Closures;2016-03-09T10:16:36Z;2016-04-27T22:59:58Z
+683;MDU6SXNzdWUxMzk3MDE0MDU=;{'totalCount': 2};Loops & Closures;2016-03-09T21:09:18Z;2016-04-27T22:59:28Z
+686;MDU6SXNzdWUxNDA0ODc4NTQ=;{'totalCount': 2};Distinguish declaration vs. expression functions.;2016-03-13T14:00:19Z;2016-03-18T12:52:51Z
+689;MDU6SXNzdWUxNDE2NDYzMjI=;{'totalCount': 2};Chapter 4: Hoisting changes across javascript engine;2016-03-17T17:10:41Z;2016-04-23T01:09:37Z
+692;MDU6SXNzdWUxNDE4NDQ4MTI=;{'totalCount': 1};Loops and Closures with let keyword.;2016-03-18T11:45:52Z;2016-03-18T15:55:50Z
+693;MDU6SXNzdWUxNDE5MTA0NTk=;{'totalCount': 10};Problem with closures.;2016-03-18T16:09:01Z;2016-03-19T04:07:13Z
+699;MDU6SXNzdWUxNDI4MTQxNTg=;{'totalCount': 1};"""this & obj prototypes "" - ch 4 : Suggestion. comments in code snippets to improve clarity";2016-03-22T23:54:27Z;
+701;MDU6SXNzdWUxNDMyNDkxMjY=;{'totalCount': 1};`arguments` spoken as if it was an array;2016-03-24T13:43:19Z;2016-04-23T04:55:04Z
+702;MDU6SXNzdWUxNDQzMDc2NzA=;{'totalCount': 8};"""Scopes & closures"": apA, Dynamic Scope example goes wrong!";2016-03-29T15:52:33Z;2016-03-30T02:09:09Z
+703;MDU6SXNzdWUxNDQ0MDU0MTU=;{'totalCount': 4};'this' in JS and 'this' in C++ are exactly the same;2016-03-29T22:16:30Z;2016-03-30T06:34:43Z
+704;MDU6SXNzdWUxNDQ2NDAyMTg=;{'totalCount': 2};"""up & going"": Chapter 2: Truthy & Falsy";2016-03-30T16:08:29Z;2016-03-30T16:21:49Z
+705;MDU6SXNzdWUxNDQ3NTM5Mzg=;{'totalCount': 1};"`.constructor` not restored in Chapter 5 : ""(Prototypal) Inheritance""";2016-03-31T00:14:03Z;
+706;MDU6SXNzdWUxNDQ3ODU1MTg=;{'totalCount': 6};You program with primitives like objects, because of the dot operator ...;2016-03-31T04:21:18Z;2016-03-31T17:33:58Z
+711;MDU6SXNzdWUxNDcyNTcwMDk=;{'totalCount': 12};Block scoping for try/catch seems incorrect;2016-04-10T19:46:55Z;2016-04-13T14:50:17Z
+719;MDU6SXNzdWUxNTA3NjQ3MjY=;{'totalCount': 9};Is this series had some authorized translation version?;2016-04-25T06:40:59Z;2016-04-27T22:58:55Z
+720;MDU6SXNzdWUxNTEyNzM2NjE=;{'totalCount': 2};"""this & object prototypes"": Chapter 2 'Implicitly Lost' question";2016-04-27T00:57:53Z;2016-04-27T01:24:35Z
+721;MDU6SXNzdWUxNTEyOTYxMzI=;{'totalCount': 2};"""this & object prototypes"": ch2, Could it possible to avoid using self and arrow-function here?";2016-04-27T04:24:13Z;2016-04-27T06:55:28Z
+723;MDU6SXNzdWUxNTE2MjU2MzE=;{'totalCount': 4};Human brain has been always worked asynch.;2016-04-28T12:10:08Z;2016-04-30T12:54:44Z
+725;MDU6SXNzdWUxNTMxNzczNTc=;{'totalCount': 1};Gitbook?;2016-05-05T06:41:33Z;2016-05-05T12:00:31Z
+726;MDU6SXNzdWUxNTM2ODI3NTE=;{'totalCount': 6};Your cheese burger metaphor for promise API is... lacking some points.;2016-05-08T23:11:39Z;2016-05-09T10:07:51Z
+727;MDU6SXNzdWUxNTM2OTM4MTk=;{'totalCount': 7};"""es6 & beyond"": ch3, default exports";2016-05-09T02:42:04Z;2016-05-16T20:24:38Z
+728;MDU6SXNzdWUxNTQyNDEzNTE=;{'totalCount': 3};"""async & performance"" and ""es6 & beyond"": update ""TCO""";2016-05-11T13:18:09Z;
+730;MDU6SXNzdWUxNTQ4NzM2NzE=;{'totalCount': 2};Garbage Collection;2016-05-14T20:17:46Z;2016-07-28T13:34:04Z
+732;MDU6SXNzdWUxNTUwMTgyMDM=;{'totalCount': 1};"""ES6 & Beyond"", ch3, section ""Modules -> Moving forward"" - unclear sentence";2016-05-16T12:18:38Z;
+733;MDU6SXNzdWUxNTUwNzAwNjM=;{'totalCount': 1};How many phones can I afford Practice solution has a logic issue.;2016-05-16T16:45:27Z;2016-05-16T16:56:03Z
+734;MDU6SXNzdWUxNTUyMjg3MzQ=;{'totalCount': 4};"""ES6 & Beyond"", ch4, section ""Review"" - possible typo";2016-05-17T10:41:13Z;
+737;MDU6SXNzdWUxNTU2NDY1MzU=;{'totalCount': 1};"""Async & Performance"", ch3, Promise.race([ .. ]) -> Not clear about reject status";2016-05-19T03:20:32Z;2016-07-28T13:33:51Z
+738;MDU6SXNzdWUxNTU3MTY3NjM=;{'totalCount': 4};"""this & Object Prototypes"", ch2, default binding example";2016-05-19T11:42:22Z;2016-05-19T13:03:36Z
+742;MDU6SXNzdWUxNTY2NDIyMDM=;{'totalCount': 1};this & object prototypes/ch5.md;2016-05-25T01:05:04Z;2016-06-28T07:31:13Z
+743;MDU6SXNzdWUxNTY2NjY1NDY=;{'totalCount': 5};ES 6 & beyond, Temporal dead zone;2016-05-25T05:30:49Z;2016-05-26T04:53:39Z
+744;MDU6SXNzdWUxNTY3MTE4MDQ=;{'totalCount': 3};When synchronous is trustable?;2016-05-25T10:07:36Z;2016-07-28T13:35:34Z
+746;MDU6SXNzdWUxNTcwODQ2NzI=;{'totalCount': 1};Using setPrototypeOf to change super;2016-05-26T21:36:16Z;2016-07-28T13:33:24Z
+747;MDU6SXNzdWUxNTczMTE5Nzk=;{'totalCount': 1};Small grammatical error;2016-05-28T00:43:50Z;2016-06-28T07:49:51Z
+754;MDU6SXNzdWUxNTg1MDc0NTQ=;{'totalCount': 2};Blocked scoped function;2016-06-04T14:37:41Z;2016-06-04T17:32:30Z
+756;MDU6SXNzdWUxNTkxMzgzNzE=;{'totalCount': 1};Wrong comment in es6 & beyond.;2016-06-08T11:11:56Z;2016-06-28T07:51:32Z
+757;MDU6SXNzdWUxNTk1NjcxMzQ=;{'totalCount': 3};"samples of  ""regexp sticky position"" are broken";2016-06-10T06:27:47Z;2016-06-28T07:53:37Z
+759;MDU6SXNzdWUxNTk2ODQ1ODc=;{'totalCount': 5};Dynamic typing vs Weak typing;2016-06-10T17:34:58Z;2016-06-11T12:55:45Z
+760;MDU6SXNzdWUxNTk3MTAyMDE=;{'totalCount': 1};Generators yield in finally;2016-06-10T19:55:00Z;2016-07-28T13:31:59Z
+762;MDU6SXNzdWUxNjAwNDU1MTU=;{'totalCount': 3};ES6 & Beyond - Chapter 5: Collections - time complexity of Map & Set operations?;2016-06-13T21:09:06Z;2016-06-14T00:15:21Z
+765;MDU6SXNzdWUxNjA0NjQ3NDg=;{'totalCount': 9};ES6 & Beyond, this in arrow function;2016-06-15T16:21:53Z;2016-06-16T12:48:18Z
+766;MDU6SXNzdWUxNjA1NjM4NjE=;{'totalCount': 5};this & Object Prototypes chapter 2;2016-06-16T02:20:47Z;2016-06-17T17:34:12Z
+767;MDU6SXNzdWUxNjEwNTY0NzA=;{'totalCount': 37};`let` hoisting?;2016-06-19T04:50:00Z;2016-06-23T07:16:06Z
+770;MDU6SXNzdWUxNjE1ODMzMzE=;{'totalCount': 4};a question;2016-06-22T02:54:14Z;2016-06-22T04:05:19Z
+771;MDU6SXNzdWUxNjIyNzI5MTY=;{'totalCount': 2};Es6 & Beyond, template literal;2016-06-25T09:32:47Z;2016-06-28T07:55:07Z
+772;MDU6SXNzdWUxNjIyNzMyNjI=;{'totalCount': 3};ES6 & Beyond, Spread/Rest;2016-06-25T09:43:42Z;2016-06-28T07:57:04Z
+773;MDU6SXNzdWUxNjIzMzc5MDE=;{'totalCount': 1};Hebrew translation.;2016-06-26T17:30:02Z;2016-07-28T13:36:57Z
+774;MDU6SXNzdWUxNjIzOTA0Mjk=;{'totalCount': 1};"""Predicate"" as a reference to 0x, 0b, 0o in Types & Grammar ch2.md";2016-06-27T07:35:46Z;2016-07-28T13:30:26Z
+775;MDU6SXNzdWUxNjI0MTYxMDI=;{'totalCount': 1};Types & Grammar, Chapter 5 (typo);2016-06-27T10:02:55Z;2016-06-27T10:15:24Z
+781;MDU6SXNzdWUxNjI3Njg4ODY=;{'totalCount': 1};"scope & closures/ch5 - missing foo();?";2016-06-28T19:40:50Z;2016-07-01T10:21:43Z
+782;MDU6SXNzdWUxNjI4NDU0ODI=;{'totalCount': 3};question regarding 'const';2016-06-29T05:45:10Z;2016-06-30T08:25:04Z
+783;MDU6SXNzdWUxNjM1MDQwMTA=;{'totalCount': 1};"Add a ""next"" link at the end of each section";2016-07-02T05:57:21Z;2016-07-28T13:26:30Z
+786;MDU6SXNzdWUxNjM1NTU2Nzc=;{'totalCount': 6};Class inheritance does not imply copies;2016-07-03T10:04:55Z;2016-07-12T13:38:06Z
+788;MDU6SXNzdWUxNjM2OTE2MDg=;{'totalCount': 2};Destructuring;2016-07-04T14:47:36Z;2016-07-28T13:24:54Z
+789;MDU6SXNzdWUxNjM4Njc2MDk=;{'totalCount': 1};"""ES7"" should be changed to a more generic term";2016-07-05T14:42:10Z;2016-07-05T15:44:06Z
+790;MDU6SXNzdWUxNjQxMzA2MjE=;{'totalCount': 1};Feedback on this & object prototypes ch. 1;2016-07-06T17:28:40Z;2016-07-28T13:26:50Z
+791;MDU6SXNzdWUxNjQxNTM1Mjg=;{'totalCount': 1};"Scope & Closures - Modern Modules - deps[i] = modules[deps[i]]; ?";2016-07-06T19:21:43Z;2016-07-28T13:23:28Z
+792;MDU6SXNzdWUxNjQ1MDc2Mjk=;{'totalCount': 2};Scope & Closures LHS/RHS;2016-07-08T11:00:04Z;2016-07-08T11:00:09Z
+793;MDU6SXNzdWUxNjQ5OTcwNDE=;{'totalCount': 0};es6 & beyond: ch2, fix inline code snippet to be less confusing;2016-07-12T05:28:53Z;
+796;MDU6SXNzdWUxNjUyMDEyNDQ=;{'totalCount': 1};feedback: this & object prototypes > ch 4 > polymorphism;2016-07-12T23:03:22Z;2016-07-28T13:22:50Z
+798;MDU6SXNzdWUxNjU5MjIzNzg=;{'totalCount': 5};[this & Object Prototypes] Ch5: Prototypes;2016-07-16T09:55:19Z;2016-07-16T15:01:49Z
+799;MDU6SXNzdWUxNjU5NTA4Nzk=;{'totalCount': 1};'this & Object Prototypes' Chap 2 minor code fix in 'lexical this' example;2016-07-16T22:43:31Z;2016-07-28T13:22:32Z
+800;MDU6SXNzdWUxNjU5NjUwMTQ=;{'totalCount': 1};'Scopes & Closure': Future Module example incorrect;2016-07-17T07:28:44Z;2016-07-17T10:23:49Z
+803;MDU6SXNzdWUxNjY2MDc1MjA=;{'totalCount': 0};Getting more done in GitHub with ZenHub;2016-07-20T15:16:53Z;2016-07-20T15:17:36Z
+806;MDU6SXNzdWUxNjY5NjQwNjk=;{'totalCount': 4};about translate;2016-07-22T03:35:31Z;2016-07-28T13:36:29Z
+808;MDU6SXNzdWUxNjcyMzM4MDg=;{'totalCount': 2};"explain ""even if it was setTimeout(.., 0)""";2016-07-24T13:36:31Z;2016-07-24T18:14:32Z
+809;MDU6SXNzdWUxNjcyNTQ3ODY=;{'totalCount': 4};On chapter 5 page 50. Example code don't show me nothing;2016-07-24T21:13:30Z;2016-07-25T19:06:32Z
+815;MDU6SXNzdWUxNjc3NDcwNzg=;{'totalCount': 3};why `onlyOne` should avoid NaN?;2016-07-27T01:11:39Z;2016-07-28T13:22:01Z
+816;MDU6SXNzdWUxNjc4MDc3NTc=;{'totalCount': 5};Fibonacci iterator example;2016-07-27T09:16:03Z;2016-07-28T13:21:34Z
+817;MDU6SXNzdWUxNjc5OTExMzI=;{'totalCount': 1};wront example in: Implicitly: * --> Boolean;2016-07-28T01:03:56Z;2016-07-28T03:07:31Z
+818;MDU6SXNzdWUxNjgwMDcyMjk=;{'totalCount': 1};Class and method decorators;2016-07-28T03:36:43Z;2016-07-28T05:11:08Z
+819;MDU6SXNzdWUxNjgwMDc3Njk=;{'totalCount': 1};Plans for new book?;2016-07-28T03:42:41Z;2016-07-28T05:08:14Z
+820;MDU6SXNzdWUxNjgxMzA2MDU=;{'totalCount': 2};[question] What is this refer to when function invoked like `(obj.func)(arg)`;2016-07-28T15:50:41Z;2016-07-28T19:49:07Z
+821;MDU6SXNzdWUxNjgzOTg3NTE=;{'totalCount': 2};Async & Performance - ch1 - Event Loop;2016-07-29T19:39:18Z;2016-07-30T12:37:36Z
+822;MDU6SXNzdWUxNjg0MTQyODg=;{'totalCount': 3};"""up & going"": Chapter 2: typeof of null";2016-07-29T21:05:45Z;2016-08-01T13:26:20Z
+823;MDU6SXNzdWUxNjg0MjQ4ODM=;{'totalCount': 1};This & prototype inheritance - Chapter 1 - Grammar issue;2016-07-29T22:12:18Z;
+824;MDU6SXNzdWUxNjg0NzAzNTU=;{'totalCount': 2};"Up & Going, ch 2, section ""Objects"" -- possible incorrect object code snippet";2016-07-30T14:37:17Z;2016-07-30T19:30:25Z
+825;MDU6SXNzdWUxNjg0OTk3NjM=;{'totalCount': 2};Module and OLOO usage;2016-07-31T03:42:19Z;2016-07-31T04:54:16Z
+828;MDU6SXNzdWUxNjg2Mjc2ODY=;{'totalCount': 1};"""this & Object Prototypes  Chapter 1: this Or That?"" possible typo?";2016-08-01T11:46:53Z;2016-08-01T13:26:06Z
+831;MDU6SXNzdWUxNjk2MDM4ODE=;{'totalCount': 2};Is GitBook version up-to date ?;2016-08-05T13:11:23Z;2016-08-12T22:47:47Z
+835;MDU6SXNzdWUxNzA3NTU5MDI=;{'totalCount': 1};Boolean coercion misleading;2016-08-11T21:50:02Z;2016-08-31T19:22:21Z
+836;MDU6SXNzdWUxNzA5NTYwNTQ=;{'totalCount': 12};ECMAScript editors: JS classes are not fake;2016-08-12T20:47:03Z;
+844;MDU6SXNzdWUxNzMzODY0MDE=;{'totalCount': 1};Chapter 6 is Utter Bollocks;2016-08-26T07:23:01Z;2016-08-26T12:28:28Z
+845;MDU6SXNzdWUxNzM0NDIwMDk=;{'totalCount': 15};"Up & Going - Chapter 2 - Values & Types: Should ""function"" be included in the summary list of types?";2016-08-26T12:28:50Z;2019-12-11T15:19:58Z
+846;MDU6SXNzdWUxNzM1MDAxMDk=;{'totalCount': 1};Up & Going - Chapter 2 - Prototypes: demonstrate the prototype linkage from bar to foo;2016-08-26T17:11:01Z;2016-09-08T22:58:55Z
+849;MDU6SXNzdWUxNzQ4MjA3NTc=;{'totalCount': 3};Template Literals;2016-09-02T18:27:10Z;2016-09-08T22:58:16Z
+850;MDU6SXNzdWUxNzQ5ODMyNzc=;{'totalCount': 1};Types & Grammar Ch 3 - RegExp.prototype is an object as of ES6;2016-09-05T02:06:16Z;
+855;MDU6SXNzdWUxNzU4ODQ3ODM=;{'totalCount': 0};ES6 & Beyond: default params truncate function length;2016-09-08T22:51:23Z;
+856;MDU6SXNzdWUxNzU4ODUyMTA=;{'totalCount': 0};ES6 & Beyond: default params have `this`, `arguments`, etc;2016-09-08T22:54:07Z;
+857;MDU6SXNzdWUxNzU4ODU0NTE=;{'totalCount': 0};ES6 & Beyond: figure out default function closure over params/body-vars;2016-09-08T22:55:47Z;
+859;MDU6SXNzdWUxNzYzMDYxMzI=;{'totalCount': 2};"Links in the readme's ""Table of content"" incorrects";2016-09-12T06:56:45Z;2016-09-13T01:43:24Z
+860;MDU6SXNzdWUxNzYzNTU0NzI=;{'totalCount': 4};Free Online Reading book Link's are not working;2016-09-12T11:44:07Z;2016-09-13T01:43:32Z
+861;MDU6SXNzdWUxNzYzOTQ5NTQ=;{'totalCount': 4};"About the note on ""dunder""";2016-09-12T14:46:45Z;2016-09-12T16:57:18Z
+863;MDU6SXNzdWUxNzcwMjkwMjM=;{'totalCount': 1};Types & Grammar Ch 4 - Abstract Relational Comparison;2016-09-14T21:41:13Z;2016-09-14T21:51:39Z
+864;MDU6SXNzdWUxNzcxNDE2OTA=;{'totalCount': 1};"this&Object Prototypes; Chapter3: Objects //Reference Error?";2016-09-15T10:29:05Z;2016-09-15T10:30:16Z
+866;MDU6SXNzdWUxNzgwMTQxNzY=;{'totalCount': 16};Up & going equality 3 simple rules ;2016-09-20T09:45:45Z;2019-12-11T15:18:33Z
+867;MDU6SXNzdWUxNzgwMzM1MTQ=;{'totalCount': 4};Up & Going Chapter 1: small typo in Constants example code;2016-09-20T11:23:53Z;2019-12-11T15:16:58Z
+868;MDU6SXNzdWUxNzkwNDY3MDg=;{'totalCount': 2};Possible codeblock issue. YDKJS: Async & Performance>Ch1: Asynchrony: Now & Later;2016-09-24T19:12:03Z;2016-09-24T19:35:33Z
+869;MDU6SXNzdWUxNzkzNzcxNDM=;{'totalCount': 5};Hello, getify;2016-09-27T01:33:26Z;2016-10-07T15:24:17Z
+870;MDU6SXNzdWUxNzk3NDg5Njg=;{'totalCount': 5};Up & Going: Clarification between coercion and casting;2016-09-28T11:38:09Z;2016-10-07T15:23:35Z
+872;MDU6SXNzdWUxNzk5NTE5MTM=;{'totalCount': 3};scope & closures / ch4;2016-09-29T04:48:05Z;2016-10-07T15:24:52Z
+874;MDU6SXNzdWUxODA1MzkwMDU=;{'totalCount': 1};Types and Grammer > Chapter 4 > Abstract Relational Comparison;2016-10-02T22:13:41Z;2016-10-02T22:29:14Z
+875;MDU6SXNzdWUxODA4ODM4MjE=;{'totalCount': 2};this & object prototypes: inheritance or polymorphism;2016-10-04T12:49:28Z;2016-10-07T15:22:50Z
+876;MDU6SXNzdWUxODEyODkxMjA=;{'totalCount': 7};Async & Performance Ch 3 Promise Scheduling Quirks;2016-10-05T23:16:09Z;2016-10-07T15:25:52Z
+877;MDU6SXNzdWUxODE1MDU2NTM=;{'totalCount': 7};this & Object Prototypes - Chapter 4: Polymorphism definition;2016-10-06T19:34:36Z;2016-10-07T15:19:27Z
+878;MDU6SXNzdWUxODE1MjIyNzk=;{'totalCount': 2};Part 3: this & Object Prototypes -> Chapter 3: Contents section;2016-10-06T20:51:22Z;2016-10-06T21:58:48Z
+879;MDU6SXNzdWUxODIwNjE1MTg=;{'totalCount': 2};Lookup of eval is different with webpack;2016-10-10T16:43:46Z;2016-11-08T14:13:27Z
+880;MDU6SXNzdWUxODMyNDMzMzQ=;{'totalCount': 4};Part 3: this & Object Prototypes -> Appendix A: ES6 class -> Class Gotchas;2016-10-16T01:35:46Z;2016-10-16T16:50:13Z
+881;MDU6SXNzdWUxODMyNTU0MTE=;{'totalCount': 2};this & prototypes, chapter 5 #Setting & Shadowing Properties;2016-10-16T08:20:22Z;
+882;MDU6SXNzdWUxODQxMzE1OTE=;{'totalCount': 7};"""async & performance"" event loop & job queue";2016-10-20T04:18:20Z;2016-10-22T02:49:39Z
+886;MDU6SXNzdWUxODQ1NDY1MzU=;{'totalCount': 2};Types & Grammer - Chapter 2 - Small Decimal Values;2016-10-21T18:58:22Z;
+888;MDU6SXNzdWUxODQ2NTYyOTI=;{'totalCount': 2};async & performance || 9/21;2016-10-22T21:52:45Z;2019-08-28T16:57:21Z
+890;MDU6SXNzdWUxODQ2ODI5NjQ=;{'totalCount': 2};add a toc/index?;2016-10-23T10:39:18Z;2016-11-08T14:15:52Z
+897;MDU6SXNzdWUxODg4NzUxNzM=;{'totalCount': 1};You Don't Know JS: Async & Performance Chapter 4: Generators Thunks;2016-11-11T23:47:34Z;
+900;MDU6SXNzdWUxODk3NDY4MzQ=;{'totalCount': 6};Chinese translation is complete.;2016-11-16T15:53:40Z;2017-08-15T15:17:41Z
+902;MDU6SXNzdWUxOTA1NTI3ODE=;{'totalCount': 2};ES6 & Beyond - Chapter 3: extending Natives;2016-11-20T11:31:02Z;2016-11-21T00:03:35Z
+910;MDU6SXNzdWUxOTE4NTk2NzU=;{'totalCount': 2};Chapter 5 & 6  from this & object prototypes;2016-11-27T12:49:48Z;2019-08-28T16:57:00Z
+913;MDU6SXNzdWUxOTMyNjkzMzY=;{'totalCount': 2};I want to translate your book into chinese in my repository;2016-12-03T06:16:45Z;2019-08-28T16:56:33Z
+917;MDU6SXNzdWUxOTU1MjYyMTQ=;{'totalCount': 8};Enable Project Pages?;2016-12-14T13:07:18Z;2016-12-14T17:06:51Z
+918;MDU6SXNzdWUxOTYyNDYyODU=;{'totalCount': 1};"""types & grammar"": Page 94, code error. ";2016-12-17T22:24:56Z;2016-12-17T22:57:56Z
+921;MDU6SXNzdWUxOTY1ODk0MzI=;{'totalCount': 1};You Don't Know JS: Types & Grammar Chapter 2: Values;2016-12-20T05:27:04Z;
+922;MDU6SXNzdWUxOTY3MTk1MjA=;{'totalCount': 0};"""types & grammar"": fix inaccuracy in ch5 about completion values";2016-12-20T16:37:01Z;
+923;MDU6SXNzdWUxOTY5MDU3MzQ=;{'totalCount': 1};this & object prototypes Appendix A: ES6 class;2016-12-21T11:08:32Z;2016-12-21T14:23:43Z
+924;MDU6SXNzdWUxOTc3MjQ4NDE=;{'totalCount': 1};Async & Performance: ch. 3 confusing example result in Promise Scheduling Quirks;2016-12-27T16:17:30Z;2017-08-15T15:52:29Z
+926;MDU6SXNzdWUxOTgxNTgwMjE=;{'totalCount': 2};Scope & Closures / Chapter 3: Function vs. Block Scope / let Loops;2016-12-30T15:09:58Z;2017-08-15T15:15:19Z
+930;MDU6SXNzdWUxOTg4MTg3NTI=;{'totalCount': 1};java super constructor is not automatically called;2017-01-04T21:45:20Z;
+932;MDU6SXNzdWUxOTkxNDQ2ODU=;{'totalCount': 7};this & Object Prototypes: Chapter 1: Its Scope;2017-01-06T08:04:18Z;2017-01-10T18:28:47Z
+936;MDU6SXNzdWUxOTk3NTY5Mjg=;{'totalCount': 4};Making *You Don't Know JS* easier to read;2017-01-10T08:09:56Z;
+937;MDU6SXNzdWUxOTk4MTExMjI=;{'totalCount': 1};help to translate to Chinese;2017-01-10T12:41:19Z;2017-01-10T12:54:39Z
+938;MDU6SXNzdWUyMDAyNjkwNzQ=;{'totalCount': 1};Types & Grammar chapter 4: Coercion;2017-01-12T03:20:22Z;2017-01-12T04:06:05Z
+939;MDU6SXNzdWUyMDAzMDgyNzE=;{'totalCount': 1};"You Don't Know JS: this & Object Prototypes - ""writeable:false"" is confusing";2017-01-12T08:49:02Z;2017-01-12T13:56:37Z
+945;MDU6SXNzdWUyMDA3OTc2MTg=;{'totalCount': 1};this & Obj Prototypes, Ch 3, Types: 'complex primitives' is an unnecessary term;2017-01-14T11:22:04Z;2017-08-15T15:03:19Z
+947;MDU6SXNzdWUyMDExODM5ODI=;{'totalCount': 2};You-Dont-Know-JS/this & object prototypes/apA.md, Uncaught SyntaxError: 'super' keyword unexpected here;2017-01-17T06:06:12Z;2017-01-17T06:17:59Z
+948;MDU6SXNzdWUyMDEyMTgwMTI=;{'totalCount': 3};"You Don't Know JS: Types & Grammar - ""What about &&"" Code example not clear enough";2017-01-17T09:33:57Z;
+949;MDU6SXNzdWUyMDE3NjU0MzM=;{'totalCount': 0};investigate static generics and see if they need inclusion;2017-01-19T05:02:20Z;
+950;MDU6SXNzdWUyMDIzMjQ1OTY=;{'totalCount': 2};'this & Object Prototypes', Ch4 - Parasitic Inheritance - new operator on constructor function;2017-01-21T16:22:56Z;2017-01-21T21:49:08Z
+951;MDU6SXNzdWUyMDM3OTUwMzQ=;{'totalCount': 6};"""this & object prototypes"" - shadowing properties and setter in object literal";2017-01-28T08:16:14Z;2017-01-28T11:52:55Z
+953;MDU6SXNzdWUyMDQ2NTc1MDA=;{'totalCount': 1};"""this & object prototypes"": Object.setPrototypeOf performance";2017-02-01T17:56:55Z;2017-08-15T15:01:16Z
+954;MDU6SXNzdWUyMDQ4NTk4NzI=;{'totalCount': 0};"3 this & object prototypes apA ""Class Gotchas"" bug";2017-02-02T12:29:50Z;2017-08-15T15:00:41Z
+955;MDU6SXNzdWUyMDUzNDI0OTk=;{'totalCount': 2};4 types & grammar ch5 Operator Precedence example bug;2017-02-04T11:31:41Z;2017-08-15T15:00:17Z
+956;MDU6SXNzdWUyMDU0MzczNTk=;{'totalCount': 3};"2 - Into JavaScript: ""Modules"" should be named ""Factory""";2017-02-05T16:56:12Z;2019-08-28T16:56:13Z
+958;MDU6SXNzdWUyMDY4MzM5MTI=;{'totalCount': 3};Up and Going: Chapter 1, Practice question;2017-02-10T16:01:53Z;2017-02-13T19:30:24Z
+959;MDU6SXNzdWUyMDY4MzYzMTI=;{'totalCount': 1};"""scope & closures""  apB,   need to be update";2017-02-10T16:10:39Z;2017-08-15T14:56:58Z
+960;MDU6SXNzdWUyMDczMDQ3Mjg=;{'totalCount': 5};Implicit Example of Shadowing;2017-02-13T18:45:46Z;2017-02-14T14:04:00Z
+961;MDU6SXNzdWUyMDc2OTA1NzY=;{'totalCount': 5};async & performance/ch3 - Promise: a confusing part - reject vs throw not covered;2017-02-15T02:10:46Z;2017-08-15T14:56:35Z
+962;MDU6SXNzdWUyMDc3MTY0NDU=;{'totalCount': 2};You Don't Know JS: Up & Going, Chapter 2: Into JavaScript, ;2017-02-15T06:08:03Z;2017-02-15T06:13:48Z
+963;MDU6SXNzdWUyMDc3MTkyNzU=;{'totalCount': 2};You Don't Know JS: Up & Going  Chapter 2: Into JavaScript, Built-In type Methods Section;2017-02-15T06:29:29Z;2017-08-15T14:55:33Z
+964;MDU6SXNzdWUyMDc5MzY2NjU=;{'totalCount': 2};Translate the book into Spanish;2017-02-15T21:40:53Z;2017-03-13T06:59:06Z
+966;MDU6SXNzdWUyMDg2MjAxMTk=;{'totalCount': 0};Promise code;2017-02-18T06:52:48Z;2017-02-18T06:56:05Z
+967;MDU6SXNzdWUyMDkzNzQ1NDE=;{'totalCount': 4};What's wrong with the example in Getter & Setter section in this & Object part?;2017-02-22T07:35:42Z;2017-02-22T17:28:32Z
+970;MDU6SXNzdWUyMDk4MjY3Njk=;{'totalCount': 3};"this & object prototypes Chapter 4: Potential inaccuracy on the concept of ""data structures""?";2017-02-23T17:17:53Z;2017-08-15T14:53:46Z
+972;MDU6SXNzdWUyMTAyMjAxOTE=;{'totalCount': 4};Type & Grammar Chapter 4: two arrays should be compared alphabetically in Abstract Relational Comparison;2017-02-25T08:13:31Z;2017-08-15T14:50:49Z
+973;MDU6SXNzdWUyMTA1NTk5MTA=;{'totalCount': 2};Potential improvement for the explanation of an example near the end of chapter 2 of Types & Grammar;2017-02-27T17:59:44Z;2019-08-28T16:55:52Z
+977;MDU6SXNzdWUyMTEyNDUyNTI=;{'totalCount': 9};Types & Grammar Chapter 4: onlyOne function;2017-03-01T23:45:36Z;2017-07-26T21:32:55Z
+978;MDU6SXNzdWUyMTE2ODI2MzE=;{'totalCount': 3};"Scope & Closures: Chapter 1 / Review(TL;DR) error ref ";2017-03-03T13:04:17Z;2017-03-03T15:26:31Z
+979;MDU6SXNzdWUyMTE2ODI4NDE=;{'totalCount': 1};What about branches translations?;2017-03-03T13:05:16Z;2017-03-03T15:07:59Z
+980;MDU6SXNzdWUyMTMyOTA0Nzc=;{'totalCount': 1};"""JavaScript never shares data across threads"" won't be true in ES2017";2017-03-10T09:38:07Z;2017-03-10T13:32:37Z
+981;MDU6SXNzdWUyMTM1MDAyOTU=;{'totalCount': 1};Scope & Closures: Chapter 2 Lexical Scope - possible confusing wording;2017-03-11T03:00:56Z;2017-08-15T14:16:59Z
+982;MDU6SXNzdWUyMTM1NDExNjQ=;{'totalCount': 5};this & Object Prototypes - Ch 2 (Add explanation regarding Function.call() inside Function.call() call);2017-03-11T16:53:35Z;2017-03-12T19:20:53Z
+983;MDU6SXNzdWUyMTM1ODkwNzA=;{'totalCount': 2};Up & Going: Transpiling- Confusing explaination of ternary operation;2017-03-12T07:48:00Z;2019-12-11T15:16:04Z
+986;MDU6SXNzdWUyMTM4ODY0ODY=;{'totalCount': 5};"Use of ""copy"" to describe class-based inheritance";2017-03-13T20:24:11Z;2017-03-18T16:06:35Z
+988;MDU6SXNzdWUyMTQxNTEyNzQ=;{'totalCount': 5};Chapter 2 - This Identifier - Global Variable Error;2017-03-14T17:38:37Z;2017-03-14T19:00:12Z
+991;MDU6SXNzdWUyMTUwNjc4NzQ=;{'totalCount': 4};Up&Going Expressions Example;2017-03-17T17:15:20Z;2017-08-15T14:11:03Z
+994;MDU6SXNzdWUyMTYyNjY4NzM=;{'totalCount': 1};Chinese translation for this book;2017-03-23T02:10:36Z;2017-03-23T02:22:39Z
+995;MDU6SXNzdWUyMTY4MzEzMTg=;{'totalCount': 0};you;2017-03-24T16:04:08Z;2017-03-24T16:04:51Z
+996;MDU6SXNzdWUyMTcwNTg1MDE=;{'totalCount': 12};You Don't Know JS: Async & Performance Chapter 4: A question on example in Interleaving;2017-03-26T15:11:28Z;2017-08-15T14:06:26Z
+997;MDU6SXNzdWUyMTcyMTIxNDY=;{'totalCount': 1};ES6 & Beyond: Chapter 2 (Block-scoped Functions just in strict mode) ;2017-03-27T11:11:44Z;2017-08-15T14:03:21Z
+998;MDU6SXNzdWUyMTcyMzI4MjE=;{'totalCount': 4};"""this & object prototypes"": Chapter 2 'Implicitly Lost' question about implicit assignments.";2017-03-27T12:41:30Z;2017-05-03T12:40:11Z
+999;MDU6SXNzdWUyMTcyNDg3MzM=;{'totalCount': 1};Main README.md file has broken relative links;2017-03-27T13:38:06Z;2017-03-27T14:16:09Z
+1001;MDU6SXNzdWUyMTc3ODQ0NzU=;{'totalCount': 1};markdown links broken;2017-03-29T07:12:23Z;2017-04-09T14:33:12Z
+1005;MDU6SXNzdWUyMjAxMTg5NTI=;{'totalCount': 2};"""scope & closures"": ch5,'Nitty Gritty' example is diffrent from chrome";2017-04-07T05:59:46Z;2017-04-07T07:26:31Z
+1012;MDU6SXNzdWUyMjIwNzk4NTI=;{'totalCount': 1};this And Object Prototypes / ch2.md: The bind polyfill cited from MDN will not work in case oThis is undefined;2017-04-17T07:05:35Z;2017-08-15T14:02:09Z
+1013;MDU6SXNzdWUyMjIzNTY2ODA=;{'totalCount': 2};Add some 'why' explanation to the 4 ways that `this` is set;2017-04-18T09:35:53Z;
+1015;MDU6SXNzdWUyMjM2MzAyMDU=;{'totalCount': 4};Async & Performance Chapter 3, Promises Where does the async execution happen in a Promise?;2017-04-23T11:42:04Z;2017-08-15T14:01:41Z
+1019;MDU6SXNzdWUyMjQ2OTcwNjM=;{'totalCount': 2};Why setTimeout?;2017-04-27T07:38:32Z;2017-08-15T14:00:24Z
+1021;MDU6SXNzdWUyMjU5MzAwNzc=;{'totalCount': 5};You Don't Know JS: Scope & Closures - Chapter 5 - Closure?;2017-05-03T09:35:53Z;2017-08-15T14:00:04Z
+1025;MDU6SXNzdWUyMjY4NTQyNDM=;{'totalCount': 2};When does Engine manage function expression's scopes?;2017-05-07T12:08:10Z;2017-05-08T06:19:39Z
+1031;MDU6SXNzdWUyMjg3MDc0ODQ=;{'totalCount': 2};"""this & object prototypes"": Chapter 2 'Explicit Binding' - question about explicit binding losing the ""this"" binding";2017-05-15T13:02:52Z;2017-08-15T13:58:57Z
+1032;MDU6SXNzdWUyMjg5OTEzMzI=;{'totalCount': 2};JS engine parts, scope and cluser chapter 2;2017-05-16T10:55:04Z;2017-08-15T13:56:44Z
+1033;MDU6SXNzdWUyMzAyNTEwNDI=;{'totalCount': 1};Translate to Chinese;2017-05-21T21:42:58Z;2017-05-22T01:47:40Z
+1036;MDU6SXNzdWUyMzEwMzk5MDE=;{'totalCount': 3};Chapter 2 Up and Going Nested Scopes example (regarding commenting);2017-05-24T13:28:51Z;2017-08-15T13:55:34Z
+1037;MDU6SXNzdWUyMzEyNzg3NDQ=;{'totalCount': 1};What's the difference between github online version and print version?;2017-05-25T08:52:58Z;2017-05-25T19:16:53Z
+1039;MDU6SXNzdWUyMzE0NDA0MTM=;{'totalCount': 1};Ch 7 - ES6 and Beyond, typo.;2017-05-25T19:50:06Z;
+1042;MDU6SXNzdWUyMzMyODg5MTA=;{'totalCount': 4};Confusing wording under Implicitly Lost in This & Object Prototypes: Ch2 ;2017-06-02T20:18:40Z;2019-08-28T16:55:11Z
+1044;MDU6SXNzdWUyMzMzNzc2NzQ=;{'totalCount': 6};Hoisting example code snippet error;2017-06-03T15:52:05Z;2017-07-17T11:02:22Z
+1049;MDU6SXNzdWUyMzQzMjU2MjQ=;{'totalCount': 1};Update references to ECMAScript language specificiation to a higher one then 5th;2017-06-07T20:02:15Z;2017-06-07T23:40:48Z
+1050;MDU6SXNzdWUyMzQzNTYxNjk=;{'totalCount': 3};Specify strict mode semantics in Scope and Closures Appendix C;2017-06-07T22:02:13Z;2017-06-07T23:40:04Z
+1051;MDU6SXNzdWUyMzQzNTY1NTQ=;{'totalCount': 1};Syntax error in Scope and Closures Chapter 5;2017-06-07T22:04:03Z;2017-08-15T13:41:50Z
+1056;MDU6SXNzdWUyMzYxMjYxMTE=;{'totalCount': 4};ES6 & Beyond: Early Completion;2017-06-15T09:14:52Z;
+1066;MDU6SXNzdWUyMzgwMjIwMzQ=;{'totalCount': 1}; I try to translate your online articles into Chinese;2017-06-23T02:14:28Z;2017-06-23T02:22:47Z
+1072;MDU6SXNzdWUyMzk0MDkyNDU=;{'totalCount': 2};object.asign copy;2017-06-29T08:56:06Z;2017-08-15T13:54:17Z
+1076;MDU6SXNzdWUyMzk5ODg4NDA=;{'totalCount': 4};Korean translation suggestion;2017-07-02T04:53:54Z;2017-08-15T13:54:00Z
+1077;MDU6SXNzdWUyNDAzMTA2NDA=;{'totalCount': 1};ES6 & Beyond Ch7 featuretests.io link is broken;2017-07-04T04:51:09Z;2017-07-07T16:53:22Z
+1079;MDU6SXNzdWUyNDAzNjgyNTU=;{'totalCount': 1};Word error in this & Object Prototype Chapter 5;2017-07-04T09:43:36Z;2017-08-15T13:41:08Z
+1081;MDU6SXNzdWUyNDA1OTI0NjM=;{'totalCount': 4};Expression Side Effects -  wrong assumption regarding json and console;2017-07-05T09:34:06Z;2017-07-14T20:12:55Z
+1082;MDU6SXNzdWUyNDA2NDEzMDE=;{'totalCount': 5};Rewording might be needed - Async & Perf Book;2017-07-05T12:54:20Z;
+1083;MDU6SXNzdWUyNDA2NTg3NTQ=;{'totalCount': 3};this & Object Prototypes, ch2 softBind works differently in Node.;2017-07-05T13:54:56Z;2017-08-15T13:38:51Z
+1087;MDU6SXNzdWUyNDEzMzkyOTQ=;{'totalCount': 1};Up & Going , CH2: into JavaScript (Defining variables with non-English letters);2017-07-07T18:09:49Z;2017-08-15T13:39:58Z
+1092;MDU6SXNzdWUyNDI4Njk0NjI=;{'totalCount': 4};Variable Hoisting example within the Function Scopes section of up & going won't work ;2017-07-14T00:57:47Z;2017-08-15T13:40:30Z
+1093;MDU6SXNzdWUyNDM0Mjk2ODg=;{'totalCount': 1};How i read;2017-07-17T15:14:51Z;2017-07-17T16:59:50Z
+1094;MDU6SXNzdWUyNDM1OTQ4Njg=;{'totalCount': 4};typo(there should be 'a' instead of 'k');2017-07-18T04:13:30Z;2017-08-15T13:33:28Z
+1095;MDU6SXNzdWUyNDQzMjgyMDA=;{'totalCount': 2};Missing word in ch3, 'Scopes & Closures';2017-07-20T11:20:41Z;2017-07-20T11:34:44Z
+1096;MDU6SXNzdWUyNDQ5MDczMDg=;{'totalCount': 0};Chinese translation PR;2017-07-23T12:31:44Z;2017-07-23T13:54:17Z
+1099;MDU6SXNzdWUyNDU2MTY2Mjc=;{'totalCount': 0};Invalid issue: Please close;2017-07-26T06:14:37Z;2017-07-26T13:34:22Z
+1100;MDU6SXNzdWUyNDU5MzY1OTQ=;{'totalCount': 0};ES6 & Beyond - Chapter 7: Meta Programming - Reflect API;2017-07-27T06:18:48Z;
+1101;MDU6SXNzdWUyNDU5Mzc3MDM=;{'totalCount': 0};ES6 & Beyond - Chapter 5: Collections - Multiple Views;2017-07-27T06:25:38Z;2017-08-15T13:32:37Z
+1103;MDU6SXNzdWUyNDY1MDYwMzU=;{'totalCount': 2};Error on evaluating the return value of logical operator &&;2017-07-29T07:30:48Z;2017-07-29T15:09:35Z
+1104;MDU6SXNzdWUyNDY3OTU1MjE=;{'totalCount': 4};Typo in README;2017-07-31T15:24:15Z;2017-08-15T13:34:30Z
+1107;MDU6SXNzdWUyNDg0NjkxOTc=;{'totalCount': 2};ES6 & Beyond (Chapter 2): Clarification on strings and Iterables;2017-08-07T16:48:33Z;2017-08-08T12:07:53Z
+1108;MDU6SXNzdWUyNDg5MDcxNzQ=;{'totalCount': 1};Vietnamese translation permission.;2017-08-09T03:31:29Z;2017-08-09T04:18:43Z
+1109;MDU6SXNzdWUyNDg5NzUzNTQ=;{'totalCount': 1};Function hoisting has changed as of chrome 49;2017-08-09T09:46:42Z;2017-08-15T13:34:04Z
+1110;MDU6SXNzdWUyNDkwMDcxNzk=;{'totalCount': 1};ES6 & Beyond (Chapter 5): Link to MDN code example for Little Endianness?;2017-08-09T11:59:14Z;2017-08-15T13:37:15Z
+1113;MDU6SXNzdWUyNTAyNTUyODA=;{'totalCount': 1};Branch 1ed-zh-CN ES6与未来 - 第二章：语法;2017-08-15T08:40:14Z;2017-08-16T01:01:23Z
+1120;MDU6SXNzdWUyNTEzOTk0MzI=;{'totalCount': 0};LHS and RHS conversation;2017-08-19T04:21:22Z;2018-05-16T17:10:24Z
+1122;MDU6SXNzdWUyNTE3MjA3MDA=;{'totalCount': 1};"`writable:false` is used instead of `writable:true` in ""this & Object Prototypes"" chapter 5.";2017-08-21T17:13:18Z;2017-08-22T01:24:13Z
+1123;MDU6SXNzdWUyNTI1MDY3MTM=;{'totalCount': 2};In timeoutify example when will returned function execute ?;2017-08-24T07:05:04Z;2017-08-25T03:57:28Z
+1124;MDU6SXNzdWUyNTI1NDY2NTA=;{'totalCount': 5};Labeled statements need a colon followed by a pair of curly braces;2017-08-24T09:45:56Z;2017-08-25T19:26:50Z
+1126;MDU6SXNzdWUyNTI5MTQ2NDY=;{'totalCount': 3};Chapter 1, functions in dev tools;2017-08-25T14:16:22Z;2018-05-16T17:09:48Z
+1127;MDU6SXNzdWUyNTMxMTg5OTg=;{'totalCount': 3};Microsoft detecting history.js as Severe Trojan threat connected with Scamware;2017-08-26T19:55:52Z;2017-08-26T23:08:45Z
+1130;MDU6SXNzdWUyNTM0MzE1Mjg=;{'totalCount': 1};Ch 3 - Scopes and Closures, mistake with an example;2017-08-28T19:31:57Z;2018-05-16T17:09:24Z
+1131;MDU6SXNzdWUyNTM1OTM1ODc=;{'totalCount': 0};"""Types & Grammar"", Chapter 4: Coercion, Implicitly: * --> Boolean";2017-08-29T09:47:42Z;2017-08-29T09:50:16Z
+1132;MDU6SXNzdWUyNTM2OTAxODM=;{'totalCount': 16};Does `const` declaration is subject to the Variable Hoisting?;2017-08-29T14:45:55Z;2018-03-18T19:39:53Z
+1133;MDU6SXNzdWUyNTQyMjc3MTY=;{'totalCount': 2};Implicitly * --> Boolean (demo confusion?);2017-08-31T06:33:23Z;2017-09-28T14:02:29Z
+1134;MDU6SXNzdWUyNTQ3OTk1NjE=;{'totalCount': 2};"""scope & closures"": Foreword missing";2017-09-02T08:55:57Z;2017-09-02T21:23:01Z
+1135;MDU6SXNzdWUyNTUxMTA5NTg=;{'totalCount': 4};Link to Rick Waldron in README;2017-09-04T20:08:41Z;2018-05-16T17:08:40Z
+1136;MDU6SXNzdWUyNTUyOTI4NDc=;{'totalCount': 2};this & object prototypes - ch4 - building example - some misunderstanding of architect;2017-09-05T14:16:08Z;2017-09-06T03:40:35Z
+1138;MDU6SXNzdWUyNTY0OTQ5MjQ=;{'totalCount': 10};scope & closures例子无法运行(中文版p41);2017-09-10T08:47:39Z;2017-09-12T02:03:03Z
+1140;MDU6SXNzdWUyNTc0NDQwODE=;{'totalCount': 2};Google's Traceur demo URL does not work anymore;2017-09-13T16:30:49Z;2018-05-16T17:09:02Z
+1141;MDU6SXNzdWUyNTc2ODk1NDg=;{'totalCount': 3};this & Object Prototypes. No need to use `Object.defineProperty(..)` to define custom `@@iterator`;2017-09-14T11:43:50Z;2017-09-28T14:44:28Z
+1145;MDU6SXNzdWUyNTc5ODI5MzU=;{'totalCount': 1};this & object prototypes chapter 2;2017-09-15T09:40:54Z;2018-05-16T17:07:34Z
+1151;MDU6SXNzdWUyNjA2MzgxMDI=;{'totalCount': 1};this & object prototypes chapter 2 - 'bind(...) polyfill' is not correct;2017-09-26T14:10:09Z;2017-09-27T11:51:37Z
+1153;MDU6SXNzdWUyNjEzNzY5Njk=;{'totalCount': 7};async & performance - chapter 3 - Really confusing sentence;2017-09-28T16:11:36Z;2018-05-16T17:06:36Z
+1154;MDU6SXNzdWUyNjE3OTg1Njk=;{'totalCount': 1};Release a digital copy of the books;2017-09-29T23:46:38Z;2017-09-29T23:50:32Z
+1155;MDU6SXNzdWUyNjE4MTI4NDQ=;{'totalCount': 1};Better explanation of relationship between Promise constructor and then;2017-09-30T03:02:06Z;2017-09-30T03:16:56Z
+1156;MDU6SXNzdWUyNjE4MzQ2MDY=;{'totalCount': 12};this & object prototypes - chapter 2 - example code seems wrong;2017-09-30T10:14:37Z;2017-09-30T15:29:50Z
+1158;MDU6SXNzdWUyNjI3MDUxNDg=;{'totalCount': 6};this & Object Prototypes. Method do has internal reference to itself;2017-10-04T08:28:27Z;2017-10-05T07:39:19Z
+1159;MDU6SXNzdWUyNjM3MTY5NTc=;{'totalCount': 2};Async & Performance - Promise Scheduling Quirks;2017-10-08T13:12:45Z;2019-08-28T16:54:47Z
+1160;MDU6SXNzdWUyNjM5NTY5MzQ=;{'totalCount': 2};This & object prototypes: some vague wording in the last chapter.;2017-10-09T16:37:46Z;2019-08-28T16:54:29Z
+1161;MDU6SXNzdWUyNjQyNzIwMzA=;{'totalCount': 2};Concise (shorthand) method is named or anonymous?;2017-10-10T15:25:59Z;2017-10-11T03:45:45Z
+1163;MDU6SXNzdWUyNjQ2OTM4OTg=;{'totalCount': 1};MINOR: NaN is the only reflexive property in JS, but there might be an exception;2017-10-11T18:44:36Z;2018-05-16T16:55:14Z
+1164;MDU6SXNzdWUyNjUwNTA1Mjg=;{'totalCount': 3};Up & Running Ch2 Transpiling - use of (void 0) and confusing paragraph;2017-10-12T19:01:10Z;
+1166;MDU6SXNzdWUyNjU1ODY2MjQ=;{'totalCount': 3};when we will see the 2nd edition of the books;2017-10-15T16:58:50Z;2017-10-16T00:37:57Z
+1167;MDU6SXNzdWUyNjYyMTQ4MDc=;{'totalCount': 1};There are too many exclamation points in those books.;2017-10-17T17:34:25Z;2017-10-17T22:42:47Z
+1171;MDU6SXNzdWUyNjc1MDAzMTE=;{'totalCount': 6};Async and perfomance, Chapter4 - Example is not clear enough;2017-10-22T21:28:37Z;2017-10-23T14:20:54Z
+1172;MDU6SXNzdWUyNjc1Mzg1Njc=;{'totalCount': 1};Translate books to Brazilian Portuguese;2017-10-23T04:29:18Z;2017-10-23T04:41:08Z
+1174;MDU6SXNzdWUyNzAwOTYxNTM=;{'totalCount': 1};this & Object Prototypes chapter 2 - function returns undefined rather than 2;2017-10-31T19:48:47Z;2018-05-16T16:52:36Z
+1175;MDU6SXNzdWUyNzA2MDk3MzQ=;{'totalCount': 0};【Chapter 2: this All Makes Sense Now!】Soft Bind Qusetion;2017-11-02T10:52:33Z;2018-05-16T16:52:08Z
+1177;MDU6SXNzdWUyNzA3MzI0MjI=;{'totalCount': 2};"""this & Object Prototypes"" Chapter 2: Is the 'a' parameter in the lexical this example needed?";2017-11-02T17:04:20Z;2018-05-16T16:51:48Z
+1178;MDU6SXNzdWUyNzA5MjQ0Nzk=;{'totalCount': 2};async & performance: commented values for a and b are not correct;2017-11-03T09:54:18Z;2017-11-03T11:39:53Z
+1186;MDU6SXNzdWUyNzQ2NjczNDQ=;{'totalCount': 3};ES6 & Beyond, Chapter 3: default export of a function expression;2017-11-16T21:19:08Z;2019-08-28T16:52:39Z
+1187;MDU6SXNzdWUyNzQ3MzkyNjQ=;{'totalCount': 0};You Don't Know JS: Types & Grammar--- Chapter 1: Types;2017-11-17T03:18:29Z;2018-05-16T16:46:43Z
+1190;MDU6SXNzdWUyNzU1MTYzNTU=;{'totalCount': 3};Closures within loop example;2017-11-20T22:10:30Z;2018-05-16T16:46:31Z
+1193;MDU6SXNzdWUyNzg1OTkwNDg=;{'totalCount': 2};Types & Grammar, Chapter 5, Expression Side Effects: side-effecting expressions require a variable reference;2017-12-01T21:17:01Z;2018-05-16T16:45:45Z
+1194;MDU6SXNzdWUyNzg2ODA2NTg=;{'totalCount': 1};"this and object prototypes: ch1 - ""there is no bridge""";2017-12-02T12:33:36Z;2018-05-16T16:43:56Z
+1198;MDU6SXNzdWUyODE3NTAwMzM=;{'totalCount': 7};Scope and Closures;2017-12-13T13:30:22Z;2017-12-14T09:16:37Z
+1199;MDU6SXNzdWUyODIwNjQwMzE=;{'totalCount': 2};"Global variables are ""not"" automatically properties of the global object";2017-12-14T11:11:19Z;2017-12-14T17:27:09Z
+1200;MDU6SXNzdWUyODIwODcxNjQ=;{'totalCount': 3};ES2018 & above;2017-12-14T12:39:49Z;2017-12-14T13:39:57Z
+1202;MDU6SXNzdWUyODMzMzk4MTc=;{'totalCount': 3};"Characterization of Unicode as ""nontraditional"" vs ASCII";2017-12-19T19:16:23Z;2019-12-11T15:15:08Z
+1206;MDU6SXNzdWUyODUyNDk4MzY=;{'totalCount': 1};Replace folder name;2017-12-31T10:02:10Z;2018-05-16T16:43:27Z
+1207;MDU6SXNzdWUyODUyNjc0MTQ=;{'totalCount': 2};ES6 class demonstration snippet remarks;2017-12-31T16:58:50Z;2018-01-01T13:05:30Z
+1209;MDU6SXNzdWUyODYzNTY5NTI=;{'totalCount': 2};this & object prototypes chapter 3 - confusing explanation for Symbols;2018-01-05T17:43:23Z;2019-08-28T16:53:45Z
+1210;MDU6SXNzdWUyODY1ODI4MjY=;{'totalCount': 13};Async & Performance: optimize gen-runner in chapter 4;2018-01-07T16:55:24Z;
+1212;MDU6SXNzdWUyODY3OTU4Mzg=;{'totalCount': 3};Curly braces labeled statements note is not true in chrome;2018-01-08T16:07:31Z;2018-05-16T16:42:35Z
+1214;MDU6SXNzdWUyODc4MjYyOTE=;{'totalCount': 3};Add Async ans Await on top of Promises?;2018-01-11T15:46:32Z;2018-01-11T16:33:09Z
+1216;MDU6SXNzdWUyOTAwOTg1OTU=;{'totalCount': 2};Resources for further training on behavior delegation;2018-01-19T20:32:09Z;2018-03-18T20:06:29Z
+1220;MDU6SXNzdWUyOTA4MTY0MDk=;{'totalCount': 2};Async & Performance ch3 confusing about promise error handling swallow;2018-01-23T12:20:22Z;2018-01-24T05:13:39Z
+1221;MDU6SXNzdWUyOTEwODEzMjI=;{'totalCount': 4};mention ASI (very parenthetically) earlier;2018-01-24T04:30:45Z;2018-01-30T18:54:05Z
+1222;MDU6SXNzdWUyOTIwMTYwMDI=;{'totalCount': 1};Translating;2018-01-26T20:03:48Z;2018-01-26T20:46:34Z
+1224;MDU6SXNzdWUyOTIyMjcyMzY=;{'totalCount': 2};"Is this sentence correct? Chapter 3 ""Calling Too Late""";2018-01-28T18:38:50Z;2018-01-29T09:18:39Z
+1229;MDU6SXNzdWUyOTU0MTgyNjQ=;{'totalCount': 3};Object.create in the (Prototypical) Inheritance section;2018-02-08T08:06:06Z;2018-05-16T16:36:50Z
+1230;MDU6SXNzdWUyOTU0NzA3NjY=;{'totalCount': 2};Object.create() Polyfilled;2018-02-08T11:06:46Z;2018-05-16T16:35:37Z
+1231;MDU6SXNzdWUyOTU1MTQ1ODg=;{'totalCount': 4};Scope and Closures, chapter 1 - building metaphor;2018-02-08T13:37:22Z;2018-03-18T19:47:28Z
+1233;MDU6SXNzdWUyOTYwOTM2Mjk=;{'totalCount': 1};Join to translation English to Indonesian ;2018-02-10T11:24:02Z;2018-05-16T16:33:28Z
+1234;MDU6SXNzdWUyOTYxMjk2NjI=;{'totalCount': 3};The value from the typeof operator;2018-02-10T20:08:47Z;2018-03-18T19:47:43Z
+1238;MDU6SXNzdWUyOTk0ODUxNDM=;{'totalCount': 1};Coercion: Question about coercion using ==;2018-02-22T19:50:38Z;2018-03-18T19:41:16Z
+1242;MDU6SXNzdWUzMDAzMTc5NTA=;{'totalCount': 2};Translation to spanish;2018-02-26T17:01:15Z;2018-05-16T16:33:06Z
+1243;MDU6SXNzdWUzMDA1Nzk3OTg=;{'totalCount': 3};Potential mistake discussing coercion on up&going ch2;2018-02-27T10:49:22Z;2018-02-27T16:39:07Z
+1244;MDU6SXNzdWUzMDA5MDU0NDk=;{'totalCount': 1};Async & Performance - Promise Scheduling Quirks - result not match in Chrome ;2018-02-28T06:18:20Z;2018-05-16T16:32:08Z
+1245;MDU6SXNzdWUzMDEyNjAyNTI=;{'totalCount': 0};When to use New;2018-03-01T02:53:57Z;2018-03-02T22:34:17Z
+1246;MDU6SXNzdWUzMDE0Mjg3ODE=;{'totalCount': 2};Float Subtraction: Unexpected result;2018-03-01T14:40:26Z;2018-03-01T18:53:21Z
+1249;MDU6SXNzdWUzMDI5NDU1NjE=;{'totalCount': 1};ES6 and beyond - Chapter 3 - Dead links to blog.getify.com;2018-03-07T02:48:55Z;2018-03-18T19:40:23Z
+1250;MDU6SXNzdWUzMDM3MzIwODQ=;{'totalCount': 5};Closure - Reference to the entire scope or just required variables?;2018-03-09T05:50:52Z;2018-03-19T19:45:07Z
+1251;MDU6SXNzdWUzMDQwODAzMjI=;{'totalCount': 1};Async & Performance Chapter 4 for..of completion signal to iterator;2018-03-10T15:48:24Z;
+1252;MDU6SXNzdWUzMDQxOTE1Mjk=;{'totalCount': 2};"Up & Going - Chapter 2: Into JavaScript - Minor typo on ""behavior delegation"" reference";2018-03-11T20:36:41Z;2018-03-11T22:57:39Z
+1253;MDU6SXNzdWUzMDQyNDYzNjg=;{'totalCount': 4};Bug in -- You Don't Know JS: Async & Performance Ch3 Promises;2018-03-12T05:36:43Z;2018-03-14T16:04:53Z
+1255;MDU6SXNzdWUzMDYxNDAyNjc=;{'totalCount': 1};May be a calculate error;2018-03-17T08:51:59Z;2018-03-18T19:30:16Z
+1256;MDU6SXNzdWUzMDY2NzQxNzM=;{'totalCount': 1};Up&Going chapter 1, functions section. Declaring both functions, second function maybe with an error;2018-03-19T23:24:43Z;2018-05-16T16:31:01Z
+1257;MDU6SXNzdWUzMDY2NzgxMDA=;{'totalCount': 5};Troubled Snippet, Scope & Closures Chapter 4;2018-03-19T23:46:00Z;2018-04-05T13:46:40Z
+1259;MDU6SXNzdWUzMDY4MDM2MTU=;{'totalCount': 1};Kickstarter link in the repo title is broken (404).;2018-03-20T10:19:08Z;2018-03-26T08:14:35Z
+1264;MDU6SXNzdWUzMDc5MjY3NjU=;{'totalCount': 2};Typo in chapter 5-Prototypes ;2018-03-23T07:27:01Z;2018-03-23T14:13:27Z
+1265;MDU6SXNzdWUzMDg1NzUwMTM=;{'totalCount': 2};[Question] Can I fork this repository and host it myself?;2018-03-26T13:36:02Z;2018-05-16T16:27:18Z
+1266;MDU6SXNzdWUzMDkzMTk4OTc=;{'totalCount': 1};Async & Performance Chapter 3: Promises - ReferenceError instead of TypeError;2018-03-28T11:03:54Z;
+1267;MDU6SXNzdWUzMTAxMDkwOTk=;{'totalCount': 1};Is the SIMD section in Async & Performance Chapter 5 relevant anymore ? ;2018-03-30T16:30:20Z;2018-05-16T16:23:40Z
+1268;MDU6SXNzdWUzMTIxNzM5Njg=;{'totalCount': 2};Scope & Closures - Chapter 4 : Function and variable declaration with the same identifier name.;2018-04-07T06:02:56Z;2018-04-07T16:24:06Z
+1271;MDU6SXNzdWUzMTM3NjE0MjQ=;{'totalCount': 4};this & Object Prototypes - Chapter 3 : 'in' operator ;2018-04-12T14:50:03Z;
+1273;MDU6SXNzdWUzMTQ2NDgxNTg=;{'totalCount': 1};Include some coverage of common tag functions for tagged template literals;2018-04-16T13:21:13Z;
+1274;MDU6SXNzdWUzMTY2MDEyNjU=;{'totalCount': 0};Types & Grammar - Chapter 2;2018-04-22T18:23:03Z;2018-04-23T03:43:14Z
+1276;MDU6SXNzdWUzMTg1OTY0MDU=;{'totalCount': 1};"TypeError in Code -Chapter 4 of ""Scope & Closures""";2018-04-28T03:34:55Z;2018-04-28T11:19:33Z
+1277;MDU6SXNzdWUzMTg2Mjc1MTE=;{'totalCount': 2};Difficult to understand sentence;2018-04-28T11:19:26Z;2018-05-16T16:23:26Z
+1278;MDU6SXNzdWUzMTg2Mjc3Nzg=;{'totalCount': 2};Wording indicates future, but book already exists;2018-04-28T11:23:46Z;2018-05-16T16:18:34Z
+1279;MDU6SXNzdWUzMTg2MjgxMDI=;{'totalCount': 1};Minor typo;2018-04-28T11:28:46Z;2018-05-16T16:17:48Z
+1281;MDU6SXNzdWUzMTk5MDc5OTk=;{'totalCount': 5};Types & Grammar - Chapter 2 : TypeError while reversing a string.;2018-05-03T12:53:42Z;
+1282;MDU6SXNzdWUzMjEyMDgzMjA=;{'totalCount': 5};"""Appendix C: Lexical-this""- misleading/confusing piece of code?";2018-05-08T14:22:37Z;2018-05-16T16:17:02Z
+1283;MDU6SXNzdWUzMjE2MDAwNTg=;{'totalCount': 5};"Async & Performance Chapter 6 ""Repetition"" section";2018-05-09T14:44:20Z;
+1284;MDU6SXNzdWUzMjE4NDgyNDk=;{'totalCount': 4};Types and Grammar, Chapter 4: Coercion - Incorrect Logic;2018-05-10T08:16:03Z;2018-05-16T16:15:48Z
+1290;MDU6SXNzdWUzMjQ3MTIxNTc=;{'totalCount': 2};"Async & Performance Chapter 3 ""Thenable Duck Typing"" section";2018-05-20T14:05:01Z;2018-05-20T14:20:19Z
+1292;MDU6SXNzdWUzMjQ3NjEyNzA=;{'totalCount': 2};while(true) in generators;2018-05-21T01:25:09Z;2018-05-21T15:21:15Z
+1295;MDU6SXNzdWUzMjcwNjY4MjE=;{'totalCount': 1};ES6 Classes and private funcitons;2018-05-28T15:51:04Z;2019-08-28T16:52:21Z
+1296;MDU6SXNzdWUzMjc5NjYzODM=;{'totalCount': 2};why is IIFE needed to create a new scope?;2018-05-31T02:02:29Z;2018-05-31T02:57:05Z
+1297;MDU6SXNzdWUzMzAwNDM3MzM=;{'totalCount': 1};Any advice on preparing multiple objects to be portable;2018-06-06T21:43:15Z;2019-08-28T16:52:05Z
+1298;MDU6SXNzdWUzMzA5MDgyOTI=;{'totalCount': 1};adding abstract to each chapter;2018-06-09T18:13:40Z;2019-08-28T16:51:37Z
+1300;MDU6SXNzdWUzMzExNzgwNTY=;{'totalCount': 3};Block Scoped function example doesn't work as expected;2018-06-11T12:57:58Z;2019-08-28T16:51:26Z
+1302;MDU6SXNzdWUzMzI1ODk4Mjc=;{'totalCount': 3};Async & Performance. Chapter 3.  Broken Trust.;2018-06-14T22:44:19Z;2018-06-15T01:49:08Z
+1303;MDU6SXNzdWUzMzI2NTYzODQ=;{'totalCount': 2};将中文版迁移到雨雀;2018-06-15T06:08:05Z;2018-06-16T08:09:27Z
+1304;MDU6SXNzdWUzMzQ1Njk2MjI=;{'totalCount': 1};One book instead of a series;2018-06-21T16:32:35Z;2018-06-21T19:05:31Z
+1305;MDU6SXNzdWUzMzUxNTU3NDc=;{'totalCount': 0};Call out ignorance for what it is;2018-06-24T06:41:40Z;2018-06-24T06:49:52Z
+1306;MDU6SXNzdWUzMzU2Mzk0MzI=;{'totalCount': 3};"an example used in ""Scope & Closures""";2018-06-26T02:55:20Z;2018-06-26T07:53:37Z
+1307;MDU6SXNzdWUzMzYxNzY0NDY=;{'totalCount': 3};Examples on priorities of explicit binding and implicit binding;2018-06-27T10:47:30Z;2019-08-28T16:51:04Z
+1310;MDU6SXNzdWUzMzc2MjkzODk=;{'totalCount': 1};Two's complement;2018-07-02T19:04:48Z;2018-07-02T20:22:42Z
+1312;MDU6SXNzdWUzMzg1NTA2MTM=;{'totalCount': 1};Writable should be true instead of false;2018-07-05T12:18:43Z;2018-07-05T14:58:53Z
+1313;MDU6SXNzdWUzMzkyNDg1ODY=;{'totalCount': 1};Chaper1 : Sub-heading (Expressions) :;2018-07-08T18:54:43Z;2019-08-28T16:50:41Z
+1314;MDU6SXNzdWUzMzkyNTI1NjM=;{'totalCount': 1};Chapter-1/ sub-heading (Expressions);2018-07-08T19:50:59Z;2019-08-28T16:50:25Z
+1316;MDU6SXNzdWUzNDEwNzY1MTQ=;{'totalCount': 5};Anonymous functions defined as a property of an Object Literal does have a name;2018-07-13T16:08:33Z;2018-07-13T18:41:09Z
+1317;MDU6SXNzdWUzNDE4NzUyNTQ=;{'totalCount': 0};Chapter 2. typeof operator;2018-07-17T11:17:15Z;2018-07-17T11:47:51Z
+1318;MDU6SXNzdWUzNDMxODAyMTU=;{'totalCount': 1};Async and Performance Chapter 1;2018-07-20T17:00:31Z;2018-07-26T18:05:54Z
+1319;MDU6SXNzdWUzNDMyMzM2NDA=;{'totalCount': 2};"The word ""hijacks"" in Chapter 3 Seems out of place - Let's Discuss";2018-07-20T20:12:35Z;2018-07-21T12:37:27Z
+1320;MDU6SXNzdWUzNDM0NDE1MDg=;{'totalCount': 2};Is the following code really asynchronous?;2018-07-22T21:44:33Z;2018-07-23T05:02:15Z
+1321;MDU6SXNzdWUzNDM0NzA0MDE=;{'totalCount': 3};"""Chapter 5 - I can See "" - Just for Clarity I would suggest adding the word ""nested"" or ""inner""";2018-07-23T02:52:10Z;2019-08-28T16:49:54Z
+1323;MDU6SXNzdWUzNDUyMTYwMjI=;{'totalCount': 3};Piece of advice;2018-07-27T12:57:16Z;2018-10-31T20:41:32Z
+1326;MDU6SXNzdWUzNDU0NzQ0OTM=;{'totalCount': 1};Confusing sentence in ch3.md: Interfaces;2018-07-28T19:52:24Z;2019-08-28T16:48:51Z
+1327;MDU6SXNzdWUzNDY3MDI4NzE=;{'totalCount': 1};Tricky statment;2018-08-01T17:50:13Z;2019-08-28T16:47:11Z
+1328;MDU6SXNzdWUzNDgwMTc3MTg=;{'totalCount': 2};ToPrimitive Abstract operation clarification;2018-08-06T17:37:28Z;
+1329;MDU6SXNzdWUzNDgwNzA3NTk=;{'totalCount': 2};Wrong reference;2018-08-06T20:28:29Z;
+1330;MDU6SXNzdWUzNDgyNzUzNzM=;{'totalCount': 1};Implicitly: Strings <--> Numbers clarification;2018-08-07T11:12:34Z;2019-08-28T16:46:50Z
+1331;MDU6SXNzdWUzNDg3ODQzMTU=;{'totalCount': 4};Short Circuited probable misunderstanding;2018-08-08T15:45:44Z;2019-08-28T16:46:21Z
+1333;MDU6SXNzdWUzNTA4NDg2ODU=;{'totalCount': 0};The wrong case of Number.isInteger(..) ;2018-08-15T15:14:20Z;2019-02-15T11:01:30Z
+1335;MDU6SXNzdWUzNTA4Nzg2MjU=;{'totalCount': 1};Types & Grammar Ch. 3 - Sparse array serialization in Chrome now uses 'empty';2018-08-15T16:35:38Z;2018-08-15T16:47:50Z
+1340;MDU6SXNzdWUzNTYyNDk5MTI=;{'totalCount': 1};"""Scope & Closures""- Ch.3 Function Versus Block Scope > Invoking Function Expressions Immediately";2018-09-02T03:33:48Z;2019-08-28T16:45:26Z
+1341;MDU6SXNzdWUzNTc2ODA2ODQ=;{'totalCount': 1};enumerable?;2018-09-06T14:26:49Z;2019-08-28T16:44:47Z
+1342;MDU6SXNzdWUzNTg4NzM3NDk=;{'totalCount': 2};scope & closures/apB.md - Dynamic scope code sample needs to be rectified. ;2018-09-11T03:33:39Z;2018-09-11T04:09:32Z
+1347;MDU6SXNzdWUzNTk1MzYxOTM=;{'totalCount': 0};"Calling template literals ""interpolated string literals"" is misleading";2018-09-12T15:30:20Z;
+1353;MDU6SXNzdWUzNjExNjc1NDA=;{'totalCount': 6};Logical OR and Grouping Question;2018-09-18T07:22:08Z;2018-09-18T07:48:56Z
+1354;MDU6SXNzdWUzNjI0NjgyNzA=;{'totalCount': 1};Wrong function name ;2018-09-21T06:13:12Z;2018-09-21T14:34:13Z
+1357;MDU6SXNzdWUzNjM4NDkzNzY=;{'totalCount': 1};Ordering titles in readme;2018-09-26T04:00:09Z;2018-09-26T04:53:51Z
+1360;MDU6SXNzdWUzNjUyMjAzNjY=;{'totalCount': 5};Error handling with Promises using setTimeout (async & performance - Chapter 3);2018-09-30T12:19:12Z;2019-08-28T16:44:29Z
+1361;MDU6SXNzdWUzNjg5ODMyNTk=;{'totalCount': 1};Scope & Closures - Ch 4 - Hoisting behaviour of let & const;2018-10-11T07:15:31Z;2019-08-28T16:44:05Z
+1362;MDU6SXNzdWUzNjk2MjcyNDA=;{'totalCount': 1};Is ES6 & Beyond up to date ?;2018-10-12T16:42:44Z;2019-08-28T16:43:53Z
+1363;MDU6SXNzdWUzNjk4OTU2MTg=;{'totalCount': 3};Is there a need for HTML & PDF versions ?;2018-10-14T12:01:22Z;2018-10-14T12:46:18Z
+1364;MDU6SXNzdWUzNzA4MzM4NzM=;{'totalCount': 1};Chapter 3: functions & scopes @ collision avoidance;2018-10-16T23:02:36Z;2019-08-28T16:43:33Z
+1366;MDU6SXNzdWUzNzMxOTgzNDk=;{'totalCount': 1};"Code example ""isThisCool"" in Ch3 ""Types and Grammar"", ""Native Prototypes"" throws error";2018-10-23T20:58:44Z;
+1368;MDU6SXNzdWUzNzQ0MDMzMTQ=;{'totalCount': 1};"""shadowing"" important enough of a concept to get its own sub-topic in ""Scope & Closures""?";2018-10-26T14:14:31Z;2019-08-28T16:42:41Z
+1371;MDU6SXNzdWUzNzYxMzYyMjk=;{'totalCount': 1};The 'Web' is a proper noun.;2018-10-31T19:57:35Z;2019-08-28T16:42:29Z
+1372;MDU6SXNzdWUzNzYxOTY4NTg=;{'totalCount': 4};Thinking of variables as boxes is unnecessarily confusing.;2018-10-31T23:22:34Z;2019-08-28T16:42:16Z
+1374;MDU6SXNzdWUzNzc1MzA3NDM=;{'totalCount': 2};Clarification about the call and apply instructions;2018-11-05T18:42:01Z;2018-11-06T08:54:48Z
+1375;MDU6SXNzdWUzNzgzNTAyNTc=;{'totalCount': 3};About compilation phase;2018-11-07T15:54:41Z;2018-11-08T01:44:50Z
+1376;MDU6SXNzdWUzNzg0NzA3NjI=;{'totalCount': 2};"Types & Grammar - Chapter 5: Grammar -- Misuse of term ""proper subset""";2018-11-07T21:11:29Z;2018-11-09T18:46:51Z
+1377;MDU6SXNzdWUzNzkzNjE3NTQ=;{'totalCount': 13};Spanish translation;2018-11-09T23:54:26Z;2019-08-28T16:41:55Z
+1380;MDU6SXNzdWUzODE5NDQ3NDU=;{'totalCount': 1};Wrong TypedArray constructors description;2018-11-18T09:45:56Z;2019-08-28T16:41:40Z
+1384;MDU6SXNzdWUzODUzNDE0MDU=;{'totalCount': 12};Do variables that defined in the for loop inside the function defined only once?;2018-11-28T16:07:26Z;2019-08-28T16:41:24Z
+1388;MDU6SXNzdWUzODk5NTc1ODE=;{'totalCount': 3};this & Object Prototypes - Chapter 3: Symbol.iterator enumerablility;2018-12-11T21:17:58Z;
+1389;MDU6SXNzdWUzOTAxNzUyNDQ=;{'totalCount': 0};ch6: Benchmarking | Use console.time();2018-12-12T11:07:13Z;
+1391;MDU6SXNzdWUzOTE4ODMyMzc=;{'totalCount': 1};"""Async & Performance"": ch4, Delegating Recursion example";2018-12-17T20:46:45Z;2018-12-17T22:52:07Z
+1393;MDU6SXNzdWUzOTI5MDY2NTI=;{'totalCount': 3};Extending Object with Object.defineProperty - Setting & Shadowing Properties;2018-12-20T06:22:59Z;2019-08-28T16:40:45Z
+1394;MDU6SXNzdWUzOTQxMzk5ODM=;{'totalCount': 4};Italian Translation;2018-12-26T10:42:32Z;2019-08-28T16:40:24Z
+1395;MDU6SXNzdWUzOTQ4MDIyODA=;{'totalCount': 1};Benchmarking and Performance ch6 - Performance interface;2018-12-29T15:02:15Z;2019-08-28T16:40:10Z
+1398;MDU6SXNzdWUzOTUwNzUxNDY=;{'totalCount': 0};"""abc"".match( RegExp.prototype ) gives an error";2019-01-01T11:27:33Z;
+1399;MDU6SXNzdWUzOTUwNzU3NDI=;{'totalCount': 1};Another example of manual Boxing;2019-01-01T11:38:54Z;2019-08-28T16:39:32Z
+1402;MDU6SXNzdWUzOTU0NDkwNzA=;{'totalCount': 2};YDKJS: Scope & Closures pg 13 sample code;2019-01-03T03:42:47Z;2019-08-28T16:39:16Z
+1406;MDU6SXNzdWUzOTc2NjM0NjA=;{'totalCount': 1};Elipses ...;2019-01-10T04:02:51Z;2019-01-10T13:41:56Z
+1407;MDU6SXNzdWUzOTc4Njc1MTI=;{'totalCount': 1};I think variable declaration is also an expression;2019-01-10T14:56:05Z;2019-08-28T16:38:53Z
+1408;MDU6SXNzdWUzOTgxNjE2NTQ=;{'totalCount': 2};Engine finding a named variable;2019-01-11T07:20:40Z;2019-01-11T17:38:35Z
+1410;MDU6SXNzdWU0MDAwNTExMzA=;{'totalCount': 3};"""Objects & Protoypes -  Chap 6"" : clarity review";2019-01-16T23:57:33Z;2019-08-28T16:38:32Z
+1412;MDU6SXNzdWU0MDcyNjY3Mjg=;{'totalCount': 6};This & Object Prototypes Ch6 - De-class-ified;2019-02-06T14:41:06Z;2019-02-06T19:29:55Z
+1413;MDU6SXNzdWU0MDc0ODQyMjM=;{'totalCount': 7};Adding that sum is the return of the previous function return;2019-02-06T23:50:56Z;2019-02-07T01:43:20Z
+1414;MDU6SXNzdWU0MDc2MTk0MjE=;{'totalCount': 2};this & Object Prototypes - Ch1, Ch2: call-site and call-stack confusion;2019-02-07T10:00:56Z;2019-08-28T16:38:03Z
+1415;MDU6SXNzdWU0MDc4MDk1NDg=;{'totalCount': 2};Types & Grammar Ch 5 ;2019-02-07T17:19:44Z;2019-08-28T16:37:44Z
+1418;MDU6SXNzdWU0MTA3MTYyNTA=;{'totalCount': 1};the case of Number.isInteger(..) filters out some clearly not-integer values that x === Math.floor(x) could potentially mix up;2019-02-15T11:02:47Z;2019-08-28T16:37:29Z
+1419;MDU6SXNzdWU0MTE1ODc1Mjk=;{'totalCount': 2};Cheat sheet for every chapter;2019-02-18T17:47:29Z;2019-02-23T20:17:10Z
+1421;MDU6SXNzdWU0MTM3NTA1MDM=;{'totalCount': 2};Romanian Translation (hope everyone can join);2019-02-23T22:36:17Z;2019-08-28T16:37:04Z
+1422;MDU6SXNzdWU0MTQ1ODY2NDM=;{'totalCount': 2};types & grammar - ch3 - Natives as Constructors - Array: FF example outdated;2019-02-26T12:27:44Z;2019-02-27T06:11:17Z
+1423;MDU6SXNzdWU0MTQ3MTQzNjQ=;{'totalCount': 1};"""chapter 6: this & Object Prototypes"": error occurs on example code #5 when trying to invoke 'super' on non 'constructor' method";2019-02-26T16:54:19Z;2019-02-26T17:43:38Z
+1424;MDU6SXNzdWU0MTU1ODA0NjI=;{'totalCount': 1};There's two main places typo;2019-02-28T11:37:39Z;2019-08-28T16:36:44Z
+1426;MDU6SXNzdWU0MTU4NDA0OTI=;{'totalCount': 1};"""C/C++"" example is valid C++ but not valid C";2019-02-28T21:53:02Z;2019-08-28T16:36:34Z
+1427;MDU6SXNzdWU0MTU4NzQ5OTE=;{'totalCount': 1};Text references proposal for ES7 which is still in committee review;2019-02-28T23:44:11Z;2019-08-28T16:36:18Z
+1430;MDU6SXNzdWU0MTYwNjg3NTM=;{'totalCount': 1};"Lib include issue in JS BIN exemple from paragraph: ""Reactive Sequences""";2019-03-01T11:51:26Z;2019-08-28T16:35:43Z
+1435;MDU6SXNzdWU0MTkzNDMzNTY=;{'totalCount': 1};Proposal: add a paragraph about WebAssembly;2019-03-11T08:18:57Z;
+1440;MDU6SXNzdWU0MjIwNTExMTA=;{'totalCount': 1};Clarification about value of variable on global object;2019-03-18T06:05:10Z;2019-08-28T16:35:03Z
+1441;MDU6SXNzdWU0MjIwNzIzNDI=;{'totalCount': 1};Up and Going: chapter 1, under subheading 'Variables';2019-03-18T07:27:42Z;2019-08-28T16:34:37Z
+1442;MDU6SXNzdWU0MjQ0ODA4MDc=;{'totalCount': 1};Types & Grammar: Chapter 1: impractical typeof IIFE example;2019-03-23T09:11:54Z;2019-08-28T16:34:07Z
+1445;MDU6SXNzdWU0MjY4MzEyMTQ=;{'totalCount': 3};{} + []gives the same as [] + {}, but book reports differently;2019-03-29T06:04:56Z;2019-03-29T11:34:23Z
+1447;MDU6SXNzdWU0MjcyMzM4MTU=;{'totalCount': 1};Types & Grammer > Chapter 5 > try..finally;2019-03-30T02:52:13Z;2019-08-28T16:33:43Z
+1451;MDU6SXNzdWU0MzI1OTI4Njc=;{'totalCount': 2};this & Object Prototypes Ch: 2;2019-04-12T14:24:51Z;2019-04-12T15:18:27Z
+1452;MDU6SXNzdWU0MzI5MTAwNTA=;{'totalCount': 1};"[this & Object Prototypes] Ch. 5: Term ""currying"" used incorrectly";2019-04-13T23:04:27Z;2019-08-28T16:33:20Z
+1453;MDU6SXNzdWU0MzI5MzE3ODk=;{'totalCount': 2};Contextual error, possibly, in Books 2 Ch. 1;2019-04-14T04:33:57Z;2019-08-28T16:33:06Z
+1454;MDU6SXNzdWU0MzMzMDgzNTg=;{'totalCount': 2};'this' and 'use strict' output in Firefox scratchpad;2019-04-15T14:18:22Z;2019-04-16T10:50:20Z
+1455;MDU6SXNzdWU0MzM1NTc3Njc=;{'totalCount': 2};this & Object Prototypes Ch: 3;2019-04-16T02:41:00Z;2019-04-27T11:19:13Z
+1456;MDU6SXNzdWU0MzQ1NTQ2NDY=;{'totalCount': 5};Brief garbage collection explanation in Chapter 3 on closures.;2019-04-18T01:46:48Z;2019-04-18T16:53:50Z
+1459;MDU6SXNzdWU0MzY3NDQ5NTk=;{'totalCount': 2};Chapter 1: What is Scope? - Poor wording;2019-04-24T14:54:10Z;2019-04-24T15:22:41Z
+1462;MDU6SXNzdWU0Mzg3NzAwNzI=;{'totalCount': 2};Shop selling this ebooks for money;2019-04-30T13:10:37Z;2019-08-28T16:32:51Z
+1467;MDU6SXNzdWU0NDE2Njk1MTU=;{'totalCount': 1};Default Value Expressions Typo;2019-05-08T10:43:35Z;2019-08-28T16:32:41Z
+1469;MDU6SXNzdWU0NDc5Nzk4MTY=;{'totalCount': 1};',' missing in example snippet.;2019-05-24T05:00:55Z;2019-08-28T15:53:28Z
+1471;MDU6SXNzdWU0NDg1MjMyMDM=;{'totalCount': 2};Function declaration hoisting;2019-05-26T03:14:37Z;2019-06-14T04:51:18Z
+1477;MDU6SXNzdWU0NTk0NDE4MDE=;{'totalCount': 5};Variable declaration promotion;2019-06-22T06:07:10Z;2019-08-28T15:52:02Z
+1480;MDU6SXNzdWU0NjQ3MTA0MjY=;{'totalCount': 4};Turkish Translation;2019-07-05T16:36:01Z;2019-08-28T15:51:46Z
+1482;MDU6SXNzdWU0NjU0NDgwOTU=;{'totalCount': 0};"""types & grammar"": no more ""early ReferenceError""";2019-07-08T20:35:45Z;
+1483;MDU6SXNzdWU0Njc1NzE5MzE=;{'totalCount': 1};"""this & object prototypes"": Is it possible that multiple binding rules are applied?";2019-07-12T19:42:34Z;2019-08-28T15:48:55Z
+1484;MDU6SXNzdWU0Njc1ODYxOTI=;{'totalCount': 1};"""this & object prototypes"": confusing phrasing for precedence between hard binding and new binding.";2019-07-12T20:23:28Z;2019-07-12T20:25:40Z
+1485;MDU6SXNzdWU0Njc3Mzk3Mjc=;{'totalCount': 1};"""this & object prototypes"": Is it right to call assignment on property of object as [[Put]], instead of [[Set]]?";2019-07-13T16:23:16Z;2019-08-28T15:47:44Z
+1487;MDU6SXNzdWU0NjgwNjA0NzY=;{'totalCount': 1};"Scopes & closures Ch.3 ""when function is the very first word""";2019-07-15T10:50:15Z;2019-08-28T15:47:15Z
+1489;MDU6SXNzdWU0NzA3ODA2Mzg=;{'totalCount': 0};"Typo in ""up & going"" ch 2";2019-07-21T13:17:00Z;2019-07-21T13:19:46Z
+1490;MDU6SXNzdWU0NzI2MzMzMzM=;{'totalCount': 8};ReDoS;2019-07-25T02:27:53Z;2019-07-25T22:21:01Z
+1491;MDU6SXNzdWU0NzI5NjM4ODc=;{'totalCount': 1};I have a good idea about ”==“;2019-07-25T16:36:59Z;2019-08-28T15:46:41Z
+1492;MDU6SXNzdWU0NzM2NTg1NTA=;{'totalCount': 2};Wrong shape used for `Function` prototype in `fig4` of `this &... / chapter 6`?;2019-07-27T17:13:03Z;2019-07-28T12:55:34Z
+1493;MDU6SXNzdWU0NzM3NTI0MTk=;{'totalCount': 1};Is Parasitic Class 'Car' Example of a Factory Function?;2019-07-28T14:53:34Z;2019-08-28T15:45:43Z
+1494;MDU6SXNzdWU0NzM4ODUzNzU=;{'totalCount': 1};let-er defaults to ES6 now (Scope & Closures -> Appendix B);2019-07-29T07:06:07Z;2019-08-28T15:44:57Z
+1497;MDU6SXNzdWU0NzgyMjY4OTI=;{'totalCount': 1};Scope & Closure:  Back & Forth Part;2019-08-08T03:04:32Z;2019-08-08T21:17:57Z
+1498;MDU6SXNzdWU0ODAxNTI5NTY=;{'totalCount': 1};Why Scope & Closure part don't talk about Execution Conntext;2019-08-13T13:19:36Z;2019-08-28T15:44:20Z
+1499;MDU6SXNzdWU0ODA1NzQzNzU=;{'totalCount': 2};On Understanding of new keyword;2019-08-14T09:26:35Z;2019-08-15T00:19:41Z
+1500;MDU6SXNzdWU0ODE0NTg0MDc=;{'totalCount': 1};"""this & object prototypes"": difference global variable with var and let";2019-08-16T06:16:00Z;2019-08-28T15:44:31Z
+1501;MDU6SXNzdWU0ODE5MjA5NDU=;{'totalCount': 4};Hoisting With Compiler & ScopeManager Conversation;2019-08-17T19:56:59Z;2019-08-17T20:56:20Z
+1503;MDU6SXNzdWU0ODQ5MTQzODI=;{'totalCount': 1};Types & Grammar Chapter 3 Natives run a code example but get an error;2019-08-25T10:19:42Z;2019-08-28T15:43:50Z
+1504;MDU6SXNzdWU0ODYxOTA4NjQ=;{'totalCount': 0};Book links in README do not work;2019-08-28T06:49:08Z;2019-08-28T12:35:39Z
+1505;MDU6SXNzdWU0ODYzMzMwMzM=;{'totalCount': 1};promise resolve function accepts only one parameter;2019-08-28T11:51:59Z;2019-08-28T15:43:33Z
+1506;MDU6SXNzdWU0ODY2NDgwODI=;{'totalCount': 2};"EcmaScript new version  ES5 (and higher) don't use ""activation object"" longer";2019-08-28T22:56:18Z;2019-08-28T23:03:24Z
+1508;MDU6SXNzdWU0ODg0MDg3Nzc=;{'totalCount': 2};Gender;2019-09-03T06:06:20Z;2019-10-14T16:40:31Z
+1509;MDU6SXNzdWU0ODkxNDU1MDA=;{'totalCount': 1};Inappropriate code example;2019-09-04T12:59:40Z;2019-09-04T13:03:56Z
+1510;MDU6SXNzdWU0ODk3OTg3Mzg=;{'totalCount': 0};Scope & Closures: Chapter 2 Lexical Scope - Confusing Wording;2019-09-05T14:26:54Z;2019-09-05T14:58:05Z
+1514;MDU6SXNzdWU1MDA0MzMxMTY=;{'totalCount': 2};Comparison with [] value;2019-09-30T18:06:20Z;2019-09-30T18:35:04Z
+1516;MDU6SXNzdWU1MDIzNTM3ODg=;{'totalCount': 1};Clarify top/last in Implicit Binding;2019-10-03T23:51:57Z;2019-10-14T16:40:53Z
+1517;MDU6SXNzdWU1MDI5Mzk5MzQ=;{'totalCount': 1};"Implicitly Lost With ""Indirect Call""";2019-10-05T09:26:54Z;2019-10-05T17:14:09Z
+1520;MDU6SXNzdWU1MDY0MDk2ODQ=;{'totalCount': 4};Translate into Ukrainian;2019-10-14T01:11:00Z;2019-10-14T09:41:27Z
+1524;MDU6SXNzdWU1MDkxNDA0MzM=;{'totalCount': 2};this-object-prototypes/ch5 - wrong output;2019-10-18T15:07:18Z;2019-10-18T15:41:39Z
+1527;MDU6SXNzdWU1MTI4NjkxMDI=;{'totalCount': 1};Context in Generators;2019-10-26T18:28:40Z;2019-10-26T18:48:29Z
+1528;MDU6SXNzdWU1MTQzMTQ4MTc=;{'totalCount': 0};Getting Started, Chapter 1, example of transpiling code snippet typo;2019-10-30T00:25:45Z;2019-10-31T03:13:54Z
+1531;MDU6SXNzdWU1MTU0MDE5NTg=;{'totalCount': 1};ES.Next & Beyond: Chapter-02: Expected Error doesn't occur;2019-10-31T12:42:32Z;2019-10-31T12:44:46Z
+1532;MDU6SXNzdWU1MTU4NzQ4ODg=;{'totalCount': 1};globalThis.undefined is not reassignable in modern environments;2019-11-01T02:34:30Z;2019-11-01T02:52:13Z
+1533;MDU6SXNzdWU1MTYzNzYwMjg=;{'totalCount': 4};Youtube video translation to slovak;2019-11-01T22:21:28Z;2019-11-12T13:22:22Z
+1534;MDU6SXNzdWU1MTY3MzY3OTg=;{'totalCount': 1};Typo  Get Started, Chapter 2: Getting To Know JS, Values;2019-11-02T22:04:53Z;2019-11-05T15:45:34Z
+1536;MDU6SXNzdWU1MTY4MjA0NTQ=;{'totalCount': 7};Editorial Review - Get Started, Chapter 1;2019-11-03T12:24:32Z;2019-12-09T21:59:33Z
+1537;MDU6SXNzdWU1MTczOTQ5OTg=;{'totalCount': 3};Get Started, Ch. 2: Function Parameter Declaration;2019-11-04T20:53:28Z;2019-11-04T21:20:50Z
+1538;MDU6SXNzdWU1MTc2MjE5NzI=;{'totalCount': 2};"""Types & Grammar"": language type names need to be uppercase or lowercase?";2019-11-05T08:36:18Z;2019-11-05T15:46:13Z
+1541;MDU6SXNzdWU1MTk2MDQyNDA=;{'totalCount': 1};Foreword (by Brian Holt) wrongly redirects to Becky Holt;2019-11-08T01:21:33Z;2019-11-08T02:40:39Z
+1542;MDU6SXNzdWU1MjE0Mjg3OTM=;{'totalCount': 1};Get Started - Practice Compaction ;2019-11-12T09:27:40Z;2019-11-12T13:21:24Z
+1543;MDU6SXNzdWU1MjIzNzE1Mzc=;{'totalCount': 2};YDKJS get-started Ch. 2 for 2nd Edition (miss-wording?);2019-11-13T17:36:27Z;2019-11-13T17:58:35Z
+1544;MDU6SXNzdWU1MjI5MTk1ODk=;{'totalCount': 1};Function Declaration With Block Scope;2019-11-14T15:09:17Z;2019-12-08T19:08:12Z
+1545;MDU6SXNzdWU1MjM0NjE3OTI=;{'totalCount': 1};Editorial Review - Get Started, Chapter 2;2019-11-15T13:11:12Z;2019-12-10T05:53:19Z
+1548;MDU6SXNzdWU1MjQ0MDE5NjQ=;{'totalCount': 2};Scope and Closures, Chapter 1 - confusing wording;2019-11-18T14:27:16Z;2019-12-08T19:07:41Z
+1549;MDU6SXNzdWU1MjQ1NDMxOTk=;{'totalCount': 0};numbersCloseEnoughToEqual function is not valid for all numbers;2019-11-18T18:33:42Z;
+1551;MDU6SXNzdWU1Mjk3NDM2OTk=;{'totalCount': 1};Vietnamese translation request;2019-11-28T07:40:46Z;2019-12-08T19:06:19Z
+1552;MDU6SXNzdWU1Mjk4ODYxNjU=;{'totalCount': 1};Editorial Review, Chapter 3;2019-11-28T12:32:02Z;2019-12-10T20:42:30Z
+1553;MDU6SXNzdWU1MzA3Mzc3MzY=;{'totalCount': 2};Editorial Review, Get Started, Chapter 4;2019-12-01T14:10:52Z;2019-12-10T21:52:37Z
+1556;MDU6SXNzdWU1MzMxMDEyNzk=;{'totalCount': 1};variables scope;2019-12-05T03:30:42Z;2019-12-05T04:55:30Z
+1557;MDU6SXNzdWU1MzMyNDg3OTU=;{'totalCount': 0};Editorial Review, Get Started, Appendix B;2019-12-05T10:08:10Z;2019-12-10T20:49:23Z
+1558;MDU6SXNzdWU1MzMyNTA5NTY=;{'totalCount': 0};Editorial Review, Get Started, Foreword;2019-12-05T10:12:03Z;2019-12-10T20:49:34Z
+1561;MDU6SXNzdWU1MzQ2MDYzOTE=;{'totalCount': 0};typo in function factorial;2019-12-08T21:39:07Z;2019-12-10T15:09:10Z
+1562;MDU6SXNzdWU1MzQ4NDMzMzk=;{'totalCount': 2};Appendix A: Comparison assignment - my Solution;2019-12-09T10:44:59Z;2019-12-09T11:50:46Z
+1565;MDU6SXNzdWU1MzY5NDAxOTI=;{'totalCount': 1};Get Started, 2nd pass editorial review;2019-12-12T12:10:41Z;2019-12-12T14:09:36Z
+1568;MDU6SXNzdWU1NDAyNTYxMTg=;{'totalCount': 6};Can't find PDF of the current book;2019-12-19T11:30:20Z;2019-12-21T18:08:47Z
+1569;MDU6SXNzdWU1NDAyODE3NzA=;{'totalCount': 0};Editorial Review, Scope & Closures, Chapter 1;2019-12-19T12:23:32Z;2020-02-05T00:34:32Z
+1570;MDU6SXNzdWU1NDI4NjI0NDg=;{'totalCount': 0};Editorial Review, Scope & Closures, Chapter 2;2019-12-27T12:37:26Z;2020-02-05T03:08:23Z
+1573;MDU6SXNzdWU1NDQwOTUxNDA=;{'totalCount': 1};Function scoping statement is possibly wrong in 2nd Ed;2019-12-31T05:41:55Z;2019-12-31T17:59:24Z
+1578;MDU6SXNzdWU1NDUyOTI3NDA=;{'totalCount': 0};Editorial Review, Scope & Closures, Chapter 3;2020-01-04T14:44:24Z;2020-02-11T20:35:32Z
+1584;MDU6SXNzdWU1NDU3NDA1NTI=;{'totalCount': 0};Editorial Review, Scope & Closures, Chapter 6;2020-01-06T13:58:18Z;2020-02-11T23:46:11Z
+1586;MDU6SXNzdWU1NDgwMjE5Njk=;{'totalCount': 0};"Get Started, Appendix B - ""Comparison"" Suggested Solution fix";2020-01-10T11:17:26Z;2020-01-15T07:44:57Z
+1588;MDU6SXNzdWU1NDg1NjE5MDQ=;{'totalCount': 3};Add a .epub and a .pdf build, for those who want to read using an e-reader whilst offline;2020-01-12T12:12:26Z;2020-01-12T13:03:53Z
+1594;MDU6SXNzdWU1NTM3OTI0NTQ=;{'totalCount': 1};"Ch1: don't use terms like ""JS6"" or ""ES8""";2020-01-22T21:04:32Z;2020-02-05T03:15:32Z
+1598;MDU6SXNzdWU1NTk5MDExNjY=;{'totalCount': 0};sync & async: research event loop;2020-02-04T18:30:25Z;
+1599;MDU6SXNzdWU1NjE5MzkwODc=;{'totalCount': 0};Book's titles with broken links;2020-02-08T00:32:22Z;2020-02-12T01:00:11Z
+1602;MDU6SXNzdWU1NjYwNjUxMTc=;{'totalCount': 0};types & grammar: research trig math;2020-02-17T05:25:48Z;
+1609;MDU6SXNzdWU1NjkzMDIwMjg=;{'totalCount': 1};Arrays And Objects;2020-02-22T08:22:26Z;2020-02-22T10:20:50Z
+1610;MDU6SXNzdWU1Njk1NDI3OTE=;{'totalCount': 0};Editorial Review, Scope & Closures, Chapter 7;2020-02-23T19:13:02Z;2020-02-29T12:49:11Z
+1611;MDU6SXNzdWU1Njk2NzAzOTM=;{'totalCount': 1};TDZ - let and const hoisting issue;2020-02-24T07:03:33Z;2020-02-27T17:03:26Z
+1612;MDU6SXNzdWU1NzA1Mjg1MjI=;{'totalCount': 0};Editorial Review, Scope & Closures, Chapter 8;2020-02-25T12:15:24Z;2020-03-01T13:28:47Z
+1632;MDU6SXNzdWU1NzM5MTU5NjA=;{'totalCount': 0};Editorial Review, Scope & Closures, Appendix A;2020-03-02T11:38:37Z;2020-03-02T13:11:00Z
+1642;MDU6SXNzdWU1ODEyNDA0OTk=;{'totalCount': 1};async & performance:ch1:Statement Ordering:example code error?;2020-03-14T14:54:29Z;2020-03-14T17:36:25Z
+1646;MDU6SXNzdWU1ODU2OTU3NzY=;{'totalCount': 4};"Chapter 8: Bad syntax in ""export getName;"" in ESM section";2020-03-22T11:19:42Z;2020-03-23T15:17:00Z
+1651;MDU6SXNzdWU1OTIxNzU0Mzg=;{'totalCount': 1};Scope & Closures/Appendix A/Anonymous vs. Named Functions: Error in code example;2020-04-01T20:12:44Z;2020-04-02T02:24:45Z
+1652;MDU6SXNzdWU1OTU5NTQzMTI=;{'totalCount': 1};"Get Started: Appendix B Suggested Solution ""Comparison"" ";2020-04-07T15:26:42Z;2020-04-07T16:02:20Z
+1653;MDU6SXNzdWU2MDIwNzU2ODM=;{'totalCount': 0};Translate to Persian;2020-04-17T15:57:08Z;2020-04-17T15:58:36Z
+1654;MDU6SXNzdWU2MDI4Mjk3NTI=;{'totalCount': 2};A question about syntax for defining functions inside an object;2020-04-19T21:54:22Z;2020-04-19T22:27:19Z
+1655;MDU6SXNzdWU2MDU4NTQ2MTQ=;{'totalCount': 3};Values vs References appendix ;2020-04-23T20:40:21Z;2020-05-01T15:02:59Z
+1657;MDU6SXNzdWU2MDY3Mjg1NDU=;{'totalCount': 2};"""Don't use terms like ""JS6"" or ""ES8"" to refer to the language"", but ""ES6"" is used throughout.";2020-04-25T09:21:20Z;2020-04-26T13:58:07Z
+1659;MDU6SXNzdWU2MDgwNzUzMDc=;{'totalCount': 2};Get-started: Rearrange TOC;2020-04-28T07:01:11Z;2020-05-01T15:02:33Z
+1662;MDU6SXNzdWU2MTA5NTYwMDU=;{'totalCount': 1};Don't used parameter;2020-05-01T20:35:50Z;2020-05-01T21:29:51Z
+1663;MDU6SXNzdWU2MTExODI4OTM=;{'totalCount': 1};this & object prototypes, Setting & Shadowing Properties;2020-05-02T12:56:03Z;2020-05-02T14:04:22Z
+1666;MDU6SXNzdWU2MTUwODQ3NDU=;{'totalCount': 1};Scope-Closures chapter 7 typo;2020-05-09T03:56:53Z;

@@ -1,0 +1,250 @@
+number;id;comments;title;createdAt;closedAt
+5;MDU6SXNzdWUzNzc0NTM3OQ==;{'totalCount': 2};Node.js a programming language?;2014-07-13T17:13:17Z;2014-07-13T22:34:09Z
+20;MDU6SXNzdWUzODkwMjY1OA==;{'totalCount': 1};Have you considered breaking + regrouping Miscellaneous section?;2014-07-28T15:40:44Z;2014-07-28T23:31:26Z
+33;MDU6SXNzdWU0MjYwNjY2Nw==;{'totalCount': 1};Awesome Radio;2014-09-12T08:23:55Z;2014-09-14T16:18:49Z
+51;MDU6SXNzdWU1MDU2OTI4MA==;{'totalCount': 1};Suggestion;2014-12-01T20:17:27Z;2014-12-02T09:57:14Z
+73;MDU6SXNzdWU1NDYzMjE3Mg==;{'totalCount': 2};Suggestion.;2015-01-16T22:20:18Z;2015-01-17T07:53:24Z
+107;MDU6SXNzdWU2Njg3Nzk3NA==;{'totalCount': 1};AwesomeOpenSource;2015-04-07T13:08:23Z;2015-04-08T05:24:06Z
+112;MDU6SXNzdWU3MTk4OTcxMQ==;{'totalCount': 1};Arrange the lists in alphabetical Order.;2015-04-29T21:06:30Z;2015-04-29T21:09:00Z
+114;MDU6SXNzdWU3Mjc3NTU1MQ==;{'totalCount': 0};"Underscore character in front of the ""Basics"" section under Haskell";2015-05-03T08:58:43Z;2015-05-03T09:00:40Z
+118;MDU6SXNzdWU3MzQ5NTc4NA==;{'totalCount': 4};"Please add the list of ""Open Source Clones of Popular Games""";2015-05-06T02:50:29Z;2015-05-11T15:39:42Z
+128;MDU6SXNzdWU3NzAzMTQwMg==;{'totalCount': 1};List of useful Git Hook and .gitignore files;2015-05-16T12:44:40Z;2015-05-16T14:53:15Z
+129;MDU6SXNzdWU3NzAzMzUzMg==;{'totalCount': 1};O'Reilly Media Inc;2015-05-16T12:59:49Z;2015-05-16T14:51:48Z
+130;MDU6SXNzdWU3NzM1OTI5OQ==;{'totalCount': 6};you dont know js;2015-05-17T17:58:59Z;2015-05-17T18:05:10Z
+138;MDU6SXNzdWU3ODI2MTk0OA==;{'totalCount': 1};"Add ""Mad Science Modules""";2015-05-19T21:43:04Z;2015-05-19T21:46:31Z
+143;MDU6SXNzdWU3ODY0MjUyMA==;{'totalCount': 13};More categories;2015-05-20T18:42:58Z;2015-06-22T23:50:10Z
+147;MDU6SXNzdWU3OTAxMTM0MQ==;{'totalCount': 2};Add Regex;2015-05-21T14:12:03Z;2015-05-21T16:12:13Z
+151;MDU6SXNzdWU3OTM4ODg0Ng==;{'totalCount': 2};Suggestion;2015-05-22T10:05:00Z;2015-05-22T13:43:43Z
+153;MDU6SXNzdWU3OTU4MzgwNQ==;{'totalCount': 18};Local awesome lists;2015-05-22T19:46:05Z;2019-02-26T19:40:23Z
+157;MDU6SXNzdWU4MDU5OTk2OQ==;{'totalCount': 3};Consider merging with bayandin/awesome-awesomeness;2015-05-25T17:01:42Z;2015-06-07T15:39:03Z
+167;MDU6SXNzdWU4Mjk2MDk3Mg==;{'totalCount': 3};awesome-c no longer maintained on GitHub;2015-05-31T01:05:43Z;2015-05-31T02:20:51Z
+177;MDU6SXNzdWU4NDMwMjUzMw==;{'totalCount': 5};Organizing the michellaneous category alphabetically;2015-06-03T01:42:24Z;2015-06-03T09:31:56Z
+184;MDU6SXNzdWU4NTkyMjE2OQ==;{'totalCount': 1};Remove git-cheat-sheet and github-cheat-sheet?;2015-06-07T17:39:31Z;2015-06-07T17:52:43Z
+187;MDU6SXNzdWU4NzcyNjUyMA==;{'totalCount': 4};Shouldn't Git and GitHub cheatsheets go to Development category?;2015-06-12T13:19:36Z;2015-06-12T18:12:50Z
+188;MDU6SXNzdWU4NzcyNzg2NQ==;{'totalCount': 4};Linux resources?;2015-06-12T13:23:40Z;2015-06-23T00:05:22Z
+200;MDU6SXNzdWU5MDMyMDM2NA==;{'totalCount': 2};Awesome Vanilla Javascript;2015-06-23T08:14:16Z;2015-06-23T10:27:06Z
+206;MDU6SXNzdWU5MDU0MjEzOQ==;{'totalCount': 1};nzakas/computer-science-in-javascript;2015-06-24T02:12:31Z;2015-06-24T08:47:33Z
+207;MDU6SXNzdWU5MDYyMzQ5Ng==;{'totalCount': 28};Improve the awesome list ecoystem;2015-06-24T09:30:22Z;2015-07-09T13:07:19Z
+213;MDU6SXNzdWU5MTQ2NDA2Ng==;{'totalCount': 18};Badge;2015-06-27T13:23:39Z;2015-07-30T16:04:05Z
+216;MDU6SXNzdWU5MTg0Mzg1Nw==;{'totalCount': 9};Shouldn't the master list be ordered alphabetically?;2015-06-29T15:59:47Z;2015-06-30T15:23:54Z
+219;MDU6SXNzdWU5MjEyMTIzMQ==;{'totalCount': 7};Regular Expression ;2015-06-30T15:15:45Z;2015-06-30T15:32:01Z
+222;MDU6SXNzdWU5MjQ3ODg2MA==;{'totalCount': 1};Awesome list of Responsive Web Design resources;2015-07-01T20:30:44Z;2015-07-02T02:04:24Z
+227;MDU6SXNzdWU5MzYzMjA4Nw==;{'totalCount': 4};Is there section for CMS's?;2015-07-07T21:20:55Z;2015-07-07T22:51:56Z
+228;MDU6SXNzdWU5MzY3NTM0Ng==;{'totalCount': 3};awesome-productivity;2015-07-08T02:30:58Z;2015-07-14T18:32:50Z
+229;MDU6SXNzdWU5NDQ0NTgxMQ==;{'totalCount': 2};Guidance on what the name of a list that contains these entries should be?;2015-07-11T06:45:29Z;2015-07-23T07:14:25Z
+230;MDU6SXNzdWU5NDUwMDgzNw==;{'totalCount': 1};awesome mobile;2015-07-11T19:29:03Z;2015-07-11T19:44:47Z
+232;MDU6SXNzdWU5NTQxOTMzMQ==;{'totalCount': 1};Add awesome-linuxaudio;2015-07-16T12:05:26Z;2015-07-16T15:06:35Z
+253;MDU6SXNzdWU5ODIwODA2OQ==;{'totalCount': 128};Add badge to existing lists;2015-07-30T16:16:34Z;2016-10-26T09:05:55Z
+254;MDU6SXNzdWU5ODYzODA2OQ==;{'totalCount': 1};Add Awesome Information Security ;2015-08-02T21:15:14Z;2015-08-02T23:24:31Z
+258;MDU6SXNzdWU5OTI4NDMxNg==;{'totalCount': 1};Table of content for each section?;2015-08-05T19:47:37Z;2015-08-05T19:49:26Z
+266;MDU6SXNzdWUxMDAzOTMwODg=;{'totalCount': 2};contributing.md shows info for creating lists;2015-08-11T19:45:43Z;2015-08-25T11:37:24Z
+269;MDU6SXNzdWUxMDA4MTEyNDU=;{'totalCount': 7};How can we get non-git users to contribute PRs to awesome lists?;2015-08-13T16:18:28Z;2015-08-21T06:54:36Z
+289;MDU6SXNzdWUxMDI4NjczOTQ=;{'totalCount': 1};Implementation of awesome-sample-apps;2015-08-24T19:00:00Z;2015-08-25T11:38:13Z
+291;MDU6SXNzdWUxMDMwMTgwMTE=;{'totalCount': 8};Static Site Generator;2015-08-25T13:07:05Z;2015-12-28T18:37:38Z
+298;MDU6SXNzdWUxMDM2OTI5Njk=;{'totalCount': 1};Badge height;2015-08-28T10:27:48Z;2015-08-28T15:12:23Z
+304;MDU6SXNzdWUxMDUwMjIzODM=;{'totalCount': 1};What about Alphabetization?;2015-09-05T11:44:00Z;2015-09-05T12:27:54Z
+323;MDU6SXNzdWUxMDY5NjY4MjA=;{'totalCount': 1};CoffeeScript;2015-09-17T11:54:09Z;2015-09-18T04:11:10Z
+340;MDU6SXNzdWUxMDkxMDMwNzY=;{'totalCount': 3};Add awesome-gamedev;2015-09-30T14:25:03Z;2015-10-03T17:48:37Z
+349;MDU6SXNzdWUxMTA3MzYwMTM=;{'totalCount': 6};NoSQL;2015-10-09T21:06:29Z;2019-02-26T07:33:09Z
+360;MDU6SXNzdWUxMTIwMzE5Njc=;{'totalCount': 5};Include Awesome AWS in the list;2015-10-18T17:49:52Z;2015-10-18T17:54:33Z
+365;MDU6SXNzdWUxMTI1MTM5NjM=;{'totalCount': 4};The awesome-c that you have listed here is very far behind mine;2015-10-21T05:09:56Z;2015-11-27T18:44:10Z
+409;MDU6SXNzdWUxMTU4NzkwNTI=;{'totalCount': 2};Starting my awesome list, DevOps;2015-11-09T13:44:13Z;2015-11-09T21:07:25Z
+410;MDU6SXNzdWUxMTYwMjQ0NDg=;{'totalCount': 1};Website?;2015-11-10T04:38:14Z;2015-11-10T07:44:54Z
+414;MDU6SXNzdWUxMTY1MzA0NjE=;{'totalCount': 2};Maintainer wanted for COBOL list;2015-11-12T11:20:33Z;2015-11-16T10:47:30Z
+418;MDU6SXNzdWUxMTc1NzQ4MTY=;{'totalCount': 2};Create a sub-category in vim for vim configration;2015-11-18T12:18:58Z;2015-11-18T18:05:26Z
+424;MDU6SXNzdWUxMTgyOTcyNTU=;{'totalCount': 3};For Girls.;2015-11-22T23:11:45Z;2015-11-23T05:53:38Z
+427;MDU6SXNzdWUxMTkwODM5NjU=;{'totalCount': 25};Website for searching in awesome.;2015-11-26T17:34:26Z;2019-02-26T19:46:36Z
+435;MDU6SXNzdWUxMTk5NDAxNTE=;{'totalCount': 2};make each category listed in alpabetacale order;2015-12-02T13:28:45Z;2015-12-02T13:31:40Z
+444;MDU6SXNzdWUxMjE2NDExMjg=;{'totalCount': 1};Meteor + TheIntern.io - Automate Testing Link;2015-12-11T05:33:37Z;2015-12-11T10:27:06Z
+470;MDU6SXNzdWUxMjUzOTMwMDQ=;{'totalCount': 4};found a bunch of repos that are maybe not in here;2016-01-07T13:23:08Z;2016-01-07T21:56:33Z
+477;MDU6SXNzdWUxMjYzNzg1Nzk=;{'totalCount': 8};Mongo?;2016-01-13T09:39:37Z;2016-01-13T11:37:27Z
+479;MDU6SXNzdWUxMjY5NDE2NDQ=;{'totalCount': 7};Non-english lists;2016-01-15T19:36:10Z;2016-01-16T14:38:54Z
+501;MDU6SXNzdWUxMjgzNTA3NTI=;{'totalCount': 1};API to search / fetch awesome data;2016-01-23T20:32:44Z;2016-01-23T20:44:01Z
+504;MDU6SXNzdWUxMjg2MTk3NjE=;{'totalCount': 6};Helping reader find most relevant content;2016-01-25T19:40:20Z;
+516;MDU6SXNzdWUxMzAyMjM4OTg=;{'totalCount': 1};Do you think conventional-changelog belongs here?;2016-02-01T01:15:56Z;2016-02-01T06:21:45Z
+517;MDU6SXNzdWUxMzA3MzUzNjg=;{'totalCount': 1};A possible duplicate but a different layout;2016-02-02T16:25:16Z;2016-02-10T16:00:35Z
+537;MDU6SXNzdWUxMzQxOTQ5Mzg=;{'totalCount': 2};awesome can be used to do?;2016-02-17T06:44:12Z;2016-02-17T11:52:36Z
+544;MDU6SXNzdWUxMzU4NTAzNDQ=;{'totalCount': 3};Can I order pizza here?;2016-02-23T20:08:26Z;2016-02-23T20:13:14Z
+548;MDU6SXNzdWUxMzY4NjY4NDI=;{'totalCount': 1};Revisit applying alpha sorting of lists;2016-02-27T02:27:21Z;2016-02-27T13:04:11Z
+550;MDU6SXNzdWUxMzY5MTY4Mjg=;{'totalCount': 7};Helping sorting the Miscellaneous category;2016-02-27T13:07:20Z;2019-02-26T19:39:57Z
+556;MDU6SXNzdWUxMzgyMzIzMTM=;{'totalCount': 2};Receiving support? ;2016-03-03T16:46:56Z;2016-03-03T19:42:07Z
+569;MDU6SXNzdWUxNDAwMzY5Njc=;{'totalCount': 5};Tools for enforcing awesome-style?;2016-03-10T23:16:17Z;2019-02-26T19:36:57Z
+592;MDU6SXNzdWUxNDQwNDYzODA=;{'totalCount': 2};Awesome Birmingham?;2016-03-28T18:30:31Z;2016-06-23T15:23:43Z
+621;MDU6SXNzdWUxNDg4MTIzODg=;{'totalCount': 1};awesome-android;2016-04-16T03:25:32Z;2016-04-17T12:00:33Z
+623;MDU6SXNzdWUxNDg4NjM1MzY=;{'totalCount': 2};awesome-cpu;2016-04-16T15:37:47Z;2016-04-17T12:01:00Z
+628;MDU6SXNzdWUxNDk1MjIyNzY=;{'totalCount': 17};No longer actively maintained repositories;2016-04-19T17:07:16Z;
+633;MDU6SXNzdWUxNTEwNDE4NTM=;{'totalCount': 2};Add a new category - Lists various websites where one can practice coding;2016-04-26T04:56:02Z;2016-04-27T05:43:08Z
+643;MDU6SXNzdWUxNTMxNjY4NTU=;{'totalCount': 0};Getting more done in GitHub with ZenHub;2016-05-05T04:41:16Z;2016-05-05T04:43:20Z
+650;MDU6SXNzdWUxNTM3NTU3ODY=;{'totalCount': 1};"PR template to ""enforce"" contribution guidelines?";2016-05-09T11:25:36Z;2016-05-31T09:52:08Z
+661;MDU6SXNzdWUxNTU3MjgwNjQ=;{'totalCount': 1};"Request awesome list ""admins"" to move repos to awesome-lists organization";2016-05-19T12:46:26Z;2016-05-19T12:51:55Z
+663;MDU6SXNzdWUxNTYzNjI0MTM=;{'totalCount': 4};Encryption list;2016-05-23T20:42:59Z;2019-02-26T19:41:44Z
+671;MDU6SXNzdWUxNTczODUzMjk=;{'totalCount': 7};Awesome Windows Repository;2016-05-29T13:01:07Z;2016-06-06T18:23:57Z
+677;MDU6SXNzdWUxNTc5NzExNjg=;{'totalCount': 4};proposal for adding awesome-nlp to the list;2016-06-01T18:07:41Z;2016-10-05T19:13:38Z
+683;MDU6SXNzdWUxNTkzNDMyMDM=;{'totalCount': 14};Review bot?;2016-06-09T07:21:24Z;2019-02-26T19:49:33Z
+685;MDU6SXNzdWUxNTk0NDgxMzM=;{'totalCount': 2};Awesome biohacking;2016-06-09T16:11:49Z;2016-06-09T19:04:34Z
+687;MDU6SXNzdWUxNTk5NzkyNjg=;{'totalCount': 1};Create page(s) for this awesome awesome repo on the zeef.com;2016-06-13T15:33:01Z;2016-06-13T15:45:06Z
+693;MDU6SXNzdWUxNjA5ODk1NjE=;{'totalCount': 1};addition of best practices list;2016-06-17T22:56:55Z;2016-06-17T23:17:26Z
+699;MDU6SXNzdWUxNjIyNTYxMjI=;{'totalCount': 0};Awesome;2016-06-25T01:20:52Z;2016-06-25T01:21:00Z
+703;MDU6SXNzdWUxNjMyODMzNTM=;{'totalCount': 2};A single page application for awesome lists;2016-06-30T22:47:56Z;2016-07-06T06:33:26Z
+709;MDU6SXNzdWUxNjQ2NjcyMTc=;{'totalCount': 2};Provide a TravisCI script that automatically adds/removes 'NEW' labels to awesome entries ;2016-07-09T13:33:46Z;2016-07-09T13:55:17Z
+714;MDU6SXNzdWUxNjQ3MjAwNDk=;{'totalCount': 2};Add an Awesome Redux List;2016-07-10T15:19:05Z;2016-07-26T15:27:10Z
+717;MDU6SXNzdWUxNjU5NzkxOTM=;{'totalCount': 1};why there is no ext.js;2016-07-17T14:33:36Z;2016-07-17T15:37:02Z
+718;MDU6SXNzdWUxNjU5ODIzNzI=;{'totalCount': 8};Curated list maintained by the community;2016-07-17T15:53:16Z;2019-02-26T19:38:08Z
+731;MDU6SXNzdWUxNjk2MTM4NTQ=;{'totalCount': 1};Proposal for adding TastyToast;2016-08-05T14:00:45Z;2016-08-05T14:18:52Z
+732;MDU6SXNzdWUxNjk2OTYxNjQ=;{'totalCount': 19};More non-{tech,science} awesome lists please!;2016-08-05T21:03:56Z;
+736;MDU6SXNzdWUxNzAyMzg2MzE=;{'totalCount': 1};Awesome code analysis;2016-08-09T18:34:43Z;2016-08-09T18:39:04Z
+748;MDU6SXNzdWUxNzIyNjU4MTU=;{'totalCount': 8};Responsibility of the maintainer to respond in a timely fashion..;2016-08-20T10:59:04Z;
+752;MDU6SXNzdWUxNzMxODIyMTM=;{'totalCount': 1};Please add Awesome Linux Software;2016-08-25T11:48:40Z;2016-08-25T14:52:12Z
+757;MDU6SXNzdWUxNzUyMTgyMTk=;{'totalCount': 1};Link to awesome-postgres;2016-09-06T10:56:27Z;2016-09-06T11:08:14Z
+767;MDU6SXNzdWUxNzc2NDgwODg=;{'totalCount': 3};Front-end for Awesome lists;2016-09-18T12:08:07Z;2019-02-26T19:39:27Z
+772;MDU6SXNzdWUxNzkxMTc1Nzg=;{'totalCount': 3};PR for awesome-flow;2016-09-26T00:06:06Z;2016-09-26T03:03:13Z
+784;MDU6SXNzdWUxODEzNDI5Nzk=;{'totalCount': 45};How to grow Awesome?;2016-10-06T07:31:00Z;
+801;MDU6SXNzdWUxODM3NDg1Nzg=;{'totalCount': 2};awsome pokemon should go under games category?;2016-10-18T17:12:40Z;2016-10-19T16:23:49Z
+824;MDU6SXNzdWUxOTAwMzc3NTQ=;{'totalCount': 1};No Licence file;2016-11-17T12:47:05Z;2016-11-18T04:19:45Z
+835;MDU6SXNzdWUxOTMyOTA1Mjg=;{'totalCount': 1};Awesome logo and badge?;2016-12-03T14:40:22Z;2016-12-03T16:45:13Z
+850;MDU6SXNzdWUxOTc0MDg0NDI=;{'totalCount': 3};Broken links on http://awesomeawesome.party/;2016-12-23T18:05:03Z;2016-12-23T18:29:12Z
+872;MDU6SXNzdWUyMDI0MDQzMDE=;{'totalCount': 6};Media > GIF link broken;2017-01-22T19:38:21Z;2017-01-22T20:20:49Z
+873;MDU6SXNzdWUyMDMzODExNjY=;{'totalCount': 5};Meta list for programming libraries;2017-01-26T14:15:13Z;2019-02-26T19:40:57Z
+891;MDU6SXNzdWUyMDk1MjYzOTY=;{'totalCount': 12};This is awesome;2017-02-22T17:34:22Z;2017-02-22T17:34:26Z
+908;MDU6SXNzdWUyMTQwOTczMTI=;{'totalCount': 0};New suggestion for requirement for awesome list - github topic tags;2017-03-14T14:51:42Z;2017-04-01T06:10:09Z
+922;MDU6SXNzdWUyMTc1NjIwMTQ=;{'totalCount': 1};Pi Dashboard;2017-03-28T13:36:08Z;2017-03-28T13:40:17Z
+926;MDU6SXNzdWUyMTg2NzI1OTE=;{'totalCount': 9};List maintainers → Ensure your list is still awesome;2017-04-01T05:54:46Z;2019-02-26T19:41:51Z
+927;MDU6SXNzdWUyMTg2NzQxODc=;{'totalCount': 16};List maintainer looking for help;2017-04-01T06:29:57Z;2019-02-26T19:43:40Z
+928;MDU6SXNzdWUyMTg2NzUwMTg=;{'totalCount': 16};Let's add description to entries;2017-04-01T06:45:48Z;2019-09-23T09:44:07Z
+929;MDU6SXNzdWUyMTg5ODUxNTk=;{'totalCount': 6};chinese version?;2017-04-03T16:12:26Z;2017-04-04T14:12:44Z
+937;MDU6SXNzdWUyMjIzMjE1NjA=;{'totalCount': 1};My list;2017-04-18T07:04:13Z;2017-04-18T07:40:42Z
+958;MDU6SXNzdWUyMjc5ODYzNTY=;{'totalCount': 3};Forking courtesy call, close after reading.;2017-05-11T13:11:45Z;2017-05-11T13:26:06Z
+961;MDU6SXNzdWUyMjkxMTA5NjE=;{'totalCount': 4};Question: Descriptions;2017-05-16T17:30:42Z;2017-05-16T17:53:24Z
+975;MDU6SXNzdWUyMzE4ODUxOTY=;{'totalCount': 3};awesome-js site, analogous to awesome-ruby.com?;2017-05-28T18:22:13Z;2017-05-29T11:41:13Z
+977;MDU6SXNzdWUyMzIxMDg2MTc=;{'totalCount': 6};Where's Ada?;2017-05-29T22:46:16Z;2017-06-02T08:22:18Z
+979;MDU6SXNzdWUyMzMxMDgxMzc=;{'totalCount': 1};inclusion of ORM's in the list;2017-06-02T08:11:28Z;2017-06-02T08:21:46Z
+1003;MDU6SXNzdWUyNDI0MzMwOTc=;{'totalCount': 3};Help Wanted - Awesome Infosec;2017-07-12T16:03:16Z;2019-02-26T19:30:58Z
+1005;MDU6SXNzdWUyNDI5Mjg0ODU=;{'totalCount': 2};Not Awesome ES6 Classes;2017-07-14T08:15:39Z;2017-07-17T13:24:43Z
+1006;MDU6SXNzdWUyNDMwNDg3MTQ=;{'totalCount': 3};Templates for hosting awesome pages in gh-pages?;2017-07-14T16:38:38Z;2017-07-15T10:04:45Z
+1008;MDU6SXNzdWUyNDMyMjg4OTY=;{'totalCount': 2};Why are related lists not in Security section?;2017-07-16T09:42:06Z;2017-07-16T12:44:09Z
+1026;MDU6SXNzdWUyNTEwNTc5NDQ=;{'totalCount': 1};Best section to add Shopping cart;2017-08-17T20:10:35Z;2017-08-20T02:56:48Z
+1031;MDU6SXNzdWUyNTE4NTUzNTE=;{'totalCount': 1};Sort the Programming Languages section;2017-08-22T06:53:53Z;2017-08-22T07:00:00Z
+1035;MDU6SXNzdWUyNTMyODQ1NzM=;{'totalCount': 2};Help wanted - Awesome CSS;2017-08-28T10:08:15Z;2018-08-10T09:19:44Z
+1036;MDU6SXNzdWUyNTMyODUxNTg=;{'totalCount': 1};Add tips on README;2017-08-28T10:11:01Z;2019-02-26T19:43:03Z
+1040;MDU6SXNzdWUyNTQ1NDE4NTY=;{'totalCount': 1};Localized Content;2017-09-01T05:45:51Z;2019-02-26T19:44:15Z
+1048;MDU6SXNzdWUyNTgyOTA2Mjc=;{'totalCount': 5};Mentioned in Awesome badge/shield;2017-09-17T09:20:19Z;2017-10-22T08:11:03Z
+1051;MDU6SXNzdWUyNTg2OTEyNDM=;{'totalCount': 1};Add Awesome Mac, 1.4w+ Star;2017-09-19T04:15:23Z;2017-09-23T10:33:42Z
+1057;MDU6SXNzdWUyNTkyNDQxMDA=;{'totalCount': 1};Add Apps for Live Streaming;2017-09-20T17:36:27Z;2017-09-20T18:16:24Z
+1063;MDU6SXNzdWUyNjAwMTYyMTY=;{'totalCount': 3};Policy on replacing a link?;2017-09-23T15:42:43Z;
+1065;MDU6SXNzdWUyNjAxMDExNDA=;{'totalCount': 1};[question] Add travis CI to verify links in readme.md on PR;2017-09-24T17:31:50Z;2019-02-26T19:42:51Z
+1072;MDU6SXNzdWUyNjE3NjI3MjE=;{'totalCount': 2};Help wanted adding a list;2017-09-29T20:32:39Z;2017-10-09T02:12:48Z
+1088;MDU6SXNzdWUyNjQzMDQ5MzU=;{'totalCount': 3};Awesome Hacking;2017-10-10T17:05:50Z;2018-10-09T01:38:07Z
+1101;MDU6SXNzdWUyNjY4NDM2NjE=;{'totalCount': 0};Awesome mentioned in a science journal;2017-10-19T13:32:15Z;2019-02-27T03:05:47Z
+1104;MDU6SXNzdWUyNjc1MjM2ODA=;{'totalCount': 1};Awesome comments list;2017-10-23T02:26:53Z;2019-02-26T19:44:04Z
+1109;MDU6SXNzdWUyNjg1MTY2NDI=;{'totalCount': 1};Alphabatize;2017-10-25T19:17:58Z;2017-10-26T08:06:19Z
+1118;MDU6SXNzdWUyNjk3OTE5ODQ=;{'totalCount': 0};broken link in contributing.md;2017-10-30T23:59:47Z;2017-11-03T15:43:40Z
+1138;MDU6SXNzdWUyNzUzMDMwMTI=;{'totalCount': 1};Awesome Presentations;2017-11-20T10:20:38Z;2019-02-26T19:45:03Z
+1140;MDU6SXNzdWUyNzU1NTQwMDk=;{'totalCount': 0};Help wanted - awesome-discord;2017-11-21T01:22:21Z;2017-12-03T17:37:47Z
+1146;MDU6SXNzdWUyNzY0NjU0MDE=;{'totalCount': 1};Request For Comments: Awesome UNIX;2017-11-23T20:12:46Z;2018-07-05T16:22:56Z
+1147;MDU6SXNzdWUyNzY1MDUxMjM=;{'totalCount': 2};In need of help: awesome-cli (and soon awesome-bot);2017-11-24T03:16:25Z;2017-11-24T19:12:51Z
+1148;MDU6SXNzdWUyNzY3NDEzMTI=;{'totalCount': 1};Remove codesponsor from README by 8th Dec 17;2017-11-25T10:33:10Z;2017-11-25T10:58:13Z
+1151;MDU6SXNzdWUyNzY5MTEyODE=;{'totalCount': 1};Awesome-cl-software;2017-11-27T06:13:32Z;2017-11-28T21:13:16Z
+1153;MDU6SXNzdWUyNzgwMzM5NzI=;{'totalCount': 1};"""HEIC Converter"" mentioned in README is not actually free";2017-11-30T08:22:01Z;2017-11-30T10:29:00Z
+1165;MDU6SXNzdWUyODI3ODEzMTU=;{'totalCount': 1};Awesome wasm;2017-12-18T06:58:58Z;2019-02-26T19:32:12Z
+1170;MDU6SXNzdWUyODQ1ODMxMTY=;{'totalCount': 4};Question about list format: can you use tables?;2017-12-26T17:00:55Z;2017-12-27T14:05:09Z
+1176;MDU6SXNzdWUyODUxOTc1Njc=;{'totalCount': 3};awesome-web-security has most of its resources in Chinese;2017-12-30T11:16:27Z;2019-02-27T02:56:23Z
+1184;MDU6SXNzdWUyODg1Njg5MzA=;{'totalCount': 5};Why is Ripple under decentralized systems? It's centralized.;2018-01-15T11:51:37Z;2018-07-28T16:50:24Z
+1193;MDU6SXNzdWUyOTE3NDY0MDg=;{'totalCount': 2};Add link to awesome-developer-streams;2018-01-25T23:02:12Z;2019-02-27T02:59:20Z
+1196;MDU6SXNzdWUyOTIwNzQ3MDA=;{'totalCount': 2};Awesome Geospatial;2018-01-27T00:58:10Z;2018-07-28T16:37:31Z
+1198;MDU6SXNzdWUyOTI4MTQ3MTQ=;{'totalCount': 4};Fork Awesome Open Source Games?;2018-01-30T15:01:54Z;
+1201;MDU6SXNzdWUyOTM1NTE4OTI=;{'totalCount': 2};awesome not resizing with Xephyr;2018-02-01T14:33:34Z;2018-02-02T02:28:50Z
+1203;MDU6SXNzdWUyOTM5MTQyNjI=;{'totalCount': 1};awesome-package-manager ;2018-02-02T14:55:08Z;2018-05-07T16:13:27Z
+1204;MDU6SXNzdWUyOTM5NTAxMDc=;{'totalCount': 1};Harbour programming languages;2018-02-02T16:41:52Z;2018-02-03T10:37:46Z
+1206;MDU6SXNzdWUyOTQ4NjA0NzA=;{'totalCount': 1};About license other than creative commons;2018-02-06T18:12:42Z;2018-02-07T06:04:50Z
+1208;MDU6SXNzdWUyOTYxNTQ1ODQ=;{'totalCount': 2};About awesome-scalability;2018-02-11T02:49:55Z;2018-02-11T11:54:15Z
+1209;MDU6SXNzdWUyOTYxOTcyMjM=;{'totalCount': 2};devhints.io - Where in this list would this fit in?;2018-02-11T15:14:31Z;2018-07-28T16:38:05Z
+1210;MDU6SXNzdWUyOTYyNzMxMDM=;{'totalCount': 2};Awesome Websites;2018-02-12T05:51:50Z;2018-07-28T16:39:26Z
+1221;MDU6SXNzdWUyOTg0NTUzMTY=;{'totalCount': 1};Spanish translation.;2018-02-20T02:40:31Z;2018-02-20T02:44:09Z
+1225;MDU6SXNzdWUyOTk5NzczNjE=;{'totalCount': 1};Link in contributing.md directs to non-functional webpage;2018-02-24T22:14:40Z;2018-02-24T23:36:37Z
+1227;MDU6SXNzdWUzMDAzNzE3Mjk=;{'totalCount': 1};Consider appending `#readme` to all awesome lists links;2018-02-26T19:48:11Z;2018-07-05T05:47:34Z
+1236;MDU6SXNzdWUzMDI0OTY0Mzk=;{'totalCount': 2};Proposal to add awesome-nlp to the list;2018-03-05T22:53:04Z;2019-02-27T02:57:42Z
+1244;MDU6SXNzdWUzMDQwNDgzMzQ=;{'totalCount': 1};Proposal to add awesome-filter to the list;2018-03-10T06:57:28Z;2018-03-10T08:17:02Z
+1250;MDU6SXNzdWUzMDY1NjU2ODk=;{'totalCount': 2};Effective Altruism link 404;2018-03-19T17:46:34Z;2018-03-22T14:22:50Z
+1251;MDU6SXNzdWUzMDcyNjQ1NTU=;{'totalCount': 2};Add swag-for-dev?;2018-03-21T14:19:29Z;2018-05-01T12:41:14Z
+1255;MDU6SXNzdWUzMDgzMjU2NDc=;{'totalCount': 5};Proposal to add Awesome engineering Vlog (youtube, vimeo etc);2018-03-25T06:15:20Z;2019-02-27T03:00:01Z
+1256;MDU6SXNzdWUzMDk2NDI2ODg=;{'totalCount': 1};Proposal to add awesome-blazor to the list;2018-03-29T07:07:56Z;2018-03-31T19:17:36Z
+1258;MDU6SXNzdWUzMDk4Njc4Nzg=;{'totalCount': 2};Offering the option to use flat badges;2018-03-29T19:01:50Z;2018-04-16T08:41:56Z
+1263;MDU6SXNzdWUzMTEwOTAzMzA=;{'totalCount': 0};project designing;2018-04-04T05:27:51Z;2018-04-04T06:09:08Z
+1266;MDU6SXNzdWUzMTE5NzA3MDI=;{'totalCount': 1};Add P2P;2018-04-06T13:13:09Z;2018-04-08T09:12:47Z
+1281;MDU6SXNzdWUzMTg3NTMyMTQ=;{'totalCount': 1};Adding Back to Top Link;2018-04-29T21:51:15Z;2018-04-30T11:40:58Z
+1282;MDU6SXNzdWUzMTg4NDU3Mzk=;{'totalCount': 8};Adding non-English resources to a themed list?;2018-04-30T10:26:28Z;
+1283;MDU6SXNzdWUzMTg5ODIwNTQ=;{'totalCount': 5};I made a tool: mmarkdown;2018-04-30T18:07:57Z;2018-05-01T02:42:38Z
+1287;MDU6SXNzdWUzMTkxMTMxNDU=;{'totalCount': 2};[RFC] - Introducing mmarkdown;2018-05-01T04:31:29Z;2018-05-01T04:35:02Z
+1288;MDU6SXNzdWUzMTkxNDMzNzc=;{'totalCount': 1};[Suggestion] Add awesome-podcasts;2018-05-01T08:18:23Z;2018-05-01T12:37:16Z
+1299;MDU6SXNzdWUzMjMxNTgxNDY=;{'totalCount': 2};Add awesome-ethereum;2018-05-15T10:28:21Z;2018-07-28T16:36:25Z
+1306;MDU6SXNzdWUzMjQ1Mjg4NzU=;{'totalCount': 3};Proposal to add awesome-db-tools;2018-05-18T19:38:49Z;2018-07-28T16:34:19Z
+1312;MDU6SXNzdWUzMjUyMzc0Mjc=;{'totalCount': 2};Make child windows sticky if parent is sticky;2018-05-22T10:42:00Z;2018-05-22T12:08:02Z
+1323;MDU6SXNzdWUzMjg4NjAwNTY=;{'totalCount': 9};Still accepting new entries?;2018-06-03T20:38:17Z;2018-07-28T17:28:04Z
+1324;MDU6SXNzdWUzMjkwOTkzOTc=;{'totalCount': 3};Moving to GitLab?;2018-06-04T15:14:12Z;2018-06-05T12:47:52Z
+1337;MDU6SXNzdWUzMzM2NTY0NjE=;{'totalCount': 2};.NET is not a language;2018-06-19T12:49:25Z;2018-06-19T17:34:15Z
+1338;MDU6SXNzdWUzMzM3NDk0ODU=;{'totalCount': 4};Awesome Pretty List;2018-06-19T16:34:20Z;2018-07-28T16:36:09Z
+1354;MDU6SXNzdWUzNDEyMzg1NTE=;{'totalCount': 3};"Would anyone be interested: ""Awesome list of hardware for Kali Linux""?";2018-07-14T14:01:36Z;2018-07-28T16:33:24Z
+1359;MDU6SXNzdWUzNDM5MzY1NjE=;{'totalCount': 1};awesome tor?;2018-07-24T08:31:57Z;2019-02-26T19:48:32Z
+1360;MDU6SXNzdWUzNDM5NDk3MDI=;{'totalCount': 2};Wouldn't it be great if there could be one for UX ?;2018-07-24T09:10:15Z;2019-02-26T19:48:00Z
+1361;MDU6SXNzdWUzNDQyNDc1MTg=;{'totalCount': 2};List of available data formats (from FME Safe.com);2018-07-25T00:18:17Z;2018-07-26T10:29:40Z
+1363;MDU6SXNzdWUzNDU0NjQ0MTY=;{'totalCount': 12};Project status;2018-07-28T17:17:12Z;2019-02-26T19:27:44Z
+1365;MDU6SXNzdWUzNDU1MDQ4MDM=;{'totalCount': 6};Suggestion: Add CI to automate heavy PR load;2018-07-29T06:03:12Z;
+1372;MDU6SXNzdWUzNDc2OTEzMDU=;{'totalCount': 2};Suggestion: Create new sub Title: Internet of Things;2018-08-05T11:44:00Z;2019-02-27T03:01:17Z
+1381;MDU6SXNzdWUzNTA2Nzk0ODE=;{'totalCount': 3};Add ZeroNet;2018-08-15T04:10:42Z;2019-02-26T19:48:38Z
+1382;MDU6SXNzdWUzNTA2Nzk1ODI=;{'totalCount': 3};Add Ethereum;2018-08-15T04:11:18Z;2019-01-26T10:39:54Z
+1391;MDU6SXNzdWUzNTcxNDU1ODQ=;{'totalCount': 1};Add awesome-transformer;2018-09-05T09:35:48Z;2018-09-07T14:06:25Z
+1397;MDU6SXNzdWUzNjAxOTExNTM=;{'totalCount': 1};Add REDAXO CMS;2018-09-14T07:39:23Z;2018-09-14T07:54:37Z
+1403;MDU6SXNzdWUzNjMwODMyMzg=;{'totalCount': 1};Add DevOps / continuous release / production environment / code & release process / ...;2018-09-24T10:09:11Z;2019-02-26T19:50:21Z
+1404;MDU6SXNzdWUzNjQ3OTgzMzI=;{'totalCount': 6};Browser automation tools;2018-09-28T08:52:16Z;2019-02-26T19:50:11Z
+1419;MDU6SXNzdWUzNjk5MTc1MDM=;{'totalCount': 1};Awesomeness of Distributed Systems!;2018-10-14T16:16:04Z;2018-10-15T06:25:12Z
+1427;MDU6SXNzdWUzNzIyNTUwMjA=;{'totalCount': 1};Wexflow - Yet another workflow engine and task scheduler;2018-10-20T21:34:42Z;2018-10-21T04:14:20Z
+1435;MDU6SXNzdWUzNzQ1MzY4NjI=;{'totalCount': 2};Add awesome-docs;2018-10-26T20:30:06Z;2019-02-26T19:49:51Z
+1438;MDU6SXNzdWUzNzQ5MDIxMTI=;{'totalCount': 4};ListList service and Awesome lists;2018-10-29T08:16:18Z;2019-02-26T19:30:14Z
+1439;MDU6SXNzdWUzNzQ5OTc0NzE=;{'totalCount': 2};What font is in the logo?;2018-10-29T12:43:53Z;2018-10-29T13:04:03Z
+1441;MDU6SXNzdWUzNzU0MjE2MjA=;{'totalCount': 3};Searchable Awesome;2018-10-30T10:38:35Z;2019-02-22T14:28:36Z
+1453;MDU6SXNzdWUzNzYzNjg0Nzk=;{'totalCount': 1};Add datproject to decentralized-systems;2018-11-01T12:15:21Z;2018-11-01T16:03:20Z
+1455;MDU6SXNzdWUzNzgyMzc0NDM=;{'totalCount': 1};awesome-more;2018-11-07T10:53:48Z;2018-11-07T11:05:03Z
+1458;MDU6SXNzdWUzNzk0Mjg3NTQ=;{'totalCount': 1};Piracy awesome;2018-11-10T14:56:27Z;2018-11-10T16:01:57Z
+1459;MDU6SXNzdWUzNzk0MzA1NzU=;{'totalCount': 2};add awesome-linux-software;2018-11-10T15:19:45Z;2018-11-11T17:49:26Z
+1464;MDU6SXNzdWUzODM5NzgzMjU=;{'totalCount': 3};Awesome Power BI Heroes;2018-11-24T10:37:38Z;2018-11-26T18:17:10Z
+1470;MDU6SXNzdWUzODYwNTE2ODc=;{'totalCount': 3};Awesome Roadmaps;2018-11-30T06:11:21Z;2019-02-26T19:50:03Z
+1473;MDU6SXNzdWUzODgxMDExMDE=;{'totalCount': 1};Awesome lists to evaluate add: Interview Questions, JavaScript Crypto Libraries, Linux Software, Creative Resources for Developer and Designer;2018-12-06T08:15:19Z;2018-12-06T08:41:16Z
+1474;MDU6SXNzdWUzODgyNDM0Mjk=;{'totalCount': 0};I need help for gathering Technology radars;2018-12-06T14:41:42Z;2019-01-18T10:27:45Z
+1478;MDU6SXNzdWUzOTE0NTUxMTg=;{'totalCount': 1};Awesome Django Link Broken;2018-12-16T10:42:11Z;2018-12-29T15:57:24Z
+1481;MDU6SXNzdWUzOTI4Mzk5MzQ=;{'totalCount': 3};Hi, Django Link is broken;2018-12-20T00:50:14Z;2018-12-29T15:55:48Z
+1495;MDU6SXNzdWUzOTc4MjA0MDY=;{'totalCount': 1};Awesome dataviz missing;2019-01-10T13:01:17Z;2019-01-18T10:26:34Z
+1496;MDU6SXNzdWUzOTc4MjA3NTk=;{'totalCount': 1};Awesome dashboard (and visualization) missing;2019-01-10T13:02:17Z;2019-01-18T10:26:41Z
+1506;MDU6SXNzdWU0MDEwNDAyODM=;{'totalCount': 2};Include awesome-datahoarding;2019-01-19T22:14:44Z;2019-01-20T15:25:16Z
+1509;MDU6SXNzdWU0MDIwMTM5Mzk=;{'totalCount': 1};Is there a list for wikis?;2019-01-23T00:22:06Z;2019-02-27T03:03:34Z
+1510;MDU6SXNzdWU0MDIzMTYxNzc=;{'totalCount': 1};Add awesome-unity to the list.;2019-01-23T16:14:48Z;2019-01-24T04:28:22Z
+1516;MDU6SXNzdWU0MDQ4OTcxOTY=;{'totalCount': 1};programming language section can add Ada;2019-01-30T18:10:17Z;2019-01-31T07:45:13Z
+1525;MDU6SXNzdWU0MTA4MTk0NDk=;{'totalCount': 1};I love this repository;2019-02-15T15:28:38Z;2019-02-26T19:34:37Z
+1565;MDU6SXNzdWU0NDUyMzgxMzQ=;{'totalCount': 1};add WordPress to Content System Manager category;2019-05-17T02:35:43Z;2019-05-17T04:18:42Z
+1570;MDU6SXNzdWU0NDcwNzMyMzQ=;{'totalCount': 2};would love to add some free theme collection list ;2019-05-22T11:08:01Z;
+1572;MDU6SXNzdWU0NDgyODkwNjc=;{'totalCount': 6};Would make sense adding awesome-* lists for learning languages?;2019-05-24T17:58:29Z;2019-05-31T11:47:03Z
+1575;MDU6SXNzdWU0NTQwMjMyOTI=;{'totalCount': 3};Review pull_request_template.md and create-list.md;2019-06-10T06:51:25Z;2019-07-04T17:28:12Z
+1581;MDU6SXNzdWU0NjQ4MzE5NzQ=;{'totalCount': 1};A web scraper awesome-list?;2019-07-06T08:28:46Z;2019-07-13T09:51:39Z
+1587;MDU6SXNzdWU0NzE4Mjc5ODQ=;{'totalCount': 1};Add awesome design to the list;2019-07-23T17:24:58Z;2019-07-26T22:06:22Z
+1598;MDU6SXNzdWU0NzY1MTA3NTg=;{'totalCount': 1};awesome-oss-sdgs  & CC0 license trick;2019-08-04T03:33:30Z;2019-11-16T10:39:50Z
+1602;MDU6SXNzdWU0NzkzNzM4OTU=;{'totalCount': 2};Awesome list for country?;2019-08-11T14:11:08Z;2019-08-12T16:48:36Z
+1603;MDU6SXNzdWU0Nzk1NzgyMTY=;{'totalCount': 1};Add awesome pipeline;2019-08-12T10:43:10Z;2019-08-12T16:47:50Z
+1604;MDU6SXNzdWU0ODAxNDMzMzc=;{'totalCount': 0};Regarding Archived Projects;2019-08-13T12:59:35Z;2019-10-05T05:41:50Z
+1617;MDU6SXNzdWU0OTQ2NjQ2NjE=;{'totalCount': 2};AddNew;2019-09-17T14:36:59Z;2019-09-17T14:42:40Z
+1619;MDU6SXNzdWU0OTY4MTI5OTI=;{'totalCount': 0};Lint Awesome itself;2019-09-22T18:11:37Z;
+1625;MDU6SXNzdWU1MDI5Mzk4OTE=;{'totalCount': 3};C# is missing in the Programming Languages list ;2019-10-05T09:26:27Z;2019-10-05T10:20:41Z
+1658;MDU6SXNzdWU1MjQxMTc4MTg=;{'totalCount': 1};Order by alphabetical for each category (e.g. Programming Languages);2019-11-18T03:46:45Z;2019-11-18T03:49:01Z
+1661;MDU6SXNzdWU1MjQ5MTI0NzA=;{'totalCount': 1};Adding a jhipster;2019-11-19T10:21:39Z;2019-11-19T12:20:21Z
+1667;MDU6SXNzdWU1MjkyNjkxMjQ=;{'totalCount': 1};Add Awesome Design;2019-11-27T10:52:43Z;2019-11-27T10:58:25Z
+1673;MDU6SXNzdWU1NDA4NzI0OTE=;{'totalCount': 1};Recommend a good golang resource collection;2019-12-20T09:03:40Z;2019-12-20T10:10:59Z
+1678;MDU6SXNzdWU1NDM3MjkzNTE=;{'totalCount': 1};Semantic PR names?;2019-12-30T04:40:55Z;2019-12-30T10:28:26Z
+1680;MDU6SXNzdWU1NDQ1OTQzNDM=;{'totalCount': 0};Would author add data structures and algorithms list?;2020-01-02T14:12:20Z;2020-01-02T14:12:26Z
+1695;MDU6SXNzdWU1NjIwNzYxMTA=;{'totalCount': 3};Awesome CLI;2020-02-08T20:50:31Z;2020-02-13T08:28:55Z
+1698;MDU6SXNzdWU1NjQwNjQ1MTY=;{'totalCount': 7};Request to have my list added as an awesome-software-engineer list;2020-02-12T15:09:52Z;2020-03-02T13:39:42Z
+1702;MDU6SXNzdWU1Njk0MjIwMDQ=;{'totalCount': 2};add Gitea's awesome;2020-02-23T01:52:40Z;2020-02-23T05:51:41Z
+1736;MDU6SXNzdWU1ODM2NzAwODA=;{'totalCount': 3};awesome-awesome-covid19 or all seperately?;2020-03-18T11:46:07Z;2020-03-20T17:34:48Z
+1741;MDU6SXNzdWU1ODYxMTc0ODQ=;{'totalCount': 1};Change Redux link;2020-03-23T10:55:40Z;2020-03-23T11:06:12Z
+1748;MDU6SXNzdWU1ODk1NjMxMzI=;{'totalCount': 1};Add Awesome KubeCon;2020-03-28T11:56:38Z;2020-03-28T13:56:50Z
+1755;MDU6SXNzdWU1OTc1MTM3NDc=;{'totalCount': 4};Gaming - Minecraft is seriously outdated;2020-04-09T19:49:20Z;
+1759;MDU6SXNzdWU2MDE0MTA5ODQ=;{'totalCount': 1};Add a Natural Science theme?;2020-04-16T20:02:48Z;
+1764;MDU6SXNzdWU2MTA1Mjc3MDY=;{'totalCount': 0};Mislead category about networking.;2020-05-01T02:57:20Z;
+1765;MDU6SXNzdWU2MTIxODI3NjA=;{'totalCount': 2};Just launced the 'delightful' project, inspired by awesome;2020-05-04T21:32:24Z;2020-05-06T04:51:33Z

@@ -1,0 +1,985 @@
+number;id;comments;title;createdAt;closedAt
+4;MDU6SXNzdWU4MDQ3MjMy;{'totalCount': 5};Accessors;2012-11-01T23:52:33Z;2012-11-02T09:29:52Z
+8;MDU6SXNzdWU4MDQ4NDk5;{'totalCount': 1};IIFE styles: to bang, or not to bang?;2012-11-02T01:11:51Z;2012-11-02T01:13:11Z
+9;MDU6SXNzdWU4MDQ4NTI2;{'totalCount': 5};Always return as early as possible?;2012-11-02T01:14:08Z;2012-11-02T07:05:03Z
+13;MDU6SXNzdWU4MTE5MDE1;{'totalCount': 1};Jedi Mindtricks;2012-11-05T21:05:20Z;2012-11-05T21:36:46Z
+15;MDU6SXNzdWU4MTIzOTky;{'totalCount': 3};Spacing issue within Naming Conventions;2012-11-05T23:46:07Z;2012-11-05T23:49:00Z
+18;MDU6SXNzdWU4MTgxOTc1;{'totalCount': 9};Preferred method of integer casting?;2012-11-07T18:44:15Z;2012-11-08T20:54:07Z
+19;MDU6SXNzdWU4MTgzMzQw;{'totalCount': 1};jQuery Chaining;2012-11-07T19:30:07Z;2012-11-07T19:52:11Z
+21;MDU6SXNzdWU4MjA4Mjgz;{'totalCount': 8};IIFE Parentheses;2012-11-08T15:50:31Z;2012-11-15T19:26:27Z
+22;MDU6SXNzdWU4MjIwMjU1;{'totalCount': 2};jQuery find() convention has bad performance;2012-11-08T21:52:45Z;2012-11-08T22:27:52Z
+24;MDU6SXNzdWU4MjI2Mzgw;{'totalCount': 0};Preferred method of boolean casting?;2012-11-09T02:49:59Z;2012-12-06T00:21:11Z
+25;MDU6SXNzdWU4MjMyNjY5;{'totalCount': 1};Reserved words as property names;2012-11-09T10:24:29Z;2012-11-09T20:12:23Z
+27;MDU6SXNzdWU4MjY1Njcx;{'totalCount': 3};Investigate Array.push performance;2012-11-10T21:11:37Z;2012-11-22T22:20:52Z
+31;MDU6SXNzdWU4MzY0NDIx;{'totalCount': 3};Obect creation vs instance creation !!;2012-11-14T19:08:18Z;2012-11-14T19:37:47Z
+32;MDU6SXNzdWU4NDU2MjA3;{'totalCount': 3};No convention for saving references to `this`;2012-11-18T23:29:00Z;2012-11-19T22:03:24Z
+39;MDU6SXNzdWU5ODc4MjI2;{'totalCount': 1};Bitshifting instead of Typecasting is slow on Chrome. ;2013-01-11T12:21:02Z;2013-01-11T17:37:04Z
+40;MDU6SXNzdWU5ODk2OTg1;{'totalCount': 17};String concat speed;2013-01-11T22:24:23Z;2013-01-11T23:30:32Z
+41;MDU6SXNzdWU5OTE5NDI5;{'totalCount': 2};Javascript guidelines;2013-01-13T07:27:35Z;2013-01-14T04:31:06Z
+42;MDU6SXNzdWU5OTIwMjYy;{'totalCount': 1};jsHint config;2013-01-13T10:06:42Z;2013-01-13T10:12:02Z
+44;MDU6SXNzdWUxMDU3Mzg0OQ==;{'totalCount': 13};"Defensive programming benefit of the bang method (""!"") is not correct.";2013-02-02T16:27:55Z;2013-02-04T14:22:18Z
+52;MDU6SXNzdWUxMTI0ODAxMg==;{'totalCount': 9};"callback && callback();";2013-02-21T16:31:52Z;2013-02-25T20:07:23Z
+54;MDU6SXNzdWUxMTUxNDYyNw==;{'totalCount': 6};Reasons missing;2013-02-28T19:14:10Z;2013-08-07T20:33:11Z
+55;MDU6SXNzdWUxMTUxNzE3Nw==;{'totalCount': 15};Space before left parenthesis in anonymous function literals;2013-02-28T20:11:42Z;2015-12-23T20:37:58Z
+58;MDU6SXNzdWUxMTc1NjQxNw==;{'totalCount': 5};"""jQuery Find vs Context, Selector"" performance test is misleading";2013-03-07T12:01:01Z;2015-04-02T05:46:56Z
+60;MDU6SXNzdWUxMTk1OTA0OQ==;{'totalCount': 26};Say something about undefined;2013-03-13T03:48:45Z;
+61;MDU6SXNzdWUxMTk4NDY2Ng==;{'totalCount': 5};Allow reserved words for properties?;2013-03-13T17:35:48Z;2016-08-03T21:53:09Z
+62;MDU6SXNzdWUxMjA1NzAzMw==;{'totalCount': 1};What about code Annotations like (TODO, FIXME...) ?;2013-03-15T10:07:35Z;2013-03-17T22:46:36Z
+64;MDU6SXNzdWUxMjU1ODM4OQ==;{'totalCount': 4};Request to add Javascript closure style guide;2013-03-28T10:50:30Z;2013-07-02T17:34:24Z
+67;MDU6SXNzdWUxMzQzMDM3OQ==;{'totalCount': 3};Tab button > two spaces indentation;2013-04-20T06:04:40Z;2013-04-20T17:40:18Z
+68;MDU6SXNzdWUxNDExMTI2OQ==;{'totalCount': 2};Whitespace indention good example is a bad string example;2013-05-08T16:58:41Z;2013-05-08T17:28:22Z
+69;MDU6SXNzdWUxNDY2NTk4Mw==;{'totalCount': 3};Numbers evalute to false if NaN;2013-05-23T09:48:37Z;2013-05-23T17:05:58Z
+70;MDU6SXNzdWUxNTY0MTc3MA==;{'totalCount': 3};"Why ""_this"" and not ""that""";2013-06-17T16:18:25Z;2013-06-17T16:23:46Z
+71;MDU6SXNzdWUxNTcwNDIzMQ==;{'totalCount': 2};Prefer hash for event payloads?;2013-06-18T18:38:40Z;2013-07-01T21:12:25Z
+72;MDU6SXNzdWUxNjE0MjkwNw==;{'totalCount': 1};Rename getProp() to hasProp()?;2013-06-28T14:02:24Z;2013-07-01T16:45:19Z
+74;MDU6SXNzdWUxNjMzOTc0MA==;{'totalCount': 3};bad example in Naming Conventions;2013-07-03T20:41:20Z;2013-07-03T20:49:33Z
+75;MDU6SXNzdWUxNjYxNjQyMQ==;{'totalCount': 6};Trailing commas in Object/Array literal;2013-07-11T06:42:08Z;2013-07-11T19:06:43Z
+80;MDU6SXNzdWUxNzc0MjU3NA==;{'totalCount': 5};Type Casting & Coercion: Bitshifting both bad and good?;2013-08-07T11:17:47Z;2013-08-07T20:07:47Z
+81;MDU6SXNzdWUxODQ0NjQxNg==;{'totalCount': 10};"Why to use ""_this"" as a reference to ""this""?";2013-08-22T23:31:34Z;2013-08-23T08:45:05Z
+84;MDU6SXNzdWUyMDI5MTU2Ng==;{'totalCount': 3};Modules and ! sign recommendation;2013-09-30T20:46:23Z;2013-09-30T22:34:09Z
+90;MDU6SXNzdWUyMTYxNDAxNQ==;{'totalCount': 2};jQuery re-wrapping is not faster;2013-10-25T20:22:43Z;2013-10-25T21:21:48Z
+92;MDU6SXNzdWUyMTgwNjk4Ng==;{'totalCount': 1};Two more resources;2013-10-30T06:07:37Z;2013-10-31T19:09:35Z
+94;MDU6SXNzdWUyMjA5NjIyMQ==;{'totalCount': 3};About commas;2013-11-05T02:35:27Z;2013-11-05T21:48:36Z
+96;MDU6SXNzdWUyMjMwNzc0NA==;{'totalCount': 5};Optimization and consistency for the string example;2013-11-08T00:39:44Z;2015-04-02T06:06:26Z
+97;MDU6SXNzdWUyMjMwODM1Mw==;{'totalCount': 10};"The boolean ""good"" casting could be better";2013-11-08T00:54:50Z;2015-04-02T06:05:14Z
+98;MDU6SXNzdWUyMjMwODc1OA==;{'totalCount': 4};"Note on the ""Don't use reserved words as keys""";2013-11-08T01:04:54Z;2013-11-08T02:54:43Z
+100;MDU6SXNzdWUyMjM2MTA3OQ==;{'totalCount': 1};Leading Commas;2013-11-08T20:13:44Z;2013-11-08T20:30:43Z
+101;MDU6SXNzdWUyMjM2MTg0MA==;{'totalCount': 3};Mighty Spring is using this style guide!;2013-11-08T20:26:44Z;2013-11-09T20:04:28Z
+102;MDU6SXNzdWUyMjQxMjY5OA==;{'totalCount': 43};Why does JavaScript need a style guide?;2013-11-10T17:47:01Z;2013-11-12T02:00:00Z
+105;MDU6SXNzdWUyMjQzODgwNg==;{'totalCount': 4};Add .jshintrc config file to be compliant with conventions;2013-11-11T10:05:50Z;2013-11-14T16:10:18Z
+109;MDU6SXNzdWUyMjYxODg3Nw==;{'totalCount': 4};Bitshift performance vs 64bit numbers;2013-11-13T20:15:42Z;2013-11-14T22:02:59Z
+110;MDU6SXNzdWUyMjcxMDY2Mw==;{'totalCount': 6};"Why should strings be ' ' and not "" ""?";2013-11-15T03:26:58Z;2013-11-15T21:37:29Z
+111;MDU6SXNzdWUyMjcyMzAwMg==;{'totalCount': 3};Lots of overlap between airbnb JavaScript & Idiomatic JS - perhaps merge?;2013-11-15T09:56:44Z;2015-04-14T17:18:13Z
+112;MDU6SXNzdWUyMjc0OTE2Mw==;{'totalCount': 4};2 whitespaces ?;2013-11-15T18:20:29Z;2013-11-15T21:34:09Z
+115;MDU6SXNzdWUyMjc5MzIzMw==;{'totalCount': 4};Numbers casting: in current chrome parseInt works much faster then bitshift;2013-11-17T08:21:09Z;2013-11-19T23:40:26Z
+118;MDU6SXNzdWUyMjk4MjMyNA==;{'totalCount': 1};Eval statement;2013-11-20T10:18:34Z;2015-12-23T20:36:58Z
+124;MDU6SXNzdWUyMzU2MDgxNA==;{'totalCount': 0};Add regex section;2013-12-02T09:33:40Z;2014-02-12T13:58:16Z
+128;MDU6SXNzdWUyMzg3MTc5Mg==;{'totalCount': 2};Add 3rd Party Library Section;2013-12-06T17:17:50Z;2013-12-13T19:06:08Z
+133;MDU6SXNzdWUyNDU1ODQ1OA==;{'totalCount': 0};Avoid leading pluses;2013-12-19T14:17:03Z;2014-02-12T13:58:04Z
+136;MDU6SXNzdWUyNTA4MDU1NQ==;{'totalCount': 9};Unclear code example in variables section;2014-01-06T00:03:12Z;2015-04-02T06:00:16Z
+145;MDU6SXNzdWUyNzgzNzAyNg==;{'totalCount': 3};Naming Conventions and private variables;2014-02-18T23:10:29Z;2014-02-19T00:35:58Z
+157;MDU6SXNzdWUzMTg2MjQ0MA==;{'totalCount': 6};Array - When you need to copy an array use Array#slice;2014-04-20T08:24:43Z;2015-12-23T20:56:45Z
+168;MDU6SXNzdWUzMzE2MzI2Mw==;{'totalCount': 4};Define string outside function scope instead of inside function scope;2014-05-09T11:04:06Z;2014-05-09T11:27:40Z
+173;MDU6SXNzdWUzNTU5ODY2MA==;{'totalCount': 0};Add DailyMotion to the list of organizations that are using this style guide.;2014-06-12T16:07:48Z;2014-06-12T16:12:27Z
+178;MDU6SXNzdWUzNjc0MjIxMw==;{'totalCount': 1};hey;2014-06-29T09:02:42Z;2014-06-29T09:12:02Z
+180;MDU6SXNzdWUzNzQ0OTE2OQ==;{'totalCount': 5};Leading commas, why? ;2014-07-09T09:50:45Z;2014-07-10T02:50:55Z
+183;MDU6SXNzdWUzOTI4Mjc4NQ==;{'totalCount': 3};if / else / else if;2014-08-01T11:47:55Z;2014-08-06T17:58:19Z
+189;MDU6SXNzdWU0MTM4NDMxMA==;{'totalCount': 4};special objects like regex;2014-08-28T12:23:51Z;2015-12-23T21:02:35Z
+191;MDU6SXNzdWU0MTc0MTgzMg==;{'totalCount': 1};Allow multiple var statements. ;2014-09-02T18:52:58Z;2014-09-04T17:37:38Z
+192;MDU6SXNzdWU0MTc1Nzc4Ng==;{'totalCount': 1};"Add VoxFeed to ""In the wild""";2014-09-02T21:37:22Z;2014-09-08T17:41:46Z
+193;MDU6SXNzdWU0MTk4MDM2NA==;{'totalCount': 1};"Add Evernote to ""In the Wild"" list";2014-09-04T20:17:38Z;2014-09-08T17:42:56Z
+196;MDU6SXNzdWU0MjYwMjYxNA==;{'totalCount': 2};"Mind if I ask why [[[var self = this;]]] is bad?";2014-09-12T07:15:14Z;2014-09-12T15:37:25Z
+198;MDU6SXNzdWU0MzMzMjU2NA==;{'totalCount': 5};Vim Options?;2014-09-21T11:11:04Z;2014-10-29T07:19:04Z
+207;MDU6SXNzdWU0Njk5MTYyMA==;{'totalCount': 17};Opinion on formatting if else if else block?;2014-10-28T05:38:05Z;2015-12-23T21:05:38Z
+208;MDU6SXNzdWU0NzAzODc2Ng==;{'totalCount': 2};Please add Target to the list of users in the wild;2014-10-28T15:19:23Z;2014-10-29T07:16:00Z
+211;MDU6SXNzdWU0ODQxMzYxMA==;{'totalCount': 2};It's ok to use those linters for Node?;2014-11-11T17:59:51Z;2014-11-11T22:57:28Z
+216;MDU6SXNzdWU0OTMwNjU3OQ==;{'totalCount': 44};Best practices for promises?;2014-11-18T23:09:17Z;
+221;MDU6SXNzdWU1MDk4OTExMQ==;{'totalCount': 8};Advise against multiple assignment in var declaration;2014-12-04T15:34:11Z;2016-08-18T07:54:03Z
+223;MDU6SXNzdWU1MTc5MzI1NA==;{'totalCount': 2};"Add Jump to ""In the Wild"" list";2014-12-12T10:51:19Z;2015-04-02T05:56:49Z
+225;MDU6SXNzdWU1MzAzNDY3Ng==;{'totalCount': 3};Move generated parenthesis for IIFE into the parens;2014-12-29T11:19:22Z;2015-01-01T21:34:32Z
+228;MDU6SXNzdWU1NDY1MDk0NA==;{'totalCount': 1};Add AlgoWiki to your organzations list, we have just forked your repo, Thanks!;2015-01-17T05:02:10Z;2015-04-02T05:56:34Z
+231;MDU6SXNzdWU1NTcwMjkyMA==;{'totalCount': 1};Inconsistent use of periods before code snippets;2015-01-28T01:48:18Z;2015-01-28T03:44:40Z
+233;MDU6SXNzdWU1NTkzNDMyNw==;{'totalCount': 12};Webstorm Code Quality Setup?;2015-01-29T18:01:49Z;2015-01-30T13:18:57Z
+240;MDU6SXNzdWU1NzEzNTc5NA==;{'totalCount': 3};Generator function;2015-02-10T06:22:49Z;2015-04-02T06:08:35Z
+243;MDU6SXNzdWU1NzUxMDE5OA==;{'totalCount': 4};JSPerf shows that concat method to copy an array is faster than slice;2015-02-12T19:50:19Z;2015-04-02T05:58:31Z
+244;MDU6SXNzdWU1ODIzMjk5NA==;{'totalCount': 1};JSHint .jshintrc;2015-02-19T16:39:46Z;2015-02-19T17:50:04Z
+245;MDU6SXNzdWU1ODUwNjQ5Nw==;{'totalCount': 2};Use one var declaration per variable will cause more performance;2015-02-22T15:38:27Z;2015-02-23T02:55:23Z
+247;MDU6SXNzdWU1ODYzOTgyNg==;{'totalCount': 20};ES6/2015;2015-02-23T20:01:57Z;2016-06-12T07:12:36Z
+251;MDU6SXNzdWU2MjA2MjUzNw==;{'totalCount': 1};Conditional Expressions & Equality section should be named Comparison operators;2015-03-16T12:22:38Z;2015-03-16T22:46:07Z
+257;MDU6SXNzdWU2NDEzMjMwNg==;{'totalCount': 4};why is this flagged?;2015-03-25T00:15:50Z;2015-04-02T05:52:22Z
+259;MDU6SXNzdWU2NDU1Nzc0NQ==;{'totalCount': 6};.eslintrc;2015-03-26T15:33:54Z;2015-04-29T17:52:49Z
+263;MDU6SXNzdWU2NDk0NzE3Mw==;{'totalCount': 35};Branding;2015-03-28T14:22:30Z;2015-10-08T01:23:39Z
+269;MDU6SXNzdWU2NTQxMDMzNw==;{'totalCount': 14};"Please include the ""Why"" in your styleguide";2015-03-31T09:42:33Z;
+273;MDU6SXNzdWU2NTgxMjY5OA==;{'totalCount': 13};No rule for “Hoisting”;2015-04-02T01:35:27Z;2016-04-20T04:28:58Z
+275;MDU6SXNzdWU2NTg0MTkxMg==;{'totalCount': 6};Get rid of JSCS' requirePaddingNewLinesAfterBlocks?;2015-04-02T05:29:59Z;2015-05-01T21:55:54Z
+280;MDU6SXNzdWU2NjIzNjk0Mw==;{'totalCount': 1};If you don't know array length;2015-04-03T22:04:41Z;2015-04-06T04:56:33Z
+281;MDU6SXNzdWU2NjI0MTg4Mw==;{'totalCount': 5};Parenthesis around single arguments in arrow functions;2015-04-03T22:47:18Z;2015-05-18T21:40:50Z
+285;MDU6SXNzdWU2NjI3MzUwMQ==;{'totalCount': 3};Advise against default parameter with side-effect;2015-04-04T04:27:25Z;2016-09-07T06:18:44Z
+287;MDU6SXNzdWU2NjM0NDEzOQ==;{'totalCount': 2};Invalid example in ES6 Modules section;2015-04-04T17:28:29Z;2015-04-06T04:51:35Z
+294;MDU6SXNzdWU2NjczNzYzMg==;{'totalCount': 2};Avoid using reserved word 'class' in Whitespace examples ;2015-04-07T00:20:30Z;2015-04-07T01:02:07Z
+296;MDU6SXNzdWU2NzA3NTk0OQ==;{'totalCount': 5};Suggestion to add switch;2015-04-08T08:22:58Z;
+297;MDU6SXNzdWU2NzEyMDg0NQ==;{'totalCount': 1};"""Prefix jQuery object variables with a $."" Does this play well with AngularJS?";2015-04-08T12:41:57Z;2015-04-08T17:21:58Z
+301;MDU6SXNzdWU2NzU2NDQ3MA==;{'totalCount': 6};Suggestion to set up Github Page;2015-04-10T10:34:20Z;
+306;MDU6SXNzdWU2Nzk1MjUyNQ==;{'totalCount': 0};Add es6-features as learning resource to ES6 guide;2015-04-12T20:14:13Z;2015-04-29T04:32:06Z
+307;MDU6SXNzdWU2ODE3MjE1Nw==;{'totalCount': 1};Is there a place for if (obj == null) or if (obj != null)?;2015-04-13T19:16:52Z;2015-04-14T22:29:32Z
+309;MDU6SXNzdWU2ODIzNTQwMQ==;{'totalCount': 4};Is `var` discouragement appropriate?;2015-04-14T01:37:22Z;2015-04-28T00:04:52Z
+311;MDU6SXNzdWU2ODQ4MDgyOQ==;{'totalCount': 4};Arguments casting to array.;2015-04-14T19:52:04Z;2015-12-23T21:06:51Z
+313;MDU6SXNzdWU2OTA3ODc4NA==;{'totalCount': 2};Suggestion convert eslintrc to JSON;2015-04-17T06:50:17Z;2015-04-20T03:04:45Z
+323;MDU6SXNzdWU3MDg4OTM2Nw==;{'totalCount': 3};No additional trailing comma – still relevant for ES6?;2015-04-25T10:23:55Z;2015-04-29T17:49:23Z
+325;MDU6SXNzdWU3MTEyNDc2Mg==;{'totalCount': 10};Suggestion for if else comments;2015-04-26T21:47:22Z;2016-02-16T20:52:05Z
+334;MDU6SXNzdWU3MzI0NDc2Nw==;{'totalCount': 9};[Question] Which one is prefered?;2015-05-05T08:19:19Z;2015-05-05T09:20:30Z
+335;MDU6SXNzdWU3MzI1OTkxNA==;{'totalCount': 6};[Question] Wrapping conditionals;2015-05-05T09:28:42Z;2015-12-23T21:53:18Z
+336;MDU6SXNzdWU3NDA1NDM0Nw==;{'totalCount': 1};ToBoolean abstract operation not used in comparison operator;2015-05-07T16:52:14Z;2015-05-07T19:15:00Z
+339;MDU6SXNzdWU3NTI3NjQ5Mg==;{'totalCount': 7};Packages publishing;2015-05-11T16:18:48Z;2016-07-04T20:03:17Z
+342;MDU6SXNzdWU3NjE3NjQxMQ==;{'totalCount': 5};Incorrect assumption about `let` vs `var`;2015-05-14T00:30:48Z;2015-05-14T20:08:46Z
+344;MDU6SXNzdWU3NzQxMTk2Mw==;{'totalCount': 2};A change in 8.2 - prefer shorter object return;2015-05-17T22:14:31Z;2015-10-03T01:18:00Z
+345;MDU6SXNzdWU3Nzc1MDM4Nw==;{'totalCount': 2};eslint react plugin;2015-05-18T18:14:28Z;2015-05-18T21:22:17Z
+349;MDU6SXNzdWU3OTUwMjk3Nw==;{'totalCount': 4};Add standalone ESLint shareable config;2015-05-22T15:45:08Z;2015-05-24T02:01:24Z
+351;MDU6SXNzdWU3OTkyNjg0OQ==;{'totalCount': 5};CSS;2015-05-23T19:00:28Z;2015-07-01T00:48:10Z
+355;MDU6SXNzdWU4MTYxMTAyMg==;{'totalCount': 3};Distributing ES6;2015-05-27T20:29:34Z;
+358;MDU6SXNzdWU4NTkwNTAwMA==;{'totalCount': 3};componentDidUpdate is missing in react style guide?;2015-06-07T14:02:35Z;2015-06-19T15:25:29Z
+366;MDU6SXNzdWU4OTM4NTYyMg==;{'totalCount': 25};eslint shareable configs / split;2015-06-18T20:09:48Z;2015-09-27T19:30:21Z
+368;MDU6SXNzdWU5MDMxMTI3Ng==;{'totalCount': 2};3.4 having syntax error?;2015-06-23T07:22:16Z;2015-06-23T07:36:19Z
+385;MDU6SXNzdWU5MjY2MjE3OQ==;{'totalCount': 1};"Exception to the ""don't use iterators and generators"" rules";2015-07-02T15:14:14Z;2015-07-02T20:31:57Z
+386;MDU6SXNzdWU5Mjc2NTA2Mg==;{'totalCount': 13};How do you feel about || fallbacks?;2015-07-03T00:32:06Z;2015-07-03T00:43:56Z
+387;MDU6SXNzdWU5MjgwMzMzMQ==;{'totalCount': 3};"Change name to ""Best Practices""";2015-07-03T06:25:23Z;2015-07-30T02:07:08Z
+388;MDU6SXNzdWU5MjgxMzg1NA==;{'totalCount': 2};Add Cludo to list of companies that uses airbnb styleguide;2015-07-03T07:35:19Z;2015-07-03T08:58:42Z
+389;MDU6SXNzdWU5MjgyODEyNw==;{'totalCount': 2};jQuery: $(this) vs $(event.currentTarget);2015-07-03T09:04:44Z;
+390;MDU6SXNzdWU5Mjg0MTM0MQ==;{'totalCount': 1};React ES6 style guild;2015-07-03T10:04:54Z;2015-07-04T18:40:50Z
+391;MDU6SXNzdWU5Mjg0MTcxMQ==;{'totalCount': 12};JSDoc-Comments;2015-07-03T10:07:20Z;2016-04-20T04:24:50Z
+392;MDU6SXNzdWU5Mjg1MzYzMA==;{'totalCount': 4};Request: Add more information on Testing section;2015-07-03T11:14:23Z;2015-11-03T07:33:30Z
+393;MDU6SXNzdWU5Mjg3MzI4Mg==;{'totalCount': 0};Additional trailing comma;2015-07-03T13:14:36Z;2015-07-06T18:17:08Z
+394;MDU6SXNzdWU5Mjg4Nzk4Mg==;{'totalCount': 27};Semicolons.  Sorta;2015-07-03T14:38:40Z;2015-07-03T18:23:43Z
+402;MDU6SXNzdWU5MzI1MDI0MA==;{'totalCount': 2};JSCS pattern;2015-07-06T11:01:29Z;2015-07-06T11:06:21Z
+406;MDU6SXNzdWU5MzM1MDY0NQ==;{'totalCount': 7};ECMAScript 6 and Block Scope;2015-07-06T18:58:33Z;
+408;MDU6SXNzdWU5MzU2NDY4OQ==;{'totalCount': 1};Typo in README.md.  Plural of Jedi is Jedi :);2015-07-07T15:59:24Z;2015-07-07T16:39:23Z
+414;MDU6SXNzdWU5NDM5ODUzNA==;{'totalCount': 2};ES5 Type Casting;2015-07-10T21:35:05Z;2015-09-16T13:40:05Z
+417;MDU6SXNzdWU5NDc2NDU4Mw==;{'totalCount': 5};Immutable Rule in for-of loop using 'const';2015-07-13T16:51:00Z;2015-12-23T21:19:45Z
+419;MDU6SXNzdWU5NTA4NTM0MQ==;{'totalCount': 1};Consistent Use Of Trailing Commas for ES5 and ES6;2015-07-15T01:58:54Z;2015-07-20T18:43:17Z
+426;MDU6SXNzdWU5NTU2NTg0Mg==;{'totalCount': 4};Why does the .eslintrc prohibit unused function parameters? ;2015-07-17T01:41:30Z;2015-12-23T21:20:32Z
+429;MDU6SXNzdWU5NTgwODAyNQ==;{'totalCount': 4};javascript笔记;2015-07-18T09:29:04Z;2015-12-14T09:05:10Z
+430;MDU6SXNzdWU5NTgyODc3Ng==;{'totalCount': 1};Conflicting Comments example in 17.4 and 17.5;2015-07-18T14:17:10Z;2015-07-24T07:17:22Z
+433;MDU6SXNzdWU5NjQ3MzE2NA==;{'totalCount': 16};Mocha tests: Missing function expression name. (func-names);2015-07-22T04:34:51Z;2015-07-22T11:01:47Z
+434;MDU6SXNzdWU5NjUzNzY3OA==;{'totalCount': 3};block-scoped-var error when using destructuring in function argument;2015-07-22T11:03:58Z;2015-07-22T14:24:27Z
+435;MDU6SXNzdWU5Njg1NjM3OQ==;{'totalCount': 2};Unused variables when destructuring?;2015-07-23T16:46:59Z;2015-07-25T16:48:48Z
+438;MDU6SXNzdWU5Nzc4NDUyOQ==;{'totalCount': 4};Implicit return – one line vs. one expression;2015-07-28T19:34:47Z;2015-08-13T16:44:17Z
+439;MDU6SXNzdWU5Nzg2NDI3NQ==;{'totalCount': 1};Why is whitespace set to 2?;2015-07-29T05:34:44Z;2015-07-29T06:12:22Z
+440;MDU6SXNzdWU5NzkwMzU1Ng==;{'totalCount': 4};More frequent versions bumps;2015-07-29T10:08:32Z;2015-12-23T21:22:21Z
+441;MDU6SXNzdWU5Nzk5ODA3Nw==;{'totalCount': 4};JSON declaration - single vs. double quotes;2015-07-29T18:17:17Z;2015-07-29T18:48:08Z
+445;MDU6SXNzdWU5ODE5OTEyMQ==;{'totalCount': 5};`if` statements – one line vs. one expression;2015-07-30T15:37:27Z;
+450;MDU6SXNzdWU5ODM3NDU5NQ==;{'totalCount': 6};Consider allowing anonymous function expressions;2015-07-31T11:45:37Z;
+451;MDU6SXNzdWU5ODYyNDA3MA==;{'totalCount': 14};Can I use eslint-config-airbnb without eslint-plugin-react?;2015-08-02T17:40:08Z;2015-08-21T21:24:32Z
+454;MDU6SXNzdWU5OTA5NDc0OA==;{'totalCount': 15};Missing no-undef in .eslintrc;2015-08-05T01:14:09Z;2015-08-05T01:28:58Z
+456;MDU6SXNzdWU5OTI2Nzk4OA==;{'totalCount': 2};`spaced-comment` and jsdoc;2015-08-05T18:27:54Z;2015-08-05T18:35:18Z
+462;MDU6SXNzdWU5OTY4NDU5Ng==;{'totalCount': 5};Add a .jsbeautifyrc file  to automatically format code based on style guide;2015-08-07T16:39:56Z;2019-08-10T06:04:05Z
+465;MDU6SXNzdWU5OTg2ODc5Mg==;{'totalCount': 30};eslint-config-airbnb error;2015-08-09T05:44:50Z;2015-08-09T17:15:13Z
+466;MDU6SXNzdWU5OTk1NzExMg==;{'totalCount': 1};How should I name my jQuery object variables if the referenced lookup has a hyphen in the classname or id?;2015-08-10T02:37:19Z;2015-08-10T20:27:15Z
+470;MDU6SXNzdWUxMDAxODAyMzc=;{'totalCount': 3};Should there be a section that addresses switch statements?;2015-08-10T22:06:30Z;2016-04-20T04:26:50Z
+473;MDU6SXNzdWUxMDA5MzQ1ODQ=;{'totalCount': 0};jsx-no-undef does not cover for no-undef;2015-08-14T05:07:40Z;2015-08-24T06:20:45Z
+477;MDU6SXNzdWUxMDE2ODg1OTY=;{'totalCount': 2};"add ""everything-else"" before ""render""";2015-08-18T15:54:21Z;2015-08-18T16:59:25Z
+483;MDU6SXNzdWUxMDI1NTcyODM=;{'totalCount': 9};[ESLint] Why are padded blocks not permitted?;2015-08-22T18:24:59Z;2015-11-06T00:50:49Z
+485;MDU6SXNzdWUxMDI3NjYzODA=;{'totalCount': 8};Discourage use of const;2015-08-24T10:56:33Z;2015-08-24T18:32:32Z
+487;MDU6SXNzdWUxMDMzNjQ5MzQ=;{'totalCount': 4};Request for more clarity on the specific reasons generators are discouraged;2015-08-26T21:11:33Z;2015-08-26T22:27:15Z
+490;MDU6SXNzdWUxMDM1OTEwOTk=;{'totalCount': 35};"Underscore prefixes for ""private"" properties";2015-08-27T20:42:48Z;2015-10-26T05:06:01Z
+493;MDU6SXNzdWUxMDM4MzAyOTA=;{'totalCount': 4};Sometimes there is a requirement to use _this;2015-08-29T05:27:19Z;2015-08-29T07:33:40Z
+495;MDU6SXNzdWUxMDQxMjUxMjU=;{'totalCount': 1};Include the rationale behind the rules, if there is one.;2015-08-31T20:09:33Z;2015-08-31T21:37:39Z
+496;MDU6SXNzdWUxMDQ0NzcyNDk=;{'totalCount': 7};ES5 settings for eslint;2015-09-02T13:11:30Z;2016-04-20T04:17:27Z
+498;MDU6SXNzdWUxMDUxNTY1MTY=;{'totalCount': 1};List SuperJobs as using the Styleguide;2015-09-07T06:41:02Z;2015-09-09T06:17:13Z
+501;MDU6SXNzdWUxMDU2MTYxMDc=;{'totalCount': 11};Filenames with different UpperCamelCase are unsafe in case-insensitive filesystems;2015-09-09T15:03:36Z;2015-12-11T22:47:32Z
+503;MDU6SXNzdWUxMDU3NDg1Mzc=;{'totalCount': 1};Blank lines between definitions in a class?;2015-09-10T07:34:46Z;2015-09-10T11:51:02Z
+504;MDU6SXNzdWUxMDU3Nzg2MDU=;{'totalCount': 2};Can iterators be pretty and immutable?;2015-09-10T10:21:47Z;2015-12-24T07:45:36Z
+509;MDU6SXNzdWUxMDY3MDc2MzM=;{'totalCount': 4};No max-len ESLint rule?;2015-09-16T06:21:57Z;2016-03-04T22:13:28Z
+512;MDU6SXNzdWUxMDY4MDkzODY=;{'totalCount': 2};Hyper Oslo using your style guide;2015-09-16T16:24:08Z;2015-09-16T21:47:17Z
+513;MDU6SXNzdWUxMDY4Mjg0OTY=;{'totalCount': 12};react/jsx-quotes is deprecated. Use jsx-quotes instead;2015-09-16T18:08:34Z;2015-12-23T20:03:03Z
+515;MDU6SXNzdWUxMDY4OTUzMjY=;{'totalCount': 2};'id-length' is invalid;2015-09-17T01:30:53Z;2015-09-24T19:25:38Z
+520;MDU6SXNzdWUxMDc1MDkwMTM=;{'totalCount': 30};Best practice regarding conditional JSX;2015-09-21T13:15:54Z;
+522;MDU6SXNzdWUxMDgwNjA3ODY=;{'totalCount': 1};Switch to rules from eslint-config-defaults;2015-09-24T05:25:16Z;2015-09-27T19:29:48Z
+523;MDU6SXNzdWUxMDgzMjY1NjY=;{'totalCount': 2};Possible typo at #21.3;2015-09-25T13:28:04Z;2015-09-25T14:21:27Z
+529;MDU6SXNzdWUxMDg4NTU5NDc=;{'totalCount': 3};Strict mode rule in ESLint;2015-09-29T12:07:56Z;2015-09-29T16:20:35Z
+531;MDU6SXNzdWUxMDkxMDc5MzA=;{'totalCount': 4};"Boolean(""false"") parses to true";2015-09-30T14:49:14Z;2015-09-30T17:51:18Z
+532;MDU6SXNzdWUxMDkxODUxNDY=;{'totalCount': 11};Best practice for wrapping function arguments;2015-09-30T21:40:44Z;
+535;MDU6SXNzdWUxMDk1NDY5MzM=;{'totalCount': 3};Style autofixing;2015-10-02T18:31:49Z;
+538;MDU6SXNzdWUxMDk2NzQ0NDQ=;{'totalCount': 4};ESLint doesn't spot error in render method a class that extends from React Component;2015-10-04T10:42:32Z;2015-10-05T18:59:14Z
+539;MDU6SXNzdWUxMTAwMjUxOTc=;{'totalCount': 2};Turn on no-mixed-spaces-and-tabs`;2015-10-06T14:50:40Z;2015-10-30T17:49:53Z
+540;MDU6SXNzdWUxMTAxNDkyODI=;{'totalCount': 12};Disallowing Unary Increment and Decrement (++ and --);2015-10-07T04:13:58Z;2016-09-07T06:20:50Z
+543;MDU6SXNzdWUxMTEyMzYxNDQ=;{'totalCount': 2};Unused local variable in react render;2015-10-13T18:06:05Z;2015-10-13T20:54:33Z
+548;MDU6SXNzdWUxMTE3OTAwOTY=;{'totalCount': 4};consistent-return and promises;2015-10-16T08:56:43Z;2016-07-05T08:44:26Z
+550;MDU6SXNzdWUxMTIzMTE4MjE=;{'totalCount': 2};Constructor using class statement - Browser doesn't allow it;2015-10-20T08:19:33Z;2015-10-20T08:21:32Z
+552;MDU6SXNzdWUxMTI3MjIyMzE=;{'totalCount': 12};Only allow one blank line between blocks and at EOF;2015-10-22T03:05:22Z;2015-11-18T14:34:10Z
+558;MDU6SXNzdWUxMTQxODg5NDI=;{'totalCount': 1};api error;2015-10-30T02:48:07Z;2015-12-24T07:35:02Z
+559;MDU6SXNzdWUxMTQxOTI2NTE=;{'totalCount': 4};why disable `no-const-assign` in eslint es6 config?;2015-10-30T03:29:45Z;2015-12-23T22:39:59Z
+565;MDU6SXNzdWUxMTQ4NTY0OTI=;{'totalCount': 15};Why is babel-eslint required?;2015-11-03T16:37:22Z;2015-11-07T00:36:22Z
+567;MDU6SXNzdWUxMTUyNTY0NTk=;{'totalCount': 0};id-length exceptions;2015-11-05T10:40:02Z;2015-11-05T23:35:20Z
+571;MDU6SXNzdWUxMTU3MzM1NzQ=;{'totalCount': 3};0.1.1 on npm?;2015-11-08T13:13:47Z;2015-11-08T19:07:51Z
+573;MDU6SXNzdWUxMTU4NTg1NjA=;{'totalCount': 2};ES2015 has multi line strings;2015-11-09T11:34:31Z;2015-11-09T21:52:25Z
+577;MDU6SXNzdWUxMTYzNTQwNDA=;{'totalCount': 1};React eslint not catching the use of underscore with internal methods;2015-11-11T15:13:15Z;
+587;MDU6SXNzdWUxMTc5NTMxNjg=;{'totalCount': 4};linter won't let me use strict mode but still forces me to use 'let';2015-11-20T02:35:11Z;2015-11-20T03:19:39Z
+588;MDU6SXNzdWUxMTgzOTE1NDU=;{'totalCount': 15};airbnb eslint presets, which require all required presets inside them ;2015-11-23T14:28:01Z;2016-04-20T04:19:13Z
+589;MDU6SXNzdWUxMTg0NTAxODE=;{'totalCount': 15};1.0.0 - Unexpected token = with static properties;2015-11-23T19:11:14Z;2015-11-23T21:00:52Z
+593;MDU6SXNzdWUxMTkyMjAyMDg=;{'totalCount': 11};why is space-in-parens disabled?;2015-11-27T16:22:54Z;2015-11-30T23:18:53Z
+595;MDU6SXNzdWUxMTk2MDY2NjM=;{'totalCount': 3};eslint throwing wrong error on `react/sort-comp`;2015-11-30T23:35:05Z;2015-11-30T23:41:12Z
+596;MDU6SXNzdWUxMTk2MTk4OTc=;{'totalCount': 1};What eslint rule applies for each rule?;2015-12-01T01:26:28Z;2016-04-20T04:17:50Z
+597;MDU6SXNzdWUxMTk2MjAwMDE=;{'totalCount': 8};Why don't we have Promises in the style guide?;2015-12-01T01:27:29Z;2016-09-07T06:17:43Z
+598;MDU6SXNzdWUxMTk5NTQ0NDY=;{'totalCount': 5};Explicitly clarify naming policy for React event handler methods;2015-12-02T14:33:41Z;
+603;MDU6SXNzdWUxMjAwNzgxNjQ=;{'totalCount': 2};Peer Dependencies;2015-12-03T01:57:44Z;2015-12-24T07:37:38Z
+611;MDU6SXNzdWUxMjA2NTc3OTM=;{'totalCount': 3};Cannot override the `space-in-parens` rule;2015-12-06T20:33:55Z;2015-12-24T07:38:29Z
+612;MDU6SXNzdWUxMjA3MTA2NTg=;{'totalCount': 6};Stance on React 0.14 stateless function components;2015-12-07T06:48:01Z;2016-01-22T09:58:59Z
+614;MDU6SXNzdWUxMjA5ODA4MzQ=;{'totalCount': 1};Grammar mistake in 3.4 block;2015-12-08T10:41:07Z;2015-12-08T16:36:51Z
+616;MDU6SXNzdWUxMjEzMjQxNjE=;{'totalCount': 5};Recommended import grouping and order?;2015-12-09T19:48:49Z;2015-12-09T21:31:20Z
+621;MDU6SXNzdWUxMjIyMDEzOTc=;{'totalCount': 1};object-shorthand rule should be enabled;2015-12-15T06:18:46Z;2015-12-15T06:22:44Z
+623;MDU6SXNzdWUxMjI0NjY0MDA=;{'totalCount': 1};21.3 Numbers;2015-12-16T09:51:47Z;2015-12-16T18:59:47Z
+625;MDU6SXNzdWUxMjI1Njk0NDI=;{'totalCount': 19};Why disable `console.log`?;2015-12-16T18:13:11Z;2015-12-16T18:39:34Z
+626;MDU6SXNzdWUxMjI2MjAxMjA=;{'totalCount': 5};no-param-reassign with props;2015-12-16T22:40:40Z;2015-12-17T23:19:35Z
+628;MDU6SXNzdWUxMjI4ODE3OTc=;{'totalCount': 3};Broken Hyperlinks on webpage.;2015-12-18T05:26:25Z;2015-12-18T18:52:18Z
+629;MDU6SXNzdWUxMjMzMzEyNTE=;{'totalCount': 8};Consistent quote style for both JS and JSX?;2015-12-21T18:18:11Z;2016-01-07T00:38:24Z
+630;MDU6SXNzdWUxMjMzMzM1MTI=;{'totalCount': 7};Alignment of closing bracket of opening tag for components with multi-line properties and children;2015-12-21T18:34:31Z;2015-12-22T19:00:34Z
+633;MDU6SXNzdWUxMjM1NDA1MDk=;{'totalCount': 4};Enable react/no-is-mounted?;2015-12-22T19:19:33Z;2015-12-22T21:41:26Z
+638;MDU6SXNzdWUxMjM3NDMwMjk=;{'totalCount': 3};Work together on eslint-config-defaults;2015-12-24T01:16:42Z;2016-04-20T04:08:45Z
+640;MDU6SXNzdWUxMjM3OTM5OTY=;{'totalCount': 6};Naming convention for plain object properties;2015-12-24T11:32:41Z;2015-12-24T18:22:29Z
+641;MDU6SXNzdWUxMjQxODcwOTc=;{'totalCount': 15};"Thoughts on ""Never mutate parameters""";2015-12-29T09:37:27Z;2015-12-29T16:44:53Z
+642;MDU6SXNzdWUxMjQxOTM3MTg=;{'totalCount': 2};"Thoughts on ""Use dot notation when accessing properties""";2015-12-29T10:47:14Z;2016-09-07T06:16:56Z
+646;MDU6SXNzdWUxMjQyNDQ5NDI=;{'totalCount': 4};Document best practices for test assertions;2015-12-29T17:44:07Z;
+653;MDU6SXNzdWUxMjQ2NTg2NjQ=;{'totalCount': 9};Naming conventions and abbreviations;2016-01-03T16:50:07Z;2018-11-30T03:44:36Z
+654;MDU6SXNzdWUxMjQ3NTk4MDA=;{'totalCount': 2};Italian translation;2016-01-04T13:36:23Z;2016-01-04T19:03:26Z
+659;MDU6SXNzdWUxMjUyMDA1OTY=;{'totalCount': 76};react/jsx-no-bind: how to pass args from callbacks?;2016-01-06T15:38:45Z;2016-01-06T19:43:55Z
+660;MDU6SXNzdWUxMjUyNDY2MDU=;{'totalCount': 2};Minor updates on eslint-airbnb-config keep breaking my tests;2016-01-06T19:36:54Z;2016-01-06T20:18:45Z
+665;MDU6SXNzdWUxMjUzNDI5MTI=;{'totalCount': 2};How is the style guide related to eslint-config-airbnb? ;2016-01-07T07:44:30Z;2016-01-07T08:32:44Z
+666;MDU6SXNzdWUxMjU1MzU1MDE=;{'totalCount': 8};setting environments in shared config?;2016-01-08T03:34:28Z;2016-09-07T06:16:00Z
+670;MDU6SXNzdWUxMjU3OTIzMzk=;{'totalCount': 2};Objects: getters and setters?;2016-01-10T01:27:12Z;2016-04-20T04:02:49Z
+671;MDU6SXNzdWUxMjYwMDk1Mjg=;{'totalCount': 2};Add section on nested/multiline ternaries;2016-01-11T18:43:59Z;2016-04-20T04:21:30Z
+672;MDU6SXNzdWUxMjYwMTAzMjg=;{'totalCount': 3};return indentation on second line?;2016-01-11T18:48:43Z;2016-01-12T06:05:20Z
+684;MDU6SXNzdWUxMjcxMTU2MDU=;{'totalCount': 34};Why no setState in componentDidMount?;2016-01-17T18:55:32Z;2017-11-04T08:02:38Z
+685;MDU6SXNzdWUxMjcxMjk1NjU=;{'totalCount': 6};Lint the readme;2016-01-17T22:39:36Z;
+693;MDU6SXNzdWUxMjg0NjgyNzc=;{'totalCount': 4};Why are some rules well defined but turned off (react/jsx-curly-spacing)?;2016-01-25T05:45:47Z;2016-04-20T03:17:23Z
+694;MDU6SXNzdWUxMjg1MTE3NjE=;{'totalCount': 4};"Arrow functions and parentheses: ""good"" example in 8.2 does not follow suggestions in 8.4";2016-01-25T11:01:30Z;2016-02-10T20:18:52Z
+696;MDU6SXNzdWUxMjg4MDQ0MDE=;{'totalCount': 9};YAMLException: Cannot read config file;2016-01-26T12:22:09Z;2016-03-02T08:21:35Z
+704;MDU6SXNzdWUxMjk2MjQxMzU=;{'totalCount': 4};"Lack of ""react/jsx-uses-react"": 1,";2016-01-29T00:11:51Z;2016-01-29T00:26:20Z
+705;MDU6SXNzdWUxMjk2MjY0MzQ=;{'totalCount': 1};const keyword is supported only from IE 11;2016-01-29T00:26:45Z;2016-01-31T17:24:59Z
+708;MDU6SXNzdWUxMzAxMTQ0MzM=;{'totalCount': 4};Why class based componets better then createClass components?;2016-01-31T11:11:12Z;2016-04-20T03:16:01Z
+710;MDU6SXNzdWUxMzA0MzIzNTc=;{'totalCount': 16};Best practice for import/export;2016-02-01T17:49:19Z;2016-04-20T04:01:41Z
+713;MDU6SXNzdWUxMzA4OTkxOTQ=;{'totalCount': 2};Exception for space-before-keywords?;2016-02-03T03:24:28Z;
+716;MDU6SXNzdWUxMzE0NTEzODM=;{'totalCount': 7};Template Strings Spacing;2016-02-04T19:29:34Z;2016-02-15T02:57:29Z
+717;MDU6SXNzdWUxMzE5NjgxMjU=;{'totalCount': 5};`no-unused-vars` and `prefer-template` rules conflict;2016-02-07T13:33:10Z;2016-02-07T17:58:53Z
+718;MDU6SXNzdWUxMzE5OTY5ODU=;{'totalCount': 3};Point 22.5. Reference to this context.;2016-02-07T18:46:48Z;2016-02-07T19:43:49Z
+719;MDU6SXNzdWUxMzIyODI1ODM=;{'totalCount': 37};no-param-reassign with props, again;2016-02-08T23:05:32Z;2016-02-16T20:58:38Z
+720;MDU6SXNzdWUxMzI0MjIyMjQ=;{'totalCount': 8};Migrate eslint-plugin-react to PeerDependencies;2016-02-09T13:41:57Z;2016-02-14T06:55:01Z
+722;MDU6SXNzdWUxMzI3MDc3NDk=;{'totalCount': 10};Strict mode rule;2016-02-10T14:02:55Z;2016-02-10T18:35:39Z
+723;MDU6SXNzdWUxMzI3MTc4Mzc=;{'totalCount': 20};Always use const to declare variables. ???;2016-02-10T14:46:49Z;2016-02-10T18:26:54Z
+725;MDU6SXNzdWUxMzI5MTc5NzU=;{'totalCount': 1};Ternary with parens around the conditional?;2016-02-11T08:42:27Z;2016-02-11T08:44:11Z
+726;MDU6SXNzdWUxMzMwNTczMzU=;{'totalCount': 2};Style critique on no-unused-vars.;2016-02-11T18:53:57Z;2016-02-16T20:51:27Z
+727;MDU6SXNzdWUxMzMyNjUzMzM=;{'totalCount': 7};"Can't overwrite ""strict"" rule";2016-02-12T15:13:42Z;2016-04-20T03:14:31Z
+728;MDU6SXNzdWUxMzMyOTEwNjU=;{'totalCount': 6};ESlint config errors with eslint v2;2016-02-12T16:55:25Z;2016-02-12T19:27:16Z
+731;MDU6SXNzdWUxMzMzNDc3MTM=;{'totalCount': 2};ESLint Rules not compatible with ESLint 2.0.0;2016-02-12T21:30:08Z;2016-02-12T21:31:35Z
+732;MDU6SXNzdWUxMzMzNTk3ODI=;{'totalCount': 3};Update to eslint 2.0;2016-02-12T22:34:43Z;2016-02-12T22:35:02Z
+733;MDU6SXNzdWUxMzMzOTQ1MjQ=;{'totalCount': 3};ESLint 2.0.0 Released -- New Rules to Consider;2016-02-13T03:43:48Z;2016-02-13T03:52:48Z
+734;MDU6SXNzdWUxMzM0MTgzODY=;{'totalCount': 3};So many errors for a single console statement;2016-02-13T09:52:17Z;2016-02-13T19:09:49Z
+735;MDU6SXNzdWUxMzM1Mjc4Mjk=;{'totalCount': 1};Update to eslint to 2.x;2016-02-14T10:25:23Z;2016-02-14T11:26:08Z
+736;MDU6SXNzdWUxMzM1NjA1NzA=;{'totalCount': 1};ESLint@2.x;2016-02-14T17:44:14Z;2016-02-14T17:46:44Z
+737;MDU6SXNzdWUxMzM1OTEyMDU=;{'totalCount': 7};Remove peer-dependency from eslint-config-airbnb;2016-02-14T23:16:20Z;2016-02-16T09:24:26Z
+738;MDU6SXNzdWUxMzM5NjQ4OTQ=;{'totalCount': 4};Support eslint2;2016-02-16T12:09:11Z;2016-02-16T17:20:44Z
+739;MDU6SXNzdWUxMzQxMTcyNTY=;{'totalCount': 1};Getting warning about eslint not being installed, but it's installed;2016-02-16T22:42:50Z;2016-02-16T22:45:09Z
+740;MDU6SXNzdWUxMzQxMTgwMTA=;{'totalCount': 1};eslint config needs to be updated to work with new version of eslint;2016-02-16T22:47:04Z;2016-02-16T22:47:48Z
+741;MDU6SXNzdWUxMzQyMTc4Mjg=;{'totalCount': 3};comma-dangle eslint error in legacy rules;2016-02-17T08:48:03Z;2016-02-21T08:01:07Z
+743;MDU6SXNzdWUxMzUwNDM5MDk=;{'totalCount': 1};npm i fails with 5.0.1 on eslint 2;2016-02-20T07:10:04Z;2016-02-20T17:16:55Z
+745;MDU6SXNzdWUxMzUxNjk5Njk=;{'totalCount': 1};Unable install eslint-config-airbnb due to semver.;2016-02-21T06:44:18Z;2016-02-21T06:52:15Z
+746;MDU6SXNzdWUxMzUxODcxMTM=;{'totalCount': 6};how to use global variable (Meteor JS)?;2016-02-21T10:22:20Z;2016-02-21T10:28:49Z
+747;MDU6SXNzdWUxMzUxODcyMjY=;{'totalCount': 20};How to allow `console.log()` in .eslint?;2016-02-21T10:24:05Z;2016-02-21T10:29:37Z
+748;MDU6SXNzdWUxMzUyMTI5NjU=;{'totalCount': 11};`newline-per-chained-call` and PropTypes;2016-02-21T14:44:32Z;2016-02-21T19:00:10Z
+750;MDU6SXNzdWUxMzUyNzI5OTA=;{'totalCount': 4};[rule links] reduce visual clutter proposal;2016-02-21T23:03:11Z;2018-10-13T14:03:13Z
+751;MDU6SXNzdWUxMzUyNzU0MDI=;{'totalCount': 37};npm@3 warn missing eslint-plugin-react a non react project;2016-02-21T23:26:58Z;2016-04-19T22:35:21Z
+752;MDU6SXNzdWUxMzUzNzE2NDI=;{'totalCount': 5};Conflicting rules 'no-confusing-arrow' and 'arrow-body-style';2016-02-22T10:02:11Z;2016-02-22T22:31:00Z
+758;MDU6SXNzdWUxMzU3MDIxNzM=;{'totalCount': 1};Performance problem in Array#push (4.2);2016-02-23T10:50:29Z;2016-02-23T18:05:43Z
+759;MDU6SXNzdWUxMzU3MTU4MTg=;{'totalCount': 1};is default required on switch?;2016-02-23T11:50:40Z;2016-02-23T18:07:34Z
+761;MDU6SXNzdWUxMzU4ODE1NTM=;{'totalCount': 22};single return vs multiple returns;2016-02-23T22:05:57Z;
+766;MDU6SXNzdWUxMzY3NDU2NjI=;{'totalCount': 7};How to deal with DOM manipulation;2016-02-26T16:30:12Z;2016-02-28T09:53:02Z
+769;MDU6SXNzdWUxMzc3MzkzOTk=;{'totalCount': 3};JSHint link in ES5 style guide is expired;2016-03-02T00:59:42Z;2016-03-02T01:29:42Z
+773;MDU6SXNzdWUxMzgyNDk0ODY=;{'totalCount': 10};no-unused-vars rule don't work while extending the airbnb's config;2016-03-03T17:47:29Z;2016-03-03T18:48:26Z
+774;MDU6SXNzdWUxMzgyNjQ0ODU=;{'totalCount': 1};react/jsx-closing-bracket-location is mentioned twice in react document;2016-03-03T18:46:38Z;2016-04-20T03:13:48Z
+779;MDU6SXNzdWUxMzkyNTkyMDQ=;{'totalCount': 8};"Configuration for rule ""no-labels"" is invalid";2016-03-08T11:56:12Z;2016-03-08T23:20:06Z
+781;MDU6SXNzdWUxMzkzOTg3MzU=;{'totalCount': 5};version 6.1.0 fails without eslint-plugin-react;2016-03-08T21:28:16Z;2016-03-08T21:51:36Z
+784;MDU6SXNzdWUxMzk3NTc1MTU=;{'totalCount': 10};prefer-stateless with event handlers is problematic;2016-03-10T01:47:30Z;2016-04-20T03:13:24Z
+786;MDU6SXNzdWUxNDAwMjg4OTY=;{'totalCount': 4};Stateless example seems wrong?;2016-03-10T22:34:27Z;2016-03-10T22:37:27Z
+788;MDU6SXNzdWUxNDAxNDUwMzI=;{'totalCount': 5};object spread;2016-03-11T10:10:04Z;2016-03-11T16:43:57Z
+791;MDU6SXNzdWUxNDExNjM2ODU=;{'totalCount': 2};`no-confusing-arrow` rule is already fixed in ESLint 2.4.0;2016-03-16T03:34:37Z;2016-03-21T00:24:07Z
+794;MDU6SXNzdWUxNDIyNjYxMTA=;{'totalCount': 32};7.1 says function expressions are always unnamed, but this changed in ES6;2016-03-21T06:05:04Z;2016-08-26T06:41:46Z
+797;MDU6SXNzdWUxNDMzOTU2Nzg=;{'totalCount': 12};About no-nested-ternary;2016-03-25T00:40:05Z;2016-03-25T00:48:55Z
+799;MDU6SXNzdWUxNDM3ODY2NDI=;{'totalCount': 2};Linting not working in a non-react project;2016-03-27T07:56:14Z;2016-03-27T07:57:05Z
+801;MDU6SXNzdWUxNDQ4NTMxMjg=;{'totalCount': 19};react/jsx-no-bind: why refs and arrow functions are allowed?;2016-03-31T10:16:07Z;2016-03-31T10:43:44Z
+803;MDU6SXNzdWUxNDUwODUzOTA=;{'totalCount': 2};Type in #iterators--nope;2016-04-01T04:42:26Z;2016-04-02T15:46:04Z
+804;MDU6SXNzdWUxNDUxOTU0MDA=;{'totalCount': 2};Option to remove eslint react plugin;2016-04-01T14:28:11Z;2016-04-01T14:48:02Z
+811;MDU6SXNzdWUxNDU4Nzg2Nzg=;{'totalCount': 1};Running eslint with airbnb on the command line fails;2016-04-05T03:50:01Z;2016-04-05T04:14:47Z
+812;MDU6SXNzdWUxNDU5OTYxNjQ=;{'totalCount': 1};React style guide should give guidance on conditionals in JSX;2016-04-05T13:54:23Z;2016-04-05T15:46:06Z
+814;MDU6SXNzdWUxNDY2OTQzNjI=;{'totalCount': 3};Clash between max-len and prefer-template;2016-04-07T17:36:25Z;2016-09-25T04:48:38Z
+817;MDU6SXNzdWUxNDcxNDI4NjU=;{'totalCount': 5};Filename and directory structure;2016-04-09T16:24:51Z;2016-04-16T02:21:19Z
+818;MDU6SXNzdWUxNDcxOTk1NjI=;{'totalCount': 7};'React' is defined but never used;2016-04-10T06:36:14Z;2016-04-10T06:50:56Z
+819;MDU6SXNzdWUxNDczOTY1MzM=;{'totalCount': 3};Max line length of 100 characters: allow URLs?;2016-04-11T11:20:45Z;2016-04-11T16:01:40Z
+823;MDU6SXNzdWUxNDgwNjIwOTE=;{'totalCount': 2};react/jsx-no-bind: arrow functions and garbage collection;2016-04-13T13:29:48Z;2016-04-13T19:02:06Z
+828;MDU6SXNzdWUxNDg2NTA1MjA=;{'totalCount': 3};Arrow function IIFE parens;2016-04-15T12:42:57Z;2016-04-16T02:24:56Z
+830;MDU6SXNzdWUxNDg5NzYxOTk=;{'totalCount': 2};Clean install warns about the react and a11y plugin, but not the import plugin;2016-04-17T17:50:50Z;2016-04-17T18:15:20Z
+831;MDU6SXNzdWUxNDkxNDU4NzY=;{'totalCount': 1};Recreate tag for v7 ;2016-04-18T13:07:45Z;2016-04-18T15:46:24Z
+832;MDU6SXNzdWUxNDkzMTk0ODM=;{'totalCount': 2};release eslint-plugin-react@^5.0.0 version;2016-04-19T01:22:55Z;2016-04-22T02:07:38Z
+839;MDU6SXNzdWUxNDk2MzEzMTQ=;{'totalCount': 1};eslint-plugin-jsx-a11y breaking changes;2016-04-20T01:46:04Z;2016-04-20T03:06:36Z
+840;MDU6SXNzdWUxNDk2NzA4ODY=;{'totalCount': 10};Please document no-restricted-syntax;2016-04-20T06:17:32Z;2016-07-06T16:04:16Z
+843;MDU6SXNzdWUxNDk3MzY3NDI=;{'totalCount': 2};Rules covered by JSCS, but not ESLint;2016-04-20T11:04:33Z;2016-09-07T06:13:45Z
+844;MDU6SXNzdWUxNDk3ODYzMDA=;{'totalCount': 2};How to pass param in onclick in react?;2016-04-20T14:36:25Z;2016-04-20T15:50:58Z
+846;MDU6SXNzdWUxNTAxMzU0OTg=;{'totalCount': 1};Missing jsx-quotes rule;2016-04-21T17:09:03Z;2016-04-21T17:12:11Z
+848;MDU6SXNzdWUxNTAzMjQ3OTQ=;{'totalCount': 7};Naming convention for Promise.;2016-04-22T09:46:36Z;2016-09-07T06:17:36Z
+851;MDU6SXNzdWUxNTA1ODUyMDg=;{'totalCount': 155};Using 'ForInStatement' is not allowed (no-restricted-syntax);2016-04-23T19:01:41Z;2016-04-23T21:16:23Z
+853;MDU6SXNzdWUxNTA4NzEyNDE=;{'totalCount': 28};[base/rules/es6.js] Why are all rules on error?;2016-04-25T14:05:57Z;2016-04-25T15:32:26Z
+855;MDU6SXNzdWUxNTEwMjUyNTA=;{'totalCount': 1};Migrate some rule packages to dependencies;2016-04-26T02:32:37Z;2016-04-26T02:33:49Z
+856;MDU6SXNzdWUxNTEwOTM1NDU=;{'totalCount': 3};Conditional expression in Arrow function;2016-04-26T10:04:50Z;2016-06-22T05:40:11Z
+858;MDU6SXNzdWUxNTE5OTkyODk=;{'totalCount': 4};eslint-config-airbnb-base looks in global;2016-04-30T01:46:21Z;2016-05-01T01:16:22Z
+859;MDU6SXNzdWUxNTIwNjI4ODc=;{'totalCount': 4};import/no-unresolved thrown when using app-module-path package;2016-05-01T01:31:18Z;2016-05-01T17:04:23Z
+862;MDU6SXNzdWUxNTMwMDU1ODc=;{'totalCount': 1};Difference in Linters? (JSHint vs ESLint);2016-05-04T13:00:27Z;2016-05-04T16:02:52Z
+863;MDU6SXNzdWUxNTMwNDIyMzg=;{'totalCount': 1};Peer dependencies changed within a specific version;2016-05-04T15:31:36Z;2016-05-04T16:08:29Z
+865;MDU6SXNzdWUxNTM0MDE5ODc=;{'totalCount': 10};"A few questions regarding ""line length of 100"" rule";2016-05-06T08:22:13Z;2017-07-20T16:05:44Z
+866;MDU6SXNzdWUxNTM1Mjg1NTY=;{'totalCount': 22};consider removing stylistic rules that can't be automatically fixed from eslint-config-airbnb;2016-05-06T20:09:13Z;2016-09-07T06:12:45Z
+867;MDU6SXNzdWUxNTM2NDg2NDE=;{'totalCount': 3};Conflicting rules;2016-05-08T10:40:48Z;2016-05-08T21:56:29Z
+869;MDU6SXNzdWUxNTM2NzM5MjI=;{'totalCount': 1};Item 8.3 gives eslint error in airbnb-base;2016-05-08T19:47:21Z;2016-05-08T21:56:07Z
+871;MDU6SXNzdWUxNTM2OTUzOTM=;{'totalCount': 5};Error: Cannot read config package: eslint-config-airbnb;2016-05-09T03:04:54Z;2016-05-09T03:15:04Z
+872;MDU6SXNzdWUxNTM3NTg0NDE=;{'totalCount': 3};eslint-config-airbnb-base/legacy 'func' was used before it was defined;2016-05-09T11:44:08Z;2016-05-09T16:23:14Z
+873;MDU6SXNzdWUxNTQ0NzE2NzI=;{'totalCount': 1};Better method binding (arrow functions as class properties);2016-05-12T12:35:54Z;2016-05-12T14:45:04Z
+874;MDU6SXNzdWUxNTQ0OTgzNzY=;{'totalCount': 9};Rule 3.6 (use property value shorthand) leads to refactoring errors;2016-05-12T14:35:28Z;2016-05-12T22:47:40Z
+877;MDU6SXNzdWUxNTQ2MTA0NDE=;{'totalCount': 3};Exception for no-unused-var when destructuring with object rest?;2016-05-13T00:32:44Z;2016-05-13T03:43:23Z
+879;MDU6SXNzdWUxNTQ4MjUxMDA=;{'totalCount': 18};"Getting an Error with ""prefer-arrow-callback""";2016-05-14T00:53:18Z;2016-05-14T00:59:38Z
+880;MDU6SXNzdWUxNTQ5MDI3NTI=;{'totalCount': 3};Sublime 3 linter configuration for jshint;2016-05-15T11:04:58Z;2016-09-07T06:14:01Z
+884;MDU6SXNzdWUxNTUzMDM2Nzg=;{'totalCount': 4};suggestion: enable react/no-string-refs;2016-05-17T16:28:19Z;2016-08-02T21:29:37Z
+885;MDU6SXNzdWUxNTUzNDAzMTU=;{'totalCount': 3};"Suggestion: remove need to ""only"" quote properties that are invalid identifiers";2016-05-17T19:21:54Z;2016-05-17T20:45:28Z
+887;MDU6SXNzdWUxNTU0MTEzODU=;{'totalCount': 1};Preferred generator syntax;2016-05-18T03:50:47Z;2016-05-18T04:29:36Z
+888;MDU6SXNzdWUxNTU0MTM4MTk=;{'totalCount': 5};Revisit Array#length shortcut recommendation (15.3);2016-05-18T04:20:57Z;2016-10-09T01:03:49Z
+889;MDU6SXNzdWUxNTU3MTYxNjU=;{'totalCount': 1};Eslint 'react/prop-types' occur even on Stateless Functions's Destructuring Parameter.;2016-05-19T11:38:44Z;2016-05-19T15:59:53Z
+891;MDU6SXNzdWUxNTY3MTAzMzY=;{'totalCount': 1};Bind react methods with ES class fields;2016-05-25T10:00:36Z;2016-05-25T10:01:44Z
+892;MDU6SXNzdWUxNTY3Mzc4MTQ=;{'totalCount': 2};Crash for react/display-name rule;2016-05-25T12:27:42Z;2016-05-25T13:38:44Z
+897;MDU6SXNzdWUxNTcyMjI5MjE=;{'totalCount': 8};" Configuration for rule ""import/no-extraneous-dependencies"" is invalid";2016-05-27T14:46:34Z;2016-06-02T21:21:26Z
+898;MDU6SXNzdWUxNTc1NDczOTc=;{'totalCount': 7};How to avoid no-param-reassign?;2016-05-30T19:23:48Z;2016-05-30T20:28:52Z
+904;MDU6SXNzdWUxNTg1MjU5MDI=;{'totalCount': 2};Proposal: Enable comma-dangle linter rule;2016-06-04T21:52:41Z;2016-06-05T00:17:54Z
+906;MDU6SXNzdWUxNTg1Mjk5MTQ=;{'totalCount': 6};import/no-unresolved raises false positives in many projects;2016-06-04T23:50:45Z;2016-06-05T00:18:55Z
+907;MDU6SXNzdWUxNTk1NDQ3MjE=;{'totalCount': 4};linting rule for https://github.com/airbnb/javascript#naming--filename-matches-export;2016-06-10T01:53:26Z;2016-09-07T06:11:05Z
+908;MDU6SXNzdWUxNTk3NDYzNDk=;{'totalCount': 2};Elaborated and turned off rules;2016-06-11T00:33:50Z;2016-06-11T00:37:51Z
+912;MDU6SXNzdWUxNTk5NTk3MTk=;{'totalCount': 8};in react/sort-comp rules: Why are user-defined methods preferred between other lifecycle methods and render?;2016-06-13T14:12:09Z;2019-08-13T15:35:33Z
+918;MDU6SXNzdWUxNjA0NzM4NjU=;{'totalCount': 4};"Configuration for rule ""prefer-arrow-callback"" is invalid: Value ""[object Object]"" has more items than allowed.";2016-06-15T17:02:36Z;2016-06-15T19:29:30Z
+924;MDU6SXNzdWUxNjExMTUyNTM=;{'totalCount': 1};Consider to add rule that using .find() when selector with id in jQuery;2016-06-20T04:32:03Z;2016-06-20T04:35:10Z
+926;MDU6SXNzdWUxNjEyNjA3MjU=;{'totalCount': 1};where did the wiki go?;2016-06-20T18:22:17Z;2016-06-20T18:23:49Z
+927;MDU6SXNzdWUxNjE4NjQyMDE=;{'totalCount': 11};Array with objects;2016-06-23T08:11:50Z;2016-09-07T06:10:30Z
+930;MDU6SXNzdWUxNjIyNTIzOTI=;{'totalCount': 1};Constant conditions in generators;2016-06-25T00:14:14Z;2016-06-25T00:31:50Z
+932;MDU6SXNzdWUxNjIzNTMwMjc=;{'totalCount': 1};Batman suggestion superman PLEASE thank you;2016-06-26T23:13:17Z;2016-06-26T23:13:53Z
+933;MDU6SXNzdWUxNjI1MDYzNjg=;{'totalCount': 6};cannot override object-shorthand;2016-06-27T17:35:32Z;2016-06-27T18:28:44Z
+934;MDU6SXNzdWUxNjMxODMwODI=;{'totalCount': 1};"""Bad option: 'esversion'."" issue";2016-06-30T14:43:57Z;2016-09-07T06:10:12Z
+936;MDU6SXNzdWUxNjM1MTU4MjA=;{'totalCount': 8};Allow peerDependency eslint@3.0.0;2016-07-02T12:08:22Z;2016-08-01T21:36:15Z
+937;MDU6SXNzdWUxNjM1ODY2NTM=;{'totalCount': 4};A question about react stateless function;2016-07-04T00:18:31Z;2016-07-04T04:38:05Z
+941;MDU6SXNzdWUxNjQxNjI1OTQ=;{'totalCount': 4};Consider removing the ES5 styleguide.;2016-07-06T20:09:30Z;2016-08-01T20:28:22Z
+945;MDU6SXNzdWUxNjQ2NzMzMDY=;{'totalCount': 0};[18.5 End files with a single newline character] Add es-lint rule;2016-07-09T16:06:40Z;2016-07-09T16:09:05Z
+947;MDU6SXNzdWUxNjQ3MzE2MTE=;{'totalCount': 3};export methods question;2016-07-10T20:08:53Z;2016-07-11T02:45:47Z
+948;MDU6SXNzdWUxNjQ3OTk4Nzc=;{'totalCount': 5};generator-star-spacing rule change incompatible with async/await;2016-07-11T09:53:21Z;2017-01-09T16:26:36Z
+949;MDU6SXNzdWUxNjQ4MTg4NjE=;{'totalCount': 9};File naming conventions;2016-07-11T11:47:20Z;2016-07-13T15:34:32Z
+950;MDU6SXNzdWUxNjQ5NjkxNzA=;{'totalCount': 1};Legacy now requires comma-dangle in object literals;2016-07-12T00:29:46Z;2016-07-12T06:37:26Z
+951;MDU6SXNzdWUxNjUyNDUxMTc=;{'totalCount': 5};Trailing commas in function arguments;2016-07-13T06:13:35Z;
+952;MDU6SXNzdWUxNjU0MzYwMzI=;{'totalCount': 8};Allow peerDependency eslint-plugin-jsx-a11y@^2.0.0;2016-07-13T22:27:18Z;2016-08-02T16:00:17Z
+954;MDU6SXNzdWUxNjYxOTExODk=;{'totalCount': 3};Translation PT-BR;2016-07-18T20:54:43Z;2016-09-07T06:09:44Z
+956;MDU6SXNzdWUxNjYyODU5NDc=;{'totalCount': 3};Errors when attempting to include;2016-07-19T09:25:13Z;2016-07-19T17:32:30Z
+957;MDU6SXNzdWUxNjY1MDkwOTg=;{'totalCount': 1};upgrade eslint-config-airbnb and eslint-config-airbnb-base to latest versions;2016-07-20T06:54:05Z;2016-07-20T06:55:07Z
+958;MDU6SXNzdWUxNjY2NjQ5MDM=;{'totalCount': 3};Promises indentation;2016-07-20T19:42:33Z;2016-07-20T21:15:30Z
+959;MDU6SXNzdWUxNjY3OTI3MjE=;{'totalCount': 10};The `imports` in tests for the rule `import/no-extraneous-dependencies`;2016-07-21T11:01:30Z;2016-07-21T17:17:11Z
+963;MDU6SXNzdWUxNjc0MzgzODc=;{'totalCount': 4};allowShortCircuit and allowTernary in no-unused-expressions;2016-07-25T18:51:28Z;2016-07-25T19:40:01Z
+964;MDU6SXNzdWUxNjc2MDg0MzQ=;{'totalCount': 10};Consider changing the maximum amount of characters per line from 100 to 80;2016-07-26T13:34:48Z;2016-07-26T15:45:02Z
+965;MDU6SXNzdWUxNjc2NTA3MjY=;{'totalCount': 8};Adopt a commit message style?;2016-07-26T16:21:26Z;
+966;MDU6SXNzdWUxNjc2NzcyOTY=;{'totalCount': 3};Please provide opinion on the use of `continue` in loops. ;2016-07-26T18:26:14Z;2016-07-26T18:34:03Z
+967;MDU6SXNzdWUxNjc2Nzc1NjQ=;{'totalCount': 0};[React] Advise using Provider components (or HOC) to set context and higher order components to access context;2016-07-26T18:27:24Z;
+968;MDU6SXNzdWUxNjc3MzY2NjQ=;{'totalCount': 5};[React] Add guidelines for setting displayName on higher-order components;2016-07-26T23:36:21Z;2016-07-26T23:53:52Z
+973;MDU6SXNzdWUxNjgxOTc2MTg=;{'totalCount': 4};How to use JSX file name extension and not need it with import?;2016-07-28T21:10:12Z;2016-09-07T06:09:26Z
+978;MDU6SXNzdWUxNjg3NTczNzk=;{'totalCount': 24};react/require-extension is deprecated;2016-08-01T22:29:46Z;2016-09-25T04:39:32Z
+979;MDU6SXNzdWUxNjg4MjUzNDg=;{'totalCount': 2};jsx-sort-props is invalid;2016-08-02T08:15:51Z;2016-08-02T08:34:49Z
+980;MDU6SXNzdWUxNjg4MzA1NjM=;{'totalCount': 3};react/no-string-refs recommendations conflict with no-return-assign;2016-08-02T08:44:53Z;2016-08-02T16:12:49Z
+981;MDU6SXNzdWUxNjg4NTI1ODk=;{'totalCount': 1};Config invalid since 10.0.0;2016-08-02T10:34:04Z;2016-08-02T10:39:07Z
+982;MDU6SXNzdWUxNjg4NTk4OTE=;{'totalCount': 20};`.jsx` extension cannot be used with React Native;2016-08-02T11:11:32Z;2019-04-03T06:10:12Z
+987;MDU6SXNzdWUxNjkwNTcxOTQ=;{'totalCount': 1};About bind event handlers for the render method in the constructor;2016-08-03T06:24:02Z;2016-08-03T06:25:09Z
+988;MDU6SXNzdWUxNjkxODc5NTc=;{'totalCount': 1};How to use either extends airbnb and mocha in Eslint ;2016-08-03T17:30:09Z;2016-08-03T17:38:39Z
+990;MDU6SXNzdWUxNjkyMTUwNzQ=;{'totalCount': 8};The use of || operator in assignments;2016-08-03T19:39:11Z;
+998;MDU6SXNzdWUxNjk0Mzg5MjY=;{'totalCount': 4};Add topic about spaces in comments;2016-08-04T18:13:41Z;2016-11-01T04:43:32Z
+999;MDU6SXNzdWUxNjk0NDA0MjM=;{'totalCount': 3};Add topic about spread over apply;2016-08-04T18:20:58Z;2016-09-25T04:46:28Z
+1000;MDU6SXNzdWUxNjk0Nzc2MjE=;{'totalCount': 5};"Configuration for rule ""react/jsx-sort-props"" is invalid";2016-08-04T21:27:05Z;2016-08-04T21:30:16Z
+1002;MDU6SXNzdWUxNjk3NTY0NTY=;{'totalCount': 5};No more env: browser?;2016-08-06T17:15:30Z;2016-08-07T04:53:18Z
+1004;MDU6SXNzdWUxNjk4OTk2Njk=;{'totalCount': 1};Eslintrc - wich one should i use ?;2016-08-08T11:19:09Z;2016-08-08T15:20:42Z
+1007;MDU6SXNzdWUxNzAyMTkxNDc=;{'totalCount': 3};Spurious no-cond-assign produced;2016-08-09T17:03:55Z;2016-08-13T23:31:42Z
+1008;MDU6SXNzdWUxNzAzMDk5MzE=;{'totalCount': 1};Inconsistent Opinion on Function Expressions;2016-08-10T01:44:54Z;2016-09-08T07:10:47Z
+1011;MDU6SXNzdWUxNzA5NjQ3MzE=;{'totalCount': 5};Invalid config for react/jsx-uses-react?;2016-08-12T21:41:56Z;2016-08-12T22:08:37Z
+1013;MDU6SXNzdWUxNzEyOTYxNDQ=;{'totalCount': 2};Incorrect import/extensions settings?;2016-08-16T00:50:50Z;2016-08-16T06:18:38Z
+1014;MDU6SXNzdWUxNzE0MjQ1MDQ=;{'totalCount': 9};No rule for avoiding single letter names;2016-08-16T14:19:36Z;2016-09-07T21:07:57Z
+1015;MDU6SXNzdWUxNzE0NTYzMjc=;{'totalCount': 5};[Request] use constants for linter error levels;2016-08-16T16:15:19Z;
+1016;MDU6SXNzdWUxNzE1MDg3Mjg=;{'totalCount': 6};"Error: ""Configuration for rule ""react/jsx-sort-props"" is invalid""";2016-08-16T20:24:27Z;2016-08-16T20:55:11Z
+1019;MDU6SXNzdWUxNzE4MzI3MjM=;{'totalCount': 2};Ternarie example is the same in better and best (15.6);2016-08-18T07:11:56Z;2016-08-18T07:26:51Z
+1024;MDU6SXNzdWUxNzIxNTM0MzU=;{'totalCount': 117};Why are underscore prefixes for internal methods of a React component considered bad?;2016-08-19T15:09:28Z;2016-08-30T17:00:03Z
+1026;MDU6SXNzdWUxNzI1NjYyNjQ=;{'totalCount': 4};Error in 16.1;2016-08-22T22:04:28Z;
+1027;MDU6SXNzdWUxNzI1NjkzMzQ=;{'totalCount': 1};6.2 contradicts 18.12;2016-08-22T22:22:38Z;2016-08-23T22:08:06Z
+1028;MDU6SXNzdWUxNzI1NzEyODg=;{'totalCount': 1};Dead link in 19.2;2016-08-22T22:34:57Z;2016-09-14T17:46:53Z
+1029;MDU6SXNzdWUxNzI2ODQzMjA=;{'totalCount': 2};Changed the value in json doesn't mean reassigned?;2016-08-23T12:19:26Z;2016-08-23T15:49:07Z
+1030;MDU6SXNzdWUxNzI3MDM5NTg=;{'totalCount': 2};Consider adding a changelog;2016-08-23T13:48:16Z;2016-08-23T13:55:06Z
+1031;MDU6SXNzdWUxNzI4MjA3NzE=;{'totalCount': 2};no-debugger is duplicated by no-restricted-syntax;2016-08-23T22:15:52Z;2016-08-23T22:19:45Z
+1033;MDU6SXNzdWUxNzMyMjIyNjA=;{'totalCount': 15};JS error thrown with Atom eslint plugin;2016-08-25T14:41:23Z;2016-08-26T13:56:00Z
+1038;MDU6SXNzdWUxNzM0OTg0MjA=;{'totalCount': 7};eslint latest version incompatibility;2016-08-26T17:01:16Z;2016-08-26T17:12:17Z
+1039;MDU6SXNzdWUxNzM1NDU1Mzg=;{'totalCount': 2};Is there a way to count the eslint rules that exist in airbnb?;2016-08-26T21:17:37Z;2016-08-29T17:51:34Z
+1040;MDU6SXNzdWUxNzM1OTUxODY=;{'totalCount': 3};Hiding a search container through escape button ;2016-08-27T13:03:58Z;2016-08-27T16:07:47Z
+1042;MDU6SXNzdWUxNzM3MDI1MzM=;{'totalCount': 3};Error: Cannot read config file;2016-08-29T06:06:06Z;2016-09-07T06:01:43Z
+1043;MDU6SXNzdWUxNzM3MzEzOTk=;{'totalCount': 4};String length inconsistency;2016-08-29T09:16:54Z;2016-10-11T22:37:36Z
+1045;MDU6SXNzdWUxNzM4MjQ4NDA=;{'totalCount': 2};Variable Ordering;2016-08-29T17:18:24Z;2016-09-07T06:01:19Z
+1046;MDU6SXNzdWUxNzQxNTM1Mjg=;{'totalCount': 4};eslint-config-airbnb not showing any problems;2016-08-30T23:54:26Z;2016-08-31T18:34:42Z
+1048;MDU6SXNzdWUxNzQ2OTQ5Mzk=;{'totalCount': 2};blank lines conventions;2016-09-02T07:10:40Z;2019-03-04T07:48:58Z
+1049;MDU6SXNzdWUxNzQ3MzAwOTM=;{'totalCount': 1};Consider adding no-template-curly-in-string rule;2016-09-02T10:36:27Z;2016-09-02T15:56:01Z
+1051;MDU6SXNzdWUxNzQ4NzIyMTY=;{'totalCount': 7};Best Practices for Multi-Line Imports?;2016-09-03T01:27:20Z;2016-10-07T07:19:18Z
+1054;MDU6SXNzdWUxNzUxODM4OTQ=;{'totalCount': 4};"Use ""import/no-duplicates"" instead of ""no-duplicate-imports""";2016-09-06T08:02:14Z;2016-09-06T11:29:28Z
+1057;MDU6SXNzdWUxNzU0NjY0MzM=;{'totalCount': 7};ESLint error with spread attributes : Parsing error: Unexpected token ...;2016-09-07T10:21:40Z;2016-09-07T15:59:37Z
+1058;MDU6SXNzdWUxNzU3MDEyMzY=;{'totalCount': 5};6.2 goes against 8.3 - string across multiple lines using string concatenation;2016-09-08T09:02:59Z;2016-09-12T04:33:12Z
+1063;MDU6SXNzdWUxNzYyMTc4Njk=;{'totalCount': 2};ESLint clash with prefer-template and quotes rules.;2016-09-11T03:52:46Z;2016-09-11T04:15:47Z
+1064;MDU6SXNzdWUxNzYyODMzNzk=;{'totalCount': 5};lint broken after upgrade to eslint-config-airbnb@11.1.0;2016-09-12T02:37:58Z;2016-09-12T03:31:33Z
+1068;MDU6SXNzdWUxNzY0NzE2NDc=;{'totalCount': 4};disapprove forEach;2016-09-12T20:09:28Z;2016-12-10T20:19:35Z
+1069;MDU6SXNzdWUxNzY0OTExMTE=;{'totalCount': 2};Missing accumulator for reduce;2016-09-12T21:35:07Z;2016-09-12T21:43:04Z
+1071;MDU6SXNzdWUxNzY1MTgwNjY=;{'totalCount': 16};Mixed operators with same precedence;2016-09-13T00:23:38Z;2017-10-23T18:58:09Z
+1073;MDU6SXNzdWUxNzY3MjA2MDU=;{'totalCount': 1};no-global-assign should include all browser global variables when environment is browser;2016-09-13T18:52:42Z;
+1075;MDU6SXNzdWUxNzY5NjkwNjg=;{'totalCount': 0};Referencing with PropTypes.shape;2016-09-14T17:25:31Z;2016-09-14T17:26:40Z
+1077;MDU6SXNzdWUxNzcxNjE3NTI=;{'totalCount': 1};wrong japanese translation link;2016-09-15T12:21:46Z;2016-09-15T20:01:53Z
+1078;MDU6SXNzdWUxNzcyMTM4MjQ=;{'totalCount': 2};Error on style: PropTypes.object;2016-09-15T15:46:18Z;2017-02-06T00:44:23Z
+1080;MDU6SXNzdWUxNzcyNzAwNjg=;{'totalCount': 2};Expected 'this' to be used by class method 'render' class-methods-use-this;2016-09-15T19:44:07Z;2016-09-25T04:46:06Z
+1081;MDU6SXNzdWUxNzc1MDY5NDM=;{'totalCount': 2};MultiLine String Concat Marked as Good Example;2016-09-16T19:53:20Z;2016-09-16T23:12:36Z
+1082;MDU6SXNzdWUxNzc2OTE0NDc=;{'totalCount': 12};Higher order functions and the arrow-parens rule;2016-09-19T01:41:44Z;2016-09-19T02:19:44Z
+1084;MDU6SXNzdWUxNzc5MDI1MzY=;{'totalCount': 7};[Arrays] To convert an array-like object to an array, use Array.from;2016-09-19T21:26:27Z;2017-09-20T21:24:32Z
+1085;MDU6SXNzdWUxNzc5OTk1MTM=;{'totalCount': 6};"config for rule ""arrow-parens"" is invalid [v11.1.0]";2016-09-20T08:38:21Z;2016-09-20T09:12:01Z
+1086;MDU6SXNzdWUxNzg0NDY0NzI=;{'totalCount': 2};Suggestion for React Methods - binding event handlers;2016-09-21T19:53:24Z;2016-09-21T22:26:03Z
+1087;MDU6SXNzdWUxNzg4MDY3NDM=;{'totalCount': 2};PascalCase or camelCase for HOC filenames;2016-09-23T07:42:27Z;2016-09-23T10:41:49Z
+1088;MDU6SXNzdWUxNzkwMjMyNzc=;{'totalCount': 18};"Configuration for rule ""eol-last"" is invalid: Value ""always"" must be an enum value.";2016-09-24T10:22:13Z;2016-09-24T16:13:11Z
+1089;MDU6SXNzdWUxNzkwNTkyODk=;{'totalCount': 128};What rules do the community tend to override?;2016-09-25T00:17:27Z;
+1091;MDU6SXNzdWUxNzkwODMwMDc=;{'totalCount': 12};"Configuration for rule ""class-methods-use-this"" is invalid";2016-09-25T12:09:47Z;2016-09-25T12:33:43Z
+1092;MDU6SXNzdWUxNzkxMzA4MjA=;{'totalCount': 2};Invalid import/extensions;2016-09-26T03:13:35Z;2016-09-26T14:52:09Z
+1093;MDU6SXNzdWUxNzkyMTI5MDg=;{'totalCount': 2};Why object should add a plus comma for the final property?;2016-09-26T12:18:35Z;2016-09-26T15:19:20Z
+1096;MDU6SXNzdWUxNzk5NzcxODE=;{'totalCount': 5};ESlint error in latest airbnb-base;2016-09-29T07:56:01Z;2016-09-29T08:04:00Z
+1098;MDU6SXNzdWUxODAzMTQ3MzQ=;{'totalCount': 1};Is there also a generated complete version of the .eslintrc I could you?;2016-09-30T14:15:40Z;2016-09-30T17:24:47Z
+1099;MDU6SXNzdWUxODAzOTk3MDM=;{'totalCount': 1};Consider disabling react/no-unused-prop-types;2016-09-30T20:51:54Z;2016-10-22T08:04:49Z
+1100;MDU6SXNzdWUxODA0MTc2Njc=;{'totalCount': 2};Correctness of react/no-unescaped-entities;2016-09-30T22:47:59Z;2016-11-06T18:32:00Z
+1103;MDU6SXNzdWUxODA4NzU0MzQ=;{'totalCount': 38};What is the point of the no-continue rule?;2016-10-04T12:09:09Z;2016-11-06T18:31:16Z
+1104;MDU6SXNzdWUxODA5NTQxMzk=;{'totalCount': 2};eslint-plugin-import 2.0.0;2016-10-04T17:23:29Z;2016-10-04T17:24:07Z
+1106;MDU6SXNzdWUxODEwNjAwNzU=;{'totalCount': 4};Question about new `new-cap` rule;2016-10-05T03:59:40Z;
+1107;MDU6SXNzdWUxODExMjEzMDc=;{'totalCount': 3};upgrade eslint-plugin-import to 2.0.0;2016-10-05T10:49:46Z;2016-10-05T15:54:27Z
+1109;MDU6SXNzdWUxODEyMzU0MjU=;{'totalCount': 1};Inconsistent State after setState in ComponentDidMount ;2016-10-05T18:49:08Z;2016-10-05T18:52:02Z
+1112;MDU6SXNzdWUxODE2MTY5NTg=;{'totalCount': 1};Update eslint-plugin-import version;2016-10-07T08:58:35Z;2016-10-07T09:00:01Z
+1115;MDU6SXNzdWUxODE4ODY3NzM=;{'totalCount': 8};Error: Failed to load plugin import: Cannot find module 'es6-set';2016-10-09T13:25:27Z;2016-11-06T18:30:34Z
+1116;MDU6SXNzdWUxODE5MTM5MjU=;{'totalCount': 3};no-unused-prop-types invalid error;2016-10-09T21:44:21Z;2016-10-09T22:02:35Z
+1119;MDU6SXNzdWUxODIzMjc1MzU=;{'totalCount': 1};React: Best practice of render multiple components with another types;2016-10-11T17:39:53Z;2016-11-06T04:25:04Z
+1120;MDU6SXNzdWUxODI0MDU0ODg=;{'totalCount': 2};Add eslint plugin demo page;2016-10-12T00:16:05Z;
+1121;MDU6SXNzdWUxODI1MzQ2ODI=;{'totalCount': 9};config install scripts do not force latest config version;2016-10-12T14:05:21Z;2016-10-13T17:26:49Z
+1122;MDU6SXNzdWUxODI2NzQ2NDM=;{'totalCount': 113};Disallow for-of;2016-10-13T01:41:47Z;2016-10-17T06:11:37Z
+1124;MDU6SXNzdWUxODI4MjIyOTA=;{'totalCount': 2};Pure function fat arrow + jsx in react native;2016-10-13T15:28:25Z;2016-10-13T15:48:23Z
+1125;MDU6SXNzdWUxODI4MzA4NDY=;{'totalCount': 3};Inconsistency on code examples;2016-10-13T15:59:58Z;2016-10-13T17:54:31Z
+1126;MDU6SXNzdWUxODI5MjM1Njc=;{'totalCount': 10};"Expected ""this"" in class method react native";2016-10-13T22:49:56Z;2016-10-14T19:29:34Z
+1127;MDU6SXNzdWUxODMwODYxMjQ=;{'totalCount': 2};Upgrade eslint-config-airbnb (not -base) to eslint-plugin-import@^2.0.1;2016-10-14T15:54:33Z;2016-10-14T17:15:54Z
+1130;MDU6SXNzdWUxODMxODMxMTQ=;{'totalCount': 2};Question about modifying with forEach;2016-10-15T02:12:52Z;2016-10-15T05:37:34Z
+1135;MDU6SXNzdWUxODMzOTczODQ=;{'totalCount': 5};imports/prefer-default-export idiomatic use;2016-10-17T12:01:42Z;2016-12-12T07:08:31Z
+1138;MDU6SXNzdWUxODQ4MTE1OTE=;{'totalCount': 1};Publish new release to fix unmet peer dependency;2016-10-24T11:09:41Z;2016-10-24T18:17:19Z
+1139;MDU6SXNzdWUxODUyMTM2NzU=;{'totalCount': 1};Compliant beautifier for Atom;2016-10-25T19:39:03Z;2016-10-25T19:40:42Z
+1145;MDU6SXNzdWUxODU1NzQwNjQ=;{'totalCount': 8};[React] [Question] Naming convention for methods that return jsx partials;2016-10-27T05:04:30Z;2016-10-27T05:27:13Z
+1146;MDU6SXNzdWUxODU2Nzg2ODY=;{'totalCount': 7};Peer-depend on eslint-plugin-import@2.0.0;2016-10-27T14:07:34Z;2016-10-27T17:16:09Z
+1147;MDU6SXNzdWUxODU5NzIwNTU=;{'totalCount': 17};Why is no-loop-func used alongside no-var?;2016-10-28T16:59:39Z;2016-10-28T17:10:41Z
+1161;MDU6SXNzdWUxODc2Njg2NjU=;{'totalCount': 1};Documentation of arrow-parens shows wrong default;2016-11-07T09:59:46Z;2016-11-07T10:01:51Z
+1162;MDU6SXNzdWUxODc3MjgwMjk=;{'totalCount': 6};`eslint-plugin-jsx-a11y` ver 3.0.1 is not working;2016-11-07T14:39:37Z;2016-11-07T16:25:48Z
+1163;MDU6SXNzdWUxODc3Nzc4ODA=;{'totalCount': 18};jsx-a11y/anchor-has-content throws error;2016-11-07T17:38:49Z;2016-11-07T18:51:29Z
+1164;MDU6SXNzdWUxODc4Mzk1MTQ=;{'totalCount': 5};phpstorm airbnb codingstyle;2016-11-07T21:52:05Z;2016-11-07T21:54:05Z
+1165;MDU6SXNzdWUxODc5NDM3NTk=;{'totalCount': 2};Where to disable: A base filename should exactly match the name of its default export.;2016-11-08T09:40:16Z;2016-11-08T11:54:06Z
+1168;MDU6SXNzdWUxODgxNDE3OTk=;{'totalCount': 4};ignore 'import/no-extraneous-dependencies' devDependencies checking for webpack files?;2016-11-09T00:33:58Z;2016-11-09T05:17:16Z
+1169;MDU6SXNzdWUxODgxNDI2MDg=;{'totalCount': 17};"""Missing trailing comma"" for function arguments with JSX";2016-11-09T00:40:38Z;2019-08-10T05:57:40Z
+1172;MDU6SXNzdWUxODg0NDg5OTI=;{'totalCount': 7};Error on eslint-config-airbnb v13.0.0;2016-11-10T08:37:49Z;2016-11-10T09:34:58Z
+1174;MDU6SXNzdWUxODg3OTQ5NDI=;{'totalCount': 1};Extend `import/no-extraneous-dependencies` ignore list;2016-11-11T16:17:15Z;2016-11-15T01:58:33Z
+1176;MDU6SXNzdWUxODg5MTU1OTk=;{'totalCount': 2};UNMET PEER DEPENDENCY with eslint@^3.9.1;2016-11-12T14:55:13Z;2016-11-12T14:57:26Z
+1178;MDU6SXNzdWUxOTAxODMyMTE=;{'totalCount': 1};Add high-level theory/guiding principles;2016-11-17T22:29:41Z;
+1179;MDU6SXNzdWUxOTA0NTQwOTA=;{'totalCount': 1};"Configuration for rule ""func-name-matching"" is invalid";2016-11-19T00:34:14Z;2016-11-20T04:56:40Z
+1180;MDU6SXNzdWUxOTA2MTE1NjU=;{'totalCount': 6};[bug] please update npm package's dist;2016-11-21T03:42:11Z;2016-11-21T03:54:51Z
+1182;MDU6SXNzdWUxOTA3MTYzNTg=;{'totalCount': 6};jsx-a11y breaks linter;2016-11-21T13:25:34Z;2016-11-21T14:47:19Z
+1184;MDU6SXNzdWUxOTA5OTc3NTk=;{'totalCount': 4};airbnb-base:10.0.1 and atom linter-eslint don't seem to work together;2016-11-22T13:09:55Z;2016-12-02T16:14:53Z
+1185;MDU6SXNzdWUxOTEyNTE2Njg=;{'totalCount': 4};Pull in filenames/match-exported;2016-11-23T11:55:28Z;
+1191;MDU6SXNzdWUxOTI5NzkzNjY=;{'totalCount': 10};Airbnb legacy rules are not applying;2016-12-01T22:22:50Z;2016-12-01T23:23:02Z
+1192;MDU6SXNzdWUxOTMxMjI3NTM=;{'totalCount': 4};Can I avoid peer dependency warnings for JSX & React?;2016-12-02T14:01:09Z;2016-12-02T16:42:50Z
+1195;MDU6SXNzdWUxOTQxMTYwMTE=;{'totalCount': 2};Remove no-duplicate-imports;2016-12-07T17:37:46Z;2016-12-12T07:12:00Z
+1199;MDU6SXNzdWUxOTQ1NTAxODE=;{'totalCount': 9};Expected 'this' to be used by class method 'render';2016-12-09T09:32:02Z;2016-12-09T18:23:08Z
+1205;MDU6SXNzdWUxOTUyNzcxODI=;{'totalCount': 6};eslint-index;2016-12-13T15:06:42Z;
+1207;MDU6SXNzdWUxOTU2MjA5MzU=;{'totalCount': 13};UNMET PEER DEPENDENCY eslint-plugin-jsx-a11y@^2.2.3;2016-12-14T19:20:03Z;2016-12-14T19:21:41Z
+1209;MDU6SXNzdWUxOTYwODUwMzY=;{'totalCount': 2};"Lint throw an ""error""";2016-12-16T15:31:55Z;2016-12-16T17:00:34Z
+1210;MDU6SXNzdWUxOTYxMTg5NTA=;{'totalCount': 3};no-useless-return breaks consistency;2016-12-16T17:56:59Z;2016-12-16T18:46:12Z
+1211;MDU6SXNzdWUxOTYxNjI0MDU=;{'totalCount': 1};Braces with single-line if blocks;2016-12-16T21:53:51Z;
+1212;MDU6SXNzdWUxOTYyNTQ5MzQ=;{'totalCount': 4};react-a11y rules require object input, not array;2016-12-18T02:52:27Z;2016-12-18T05:49:51Z
+1213;MDU6SXNzdWUxOTYzMDk3NDY=;{'totalCount': 7};Setup eslint-config-airbnb without Bash?;2016-12-19T00:21:57Z;2016-12-21T03:10:31Z
+1216;MDU6SXNzdWUxOTY4MDkxMzc=;{'totalCount': 11};react-native configuration flow example;2016-12-20T23:37:58Z;2016-12-21T07:10:04Z
+1217;MDU6SXNzdWUxOTY4NDk0MTg=;{'totalCount': 14};Why assignment to property of function parameter is bad style.;2016-12-21T05:27:35Z;2017-03-16T01:04:19Z
+1218;MDU6SXNzdWUxOTY5MzUyNzI=;{'totalCount': 2};Example 18.6 (whitespace chaining) is not consistent with 6.3 (template strings, interpolation);2016-12-21T13:39:57Z;2016-12-21T21:56:38Z
+1225;MDU6SXNzdWUxOTc5MzgzNTM=;{'totalCount': 1};Question about concatenating two variables;2016-12-29T01:06:21Z;2016-12-29T08:56:50Z
+1226;MDU6SXNzdWUxOTc5Mzk2OTI=;{'totalCount': 0};Wrong JSCS rule for functions (7.1);2016-12-29T01:25:32Z;2016-12-29T08:47:07Z
+1228;MDU6SXNzdWUxOTc5ODcwNjM=;{'totalCount': 1};Getting an error on Atom: 'func-name-matching';2016-12-29T10:39:15Z;2016-12-29T18:54:57Z
+1229;MDU6SXNzdWUxOTgxMjczMjk=;{'totalCount': 2};Multiline imports and exports;2016-12-30T09:59:41Z;2016-12-30T17:56:31Z
+1230;MDU6SXNzdWUxOTgxNDE1NzE=;{'totalCount': 1};I'm so confused about Object.assign code;2016-12-30T12:24:05Z;2016-12-30T17:55:06Z
+1231;MDU6SXNzdWUxOTgyMjQwMjE=;{'totalCount': 1};QUESTION: react/jsx-no-bind;2016-12-31T08:26:11Z;2016-12-31T08:46:42Z
+1232;MDU6SXNzdWUxOTg2NzM5NDI=;{'totalCount': 4};3.8 TypeError: original is not iterable;2017-01-04T10:21:03Z;2017-01-06T01:53:37Z
+1233;MDU6SXNzdWUxOTkwOTk5OTU=;{'totalCount': 10};Tool to set up eslint-config-airbnb without bash;2017-01-06T01:03:44Z;2017-01-07T05:46:03Z
+1235;MDU6SXNzdWUxOTkzNjEzMDk=;{'totalCount': 3};Whats the reason to always use .jsx instead of .js;2017-01-07T13:17:57Z;2017-01-07T16:51:20Z
+1237;MDU6SXNzdWUxOTk0MjQ5ODc=;{'totalCount': 1}; why?  [] = 1 [] = '1';2017-01-08T14:33:35Z;2017-01-08T17:59:34Z
+1238;MDU6SXNzdWUxOTk0NDUyNDA=;{'totalCount': 1};Trailing comma error at the end of arrow function? 19.2;2017-01-08T20:46:36Z;2017-01-08T22:44:13Z
+1240;MDU6SXNzdWUxOTk0ODE4OTU=;{'totalCount': 6};Airbnb's `padded-blocks` ESLint rule definition may be incorrect;2017-01-09T05:50:00Z;2019-08-10T05:18:57Z
+1245;MDU6SXNzdWUxOTk4ODcxMDA=;{'totalCount': 8};Rule 'no-empty-label' was removed;2017-01-10T17:41:06Z;2017-01-10T22:36:44Z
+1247;MDU6SXNzdWUxOTk5NTkwMTY=;{'totalCount': 15};Cannot read property 'name' of undefined at no-array-index-key.js:146:25 - And eslint-config-airbnb@14.0.0  invalid;2017-01-10T23:05:23Z;2017-01-12T23:20:46Z
+1248;MDU6SXNzdWUxOTk5NjAyMjE=;{'totalCount': 13};weird issue with `react/jsx-no-bind`;2017-01-10T23:12:02Z;2017-02-17T23:02:32Z
+1249;MDU6SXNzdWUxOTk5NzQ0ODk=;{'totalCount': 1};Is ESLint 'no-iterator' rule appropriate for 'Don't use iterators' advice?;2017-01-11T00:45:38Z;2017-01-11T01:57:09Z
+1256;MDU6SXNzdWUyMDA1MDg0NjU=;{'totalCount': 1};JS Style Guide JSCS Links for ES5 or ES6;2017-01-12T23:22:34Z;2017-01-12T23:26:56Z
+1257;MDU6SXNzdWUyMDA3MDcwODI=;{'totalCount': 3};ar;2017-01-13T19:13:12Z;2017-01-13T19:33:47Z
+1264;MDU6SXNzdWUyMDE0NTM1NTg=;{'totalCount': 3};Confusing examples in 4.5;2017-01-18T01:22:51Z;
+1265;MDU6SXNzdWUyMDE0NjUyODY=;{'totalCount': 2};new error;2017-01-18T02:47:51Z;2017-01-18T06:23:58Z
+1266;MDU6SXNzdWUyMDE0NzI4NTY=;{'totalCount': 2};Trailing comma in function call after spread operator;2017-01-18T03:51:57Z;2019-08-10T05:57:22Z
+1271;MDU6SXNzdWUyMDIxMTEyOTU=;{'totalCount': 144};Using 'ForOfStatement' is not allowed (no-restricted-syntax);2017-01-20T10:55:08Z;2017-01-20T18:39:44Z
+1272;MDU6SXNzdWUyMDIzNjI0Mjc=;{'totalCount': 9};README update for JSCS deprecated links;2017-01-22T05:52:07Z;2019-08-10T05:57:07Z
+1274;MDU6SXNzdWUyMDI0MDA4Mzc=;{'totalCount': 3};External callback function;2017-01-22T18:41:31Z;
+1275;MDU6SXNzdWUyMDI0MDIyNjI=;{'totalCount': 8};Export-ing conventions;2017-01-22T19:06:27Z;
+1276;MDU6SXNzdWUyMDI1MDM4MDU=;{'totalCount': 6};Documentation/docblocks;2017-01-23T11:02:05Z;
+1277;MDU6SXNzdWUyMDI2MTMyNzk=;{'totalCount': 2};how can we stop a `nodejs` server started?;2017-01-23T18:28:41Z;2017-01-23T18:37:11Z
+1279;MDU6SXNzdWUyMDMwNDYxMzE=;{'totalCount': 2};Contradiction in Functions  guide;2017-01-25T09:03:30Z;2017-01-25T17:37:19Z
+1280;MDU6SXNzdWUyMDMwODU5ODI=;{'totalCount': 1};eslint config validation error installing 14.0.0;2017-01-25T12:09:33Z;2017-01-25T12:24:47Z
+1281;MDU6SXNzdWUyMDQwOTcxNjg=;{'totalCount': 9};Where to place operators in a multi-line ternary?;2017-01-30T18:53:10Z;2019-09-25T18:56:17Z
+1282;MDU6SXNzdWUyMDQyMDIyNjY=;{'totalCount': 4};Atom beautification config.;2017-01-31T04:23:57Z;2017-02-01T12:11:23Z
+1283;MDU6SXNzdWUyMDQzMDIyMDc=;{'totalCount': 13};Unmet peer dependency;2017-01-31T13:51:22Z;2017-03-03T16:30:43Z
+1284;MDU6SXNzdWUyMDQ1MDA2MTg=;{'totalCount': 1};"Generator/coroutine: ""Missing function expression name (func-names)""";2017-02-01T05:27:11Z;2017-02-01T05:32:16Z
+1285;MDU6SXNzdWUyMDQ1OTMyNTQ=;{'totalCount': 1};Use eslint-plugin-es5 for ES5 config;2017-02-01T14:09:30Z;2019-08-10T05:56:43Z
+1290;MDU6SXNzdWUyMDU0MzUxNjc=;{'totalCount': 4};Update a11y removed rules and dependecy.;2017-02-05T16:22:09Z;2017-02-05T21:53:11Z
+1292;MDU6SXNzdWUyMDU1Mjg4Mjg=;{'totalCount': 2};Replace eslint-plugin-react with eslint-plugin-inferno?;2017-02-06T09:32:28Z;2017-02-06T09:33:42Z
+1293;MDU6SXNzdWUyMDY0MDczMTA=;{'totalCount': 1};why don't use collection.length;2017-02-09T05:16:13Z;2017-02-09T07:16:49Z
+1296;MDU6SXNzdWUyMDcwODk0MDE=;{'totalCount': 5};Code Failure when adding trailing comma to function arguments.;2017-02-12T23:02:45Z;2017-03-03T16:07:38Z
+1297;MDU6SXNzdWUyMDcxMDUwMzM=;{'totalCount': 6};Is there CONTRIBUTING.md;2017-02-13T01:53:59Z;2017-03-08T02:42:01Z
+1305;MDU6SXNzdWUyMDgxMjIzNDA=;{'totalCount': 3};React-Native + AirBnB's ESLint configuration;2017-02-16T13:33:25Z;2017-07-17T16:28:25Z
+1306;MDU6SXNzdWUyMDg2ODg2Nzg=;{'totalCount': 3};why using the 4 space === tab ?;2017-02-19T02:25:32Z;2017-02-19T02:28:37Z
+1307;MDU6SXNzdWUyMDkxNzk5NDA=;{'totalCount': 2};Style-free ESLint Config;2017-02-21T15:30:56Z;2017-02-21T18:07:12Z
+1311;MDU6SXNzdWUyMDk3OTY5ODI=;{'totalCount': 5};missing function expression name : naming / semantics;2017-02-23T15:38:11Z;
+1313;MDU6SXNzdWUyMTAyMDAyMDE=;{'totalCount': 5};Question about object naming conventions;2017-02-25T01:40:15Z;2018-01-11T19:42:00Z
+1315;MDU6SXNzdWUyMTA1NTU1Nzk=;{'totalCount': 4};Inherit eslint-config-airbnb-base, but restrict use of import;2017-02-27T17:42:08Z;2017-02-27T18:25:35Z
+1316;MDU6SXNzdWUyMTA2MzM5Mzg=;{'totalCount': 6};Naming conventions for stateful components;2017-02-27T22:57:41Z;2017-02-27T23:51:22Z
+1321;MDU6SXNzdWUyMTE0ODIxNDg=;{'totalCount': 2};Question about JavaScript Style Guide 3.8 object spread operator;2017-03-02T18:48:54Z;2017-03-02T19:08:14Z
+1326;MDU6SXNzdWUyMTE4NTkwMzk=;{'totalCount': 0};Suggested rule modification for ;2017-03-04T06:07:24Z;2017-03-04T06:08:12Z
+1327;MDU6SXNzdWUyMTE4NTkxNzk=;{'totalCount': 3};Rule modification for `comma-dangle`;2017-03-04T06:10:23Z;2017-03-04T06:13:48Z
+1328;MDU6SXNzdWUyMTE4NTk3MTA=;{'totalCount': 1};Unimplemented rules;2017-03-04T06:21:50Z;2017-03-04T07:43:43Z
+1329;MDU6SXNzdWUyMTE4NzkxNjg=;{'totalCount': 7};how to add class,interface and enum in leadbolt codes?;2017-03-04T13:18:21Z;2017-03-05T18:05:45Z
+1331;MDU6SXNzdWUyMTIyODc0ODc=;{'totalCount': 1};Cannot find module 'estraverse-fb';2017-03-06T23:52:15Z;2017-03-06T23:53:12Z
+1332;MDU6SXNzdWUyMTI0NTU0Nzg=;{'totalCount': 5};(eslint-config-airbnb): Unable to resolve path for image resource in React Native (import/no-unresolved);2017-03-07T14:53:21Z;2017-03-07T16:48:08Z
+1333;MDU6SXNzdWUyMTI1NzU5NDA=;{'totalCount': 0};Why are global unused variables allowed in eslint config;2017-03-07T22:14:58Z;2017-03-08T05:16:15Z
+1334;MDU6SXNzdWUyMTMxMzUxNDk=;{'totalCount': 3};Mutually exclusive no-confusing-arrow and arrow-body-style rules;2017-03-09T19:10:48Z;2017-03-09T20:28:25Z
+1336;MDU6SXNzdWUyMTMyNDU0NTQ=;{'totalCount': 5};MyComponent/index.js? or ALWAYS have file name reflect default export?;2017-03-10T05:05:52Z;2017-03-11T00:36:22Z
+1337;MDU6SXNzdWUyMTM1OTgxMDY=;{'totalCount': 3};some codes needs enhancement!;2017-03-12T11:18:43Z;2017-03-14T15:30:51Z
+1338;MDU6SXNzdWUyMTQxODI3MDA=;{'totalCount': 6};Question about Object in Arrays;2017-03-14T19:34:01Z;2017-03-19T06:48:00Z
+1340;MDU6SXNzdWUyMTU2MDU2Mjc=;{'totalCount': 0};Gitter Badge is not displaying.;2017-03-21T01:48:08Z;2017-03-21T01:54:12Z
+1342;MDU6SXNzdWUyMTU3MDkxNjg=;{'totalCount': 10};What is the recommended way to deal with no-param-reassign in reducers?;2017-03-21T11:38:26Z;2017-03-21T18:19:25Z
+1344;MDU6SXNzdWUyMTYwOTE1MTc=;{'totalCount': 9};Configuration for rule 'no-useless-escape' is invalid;2017-03-22T14:52:42Z;2017-03-23T16:43:26Z
+1346;MDU6SXNzdWUyMTY0NDEwOTg=;{'totalCount': 4};SQL Table/Column names and Javascript named in a isomorphic way;2017-03-23T14:13:23Z;2017-03-28T06:39:57Z
+1347;MDU6SXNzdWUyMTY2MjA0NTk=;{'totalCount': 17};Discussion: Disallow global `isFinite`;2017-03-24T01:34:42Z;2017-09-02T05:40:37Z
+1349;MDU6SXNzdWUyMTcxNTI2NjI=;{'totalCount': 2};"Configuration for rule ""no-param-reassign"" is invalid ";2017-03-27T06:56:52Z;2017-03-27T07:03:47Z
+1350;MDU6SXNzdWUyMTcxNzEyOTY=;{'totalCount': 1};Using special characters in JSX.;2017-03-27T08:29:58Z;2017-03-27T17:51:36Z
+1351;MDU6SXNzdWUyMTc0Mzc2NjM=;{'totalCount': 1};"Configuration for rule ""no-unused-expressions"" is invalid";2017-03-28T03:26:34Z;2017-03-28T04:26:57Z
+1352;MDU6SXNzdWUyMTc2OTE1MTQ=;{'totalCount': 9};"Eslint error: Value ""data[""0""].ignorePropertyModificationsFor"" has additional properties";2017-03-28T21:01:40Z;2017-03-28T21:18:08Z
+1353;MDU6SXNzdWUyMTkwMTk4NzA=;{'totalCount': 1};Document no-restricted-syntax options;2017-04-03T18:23:28Z;2017-04-03T22:25:41Z
+1355;MDU6SXNzdWUyMTkxODEwNzE=;{'totalCount': 20};Patch release with breaking change;2017-04-04T08:52:31Z;2017-04-04T17:54:59Z
+1358;MDU6SXNzdWUyMTkyODg0NzI=;{'totalCount': 2};"Error (after update): Configuration for rule ""no-restricted-syntax"" is invalid: Value ""[object Object]"" is the wrong type.";2017-04-04T15:24:29Z;2017-04-04T17:43:52Z
+1359;MDU6SXNzdWUyMTkzNjkyNDI=;{'totalCount': 3};"Configuration for rule ""arrow-parens"" is invalid";2017-04-04T20:14:41Z;2017-04-04T21:33:37Z
+1360;MDU6SXNzdWUyMTk3NTU2NjU=;{'totalCount': 1};Version 11.1.3 is broken;2017-04-06T00:44:29Z;2017-04-06T01:17:00Z
+1362;MDU6SXNzdWUyMTk5NTUxNjU=;{'totalCount': 1};Gitter image syntax in readme not parsed properly;2017-04-06T16:25:02Z;2017-04-06T18:53:14Z
+1365;MDU6SXNzdWUyMjA3MTM4NjI=;{'totalCount': 136};What is the benefit of prefer-default-export?;2017-04-10T17:23:49Z;2017-08-08T06:40:20Z
+1367;MDU6SXNzdWUyMjEwMzUzODk=;{'totalCount': 3};Contradiction Between 23.2 (getters/setters) and 23.4 (get() and set() functions);2017-04-11T18:11:02Z;2017-04-11T19:53:47Z
+1371;MDU6SXNzdWUyMjEzNTQ1ODE=;{'totalCount': 2};Add awareness for rules unsupported by ESLint;2017-04-12T18:43:36Z;2017-04-19T07:21:56Z
+1373;MDU6SXNzdWUyMjE5Mjk2MDc=;{'totalCount': 1};Translation: Persian;2017-04-15T06:02:28Z;2017-04-15T08:36:18Z
+1374;MDU6SXNzdWUyMjE5NjAxMjQ=;{'totalCount': 1};The jsx-a11y/no-static-element-interactions rule doesn't work properly in this preset;2017-04-15T17:04:14Z;2017-04-15T17:10:22Z
+1377;MDU6SXNzdWUyMjI4Nzg5OTk=;{'totalCount': 1};Syntax error;2017-04-19T21:35:17Z;2017-04-19T21:43:42Z
+1379;MDU6SXNzdWUyMjM0MjU5MTk=;{'totalCount': 12};Mocha arrow-function and unnamed function errors.;2017-04-21T15:57:01Z;2017-04-21T16:57:29Z
+1380;MDU6SXNzdWUyMjM0NTQ1ODg=;{'totalCount': 13};Multi-line if statements - breaks and indentation;2017-04-21T18:00:31Z;2017-05-01T18:37:55Z
+1382;MDU6SXNzdWUyMjM1OTAxNDM=;{'totalCount': 2};React.createClass is deprecated;2017-04-22T20:17:37Z;2017-04-23T07:22:37Z
+1384;MDU6SXNzdWUyMjM3NzExMjU=;{'totalCount': 2};Question: Using Enzyme and React;2017-04-24T10:20:18Z;2017-04-24T15:37:04Z
+1386;MDU6SXNzdWUyMjM5MDcxNDg=;{'totalCount': 2};import/no-duplicates vs import/no-named-default;2017-04-24T18:13:42Z;2017-04-24T21:09:23Z
+1390;MDU6SXNzdWUyMjQzMjc4MzA=;{'totalCount': 2};transfer a value to boolean;2017-04-26T02:45:16Z;2017-04-26T08:27:18Z
+1392;MDU6SXNzdWUyMjQ5OTQxMDc=;{'totalCount': 14};Document about the restriction of Math.pow()?;2017-04-28T06:47:42Z;2017-09-11T15:36:54Z
+1393;MDU6SXNzdWUyMjUyMjg0Mjg=;{'totalCount': 3};Define public API;2017-04-29T02:43:42Z;
+1394;MDU6SXNzdWUyMjUyNDYxMTk=;{'totalCount': 4};Provide a full config example;2017-04-29T09:41:07Z;2017-04-29T09:58:54Z
+1397;MDU6SXNzdWUyMjUyODk1OTY=;{'totalCount': 3};I'm not sure if this is just my lack of knowledge, but 8.3 code doesn't work.;2017-04-29T22:29:15Z;2017-05-01T12:30:45Z
+1399;MDU6SXNzdWUyMjU2Mjk5ODQ=;{'totalCount': 19};arrow-parens es6 rule;2017-05-02T08:48:05Z;2017-05-10T16:04:21Z
+1401;MDU6SXNzdWUyMjYyMDE1OTY=;{'totalCount': 2};transfer value to number;2017-05-04T07:50:08Z;2017-05-04T16:22:27Z
+1402;MDU6SXNzdWUyMjY0Mjc3Nzc=;{'totalCount': 1};Documentation: react/jsx-filename-extension can break checks without --ext arguments;2017-05-04T22:36:19Z;
+1404;MDU6SXNzdWUyMjY2OTI0MDI=;{'totalCount': 2};jsx-a11y/img-has-alt changed to jsx-a11y/alt-text in newer jsx-a11y;2017-05-05T21:08:27Z;2017-05-05T21:09:30Z
+1405;MDU6SXNzdWUyMjY3MzE5MzM=;{'totalCount': 2};Update Peer Dependency to Support eslint-plugin-jsx-a11y v5.0;2017-05-06T02:43:12Z;2017-05-06T03:02:24Z
+1406;MDU6SXNzdWUyMjcwMjc5NDE=;{'totalCount': 14};Definition for rule 'jsx-a11y/img-has-alt' was not found;2017-05-08T12:18:41Z;2017-05-08T19:39:37Z
+1407;MDU6SXNzdWUyMjcwNTEwMjM=;{'totalCount': 11};Why do you use object-curly-spacing;2017-05-08T13:46:18Z;2019-01-14T21:26:24Z
+1408;MDU6SXNzdWUyMjcxMDY5MjQ=;{'totalCount': 21};Provide alternate solution for no-underscore-dangle;2017-05-08T16:49:49Z;2018-09-02T20:38:05Z
+1410;MDU6SXNzdWUyMjc2ODYwOTU=;{'totalCount': 11};Question: New Release;2017-05-10T13:48:15Z;2017-05-23T19:52:20Z
+1412;MDU6SXNzdWUyMjgxMTExMzY=;{'totalCount': 2};block-scoped-var bug;2017-05-11T20:27:33Z;2017-05-11T20:29:49Z
+1413;MDU6SXNzdWUyMjg1NjczNTA=;{'totalCount': 3};Peer dependencies out of date on npm registry?;2017-05-14T20:23:02Z;2017-05-14T21:14:20Z
+1414;MDU6SXNzdWUyMjg3MzIyMjk=;{'totalCount': 1};"React version specified as ""0.15""";2017-05-15T14:24:53Z;2017-05-15T20:23:07Z
+1417;MDU6SXNzdWUyMjk2MzI0MTI=;{'totalCount': 1};Iteration - reduce with deconstruction or forEach;2017-05-18T11:02:41Z;2017-05-18T15:42:22Z
+1418;MDU6SXNzdWUyMjk5MjgxNjA=;{'totalCount': 2};Can I use jsx with vue instead of react?;2017-05-19T10:00:47Z;2017-05-19T16:29:24Z
+1421;MDU6SXNzdWUyMzAyNDc2Nzk=;{'totalCount': 2};Question: Compatibility with eslint@4;2017-05-21T20:47:05Z;2017-05-21T22:52:14Z
+1422;MDU6SXNzdWUyMzAzODA0ODc=;{'totalCount': 3};Unmet peer dependencies with the latest version ?;2017-05-22T12:31:23Z;2017-05-22T16:12:46Z
+1423;MDU6SXNzdWUyMzA4NTAwODg=;{'totalCount': 3};Confusing Alignment & Spacing examples;2017-05-23T21:18:51Z;2017-05-23T21:54:46Z
+1425;MDU6SXNzdWUyMzA5Njg4MTQ=;{'totalCount': 5};Stricter rules for comments;2017-05-24T09:03:26Z;2017-06-11T18:59:55Z
+1428;MDU6SXNzdWUyMzEzMjg2MzE=;{'totalCount': 5};[Q] Not all airbnb rules are linted;2017-05-25T12:40:26Z;2017-05-25T17:47:59Z
+1430;MDU6SXNzdWUyMzE1ODMwNjc=;{'totalCount': 1};Spread syntax;2017-05-26T10:09:39Z;2019-08-10T05:56:29Z
+1432;MDU6SXNzdWUyMzE3NjQyNDk=;{'totalCount': 21};react/jsx-wrap-multilines arrow rule breaking eslint.;2017-05-27T01:10:42Z;2017-05-30T19:55:27Z
+1433;MDU6SXNzdWUyMzIwNDU0NTU=;{'totalCount': 8};no-param-reassign : recommended approach? ;2017-05-29T15:01:05Z;2017-05-29T16:55:54Z
+1435;MDU6SXNzdWUyMzI3NDE0NTk=;{'totalCount': 2};4.5 First case's comment should be bad;2017-06-01T01:29:31Z;2017-06-01T03:44:48Z
+1439;MDU6SXNzdWUyMzM2Mzg0NTk=;{'totalCount': 9};no-cond-assign and while loops;2017-06-05T16:16:22Z;2017-06-06T04:43:55Z
+1441;MDU6SXNzdWUyMzQ0Njk4NDQ=;{'totalCount': 2};Distinguish between expressions with and without side-effects when using arrow function implicit return;2017-06-08T09:45:16Z;2017-06-14T02:27:52Z
+1443;MDU6SXNzdWUyMzQ5MTc4NTg=;{'totalCount': 0};Add section about not spreading props;2017-06-09T19:26:26Z;2017-11-04T06:05:03Z
+1444;MDU6SXNzdWUyMzUwNDAyOTk=;{'totalCount': 2};In 7.4, another good expression;2017-06-11T03:13:04Z;2017-06-11T07:07:51Z
+1445;MDU6SXNzdWUyMzUwNTA4Mjc=;{'totalCount': 6};ESLint - make it easier to find out how to use, and fix link;2017-06-11T08:12:54Z;
+1446;MDU6SXNzdWUyMzUwNzAyODU=;{'totalCount': 2};react/jsx-no-bind: how to borrow some methods and pass them as props to child?;2017-06-11T14:48:27Z;2017-06-12T18:16:43Z
+1447;MDU6SXNzdWUyMzUxMDc1MjU=;{'totalCount': 36};eslint v4 support;2017-06-12T01:44:45Z;2017-07-24T06:58:21Z
+1448;MDU6SXNzdWUyMzUxNTIwMDQ=;{'totalCount': 1};Proposal. Simplify point 4.5 (Filter);2017-06-12T08:01:07Z;
+1451;MDU6SXNzdWUyMzU2NTMwODQ=;{'totalCount': 1};prefer-reflect is deprecated;2017-06-13T18:46:01Z;2017-06-13T23:56:08Z
+1454;MDU6SXNzdWUyMzU4NDM2MTI=;{'totalCount': 23};"[eslint-config-airbnb] Unexpected top-level property ""ecmaFeatures"".";2017-06-14T11:09:17Z;2017-06-16T07:33:37Z
+1457;MDU6SXNzdWUyMzY1OTIwODU=;{'totalCount': 11};Chaining variable assignments Example;2017-06-16T20:46:27Z;2017-06-17T16:42:53Z
+1459;MDU6SXNzdWUyMzcwMTgwMDU=;{'totalCount': 5};No compatible version found: eslint-plugin-react@^#.#.#;2017-06-19T20:42:44Z;2017-06-20T16:13:25Z
+1461;MDU6SXNzdWUyMzczNTQ4MzE=;{'totalCount': 1};(comma-dangle) is a false positive in a arrow function predicate;2017-06-20T21:45:52Z;2017-06-21T02:12:45Z
+1462;MDU6SXNzdWUyMzc3MjM1ODY=;{'totalCount': 7};Add installation instructions for yarn;2017-06-22T03:38:40Z;2017-06-24T04:55:35Z
+1468;MDU6SXNzdWUyMzgzMTU5NDQ=;{'totalCount': 3};Broken links;2017-06-24T12:58:02Z;
+1473;MDU6SXNzdWUyMzk2NjI4MDQ=;{'totalCount': 3};Conflicting rule: Comparison Operators & Equality;2017-06-30T02:41:40Z;2017-06-30T05:27:33Z
+1474;MDU6SXNzdWUyNDAxMzY5ODc=;{'totalCount': 26};`jsx-a11y/href-no-hash` removal;2017-07-03T10:52:38Z;2017-07-03T19:37:19Z
+1476;MDU6SXNzdWUyNDAyNzc3ODE=;{'totalCount': 3};Why does eslint-config-airbnb-base set env:node?;2017-07-03T22:54:06Z;2019-08-10T05:56:13Z
+1478;MDU6SXNzdWUyNDAzMzUxMDQ=;{'totalCount': 6};WARN: eslint-config-airbnb@15.0.1 requires a peer of eslint@^3.19.0 but none was installed.;2017-07-04T07:30:07Z;2017-07-04T07:32:41Z
+1479;MDU6SXNzdWUyNDA1MzkwOTc=;{'totalCount': 1};for of loop warning;2017-07-05T05:09:09Z;2017-07-05T05:40:07Z
+1481;MDU6SXNzdWUyNDA3ODE3MjI=;{'totalCount': 1};"warning ""eslint-config-airbnb-base@11.2.0"" has incorrect peer dependency ""eslint@^3.19.0""";2017-07-05T21:29:43Z;2017-07-05T21:36:06Z
+1485;MDU6SXNzdWUyNDE1OTQyMTU=;{'totalCount': 2};colocation of tests;2017-07-10T04:05:21Z;2017-07-11T16:06:59Z
+1486;MDU6SXNzdWUyNDE5MTc4MjU=;{'totalCount': 3};command `npm test` not works on win 10.;2017-07-11T03:57:02Z;2017-07-11T06:58:20Z
+1487;MDU6SXNzdWUyNDIxNDQ5MTg=;{'totalCount': 7};Prefer namespace imports ;2017-07-11T18:40:02Z;2017-07-11T18:41:56Z
+1488;MDU6SXNzdWUyNDI0MTcxMjY=;{'totalCount': 6};[eslint-config-airbnb] can't resolve reference;2017-07-12T15:16:00Z;2017-07-12T16:14:49Z
+1489;MDU6SXNzdWUyNDI0MjA2MjU=;{'totalCount': 1};Rule not enforced;2017-07-12T15:26:17Z;2017-07-12T16:15:54Z
+1492;MDU6SXNzdWUyNDI2Mzc1Njk=;{'totalCount': 5};New rules suggestion to prevent common coding typos (length and constructor);2017-07-13T09:20:24Z;2017-07-13T18:59:29Z
+1493;MDU6SXNzdWUyNDMxOTA3MTg=;{'totalCount': 4};JSX Expression Formatting (spaces after opening and before closing braces);2017-07-15T18:08:13Z;2017-07-15T18:12:31Z
+1495;MDU6SXNzdWUyNDM3MjIwODk=;{'totalCount': 2};"Bug happened when both ""eol-last"" and ""semi"" exist.";2017-07-18T13:48:15Z;2017-07-18T16:50:48Z
+1496;MDU6SXNzdWUyNDQyMTkzMTY=;{'totalCount': 2};Is there any way I can get an .eslintrc JSON file that contains all the JavaScript Style Guide rules?;2017-07-20T01:23:49Z;2017-07-20T01:34:54Z
+1497;MDU6SXNzdWUyNDQ2ODQwMDA=;{'totalCount': 2};Confusing example for multiline comment;2017-07-21T14:22:57Z;2019-05-18T13:56:34Z
+1499;MDU6SXNzdWUyNDQ4OTgzMjQ=;{'totalCount': 0};.;2017-07-23T09:07:00Z;2017-07-23T09:07:11Z
+1506;MDU6SXNzdWUyNDU3Nzc4ODc=;{'totalCount': 3};Clarification for Inline Comments;2017-07-26T16:19:26Z;
+1508;MDU6SXNzdWUyNDY2NDk2MDQ=;{'totalCount': 2};Yarn instructions for eslint-config-airbnb potentially installs incorrect version of peer dependencies;2017-07-31T05:39:23Z;2017-08-01T08:46:00Z
+1509;MDU6SXNzdWUyNDY4MDkyMTc=;{'totalCount': 3};Eslint installation issues;2017-07-31T16:07:04Z;2017-07-31T16:10:03Z
+1512;MDU6SXNzdWUyNDc0MjYwOTU=;{'totalCount': 3};"Configuration for rule ""jsx-a11y/anchor-has-content"" is invalid: Value """" is the wrong type.";2017-08-02T15:18:21Z;2017-08-02T18:24:33Z
+1513;MDU6SXNzdWUyNDc2MTU4NzA=;{'totalCount': 1};Using stage-2 syntax will be fatal;2017-08-03T07:27:52Z;2017-08-03T07:31:23Z
+1515;MDU6SXNzdWUyNDgzMjk5MjQ=;{'totalCount': 27};Sonarqube Config;2017-08-07T07:35:59Z;2017-08-07T07:59:56Z
+1519;MDU6SXNzdWUyNDk0NjkyNzg=;{'totalCount': 4};Clarification regarding react/prop-types validation and react router dom;2017-08-10T20:37:53Z;2017-08-10T20:55:18Z
+1520;MDU6SXNzdWUyNTAwODExMzU=;{'totalCount': 3};Confusing dot-notation and no-underscore-dangle;2017-08-14T16:18:19Z;2017-08-21T19:49:00Z
+1521;MDU6SXNzdWUyNTAxMDkzMzU=;{'totalCount': 13};Support for ESnext Class Feature;2017-08-14T18:11:04Z;
+1523;MDU6SXNzdWUyNTA2NjYyOTU=;{'totalCount': 2};Please explain using inline styles comment about expensive stylesheets;2017-08-16T15:22:11Z;
+1527;MDU6SXNzdWUyNTA5ODYyMDE=;{'totalCount': 1};Enforce the use of modules;2017-08-17T15:38:43Z;2017-08-17T16:10:51Z
+1529;MDU6SXNzdWUyNTEyOTY0MDU=;{'totalCount': 1};ESLint + phantomjs not working;2017-08-18T16:29:30Z;
+1532;MDU6SXNzdWUyNTE5NzA3NDc=;{'totalCount': 5};Line exceeds 100 characters and arrow body style ;2017-08-22T14:10:57Z;
+1534;MDU6SXNzdWUyNTIxNTQ0MzE=;{'totalCount': 2};What will AirBnb do with Facebook adding a new clause to it's BSD license?;2017-08-23T04:09:57Z;2017-08-23T04:47:29Z
+1535;MDU6SXNzdWUyNTI0MDExOTI=;{'totalCount': 1};Accidental bypass for react/jsx-no-bind allowArrowFunctions ;2017-08-23T20:09:34Z;2017-08-23T20:27:17Z
+1536;MDU6SXNzdWUyNTI3MTMxMDc=;{'totalCount': 7};Consider incorporating rules from eslint-plugin-unicorn;2017-08-24T19:55:22Z;
+1539;MDU6SXNzdWUyNTMxNTM1OTI=;{'totalCount': 9};Use a loose set of rules for consistent JSDoc comments;2017-08-27T09:55:59Z;
+1540;MDU6SXNzdWUyNTMyODc3OTU=;{'totalCount': 1};"""Configuration for rule ""jsx-a11y/anchor-has-content"" is invalid"" error with correct peer dependencies";2017-08-28T10:22:21Z;2017-08-28T10:27:53Z
+1541;MDU6SXNzdWUyNTM1OTE0OTc=;{'totalCount': 1};Reasoning behind not allowing named function callbacks?;2017-08-29T09:42:24Z;2019-08-10T05:54:37Z
+1542;MDU6SXNzdWUyNTM2NjY2MTg=;{'totalCount': 3};[Vuex compatibility] no-param-reassign - add `state` to the ignorePropertyModificationsFor array.;2017-08-29T13:45:37Z;2017-08-29T21:37:50Z
+1544;MDU6SXNzdWUyNTM5MTcxMjE=;{'totalCount': 3};ReadMe should mention that using this styleguide and its eslint plugins effectively requires babel;2017-08-30T08:25:04Z;2017-09-02T18:31:07Z
+1545;MDU6SXNzdWUyNTQ1NTIwNDk=;{'totalCount': 2};Definition for rule 'jsx-a11y/href-no-hash' was not found  jsx-a11y/href-no-hash;2017-09-01T06:53:20Z;2017-09-01T06:54:42Z
+1548;MDU6SXNzdWUyNTQ5MDk3NTQ=;{'totalCount': 11};Thoughts about using prettier;2017-09-04T00:03:24Z;2017-09-04T06:45:21Z
+1550;MDU6SXNzdWUyNTU4OTg2MTM=;{'totalCount': 1};About Incrementer;2017-09-07T11:01:37Z;2017-09-07T17:27:00Z
+1553;MDU6SXNzdWUyNTY2NTMwNjA=;{'totalCount': 9};How set Airbnb Javascript code styling in my Intellij IDEA project;2017-09-11T10:21:57Z;2019-08-10T05:54:18Z
+1555;MDU6SXNzdWUyNTczOTk0NDI=;{'totalCount': 3};Conventions for a React app’s directory structure;2017-09-13T14:22:05Z;2019-08-10T05:54:26Z
+1556;MDU6SXNzdWUyNTc0NjQxNTE=;{'totalCount': 10};How many function parameters are too much?;2017-09-13T17:44:19Z;2017-09-26T17:19:16Z
+1560;MDU6SXNzdWUyNTg3MjA4Mzc=;{'totalCount': 2};npm README.md old, not updated (eslint-config-airbnb);2017-09-19T07:23:58Z;2017-09-19T07:25:33Z
+1561;MDU6SXNzdWUyNTg4MTUzNzg=;{'totalCount': 1};How to avoid eval & not using classes in my specific case;2017-09-19T13:12:40Z;2017-09-19T20:18:23Z
+1562;MDU6SXNzdWUyNTg4NTM2NTk=;{'totalCount': 6};Cloning an old project and get so much error linter;2017-09-19T15:00:02Z;2017-09-22T20:19:24Z
+1566;MDU6SXNzdWUyNTk2NTMzNjM=;{'totalCount': 3};Provide clarity around chained function indents;2017-09-21T22:40:21Z;
+1567;MDU6SXNzdWUyNjAwMTE5OTQ=;{'totalCount': 7};why airbnb is using yet semicolons?;2017-09-23T14:32:12Z;2017-09-23T15:30:37Z
+1568;MDU6SXNzdWUyNjAzMDQ0NDI=;{'totalCount': 5};Rejection Error: Cannot find module 'fstream';2017-09-25T14:48:21Z;2017-09-29T15:25:05Z
+1569;MDU6SXNzdWUyNjA5NTc3OTQ=;{'totalCount': 2};indent rule ignoredNodes needs to include 'JSXElement';2017-09-27T12:37:18Z;2017-09-27T20:34:29Z
+1571;MDU6SXNzdWUyNjE0MzkwNzc=;{'totalCount': 9};install eslint , and eslint --init, warns requires a peer of eslint ...;2017-09-28T19:47:37Z;2017-09-28T19:48:14Z
+1572;MDU6SXNzdWUyNjE2NTMxMzM=;{'totalCount': 11};dangling comma vs. newline paren in 12.;2017-09-29T14:05:01Z;2017-09-29T14:21:28Z
+1575;MDU6SXNzdWUyNjE5MjM5MDQ=;{'totalCount': 5};"Update ""Adjacent JSX elements must be wrapped in an enclosing tag"" for React 16";2017-10-01T15:26:35Z;2017-10-06T13:45:31Z
+1577;MDU6SXNzdWUyNjI2ODEyODA=;{'totalCount': 4};Array destructuring is not the best. Might remove it from the rules;2017-10-04T06:36:27Z;2017-10-04T07:01:48Z
+1580;MDU6SXNzdWUyNjM2OTU5ODI=;{'totalCount': 2};Prefer destructuring invalid rule;2017-10-08T06:08:40Z;2017-10-08T06:13:48Z
+1582;MDU6SXNzdWUyNjM4NTczOTA=;{'totalCount': 6};Consolidating `strict` rule definition between airbnb and airbnb-base;2017-10-09T11:05:41Z;2019-08-10T02:07:08Z
+1584;MDU6SXNzdWUyNjQzMTQ4OTU=;{'totalCount': 14};function-paren-newline error vs. max-len error;2017-10-10T17:36:00Z;2019-08-10T05:53:08Z
+1586;MDU6SXNzdWUyNjQ4MDQ1MjY=;{'totalCount': 11};eslint-config-airbnb v16.0.0 doesn't work with CRA after eject;2017-10-12T03:40:28Z;2017-10-13T15:36:23Z
+1589;MDU6SXNzdWUyNjQ5MzI5MDE=;{'totalCount': 22};How to configure React Native (Expo) project to use AirBnB's React rules via ESLint?;2017-10-12T13:00:54Z;2017-11-15T08:15:39Z
+1590;MDU6SXNzdWUyNjQ5OTQ2NzQ=;{'totalCount': 2};Why no-implicit-globals is disabled ?;2017-10-12T15:53:17Z;2017-10-17T08:18:56Z
+1592;MDU6SXNzdWUyNjUzNzY1Mjg=;{'totalCount': 10};Collision with `import/extensions`;2017-10-13T18:19:07Z;2018-09-27T01:01:01Z
+1593;MDU6SXNzdWUyNjU1ODg2NTg=;{'totalCount': 1};Template string with special character are getting inappropriately converted to quoted string;2017-10-15T17:29:30Z;2017-10-15T21:33:43Z
+1594;MDU6SXNzdWUyNjU2MjgyMzA=;{'totalCount': 11};`react/jsx-boolean-value` rule has invalid options;2017-10-16T02:16:00Z;2017-10-16T19:00:28Z
+1597;MDU6SXNzdWUyNjYyMzQ0MDg=;{'totalCount': 2};No compatible version found: eslint-plugin-react@^#.#.#;2017-10-17T18:39:30Z;2017-10-17T19:26:56Z
+1598;MDU6SXNzdWUyNjYzNDQyOTQ=;{'totalCount': 1};Support import named 'npm_module.js';2017-10-18T02:57:58Z;2017-10-18T03:29:22Z
+1599;MDU6SXNzdWUyNjY0MTU0Mjk=;{'totalCount': 16};"Configuration for rule ""no-else-return"" is invalid";2017-10-18T09:06:53Z;2017-10-23T23:20:43Z
+1601;MDU6SXNzdWUyNjY2NDMwODU=;{'totalCount': 0};Add guide section for `no-else-return`;2017-10-18T21:10:25Z;2017-10-19T04:51:31Z
+1603;MDU6SXNzdWUyNjY2NzU3MzY=;{'totalCount': 2};`ForOfStatement` rules with yield (no-restricted-syntax);2017-10-18T23:35:47Z;2017-10-20T17:39:34Z
+1604;MDU6SXNzdWUyNjY2OTU5Nzg=;{'totalCount': 3};Multiline comma-dangle on functions?;2017-10-19T01:53:20Z;2017-10-19T01:55:25Z
+1614;MDU6SXNzdWUyNjc5NTQ0MTE=;{'totalCount': 2};Initialize some property for each object in a list;2017-10-24T09:11:26Z;2017-10-25T06:59:40Z
+1615;MDU6SXNzdWUyNjc5NzQ0OTU=;{'totalCount': 2};"Error: configuration for rule ""arrow-body-style"" is invalid";2017-10-24T10:14:15Z;2017-10-25T09:40:20Z
+1617;MDU6SXNzdWUyNjgwNjYyMjI=;{'totalCount': 0};r;2017-10-24T14:58:02Z;2017-10-24T14:58:12Z
+1619;MDU6SXNzdWUyNjgzMjAzODE=;{'totalCount': 11};Any official statement regarding Object.freeze and Object.seal;2017-10-25T09:06:53Z;2019-05-14T19:11:29Z
+1623;MDU6SXNzdWUyNjg3ODgxOTY=;{'totalCount': 3};"flycheck issues ecmaFeatures deprecated error at every change when loading airbnb with ""extends"" property";2017-10-26T14:41:10Z;2017-10-26T17:01:15Z
+1626;MDU6SXNzdWUyNjkyNzA5NjA=;{'totalCount': 1};Some link issues in README.md;2017-10-28T00:48:56Z;2017-10-28T05:10:48Z
+1632;MDU6SXNzdWUyNzA4OTA5ODg=;{'totalCount': 6};no-restricted-globals doesn't allow self in service worker envs;2017-11-03T06:50:39Z;
+1633;MDU6SXNzdWUyNzExMzk4MzM=;{'totalCount': 7};"Unexpected use of file extension ""jsx"" for ""./components/App.jsx"" (import/extensions)";2017-11-03T22:54:41Z;2017-11-04T02:09:50Z
+1634;MDU6SXNzdWUyNzEyOTMyNTQ=;{'totalCount': 1};Support .mjs extension;2017-11-05T16:27:12Z;2018-01-03T06:52:02Z
+1636;MDU6SXNzdWUyNzIwMjAyNDQ=;{'totalCount': 0};7.11 good example uses bad example from 7.1;2017-11-07T23:18:34Z;2017-11-08T00:20:25Z
+1639;MDU6SXNzdWUyNzQ2Njk5NTY=;{'totalCount': 1};"Add staticContext to list of no-param-reassign ""ignorePropertyModificationsFor"" ";2017-11-16T21:28:21Z;2019-04-28T07:01:40Z
+1640;MDU6SXNzdWUyNzUxMDA0NjM=;{'totalCount': 12};Explain UTF-8 BOM rule in readme;2017-11-18T18:43:05Z;
+1642;MDU6SXNzdWUyNzU4NTI1MjY=;{'totalCount': 7};What are the risks of mixing shorthand properties with valued ones?;2017-11-21T20:40:03Z;2019-08-10T05:52:40Z
+1644;MDU6SXNzdWUyNzY0NzEyODY=;{'totalCount': 1};javascript, why get json err? ;2017-11-23T21:01:01Z;2017-11-24T05:23:15Z
+1645;MDU6SXNzdWUyNzY4NDEwMzI=;{'totalCount': 4};comma-dangle issue;2017-11-26T17:24:41Z;2017-11-26T22:55:27Z
+1646;MDU6SXNzdWUyNzcwNDYwNDE=;{'totalCount': 2};import/no-extraneous-dependencies fails for globs;2017-11-27T14:55:10Z;2017-11-27T14:58:08Z
+1647;MDU6SXNzdWUyNzcxNjM4NTM=;{'totalCount': 4};ESLint 'anchor-is-valid' rule interfering with react-router-dom;2017-11-27T20:48:41Z;2017-11-30T08:00:16Z
+1649;MDU6SXNzdWUyNzg4NDM3MDk=;{'totalCount': 2};one-const is incompatible with destructure rule;2017-12-04T01:19:21Z;2018-10-02T21:37:28Z
+1650;MDU6SXNzdWUyNzg4NTM5Mjc=;{'totalCount': 2};JS Style Guide Website;2017-12-04T02:44:16Z;2017-12-04T05:23:31Z
+1653;MDU6SXNzdWUyNzk3NTQ1ODk=;{'totalCount': 1};"How to avoid ""Assignment to property of function parameter 'elem'""";2017-12-06T13:34:22Z;2017-12-07T11:22:02Z
+1655;MDU6SXNzdWUyODA4MTUzOTQ=;{'totalCount': 2};destructuring object with getters results in incorrect result;2017-12-10T14:58:19Z;2017-12-30T20:59:06Z
+1656;MDU6SXNzdWUyODA4MzEyNTA=;{'totalCount': 5};React/JSX-curly-brace-presence is too strict;2017-12-10T18:28:49Z;2017-12-10T18:41:00Z
+1657;MDU6SXNzdWUyODEyOTE0NDc=;{'totalCount': 1};"npm  run ""lint"" command";2017-12-12T08:04:35Z;2017-12-12T08:12:19Z
+1658;MDU6SXNzdWUyODEyOTI0MDE=;{'totalCount': 1};Cannot validate indentation of prop values using default eslint-airbnb-preset and eslint-plugin-react;2017-12-12T08:09:08Z;2018-01-09T05:51:15Z
+1659;MDU6SXNzdWUyODIwNTc3MjA=;{'totalCount': 5};Section 15.8 Enclose operators of README.MD;2017-12-14T10:49:45Z;2017-12-14T22:36:49Z
+1660;MDU6SXNzdWUyODIwODU0NjA=;{'totalCount': 16};ESLint is missing rules for blank lines after blocks (section 19.7);2017-12-14T12:33:23Z;
+1665;MDU6SXNzdWUyODM3OTE4MzU=;{'totalCount': 14};about react-a11y;2017-12-21T07:11:14Z;2018-04-27T15:36:38Z
+1666;MDU6SXNzdWUyODM5NjUyMzM=;{'totalCount': 2};Chaining example for #26.2: Cache jQuery lookups;2017-12-21T18:22:10Z;2017-12-22T01:58:55Z
+1667;MDU6SXNzdWUyODQzMTEzMDg=;{'totalCount': 0};rtterte;2017-12-23T15:19:22Z;2017-12-23T15:20:22Z
+1670;MDU6SXNzdWUyODQ0NTM3MDU=;{'totalCount': 1};Where does a module named 'has' come from?;2017-12-25T15:06:18Z;2017-12-25T18:50:52Z
+1671;MDU6SXNzdWUyODQ0NTQwMjk=;{'totalCount': 7};Rules should assume strict mode;2017-12-25T15:11:34Z;2017-12-25T18:31:16Z
+1672;MDU6SXNzdWUyODQ0NTQ5MTI=;{'totalCount': 1};Single parameter arrows should always omit parens;2017-12-25T15:25:14Z;2017-12-25T18:36:27Z
+1673;MDU6SXNzdWUyODQ0NTU0MTM=;{'totalCount': 2};Method chaining lets the receiver nominate a next receiver;2017-12-25T15:32:12Z;
+1674;MDU6SXNzdWUyODQ0NTU4ODU=;{'totalCount': 2};Avoiding * imports is even more important;2017-12-25T15:40:13Z;2017-12-25T18:33:42Z
+1675;MDU6SXNzdWUyODQ0NTY5MTE=;{'totalCount': 1};var is worse than that;2017-12-25T15:59:17Z;2017-12-25T18:50:52Z
+1676;MDU6SXNzdWUyODQ0NTcyNzA=;{'totalCount': 1};Recommend that switch branches always have curlies;2017-12-25T16:05:50Z;2017-12-25T18:26:44Z
+1677;MDU6SXNzdWUyODQ0NTc4Njg=;{'totalCount': 5};Recommended ?: refactoring is worse;2017-12-25T16:16:38Z;2017-12-25T18:26:09Z
+1678;MDU6SXNzdWUyODQ0NTgxMjc=;{'totalCount': 1};"What does ""mixed operators"" mean?";2017-12-25T16:21:49Z;2018-01-08T22:57:11Z
+1679;MDU6SXNzdWUyODQ0NTg0MDE=;{'totalCount': 11};Distinguish doc-comments from other comments;2017-12-25T16:27:10Z;
+1680;MDU6SXNzdWUyODQ0NTkwMDI=;{'totalCount': 1};"Avoid obscure jargon ""hash""";2017-12-25T16:39:28Z;2017-12-25T18:50:52Z
+1684;MDU6SXNzdWUyODUxNjc2Njk=;{'totalCount': 4};Properties 12.2;2017-12-29T23:10:22Z;2017-12-30T18:28:03Z
+1686;MDU6SXNzdWUyODUzODU4MjY=;{'totalCount': 1};Broken link to es5 style guide;2018-01-02T09:28:47Z;2018-01-02T19:53:59Z
+1687;MDU6SXNzdWUyODU3MTAyNjI=;{'totalCount': 1};"What does qualify as a ""function library"" and a ""bare object""?";2018-01-03T14:57:21Z;2018-05-01T14:23:13Z
+1689;MDU6SXNzdWUyODU4OTc5MDE=;{'totalCount': 7};Error on windows eslint airbnb react - Webstorm;2018-01-04T07:05:06Z;2018-01-04T08:09:40Z
+1692;MDU6SXNzdWUyODczMDMxMTQ=;{'totalCount': 2};prop-types in react router;2018-01-10T03:19:28Z;2018-01-10T05:45:46Z
+1696;MDU6SXNzdWUyODgzODAyMDU=;{'totalCount': 1};Some problem with prefer ** than Math.pow;2018-01-14T03:50:04Z;2018-01-14T05:15:11Z
+1700;MDU6SXNzdWUyODkwMTQ1MDI=;{'totalCount': 1};Relative links on http://airbnb.io/javascript/ not resolving ;2018-01-16T18:42:07Z;2018-01-16T19:36:42Z
+1701;MDU6SXNzdWUyODk1MTkwNzA=;{'totalCount': 1};Add import/no-self-import rule?;2018-01-18T06:30:21Z;2018-01-18T06:34:23Z
+1702;MDU6SXNzdWUyODk1MTk2MjI=;{'totalCount': 11};The case against react/require-default-props;2018-01-18T06:33:34Z;2018-01-18T06:36:32Z
+1703;MDU6SXNzdWUyODk5NzUyNDQ=;{'totalCount': 4};Add componentDidCatch to exceptMethods for class-methods-use-this;2018-01-19T13:26:49Z;2018-01-23T19:53:17Z
+1705;MDU6SXNzdWUyOTA5NzEyMzU=;{'totalCount': 2};prefer-destructuring rule triggers when mutating `let` binding;2018-01-23T19:52:31Z;2018-01-23T20:04:08Z
+1706;MDU6SXNzdWUyOTEyNjgwMzE=;{'totalCount': 2};Add storybooks exceptions to eslint config;2018-01-24T16:15:46Z;2018-06-21T20:56:48Z
+1709;MDU6SXNzdWUyOTE5OTA4NDg=;{'totalCount': 1};Why cuddled elses? (brace style);2018-01-26T18:30:19Z;2018-01-26T22:52:59Z
+1711;MDU6SXNzdWUyOTIwOTI5Njc=;{'totalCount': 4};Incorrect indentation undetected for JS code within JSX;2018-01-27T05:59:07Z;2018-01-27T06:06:08Z
+1713;MDU6SXNzdWUyOTI1MzczOTA=;{'totalCount': 2};I'd like to update Korean translation link;2018-01-29T19:50:05Z;2018-02-02T02:52:24Z
+1715;MDU6SXNzdWUyOTMwMDAzNzY=;{'totalCount': 1};Any thoughts on adding the import/named rule for eslint?;2018-01-31T01:31:53Z;2018-01-31T01:33:36Z
+1716;MDU6SXNzdWUyOTMzMjIyMjU=;{'totalCount': 4};Multiple configuration rules invalid;2018-01-31T21:43:08Z;2018-01-31T22:48:11Z
+1717;MDU6SXNzdWUyOTM2MzM3OTg=;{'totalCount': 4};Trailing semicolons for chained methods;2018-02-01T18:20:02Z;2018-02-02T06:01:54Z
+1718;MDU6SXNzdWUyOTM2MzcwNzc=;{'totalCount': 30};Nested ternaries aren't bad, just misused;2018-02-01T18:31:05Z;2018-02-09T04:34:26Z
+1719;MDU6SXNzdWUyOTQwMzM5MjE=;{'totalCount': 13};Explicit comparisons for strings are a bad practice because they don't account for null/undefined.;2018-02-02T21:49:19Z;2018-02-02T22:16:39Z
+1720;MDU6SXNzdWUyOTQwODg0Mjk=;{'totalCount': 3};Can you put the translation section at the beginning?;2018-02-03T06:20:16Z;2018-02-07T08:55:48Z
+1723;MDU6SXNzdWUyOTQ3MzY5ODc=;{'totalCount': 1};Consider incorporating rules from eslint-plugin-node;2018-02-06T12:11:13Z;2018-02-20T07:23:29Z
+1725;MDU6SXNzdWUyOTUwNDY5NDI=;{'totalCount': 6};Error Date calculation error;2018-02-07T08:29:56Z;2018-02-07T08:32:15Z
+1730;MDU6SXNzdWUyOTYyMzEwNzQ=;{'totalCount': 3};"Resolve error: unable to load resolver ""node""";2018-02-11T22:12:15Z;2018-02-11T22:45:27Z
+1731;MDU6SXNzdWUyOTY4MjAxOTQ=;{'totalCount': 6};(question) eslint rule / plugin for guideline 7.15;2018-02-13T17:22:37Z;
+1734;MDU6SXNzdWUyOTgxMzA1MzQ=;{'totalCount': 6};problem with port;2018-02-18T23:44:00Z;2018-02-19T01:56:00Z
+1738;MDU6SXNzdWUyOTgzNzc5MTY=;{'totalCount': 3};Exposed endpoint for non-style based rules only;2018-02-19T19:17:09Z;2018-02-19T20:35:59Z
+1739;MDU6SXNzdWUyOTgzOTM4MDc=;{'totalCount': 3};Why should we not use Generators in react native according to Airbnb;2018-02-19T20:31:52Z;2018-02-19T20:39:55Z
+1741;MDU6SXNzdWUyOTg5NDc3NDU=;{'totalCount': 3};Indentation of object destructuring default parameter;2018-02-21T12:16:29Z;2018-07-26T19:38:23Z
+1744;MDU6SXNzdWUyOTkzNjk1OTA=;{'totalCount': 0};The npm packages get distributed without licenses;2018-02-22T14:15:39Z;2018-02-22T21:39:06Z
+1752;MDU6SXNzdWUzMDE2NTU0OTA=;{'totalCount': 2};about Component Naming?;2018-03-02T05:12:40Z;2018-03-02T21:43:39Z
+1754;MDU6SXNzdWUzMDIwOTk0MDU=;{'totalCount': 3};Asynchronous iteration (for-await-of) and ForOfStatement deprecation;2018-03-04T16:29:24Z;2018-03-04T17:24:09Z
+1758;MDU6SXNzdWUzMDMyNjkzMTc=;{'totalCount': 4};Why complexity is off?;2018-03-07T21:38:59Z;2018-06-21T20:56:37Z
+1759;MDU6SXNzdWUzMDQwMjY2MDU=;{'totalCount': 4};Mismatch package version between NPM and Github;2018-03-10T01:08:56Z;2018-03-10T01:12:23Z
+1762;MDU6SXNzdWUzMDQ4NjQ5NzE=;{'totalCount': 6};if statements are not checked for preceding newline;2018-03-13T17:34:47Z;
+1763;MDU6SXNzdWUzMDQ4OTc2MDE=;{'totalCount': 2};Is it recommended to start a function name with is? Since it is not a typical verb ;2018-03-13T19:07:51Z;2018-03-14T19:30:50Z
+1764;MDU6SXNzdWUzMDUyMDUyMjk=;{'totalCount': 12};How can i use airbnb-eslint in my ejected create-react-app project?;2018-03-14T15:21:09Z;2019-08-10T05:53:45Z
+1765;MDU6SXNzdWUzMDUzMzM4ODY=;{'totalCount': 10};Question regarding console log/warn/error;2018-03-14T21:23:14Z;2018-03-25T20:30:39Z
+1767;MDU6SXNzdWUzMDY5NzYzOTk=;{'totalCount': 2};"Include ""accumulator"" in exceptions to no-param-reassign";2018-03-20T17:58:56Z;2018-03-23T22:24:27Z
+1769;MDU6SXNzdWUzMDcxNDA4NDc=;{'totalCount': 6};Link to reddit/styleguide is broken;2018-03-21T07:22:41Z;
+1773;MDU6SXNzdWUzMDkzMTYwNjA=;{'totalCount': 2};Replace import/first with import/order?;2018-03-28T10:51:07Z;2018-06-21T20:36:40Z
+1783;MDU6SXNzdWUzMTM2OTYwMzY=;{'totalCount': 1};separate event handler functions for an event attached to different inputs or one event handler function with lot of if statements/ switch statement?;2018-04-12T11:59:57Z;
+1786;MDU6SXNzdWUzMTUwNDUyNjY=;{'totalCount': 2};Prefer default export not working for const variable;2018-04-17T12:51:15Z;2018-04-19T04:30:51Z
+1788;MDU6SXNzdWUzMTU4ODQ1Njk=;{'totalCount': 3};Group export - yay or nay?;2018-04-19T13:44:45Z;2019-08-10T05:53:53Z
+1789;MDU6SXNzdWUzMTY0NTU2MTU=;{'totalCount': 2};The flag emojis don't show up on Windows;2018-04-21T02:54:47Z;2018-04-22T21:49:45Z
+1791;MDU6SXNzdWUzMTc1NTE2ODQ=;{'totalCount': 28};Why use prefer-destructuring on arrays?;2018-04-25T09:39:19Z;2018-09-14T15:47:49Z
+1792;MDU6SXNzdWUzMTc4NDg2MDg=;{'totalCount': 3};I am confused about the lifecycle sequence in 16.3;2018-04-26T01:45:52Z;2018-04-26T06:33:26Z
+1795;MDU6SXNzdWUzMTg5MDY3NTQ=;{'totalCount': 2};Perhaps allowing no-plusplus;2018-04-30T14:19:14Z;2018-05-01T14:07:52Z
+1796;MDU6SXNzdWUzMTkxOTUwMTA=;{'totalCount': 1};Add new rules about organizing import statements;2018-05-01T13:17:09Z;2018-05-01T16:16:23Z
+1797;MDU6SXNzdWUzMTkzODYyODg=;{'totalCount': 4};Why are certain rules not mentioned in the README?;2018-05-02T02:02:01Z;2018-05-04T06:22:41Z
+1800;MDU6SXNzdWUzMjAxOTczMTU=;{'totalCount': 2};New eslint-config release;2018-05-04T08:51:38Z;2018-05-04T15:54:19Z
+1803;MDU6SXNzdWUzMjA2MDM2NDc=;{'totalCount': 3};Why is there no new release since Oct. 2017 / v.16.1 ?;2018-05-06T15:47:44Z;2018-05-07T05:33:37Z
+1804;MDU6SXNzdWUzMjI1NDA3MjU=;{'totalCount': 5};Improves the map, reduce and filter lint error;2018-05-12T20:28:22Z;2018-05-22T15:55:44Z
+1805;MDU6SXNzdWUzMjI3NDk4MTA=;{'totalCount': 1};Add `getSnapshotBeforeUpdate` to `exceptMethods` of `class-methods-use-this`;2018-05-14T10:02:27Z;2018-06-21T20:42:42Z
+1806;MDU6SXNzdWUzMjI4Mzk2MTc=;{'totalCount': 2};Shown Example Is Not Appropriate for arrays--callback-return;2018-05-14T14:23:58Z;
+1810;MDU6SXNzdWUzMjM3OTQzNTI=;{'totalCount': 2};Which is more appropriate in a promise callback with a extra arg? function pointer or function;2018-05-16T21:29:41Z;2018-05-16T21:50:47Z
+1811;MDU6SXNzdWUzMjM4MDg1NDA=;{'totalCount': 1};`no-nested-ternaries` can cause difficult to understand code;2018-05-16T22:21:21Z;2020-03-17T18:42:02Z
+1812;MDU6SXNzdWUzMjM4NTQyMTQ=;{'totalCount': 5};Add `err` and/or `opts` to the no-param-reassign exclusions?;2018-05-17T02:52:13Z;
+1813;MDU6SXNzdWUzMjUwMzg5MTU=;{'totalCount': 3};Some code examples use function declarations even though guide says to only use expressions?;2018-05-21T19:54:46Z;
+1814;MDU6SXNzdWUzMjUzNjU0MTc=;{'totalCount': 5};"To be fixed: string evaluates to false also when equals to ""0""";2018-05-22T16:10:57Z;2018-05-23T00:33:30Z
+1815;MDU6SXNzdWUzMjU3MTc3MTk=;{'totalCount': 3};A single preferred way for event methods prefix;2018-05-23T13:56:27Z;
+1816;MDU6SXNzdWUzMjY1NjU1Mjc=;{'totalCount': 2};Why use avoidQuotes in object-shorthand?;2018-05-25T15:18:01Z;2018-05-27T15:32:49Z
+1817;MDU6SXNzdWUzMjY3NTI1NTU=;{'totalCount': 2};For..In Loops Correction;2018-05-26T17:00:28Z;2018-05-29T12:04:29Z
+1821;MDU6SXNzdWUzMjc5ODU4NzI=;{'totalCount': 2};How to style currying properly?;2018-05-31T04:01:28Z;2018-06-01T20:31:58Z
+1826;MDU6SXNzdWUzMjk0MjkwNjk=;{'totalCount': 5};Consider turning on exception ignoreEOLComments for no-multi-spaces rule;2018-06-05T12:15:38Z;2019-08-10T05:50:09Z
+1830;MDU6SXNzdWUzMzIxNjU1OTA=;{'totalCount': 2};On React guide, put translation section at the top;2018-06-13T21:10:40Z;2018-06-13T21:31:38Z
+1833;MDU6SXNzdWUzMzQzNDY0NzI=;{'totalCount': 2};Cutting a new release to npm eslint-config-airbnb;2018-06-21T05:43:39Z;2018-06-21T22:27:10Z
+1834;MDU6SXNzdWUzMzQ2ODA3NzA=;{'totalCount': 14};eslint v5 support;2018-06-21T22:32:49Z;2018-08-13T20:45:26Z
+1835;MDU6SXNzdWUzMzQ4NzgxMTU=;{'totalCount': 3};Release notes?;2018-06-22T13:28:25Z;2018-06-22T15:51:24Z
+1837;MDU6SXNzdWUzMzUxOTI5MzM=;{'totalCount': 4};npm test failed on windows;2018-06-24T16:33:53Z;2019-08-10T05:49:39Z
+1840;MDU6SXNzdWUzMzUyMjE5NDY=;{'totalCount': 2};What's the general consensus for nested destructuring assignment?;2018-06-24T23:26:07Z;2018-06-25T02:41:40Z
+1842;MDU6SXNzdWUzMzU2NzY3NDQ=;{'totalCount': 6};Clarification on PascalCase for filenames;2018-06-26T06:32:10Z;2018-07-02T05:06:19Z
+1843;MDU6SXNzdWUzMzU4MDQ4OTU=;{'totalCount': 14};"The ""react/default-props-match-prop-types"" setting forces looser typing";2018-06-26T12:52:35Z;2018-06-28T09:54:07Z
+1844;MDU6SXNzdWUzMzU5NDUzMDY=;{'totalCount': 1};Airbnb eslint with prettier-atom not indenting plain text children of JSX tags;2018-06-26T18:43:29Z;2018-06-26T20:49:41Z
+1845;MDU6SXNzdWUzMzYzNDEwMjc=;{'totalCount': 3};[eslint-config-airbnb-base] DeprecationWarning;2018-06-27T18:33:02Z;2018-06-27T21:31:52Z
+1846;MDU6SXNzdWUzMzY1MDcxMDc=;{'totalCount': 1};[ESLINT_LEGACY_OBJECT_REST_SPREAD] DeprecationWarning;2018-06-28T07:36:41Z;2018-06-28T07:38:27Z
+1847;MDU6SXNzdWUzMzcxMTk4Mjc=;{'totalCount': 2};Support for `getDerivedStateFromProps` lifecycle method;2018-06-29T19:58:57Z;2018-06-30T07:09:46Z
+1850;MDU6SXNzdWUzMzc1NjI0MTc=;{'totalCount': 7};react/sort-comp: getDerivedStateFromProps ;2018-07-02T15:21:13Z;2018-07-02T20:07:36Z
+1851;MDU6SXNzdWUzMzc2NDk5NjY=;{'totalCount': 1};[Arrays] To convert an array-like object to an array, use spreads ... instead of Array.from;2018-07-02T20:20:51Z;2018-07-05T05:22:51Z
+1853;MDU6SXNzdWUzMzc4MTAzODE=;{'totalCount': 9};[perf] disallow async/await;2018-07-03T09:13:39Z;
+1858;MDU6SXNzdWUzMzg0NzAzNzc=;{'totalCount': 0};The markdown syntax of README.md seems not work on 4.4(#array--from--iterable);2018-07-05T08:15:56Z;2018-07-05T22:42:09Z
+1860;MDU6SXNzdWUzMzkyMjcwMDA=;{'totalCount': 2};why not recommended to use `array.length` directly in if statements ？;2018-07-08T13:43:02Z;2018-07-09T03:16:40Z
+1861;MDU6SXNzdWUzMzk1OTMxNjM=;{'totalCount': 12};no-param-reassign and no-use-before-define;2018-07-09T20:20:52Z;2018-07-10T20:50:09Z
+1862;MDU6SXNzdWUzMzk2NjE5MTQ=;{'totalCount': 2};Got Promise { <pending> } inside a do while loop;2018-07-10T01:34:17Z;2018-07-10T03:14:31Z
+1868;MDU6SXNzdWUzNDA1NTEzODQ=;{'totalCount': 4};no-unused-expressions ?;2018-07-12T09:07:21Z;2019-08-10T05:49:12Z
+1870;MDU6SXNzdWUzNDE2NTg4NTk=;{'totalCount': 1};eslint: experimentalObjectRestSpread option is deprecated;2018-07-16T20:04:50Z;2018-07-16T20:14:58Z
+1872;MDU6SXNzdWUzNDMwODk1OTA=;{'totalCount': 2};Possible mistake in example 4.7 Use return statements in array method callbacks;2018-07-20T12:29:59Z;2018-07-21T06:52:19Z
+1873;MDU6SXNzdWUzNDMyNDQxOTk=;{'totalCount': 7};label-has-for deprecated in 6.1;2018-07-20T20:53:27Z;2018-07-20T21:30:17Z
+1874;MDU6SXNzdWUzNDM4NjI4NDI=;{'totalCount': 1};4.4 ;2018-07-24T02:40:43Z;2018-07-24T02:42:52Z
+1875;MDU6SXNzdWUzNDU2MjA2NzI=;{'totalCount': 10};Calling setState in componentDidUpdate;2018-07-30T05:54:32Z;
+1876;MDU6SXNzdWUzNDY3NDA3NDc=;{'totalCount': 4};What is the cleanest way to build multi-line strings?;2018-08-01T19:42:25Z;2018-11-28T17:40:07Z
+1877;MDU6SXNzdWUzNDc5NDE5NDM=;{'totalCount': 3};Deprecation Warning on Version 13.0.0;2018-08-06T14:14:42Z;2018-08-06T15:37:25Z
+1880;MDU6SXNzdWUzNDk0MTgxMTA=;{'totalCount': 9};why should not use getters/setters?;2018-08-10T08:14:16Z;2018-08-21T03:28:33Z
+1881;MDU6SXNzdWUzNDk0MzIzMDk=;{'totalCount': 2};From the source code to the execution?;2018-08-10T09:00:06Z;2018-08-10T17:46:57Z
+1882;MDU6SXNzdWUzNDk1MzQ3MDI=;{'totalCount': 1};[eslint config] [react] disable two buggy rules, temporarily - Commit b6a268f780177e03b573a4f0df95ecc0d2e8783e - is not available via npm package;2018-08-10T14:21:14Z;2018-08-10T16:23:45Z
+1884;MDU6SXNzdWUzNTA3OTk5OTk=;{'totalCount': 3};3.8 side effect;2018-08-15T12:59:09Z;2018-08-15T15:42:11Z
+1885;MDU6SXNzdWUzNTA5MDgwOTk=;{'totalCount': 9};label-has-associated-control failing for correct structure;2018-08-15T18:06:54Z;2018-08-15T23:40:25Z
+1886;MDU6SXNzdWUzNTEwMzUzMzc=;{'totalCount': 1};JSX bracket indent issue;2018-08-16T02:44:18Z;2018-08-16T04:58:05Z
+1888;MDU6SXNzdWUzNTE3MzY5OTM=;{'totalCount': 4};[ESLINT_LEGACY_OBJECT_REST_SPREAD];2018-08-17T21:00:39Z;2018-08-17T21:16:31Z
+1890;MDU6SXNzdWUzNTIyODQ2MDU=;{'totalCount': 4};Template literal indentation;2018-08-20T20:29:19Z;2018-08-20T22:17:01Z
+1892;MDU6SXNzdWUzNTI3MDgyNTE=;{'totalCount': 2};Add more clarity around nested conditionals;2018-08-21T21:00:00Z;2018-08-21T21:10:56Z
+1893;MDU6SXNzdWUzNTMyMTM3MjI=;{'totalCount': 20};"Configuration for rule ""react/jsx-no-bind"" is invalid:";2018-08-23T03:53:31Z;2018-09-09T04:37:49Z
+1900;MDU6SXNzdWUzNTQyNTAxNzc=;{'totalCount': 4};Consider turn on the Rules those StandardJS did;2018-08-27T09:39:53Z;2019-08-10T05:50:37Z
+1902;MDU6SXNzdWUzNTUxNzE5MzM=;{'totalCount': 1};while focus the element page not get scrolled in firefox and ie;2018-08-29T13:53:52Z;2018-08-29T15:18:20Z
+1909;MDU6SXNzdWUzNTY1MjQ1MzE=;{'totalCount': 7};"""0:0 error Module Error [...]"" when using with webpack";2018-09-03T14:20:46Z;2018-09-10T20:47:12Z
+1910;MDU6SXNzdWUzNTcyODk2Nzc=;{'totalCount': 0};hh;2018-09-05T15:41:42Z;2018-09-05T17:34:33Z
+1911;MDU6SXNzdWUzNTc4NzE4NTY=;{'totalCount': 3};Opposite behavior of the rule 'one-var';2018-09-07T00:02:03Z;2019-08-10T05:51:19Z
+1912;MDU6SXNzdWUzNTkyNzQ2OTA=;{'totalCount': 1};README - Question about Modules;2018-09-12T00:47:21Z;2018-09-12T00:49:44Z
+1913;MDU6SXNzdWUzNTk1MTEwMjg=;{'totalCount': 3};"incorrect peer dependency ""eslint@^4.9.0""";2018-09-12T14:35:59Z;2018-09-12T16:11:42Z
+1915;MDU6SXNzdWUzNTk3NjQ1MjE=;{'totalCount': 1};Function transfer parameter;2018-09-13T06:50:45Z;2018-09-13T07:04:54Z
+1918;MDU6SXNzdWUzNjIwNjg1NjI=;{'totalCount': 4};Destructuring props in react;2018-09-20T08:13:07Z;2018-09-20T16:27:57Z
+1919;MDU6SXNzdWUzNjI1MjU5NjM=;{'totalCount': 1};Add support for TypeScript usage with typescript-eslint-parser;2018-09-21T09:17:22Z;
+1920;MDU6SXNzdWUzNjI4NzUyMzE=;{'totalCount': 2};ESLINT_LEGACY_ECMAFEATURES;2018-09-22T17:27:22Z;2018-09-22T20:44:52Z
+1921;MDU6SXNzdWUzNjMwNTM2MzM=;{'totalCount': 1};Use of classes in javascript ?;2018-09-24T08:32:39Z;2018-09-24T14:01:10Z
+1922;MDU6SXNzdWUzNjMzOTQ4ODg=;{'totalCount': 0}; [suggestion]Add type-annotations to react/sort-comp;2018-09-25T03:18:25Z;
+1925;MDU6SXNzdWUzNjUyODcxNDk=;{'totalCount': 1};"Is ""[eslint] Do not use 'new' for side effects. (no-new)"" rule still correct for singleton class?";2018-10-01T02:13:58Z;2018-10-01T03:04:36Z
+1926;MDU6SXNzdWUzNjU2MDg3OTA=;{'totalCount': 4};Best way to deal with `operator-linebreak` and long line length;2018-10-01T19:30:56Z;2018-10-01T21:29:39Z
+1931;MDU6SXNzdWUzNjc0ODQ4MTg=;{'totalCount': 2};Since use of 'ForOfStatement' is not allowed ...;2018-10-06T18:49:21Z;2018-10-07T00:56:16Z
+1932;MDU6SXNzdWUzNjc5MTMzNjM=;{'totalCount': 2};Webpack config function executing multiple times when using `resolve.alias` and `eslint-import-resolver-webpack`;2018-10-08T18:57:58Z;2018-10-08T19:58:54Z
+1933;MDU6SXNzdWUzNjgxMTgzMTA=;{'totalCount': 3};no-continue rationale;2018-10-09T09:26:14Z;2018-10-10T13:27:00Z
+1935;MDU6SXNzdWUzNzA4Mzc2Njg=;{'totalCount': 0};Disable `no-var` From Legacy Entry Point;2018-10-16T23:19:40Z;2018-12-28T21:37:05Z
+1937;MDU6SXNzdWUzNzEzNzk2NzM=;{'totalCount': 3};How to reduce the dimension of multidimensional array gracefully！;2018-10-18T06:30:35Z;2018-10-18T06:35:17Z
+1943;MDU6SXNzdWUzNzQ1OTgzMDI=;{'totalCount': 1};Question about section 3.7;2018-10-27T02:45:34Z;2018-10-27T02:49:21Z
+1944;MDU6SXNzdWUzNzQ3NzgxNzM=;{'totalCount': 12};Add support for React Hooks;2018-10-28T17:33:22Z;2019-08-10T02:19:41Z
+1945;MDU6SXNzdWUzNzUwMDU3MjM=;{'totalCount': 1};prefer-default-export encourages code that cannot take advantage of treeshaking;2018-10-29T13:05:39Z;2018-10-29T15:57:10Z
+1947;MDU6SXNzdWUzNzUzOTgzODE=;{'totalCount': 1};[Suggestion] `import ... from ...` should specify file extensions;2018-10-30T09:41:37Z;2018-10-30T15:00:18Z
+1949;MDU6SXNzdWUzNzYzMDc1NjE=;{'totalCount': 1};I encountered such problems when I was using it.;2018-11-01T09:01:03Z;2019-08-10T05:51:36Z
+1950;MDU6SXNzdWUzNzYzODA3OTc=;{'totalCount': 2};License files missing from older npm packages;2018-11-01T12:55:27Z;2018-11-01T15:16:15Z
+1952;MDU6SXNzdWUzNzc1NTg0MzI=;{'totalCount': 3};react/forbid-prop-types is not allowing arrays & objects;2018-11-05T19:57:52Z;2019-01-07T23:51:40Z
+1953;MDU6SXNzdWUzNzk0MTQ5NTM=;{'totalCount': 6};Empty message error for react/boolean-prop-naming when running from react/whitespace;2018-11-10T11:36:54Z;2019-08-10T05:39:48Z
+1954;MDU6SXNzdWUzNzk0ODMyMTk=;{'totalCount': 2};[Question] Section 3.7 - Reflect instead prototype call;2018-11-11T02:41:01Z;2018-11-11T05:20:04Z
+1958;MDU6SXNzdWUzODE0MzMzNTE=;{'totalCount': 4};prefer-const makes destructuring redundant;2018-11-16T03:40:58Z;2018-11-26T16:23:59Z
+1959;MDU6SXNzdWUzODIxMzc4NTE=;{'totalCount': 1};React: suggested naming convention for component stylesheet files;2018-11-19T10:01:05Z;2018-11-19T13:43:08Z
+1967;MDU6SXNzdWUzODY0NDI2ODU=;{'totalCount': 7};JSX syntax not accepted as valid;2018-12-01T09:45:47Z;2018-12-01T20:25:36Z
+1968;MDU6SXNzdWUzODcxMjM1ODM=;{'totalCount': 4};IIFE show a warning;2018-12-04T05:12:00Z;2018-12-04T07:03:15Z
+1969;MDU6SXNzdWUzOTA2NDU4NDA=;{'totalCount': 1};Converting object into Json (stringify);2018-12-13T11:57:00Z;2018-12-13T15:56:11Z
+1970;MDU6SXNzdWUzOTA5MzMzNDA=;{'totalCount': 5};Using Array.map() without using currentValue (no-unused-vars);2018-12-14T01:50:49Z;2018-12-14T05:51:58Z
+1971;MDU6SXNzdWUzOTIwODY4NDM=;{'totalCount': 3};[ESLINT_LEGACY_OBJECT_REST_SPREAD] DeprecationWarning;2018-12-18T10:20:25Z;2018-12-18T15:42:19Z
+1975;MDU6SXNzdWUzOTIzODkwNDc=;{'totalCount': 1};check if array is empty;2018-12-19T00:13:16Z;2018-12-19T00:53:03Z
+1978;MDU6SXNzdWUzOTQwNDM3MzI=;{'totalCount': 14};Do you have a specification for new line after import?;2018-12-25T18:55:56Z;2018-12-26T05:34:30Z
+1979;MDU6SXNzdWUzOTQ4MjI2NzQ=;{'totalCount': 1};GET Method Script to open Web Page(s);2018-12-29T20:30:32Z;2018-12-29T20:33:43Z
+1980;MDU6SXNzdWUzOTUxODc2NzI=;{'totalCount': 3};"autofix ""import/order"" will produce new problems?";2019-01-02T09:21:16Z;2019-01-02T17:53:57Z
+1981;MDU6SXNzdWUzOTU0MjI2NTM=;{'totalCount': 5};Would I put commas in an array inside of an object?;2019-01-03T00:19:19Z;2019-01-03T00:43:41Z
+1982;MDU6SXNzdWUzOTU1MDIxNTU=;{'totalCount': 1};Dated and wrong rule should get finally updated: Only .js files should contain JSX;2019-01-03T09:18:22Z;2019-01-03T16:13:27Z
+1983;MDU6SXNzdWUzOTU1NTY0OTU=;{'totalCount': 1};[eslint-config-airbnb] react version setting;2019-01-03T12:29:51Z;2019-08-10T05:39:53Z
+1986;MDU6SXNzdWUzOTYzMjY4OTI=;{'totalCount': 1};FormData object forms submit data;2019-01-07T02:35:36Z;2019-01-07T02:41:01Z
+1987;MDU6SXNzdWUzOTc2NDM2ODY=;{'totalCount': 10};eslint + prettier produces non-viable code;2019-01-10T02:15:59Z;2019-01-14T18:39:17Z
+1988;MDU6SXNzdWUzOTgzMzM1MDY=;{'totalCount': 2};Vietnamese version is 404;2019-01-11T15:23:31Z;2019-01-12T13:47:54Z
+1989;MDU6SXNzdWUzOTg0MzkyMzA=;{'totalCount': 2};Dead link in 14.1 (about typeof no longer being safe);2019-01-11T20:22:27Z;2019-01-12T21:54:03Z
+1995;MDU6SXNzdWU0MDA5NzkyMTc=;{'totalCount': 2};React Style Guide question: bind and arrow functions in render;2019-01-19T09:36:52Z;2019-02-25T08:51:40Z
+2002;MDU6SXNzdWU0MDkzNzk3OTc=;{'totalCount': 7};Why is the definition of a variable is moved after using?;2019-02-12T16:13:40Z;2019-02-12T16:37:26Z
+2007;MDU6SXNzdWU0MTA0NzI0OTc=;{'totalCount': 5};Documentation conflicts with object-property-newline setting?;2019-02-14T20:13:13Z;
+2009;MDU6SXNzdWU0MTEzNzc5OTI=;{'totalCount': 1};max-len rule does not match format in Eslint docs;2019-02-18T09:28:00Z;2019-02-18T18:34:06Z
+2013;MDU6SXNzdWU0MTM2MTk4Njg=;{'totalCount': 8};"[eslint-config-airbnb] Activate rule ""require-await""";2019-02-22T23:34:32Z;2019-02-22T23:42:19Z
+2015;MDU6SXNzdWU0MTQyMDEyNjM=;{'totalCount': 2};Forget string delimiters and always use template literals?;2019-02-25T16:48:42Z;2019-02-25T17:21:47Z
+2016;MDU6SXNzdWU0MTQ0NDMzMTg=;{'totalCount': 2};Bind event handlers;2019-02-26T05:52:25Z;2019-02-26T07:21:36Z
+2018;MDU6SXNzdWU0MTYzNDU4NzU=;{'totalCount': 10};"Question about 11.1 ""Don’t use iterators""";2019-03-02T02:24:20Z;2019-03-02T04:33:50Z
+2019;MDU6SXNzdWU0MTkwNjQ5MDk=;{'totalCount': 3};Reword the no-iterators reasoning.;2019-03-09T12:05:31Z;2019-03-11T18:22:33Z
+2020;MDU6SXNzdWU0MTkwNzMwOTk=;{'totalCount': 5};multiline-comment-style rule is off;2019-03-09T13:44:44Z;2019-03-09T15:30:10Z
+2021;MDU6SXNzdWU0MTkyODk2NjU=;{'totalCount': 5};"`Unexpected use of file extension ""js""` for browser import";2019-03-11T04:29:36Z;2019-03-11T19:55:33Z
+2024;MDU6SXNzdWU0MjI0NDUyOTQ=;{'totalCount': 4};Install eslint airbnb packages in parent folder of project root?;2019-03-18T21:33:36Z;2019-03-19T05:03:01Z
+2025;MDU6SXNzdWU0MjgyNzYyNDY=;{'totalCount': 8};several problems with ESLint newly installed with AirBnB through NPM;2019-04-02T14:54:30Z;2019-04-02T16:39:40Z
+2027;MDU6SXNzdWU0MzcwOTA3MTc=;{'totalCount': 1};bxslider is not reloading with hide( ) and show( );2019-04-25T09:13:42Z;2019-04-25T15:14:00Z
+2030;MDU6SXNzdWU0MzgxNDQxNjg=;{'totalCount': 1};Node.js requires file extension in esm import path;2019-04-29T04:16:09Z;2019-04-29T04:22:04Z
+2032;MDU6SXNzdWU0NDAyNTA1OTE=;{'totalCount': 13};Option to disable a11y plugin?;2019-05-03T22:52:38Z;2019-05-04T04:22:46Z
+2033;MDU6SXNzdWU0NDEwMDk3MDQ=;{'totalCount': 1};Include a Contributing.md to help newcomers to contribute;2019-05-07T03:31:36Z;
+2034;MDU6SXNzdWU0NDE1NDQyMDY=;{'totalCount': 1};Is it okay to use code formatter such as Prettier ? ;2019-05-08T04:19:46Z;2019-05-08T04:40:14Z
+2036;MDU6SXNzdWU0NDI5NTQ2NTE=;{'totalCount': 11};eslint v6 support;2019-05-11T05:04:29Z;2019-08-10T17:13:45Z
+2040;MDU6SXNzdWU0NDk0MzYwNzg=;{'totalCount': 8};Add componentDidCatch to lifecycle for react/sort-comp;2019-05-28T19:23:18Z;2019-08-10T05:04:10Z
+2041;MDU6SXNzdWU0NTEwNjI2OTc=;{'totalCount': 2};[Question] break line after braces;2019-06-01T08:48:03Z;2019-06-01T19:56:14Z
+2044;MDU6SXNzdWU0NTc0MzE4OTQ=;{'totalCount': 2};this is step form jquery, i have a next button on all pages, can any body tell me how to create a back button;2019-06-18T11:45:48Z;2019-06-18T16:21:00Z
+2049;MDU6SXNzdWU0NjExODkxMzg=;{'totalCount': 0};"Integrate ""eslint-plugin-eslint-comments"" plugin";2019-06-26T21:26:00Z;
+2051;MDU6SXNzdWU0NjM2MjU5NzA=;{'totalCount': 1};Documentation should be improved for Sublime 3 and Create React App integration;2019-07-03T08:50:48Z;2019-07-03T09:11:51Z
+2055;MDU6SXNzdWU0NjQ0MTczODQ=;{'totalCount': 3};Error in strings inside React;2019-07-05T00:08:56Z;2019-07-17T18:22:53Z
+2058;MDU6SXNzdWU0Njg0MjY2OTQ=;{'totalCount': 9};Eslint > Failed to load plugin 'import' declared in '.eslintrc » eslint-config-airbnb » ;2019-07-16T03:18:24Z;2019-07-16T07:01:49Z
+2061;MDU6SXNzdWU0NzEzNjgyNjk=;{'totalCount': 1};Writing input data from a Prompt() message on an HTML website to a text file;2019-07-22T22:31:54Z;2019-07-22T23:56:00Z
+2063;MDU6SXNzdWU0NzUxODYzMTA=;{'totalCount': 3};"Performance test for ""Try/Catch Cost In a Loop"" is down";2019-07-31T14:41:47Z;2019-08-03T02:18:21Z
+2066;MDU6SXNzdWU0NzkyOTcxMDA=;{'totalCount': 12};"`ESLint couldn't find the config ""airbnb"" to extend from.`";2019-08-10T19:03:08Z;2019-08-10T20:54:15Z
+2068;MDU6SXNzdWU0Nzk1OTg0NzQ=;{'totalCount': 1};arrow function return;2019-08-12T11:36:50Z;2019-08-12T18:03:15Z
+2069;MDU6SXNzdWU0ODAxNzc1Mzk=;{'totalCount': 20};Release 18 breaks running eslint-plugin-react;2019-08-13T14:07:01Z;2019-09-11T04:30:42Z
+2070;MDU6SXNzdWU0ODA1MDU4MjY=;{'totalCount': 1};Glitch;2019-08-14T06:36:28Z;2019-08-14T14:35:51Z
+2071;MDU6SXNzdWU0ODA3NDYwMzU=;{'totalCount': 1};Example in 8.2 confusing;2019-08-14T15:29:31Z;2019-08-14T15:47:06Z
+2073;MDU6SXNzdWU0ODEzNzAyOTM=;{'totalCount': 5};"ESLint returns ""no-unused-expressions"" error with LayoutAnimation documentation code snippet";2019-08-15T22:49:27Z;2019-08-16T19:44:56Z
+2075;MDU6SXNzdWU0ODI1Mzg5MTg=;{'totalCount': 2};Can I safely remove nativeEvent and gestureState from a PanResponder handler?;2019-08-19T21:33:11Z;2019-08-19T21:44:40Z
+2076;MDU6SXNzdWU0ODMwMjAxMTQ=;{'totalCount': 3};Allow triple-slash (///) comments for type checking;2019-08-20T18:40:33Z;2020-03-22T06:46:23Z
+2077;MDU6SXNzdWU0ODM1MDEwMTA=;{'totalCount': 4};"Bug: ""import/*"" not applied";2019-08-21T15:42:47Z;2019-10-06T23:30:37Z
+2078;MDU6SXNzdWU0ODQxNTAxMDU=;{'totalCount': 18};Failed to load plugin 'jsx-a11y' declared '/.eslintrc » eslint-config-airbnb ;2019-08-22T18:38:44Z;2019-09-06T19:28:21Z
+2079;MDU6SXNzdWU0ODQ1NjIyNDg=;{'totalCount': 1};Updating to v18 broke eslint-plugin-react;2019-08-23T14:32:56Z;2019-08-23T14:35:20Z
+2080;MDU6SXNzdWU0ODUyMDIwODg=;{'totalCount': 2};Cannot find module 'eslint/lib/util/source-code';2019-08-26T12:07:07Z;2019-08-27T09:28:04Z
+2081;MDU6SXNzdWU0ODU5MTMyNDI=;{'totalCount': 5};Object Shorthand conflicts with func-names;2019-08-27T16:31:27Z;2019-08-28T15:51:30Z
+2082;MDU6SXNzdWU0ODYzNDA5OTY=;{'totalCount': 3};How to address consistent-return & array-callback-return with condition;2019-08-28T12:07:46Z;2019-08-28T14:53:57Z
+2084;MDU6SXNzdWU0ODgyNzM3NTM=;{'totalCount': 10};Add support for latest version of eslint-plugin-react-hooks;2019-09-02T17:16:13Z;2020-02-25T15:34:53Z
+2088;MDU6SXNzdWU0OTAxMjAzMzk=;{'totalCount': 1};A bug in README.md;2019-09-06T04:18:28Z;2019-09-18T02:27:45Z
+2091;MDU6SXNzdWU0OTU3ODQ4NjM=;{'totalCount': 1};UNSAFE methods;2019-09-19T13:00:59Z;2019-09-19T14:13:41Z
+2092;MDU6SXNzdWU0OTU5MzI4MDc=;{'totalCount': 3};Undescore param name;2019-09-19T17:30:30Z;2019-09-19T17:31:37Z
+2093;MDU6SXNzdWU0OTU5NzI1Njc=;{'totalCount': 2};Putting a Component into Index.jsx may be a bad practice;2019-09-19T18:58:31Z;2019-09-19T19:10:20Z
+2094;MDU6SXNzdWU0OTY0MzczMTI=;{'totalCount': 5};Configure function-call-argument-newline rule;2019-09-20T16:15:25Z;2019-10-16T05:38:36Z
+2095;MDU6SXNzdWU0OTY2MTQzMDQ=;{'totalCount': 1};Suggest labeling 'good first issue' for newcomers.;2019-09-21T05:04:13Z;2019-09-21T15:00:20Z
+2096;MDU6SXNzdWU0OTY2NTc5MDQ=;{'totalCount': 2};[JS style problem 19.5] How to end files with a single newline character?;2019-09-21T13:48:14Z;2019-09-21T15:30:24Z
+2098;MDU6SXNzdWU0OTc4ODM4ODA=;{'totalCount': 1};How to fix no-useless-escape in RegExp?;2019-09-24T19:35:37Z;2019-09-25T03:14:38Z
+2099;MDU6SXNzdWU0OTkyODIxNzg=;{'totalCount': 2};Unexpected token =, for component props.;2019-09-27T07:24:37Z;2019-09-27T07:26:47Z
+2100;MDU6SXNzdWU0OTk5MDMzNzI=;{'totalCount': 3};eslint-config-airbnb: error on component destructuring;2019-09-29T11:28:33Z;2019-09-29T15:15:29Z
+2104;MDU6SXNzdWU1MDEyNTk5NTY=;{'totalCount': 2};`es-abstract` NOT Found;2019-10-02T03:53:39Z;2019-10-02T03:54:57Z
+2105;MDU6SXNzdWU1MDE1NzcyNjM=;{'totalCount': 11};Invalid config for eslint-config-airbnb-base;2019-10-02T15:52:43Z;2019-12-11T01:03:03Z
+2107;MDU6SXNzdWU1MDIxOTU3NTY=;{'totalCount': 2};[eslint-config-airbnb] Update react/sort-comp rule to allow static variables;2019-10-03T17:24:34Z;2019-10-06T23:45:37Z
+2116;MDU6SXNzdWU1MDM1NTExMTI=;{'totalCount': 4};react/sort-comp event handlers;2019-10-07T16:10:53Z;
+2117;MDU6SXNzdWU1MDU4NzQ1NDU=;{'totalCount': 4};eslint-config-airbnb  error;2019-10-11T14:06:22Z;2019-10-11T19:00:01Z
+2119;MDU6SXNzdWU1MDk5NTkzNTM=;{'totalCount': 1};Prevent repeated require statements for the same module;2019-10-21T13:22:42Z;2019-10-21T14:55:02Z
+2120;MDU6SXNzdWU1MTI0MjgwNzk=;{'totalCount': 1};many if blocks vs switch-case;2019-10-25T10:12:09Z;2019-10-25T19:50:51Z
+2127;MDU6SXNzdWU1MTQ1MDI4ODk=;{'totalCount': 3};computed property brackets;2019-10-30T09:09:46Z;2019-10-31T00:28:58Z
+2129;MDU6SXNzdWU1MTQ2OTY3OTI=;{'totalCount': 2};class-methods-use-this is enforced, but not documented;2019-10-30T14:05:29Z;2019-11-12T09:18:25Z
+2131;MDU6SXNzdWU1MTkxNTAyNDA=;{'totalCount': 2};你好;2019-11-07T09:40:19Z;2019-11-07T19:17:43Z
+2134;MDU6SXNzdWU1MjA1MDQwMzA=;{'totalCount': 1};"""import/extensions"" rule is not documented (and I am also wondering about the justification)";2019-11-09T19:42:38Z;2020-03-06T00:59:06Z
+2135;MDU6SXNzdWU1MjE0ODAzNDY=;{'totalCount': 1};Getting warning when installing packages for unmet peer dependencies even though they are added in node modules;2019-11-12T11:02:09Z;2019-11-12T20:10:49Z
+2139;MDU6SXNzdWU1MjgxMzUxMjY=;{'totalCount': 2};react/static-property-placement rule conflict;2019-11-25T14:47:20Z;2019-11-25T16:25:28Z
+2140;MDU6SXNzdWU1Mjk1NDU2MjA=;{'totalCount': 1};bug in no-multiple-empty-lines;2019-11-27T19:53:46Z;2020-04-01T20:25:22Z
+2141;MDU6SXNzdWU1MzA1MzYyOTc=;{'totalCount': 18};Cannot find module 'eslint-plugin-import';2019-11-30T05:42:31Z;2019-11-30T18:41:55Z
+2142;MDU6SXNzdWU1MzI1MjAzNjg=;{'totalCount': 2};Bad example for 7.13 Never reassign parameters. eslint:;2019-12-04T08:18:49Z;2019-12-04T08:38:46Z
+2143;MDU6SXNzdWU1MzUyOTY5MzE=;{'totalCount': 9};max-classes-per-file enabled in code but not in docs;2019-12-09T20:44:47Z;
+2144;MDU6SXNzdWU1MzU3MDQxOTU=;{'totalCount': 3};Section 7.2 (IIFE wrapping) example has an error;2019-12-10T12:40:03Z;2019-12-10T18:36:38Z
+2145;MDU6SXNzdWU1NDAyNzQ2OTc=;{'totalCount': 6};The `void` operator has legitimate use cases;2019-12-19T12:09:13Z;2019-12-19T16:50:53Z
+2146;MDU6SXNzdWU1NDExOTgxNzA=;{'totalCount': 1};Rules for nullish coalescing and optional chaining;2019-12-20T21:04:06Z;
+2147;MDU6SXNzdWU1NDI1MzA4MDc=;{'totalCount': 1};Javascript quiz, basic code dont work;2019-12-26T11:37:10Z;2019-12-26T16:18:51Z
+2149;MDU6SXNzdWU1NDYxNjM0MTk=;{'totalCount': 2};const is a global variable and it is not block scoped.;2020-01-07T09:05:26Z;2020-01-07T09:27:14Z
+2151;MDU6SXNzdWU1NDc0NDcyMzI=;{'totalCount': 1};Expected 'this' to be used by class method 'getDerivedStateFromProps';2020-01-09T12:25:22Z;2020-01-09T13:50:07Z
+2152;MDU6SXNzdWU1NTMwNjYyMzU=;{'totalCount': 1};TypeValue: Cannot read property 'properties' of undefined;2020-01-21T18:58:20Z;2020-01-21T19:08:45Z
+2153;MDU6SXNzdWU1NTQ0NDU1MzY=;{'totalCount': 2};Stop recommending Number.isNaN over isNaN;2020-01-23T22:31:49Z;2020-01-23T22:56:21Z
+2156;MDU6SXNzdWU1NTcxNzQ0MzQ=;{'totalCount': 4};"ESLint couldn't find the config ""airbnb"" to extend from";2020-01-29T23:16:27Z;2020-01-30T15:46:48Z
+2159;MDU6SXNzdWU1NjU1MDM1MzM=;{'totalCount': 2};Linter based on this;2020-02-14T19:05:32Z;2020-02-14T21:40:27Z
+2167;MDU6SXNzdWU1NjczNTYyNjk=;{'totalCount': 1};Issue with semicolon bad/good example;2020-02-19T06:56:56Z;2020-02-19T07:05:24Z
+2169;MDU6SXNzdWU1NjkyMTk3MDY=;{'totalCount': 1};Disable the prefer-object-spread rule for airbnb-base/legacy?;2020-02-21T22:38:13Z;2020-03-22T06:36:37Z
+2170;MDU6SXNzdWU1NzE5NDg5OTI=;{'totalCount': 1};TypeScript Support;2020-02-27T09:49:33Z;2020-02-27T15:28:35Z
+2187;MDU6SXNzdWU1NzQyOTQ4ODI=;{'totalCount': 2};Add best conditional rule to Arrays 4.7 ;2020-03-02T22:38:35Z;2020-03-03T22:13:38Z
+2189;MDU6SXNzdWU1NzQ4NTEyMjM=;{'totalCount': 1};Eslint comment re: 'no-warning-comments' opposes actual rule;2020-03-03T18:15:39Z;2020-03-03T18:27:16Z
+2191;MDU6SXNzdWU1NzczMzk1NzQ=;{'totalCount': 8};Question about the naming convention;2020-03-07T14:08:14Z;2020-03-07T21:54:51Z
+2195;MDU6SXNzdWU1ODEzNzIxMzM=;{'totalCount': 1};relax react-hooks plugin peer dep?;2020-03-14T21:05:31Z;2020-03-17T14:16:21Z
+2196;MDU6SXNzdWU1ODIxNDc0MzQ=;{'totalCount': 7};"Configuration for rule ""camelcase"" is invalid: should not have additional properties";2020-03-16T09:47:34Z;2020-03-22T06:37:40Z
+2199;MDU6SXNzdWU1ODU2NTUyODY=;{'totalCount': 2};the demo of 4.7 in 'Table of Contents';2020-03-22T06:27:56Z;2020-03-22T06:29:57Z
+2200;MDU6SXNzdWU1ODU3MzUxOTg=;{'totalCount': 2};Reconsider capIsNew: false for new-cap;2020-03-22T14:44:40Z;
+2202;MDU6SXNzdWU1ODU4NzQwNDc=;{'totalCount': 9};"Failed to load config ""airbnb-base"" to extend from.";2020-03-23T01:56:09Z;2020-03-28T20:39:31Z
+2205;MDU6SXNzdWU1OTU1MTgxNzY=;{'totalCount': 7};Non-Enforced Rules Should be Clearly Documented in the README.md;2020-04-07T00:57:48Z;
+2206;MDU6SXNzdWU1OTY3NjMxMDc=;{'totalCount': 5};Misleading documentation 10.8;2020-04-08T18:10:20Z;
+2208;MDU6SXNzdWU1OTkwOTkwODI=;{'totalCount': 2};"What is the point of the ""Types"" section of the guide?";2020-04-13T19:54:40Z;
+2209;MDU6SXNzdWU2MDAxMzA0NjU=;{'totalCount': 4};no-extra-parens delegates ignoreJSX option to jsx-wrap-multilines, but lacks feature parity;2020-04-15T08:48:02Z;2020-04-17T04:43:06Z
+2210;MDU6SXNzdWU2MDAxOTExODc=;{'totalCount': 0};JS;2020-04-15T10:26:34Z;2020-04-17T04:41:56Z
+2211;MDU6SXNzdWU2MDA4MDgxNjE=;{'totalCount': 1};<spam>;2020-04-16T07:24:05Z;2020-04-27T21:19:58Z
+2212;MDU6SXNzdWU2MDEyNzcyMzQ=;{'totalCount': 0};JavaScript;2020-04-16T17:44:26Z;2020-04-17T04:41:45Z
+2214;MDU6SXNzdWU2MDgxMzU3NzM=;{'totalCount': 1};Java coding;2020-04-28T08:44:58Z;2020-04-28T17:37:15Z
+2215;MDU6SXNzdWU2MDgxNzQ0ODc=;{'totalCount': 2};Organize Imports;2020-04-28T09:42:35Z;2020-04-29T16:50:42Z
+2216;MDU6SXNzdWU2MDk4Njg0MzU=;{'totalCount': 1};Importing class methods from separate files;2020-04-30T11:48:40Z;2020-04-30T18:31:52Z
+2217;MDU6SXNzdWU2MTAyMzM3MDY=;{'totalCount': 0};Airbnb JS style guide;2020-04-30T16:50:28Z;2020-04-30T16:50:59Z
+2218;MDU6SXNzdWU2MTEzNzA5MTU=;{'totalCount': 0};JavaScript ;2020-05-03T09:30:44Z;2020-05-03T09:31:18Z
+2219;MDU6SXNzdWU2MTI3MjY1Mzk=;{'totalCount': 0};O;2020-05-05T16:17:56Z;2020-05-05T16:19:19Z
+2220;MDU6SXNzdWU2MTI4MDE1NzU=;{'totalCount': 5};label-has-associated-control throws an error in a simple situation;2020-05-05T18:20:29Z;2020-05-05T18:22:10Z
+2221;MDU6SXNzdWU2MTI4MTg0ODE=;{'totalCount': 1};what is jQuery in JavaScript;2020-05-05T18:49:44Z;2020-05-05T19:58:28Z
+2222;MDU6SXNzdWU2MTQyNjQ2NzU=;{'totalCount': 1};JSX: Group your true props at the beginning of your object declaration.;2020-05-07T18:41:18Z;2020-05-07T20:04:22Z
+2223;MDU6SXNzdWU2MTQzMjE2MTA=;{'totalCount': 0};eslint v7 support;2020-05-07T20:24:55Z;
+2224;MDU6SXNzdWU2MTUzMTc1MzY=;{'totalCount': 0};JavaScript;2020-05-10T05:00:37Z;2020-05-10T17:44:55Z
+2225;MDU6SXNzdWU2MTUzNTQzOTg=;{'totalCount': 0};Oke ;2020-05-10T09:39:56Z;2020-05-10T09:40:40Z

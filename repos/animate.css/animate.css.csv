@@ -1,0 +1,706 @@
+number;id;comments;title;createdAt;closedAt
+1;MDU6SXNzdWUxODk4NTY5;{'totalCount': 1};Certain animations causing scrollbars in Firefox;2011-10-13T09:26:48Z;2011-12-08T15:18:05Z
+2;MDU6SXNzdWUxODk4NTgw;{'totalCount': 3};Naming conventions;2011-10-13T09:28:28Z;2011-10-21T05:56:11Z
+3;MDU6SXNzdWUxODk4NjE2;{'totalCount': 4};Test page doesn't replay animations;2011-10-13T09:32:05Z;2012-04-19T08:34:46Z
+4;MDU6SXNzdWUxOTAwMDQ3;{'totalCount': 10};split animations into different files;2011-10-13T13:21:52Z;2011-10-14T12:53:01Z
+5;MDU6SXNzdWUxOTAwMDYw;{'totalCount': 4};custom build tool;2011-10-13T13:23:57Z;2011-10-14T12:53:47Z
+6;MDU6SXNzdWUxOTAwMjQ3;{'totalCount': 3};move project page to github;2011-10-13T13:48:01Z;2011-10-14T14:10:20Z
+7;MDU6SXNzdWUxOTAxMjk2;{'totalCount': 4};namespace classes;2011-10-13T15:27:40Z;2011-11-04T11:41:21Z
+10;MDU6SXNzdWUxOTMxMDE1;{'totalCount': 1};That word. I do not think it means what you think it means.;2011-10-17T17:09:00Z;2011-10-17T18:42:50Z
+11;MDU6SXNzdWUxOTQxMTEw;{'totalCount': 15};Android animation issues;2011-10-18T13:26:14Z;2012-04-19T08:34:20Z
+12;MDU6SXNzdWUyMDA2NTUy;{'totalCount': 4};Add -o- prefixes;2011-10-20T16:24:20Z;2011-10-20T18:18:19Z
+15;MDU6SXNzdWUyMDExMTI3;{'totalCount': 12};Animation not working on Localhost;2011-10-21T00:19:48Z;2011-11-12T10:28:52Z
+16;MDU6SXNzdWUyMDEyMjg2;{'totalCount': 11};Demo page seems busted in recent Chrome builds;2011-10-21T04:40:04Z;2012-04-19T08:33:35Z
+17;MDU6SXNzdWUyMDEzNTg1;{'totalCount': 1};Blurred/pixelated text when zooming animated elements on iOS;2011-10-21T09:09:35Z;2012-04-19T08:33:01Z
+18;MDU6SXNzdWUyMDcxMTQ5;{'totalCount': 4};Page redraw on iPad running iOS 4.;2011-10-27T18:35:47Z;2011-10-28T09:41:51Z
+19;MDU6SXNzdWUyMjg5Mjgx;{'totalCount': 3};animate.css breaks subpixel anti-aliasing in webkit;2011-11-19T18:30:42Z;2012-04-19T08:32:39Z
+20;MDU6SXNzdWUyNDY4NjY1;{'totalCount': 4};Elements show up again after using Exit Effects;2011-12-06T22:52:18Z;2011-12-06T23:08:10Z
+21;MDU6SXNzdWUyNDc2NjQ0;{'totalCount': 4};How to use it for real apps;2011-12-07T16:38:02Z;2012-04-19T08:36:40Z
+22;MDU6SXNzdWUzMDgwODkz;{'totalCount': 3};Create a LESS version;2012-02-03T10:01:12Z;2012-02-03T11:17:07Z
+23;MDU6SXNzdWUzNDE2MjUw;{'totalCount': 3};the shorthand can't work;2012-02-28T10:30:38Z;2012-02-29T11:16:35Z
+24;MDU6SXNzdWUzOTQ3MTY0;{'totalCount': 2};what is about hardware acceleration?;2012-04-03T15:30:03Z;2012-04-04T15:41:34Z
+25;MDU6SXNzdWU0MTIyNDk5;{'totalCount': 3};Breaking z-index for pseudo elements;2012-04-15T09:03:50Z;2013-04-14T13:41:08Z
+26;MDU6SXNzdWU0MjExMTAy;{'totalCount': 3};"Breaks position:fixed; in Chrome and Safari";2012-04-20T14:07:43Z;2012-05-02T05:35:44Z
+27;MDU6SXNzdWU0MzEwMjU4;{'totalCount': 1};Question: anyway to specify animation properties?;2012-04-26T19:58:15Z;2012-04-26T21:28:43Z
+30;MDU6SXNzdWU0NzkwMTM2;{'totalCount': 1};Demonstration page breaks in Opera;2012-05-29T07:45:00Z;2012-05-29T07:50:55Z
+31;MDU6SXNzdWU0OTM4NjU2;{'totalCount': 1};Use examples;2012-06-06T21:07:15Z;2012-06-07T07:45:33Z
+32;MDU6SXNzdWU0OTkzNTIy;{'totalCount': 1};Compressed Version;2012-06-10T19:50:05Z;2012-06-11T13:52:59Z
+33;MDU6SXNzdWU1MjY3MzE2;{'totalCount': 1};missing bounceOutDown class elements in css;2012-06-26T08:32:45Z;2012-06-29T07:39:22Z
+35;MDU6SXNzdWU1Mzc0NTE4;{'totalCount': 2};I think for some animations, a complementary style is needed to set the initial transform values;2012-07-01T14:21:18Z;2012-07-02T10:56:19Z
+36;MDU6SXNzdWU1NDE3NzQz;{'totalCount': 8};Blurring Text;2012-07-03T22:00:29Z;2013-01-28T04:56:40Z
+37;MDU6SXNzdWU1NjA4MjQ5;{'totalCount': 2};Animations that change opacity, need the final opacity declared on the last key frame too;2012-07-13T16:28:37Z;2012-07-19T05:33:53Z
+39;MDU6SXNzdWU1NzUxMzQ2;{'totalCount': 1};Chrome text rendering bug during animations;2012-07-21T06:27:07Z;2012-10-02T17:24:24Z
+41;MDU6SXNzdWU2MDcxNDUw;{'totalCount': 7};Browser support ?;2012-08-07T09:00:32Z;2012-08-22T15:52:48Z
+42;MDU6SXNzdWU2MTQyMzYz;{'totalCount': 3};thoughts on naming;2012-08-10T02:39:01Z;2012-10-02T17:04:20Z
+43;MDU6SXNzdWU2MjA1MTEz;{'totalCount': 1};Integration with jQuery Dialog;2012-08-13T23:38:05Z;2012-08-22T15:49:40Z
+44;MDU6SXNzdWU2MjgyNTcx;{'totalCount': 1};Flipping 'hinge' effect.;2012-08-17T06:00:22Z;2012-08-22T15:51:19Z
+45;MDU6SXNzdWU2MzcyNzgz;{'totalCount': 2};Flippers aren't working on Safari 6;2012-08-22T09:21:55Z;2012-10-02T17:11:50Z
+47;MDU6SXNzdWU2ODE3NDQy;{'totalCount': 3};class names;2012-09-12T12:57:54Z;2012-10-02T17:07:55Z
+48;MDU6SXNzdWU2ODE3NDkw;{'totalCount': 2};"new animation ""rotate""";2012-09-12T12:59:54Z;2012-10-02T17:09:10Z
+50;MDU6SXNzdWU2ODU4NjMx;{'totalCount': 1};Duplicate property declaration at 0% and 100% breaks when minified;2012-09-13T20:09:20Z;2013-08-16T15:42:39Z
+53;MDU6SXNzdWU5MDA3MTYx;{'totalCount': 5};delay classes - feature/addition;2012-12-05T03:07:01Z;2013-01-07T16:48:19Z
+54;MDU6SXNzdWU5MjMxNTAz;{'totalCount': 1};CSS animations brokes iOS video player;2012-12-12T20:49:50Z;2013-01-07T16:47:21Z
+55;MDU6SXNzdWU5NTA0NDc3;{'totalCount': 2};Interior square-edged background showing during some animations;2012-12-24T19:01:36Z;2013-01-07T16:42:02Z
+56;MDU6SXNzdWU5NTA5MDU0;{'totalCount': 2};I created gem.;2012-12-25T08:59:46Z;2013-01-07T22:28:34Z
+57;MDU6SXNzdWU5NjA5NzQ2;{'totalCount': 1};pulse effect delay;2013-01-02T05:18:11Z;2013-01-07T16:41:18Z
+58;MDU6SXNzdWU5NjgwNDIz;{'totalCount': 0};Can't get animate.css to work;2013-01-04T14:10:44Z;2013-01-04T16:37:21Z
+59;MDU6SXNzdWU5Njg2MzIw;{'totalCount': 1};Delay animation until after page has loaded?;2013-01-04T16:37:43Z;2013-01-07T16:37:47Z
+60;MDU6SXNzdWU5OTU0NTc3;{'totalCount': 1};rotateOutUpLeft not working in firefox 18.0;2013-01-14T19:40:12Z;2013-08-16T15:42:06Z
+61;MDU6SXNzdWUxMDExMDc5MQ==;{'totalCount': 3};I made a Less mixin;2013-01-18T19:48:32Z;2013-01-23T11:24:39Z
+63;MDU6SXNzdWUxMDI0MjIxOA==;{'totalCount': 3};Tada and Pulse animations exhibit visual bugs in Chrome 25;2013-01-23T17:31:44Z;2013-02-14T11:09:41Z
+64;MDU6SXNzdWUxMDY1NTEzOA==;{'totalCount': 2};Mixed Line endings in web-based build tool;2013-02-05T15:51:59Z;2013-08-16T15:41:07Z
+65;MDU6SXNzdWUxMDg5NTAzNA==;{'totalCount': 4};Feature Request: Set Animation Time under Create Custom Build;2013-02-12T04:27:36Z;2013-08-16T15:13:31Z
+66;MDU6SXNzdWUxMTQzOTI1OQ==;{'totalCount': 12};White space;2013-02-27T02:28:08Z;2013-11-19T23:50:11Z
+67;MDU6SXNzdWUxMTk4OTQ4OQ==;{'totalCount': 1};Does not work on iOS - Background Image;2013-03-13T19:25:59Z;2013-08-16T15:16:02Z
+69;MDU6SXNzdWUxMjA4NjAxMQ==;{'totalCount': 1};Update;2013-03-15T23:24:04Z;2013-03-18T19:21:47Z
+70;MDU6SXNzdWUxMjEyNzI0Mw==;{'totalCount': 5};-webkit-backface-visibility vs. background-attachment: fixed;2013-03-18T10:17:58Z;2013-11-20T15:55:10Z
+71;MDU6SXNzdWUxMjIyNjc4Mw==;{'totalCount': 2};should support choose prefix when build custom css file;2013-03-20T13:29:58Z;2013-03-20T15:15:02Z
+72;MDU6SXNzdWUxMjQxNzc3OQ==;{'totalCount': 1};Incorrect vendor prefix in `fadeInDown` from custom build tool;2013-03-25T19:33:27Z;2013-04-09T10:43:28Z
+73;MDU6SXNzdWUxMjk1NzU2OA==;{'totalCount': 1};ie9;2013-04-09T06:04:34Z;2013-04-09T10:42:37Z
+74;MDU6SXNzdWUxMzkzNTk0Mg==;{'totalCount': 3};animate.css triggers nasty webkit bugs;2013-05-03T14:18:58Z;2013-07-20T19:01:24Z
+75;MDU6SXNzdWUxMzk4NjIyNg==;{'totalCount': 4};CDN JS Please;2013-05-06T01:49:22Z;2013-08-16T14:58:59Z
+76;MDU6SXNzdWUxNDU0OTI5OQ==;{'totalCount': 2};Android 3.2;2013-05-21T03:29:29Z;2013-07-20T19:01:45Z
+77;MDU6SXNzdWUxNDgwNDg1MA==;{'totalCount': 2};Simple way to use Animate.css;2013-05-27T16:54:10Z;2013-07-20T18:55:30Z
+78;MDU6SXNzdWUxNTE1MzQwMw==;{'totalCount': 1};bug with select;2013-06-05T04:27:53Z;2013-07-20T18:57:29Z
+79;MDU6SXNzdWUxNTE1MzU0Mw==;{'totalCount': 0};bug with select;2013-06-05T04:34:42Z;2013-07-20T18:57:41Z
+80;MDU6SXNzdWUxNTQ5NjMwOQ==;{'totalCount': 2};Flip Glitches out in latest Chrome;2013-06-13T09:35:56Z;2013-08-15T21:13:33Z
+82;MDU6SXNzdWUxNTkzNDM3Mw==;{'totalCount': 3};I would LOVE to see a version of this compatible with ng-animate in AngularJS;2013-06-24T16:38:47Z;2013-06-27T02:26:48Z
+83;MDU6SXNzdWUxNjE3MTk4MQ==;{'totalCount': 8};Start using versions;2013-06-29T07:17:49Z;2013-08-16T14:35:06Z
+84;MDU6SXNzdWUxNjI5MTA4NQ==;{'totalCount': 1};Breaks background-attachment: fixed;2013-07-02T22:08:13Z;2013-07-20T18:58:19Z
+85;MDU6SXNzdWUxNjkwMDc4Nw==;{'totalCount': 2};Problem in browsers except Chrome.;2013-07-18T02:30:52Z;2013-07-20T23:12:47Z
+86;MDU6SXNzdWUxNjk4NTUyOA==;{'totalCount': 5};Naming convention for versioning;2013-07-19T18:32:34Z;2013-08-16T14:38:19Z
+89;MDU6SXNzdWUxNzE2NDUwMA==;{'totalCount': 4};fadeOutDown affects background image on Safari desktop;2013-07-24T15:47:22Z;2013-11-20T15:55:46Z
+90;MDU6SXNzdWUxNzE4NjY2NA==;{'totalCount': 4};Issue with Element animation if Elements exceeds view port dimensions;2013-07-24T23:25:53Z;2013-08-16T14:41:57Z
+93;MDU6SXNzdWUxNzg0NDYzOQ==;{'totalCount': 2};"""animation.min.css"" lost '%' and animation is crash.";2013-08-09T02:45:54Z;2013-08-15T21:11:12Z
+96;MDU6SXNzdWUxODExOTQ2Nw==;{'totalCount': 17};Chrome Canary Support?;2013-08-15T18:31:33Z;2013-11-19T23:40:35Z
+97;MDU6SXNzdWUxODEyOTE1OA==;{'totalCount': 22};Apologies, The Future, and More;2013-08-15T21:25:08Z;2013-11-19T23:49:26Z
+99;MDU6SXNzdWUxODI4MDAyNg==;{'totalCount': 7};Opera 16, «tada» and «pulse» animation visual bug;2013-08-20T06:37:09Z;2013-11-19T23:48:42Z
+100;MDU6SXNzdWUxODM4MjYyNA==;{'totalCount': 2};Add SemVer versioning / tagging for bower;2013-08-21T21:47:48Z;2013-11-09T01:01:51Z
+101;MDU6SXNzdWUxODQyODY1MQ==;{'totalCount': 1};Remove wiggle from readme;2013-08-22T17:46:32Z;2013-08-22T20:52:45Z
+102;MDU6SXNzdWUxODY4NjU1MA==;{'totalCount': 3};Animate.css + jquery;2013-08-28T18:27:49Z;2013-09-04T17:10:07Z
+105;MDU6SXNzdWUxOTQ1OTc4MQ==;{'totalCount': 2};delay on scroll to page div;2013-09-13T15:38:19Z;2013-09-13T19:18:42Z
+106;MDU6SXNzdWUxOTQ5NDM3MQ==;{'totalCount': 4};Firefox 23 - none or only bad animations;2013-09-14T10:18:28Z;2013-09-28T12:32:36Z
+109;MDU6SXNzdWUyMTI3MjQzMg==;{'totalCount': 2};Important Typo in Fullpage.scss?;2013-10-20T02:05:40Z;2013-11-19T23:46:48Z
+110;MDU6SXNzdWUyMTY0MjA1NA==;{'totalCount': 1};Image border only on iOS browsers?;2013-10-26T22:01:29Z;2013-11-19T23:42:52Z
+111;MDU6SXNzdWUyMTY0NjYyMg==;{'totalCount': 6};Problem with some animations like bounceOutDown and bounceOutRight / WHITE SPACE;2013-10-27T04:05:30Z;2013-11-18T07:33:36Z
+113;MDU6SXNzdWUyMjE5NTIxNA==;{'totalCount': 3};Vendor prefix-free please?;2013-11-06T13:52:24Z;2013-11-19T23:45:51Z
+114;MDU6SXNzdWUyMjI5MzgzMg==;{'totalCount': 12};CPU Hogging with animate.css;2013-11-07T20:32:14Z;2013-11-08T16:40:41Z
+117;MDU6SXNzdWUyMjcxOTQyOA==;{'totalCount': 3};onHover function in a class is not working in cyclic way;2013-11-15T08:27:50Z;2013-11-18T07:30:41Z
+118;MDU6SXNzdWUyMjk5Nzc0OA==;{'totalCount': 1};The demo site is not working in latest Chrome;2013-11-20T15:23:05Z;2013-11-20T15:52:05Z
+119;MDU6SXNzdWUyMzE2MjY5NA==;{'totalCount': 1};Webkit Issue;2013-11-22T19:40:29Z;2013-11-23T20:48:32Z
+121;MDU6SXNzdWUyMzI5MjYyNg==;{'totalCount': 2};Sass + Compass?;2013-11-26T04:00:03Z;2013-11-26T23:33:37Z
+122;MDU6SXNzdWUyMzQwOTg5Mg==;{'totalCount': 2};Documentation?;2013-11-27T19:27:04Z;2013-11-27T19:53:33Z
+126;MDU6SXNzdWUyMzUwNDYwOA==;{'totalCount': 19};LESS version?;2013-11-29T18:16:28Z;2014-01-31T14:48:45Z
+127;MDU6SXNzdWUyMzUxODEwMg==;{'totalCount': 1};End animation event;2013-11-30T09:57:26Z;2014-01-31T13:44:32Z
+129;MDU6SXNzdWUyMzY2MjAzNA==;{'totalCount': 1};Any workarounds for checkerboard on transformations in chrome?;2013-12-03T18:14:11Z;2014-01-31T14:58:19Z
+137;MDU6SXNzdWUyNDIxMjU1MA==;{'totalCount': 9};IE10/IE11 Issues;2013-12-12T22:10:49Z;2014-01-31T14:43:37Z
+138;MDU6SXNzdWUyNDMwNDUyNQ==;{'totalCount': 3};background-attachment:fixed | Webkit strikes again!;2013-12-15T03:03:28Z;2014-01-31T14:48:02Z
+139;MDU6SXNzdWUyNDcyNzgyMA==;{'totalCount': 4};Animated jQuery plugin;2013-12-23T22:55:26Z;2013-12-26T13:40:23Z
+142;MDU6SXNzdWUyNTUyNjI0Mg==;{'totalCount': 4};minified version not work;2014-01-13T20:36:48Z;2014-02-05T18:05:30Z
+143;MDU6SXNzdWUyNTgzOTc5MA==;{'totalCount': 3};Detect animation ending;2014-01-17T21:51:34Z;2014-01-21T05:08:00Z
+144;MDU6SXNzdWUyNTk2NDE1OQ==;{'totalCount': 2};"Alignment of <select> and ""Animate it"" button breaks on mobile devices";2014-01-21T04:30:14Z;2014-01-21T05:06:22Z
+145;MDU6SXNzdWUyNjE5MjkwOA==;{'totalCount': 3};Breaks Bootstrap 3 Modal Scrolling;2014-01-23T19:49:26Z;2014-01-31T23:35:34Z
+146;MDU6SXNzdWUyNjI0OTE5Mw==;{'totalCount': 2};Animate.js - A simple jQuery Plugin to manage the animation sequence;2014-01-24T15:48:32Z;2014-02-05T18:36:45Z
+149;MDU6SXNzdWUyNzA0NDU1OA==;{'totalCount': 9};Is there a 'hide' and 'show' effect?;2014-02-06T12:05:21Z;2014-02-14T17:32:39Z
+153;MDU6SXNzdWUyNzMyNzE2OQ==;{'totalCount': 1};Can you trigger any animate.css effects on scroll?;2014-02-11T06:06:08Z;2014-02-11T15:52:26Z
+156;MDU6SXNzdWUyNzY1MTU1NA==;{'totalCount': 3};RotateIn issue;2014-02-15T16:04:15Z;2014-02-23T19:57:15Z
+157;MDU6SXNzdWUyNzcwNjY0OQ==;{'totalCount': 3};Delay;2014-02-17T10:57:06Z;2014-02-18T15:44:20Z
+158;MDU6SXNzdWUyNzc4ODEzOA==;{'totalCount': 21};[REQUEST]: SCSS version.;2014-02-18T11:56:00Z;2014-04-22T15:05:11Z
+159;MDU6SXNzdWUyNzk4NDM0NA==;{'totalCount': 4};adding animations after animation;2014-02-20T18:27:19Z;2014-02-20T19:59:50Z
+160;MDU6SXNzdWUyODAzNzk1Mw==;{'totalCount': 1};New effect (normal entrance);2014-02-21T12:16:01Z;2014-03-11T17:25:11Z
+161;MDU6SXNzdWUyODA2NDAyNQ==;{'totalCount': 1};bounceInX animations not holding opacity through to 100% keyframe;2014-02-21T18:57:12Z;2014-02-23T19:58:02Z
+162;MDU6SXNzdWUyODEyNDEwMA==;{'totalCount': 3};Rotating Entrances not working in http://daneden.github.io/animate.css/;2014-02-23T18:43:21Z;2014-02-23T19:12:32Z
+167;MDU6SXNzdWUyODM3OTU2NA==;{'totalCount': 1};Adding one of a classes to a swf;2014-02-26T23:17:23Z;2014-02-26T23:48:55Z
+168;MDU6SXNzdWUyODM5ODYzOQ==;{'totalCount': 5};Feature request;2014-02-27T07:11:18Z;2014-02-28T05:52:01Z
+169;MDU6SXNzdWUyODQyNTAzOA==;{'totalCount': 8};Doesn't work on Firefox 10;2014-02-27T15:00:01Z;2014-02-27T15:06:42Z
+170;MDU6SXNzdWUyODc2NzU5MQ==;{'totalCount': 2};Animate on Hover?;2014-03-05T06:10:16Z;2014-03-11T17:22:28Z
+171;MDU6SXNzdWUyODg4NjI2NA==;{'totalCount': 2};Run animation on page load (Chrome bug?);2014-03-06T15:16:24Z;2014-03-06T20:37:26Z
+172;MDU6SXNzdWUyODk3NjQwOQ==;{'totalCount': 1};Doesn't work with firefox 27.0.1 on windows 8.1;2014-03-07T16:05:13Z;2014-03-07T16:27:23Z
+174;MDU6SXNzdWUyOTA0MDAwNw==;{'totalCount': 4};Use a class for pre animation state. (will-animationName);2014-03-09T09:40:00Z;2014-03-11T17:20:40Z
+175;MDU6SXNzdWUyOTA0Njk5Mw==;{'totalCount': 1};Is there any special instruction for IE?;2014-03-09T14:45:55Z;2014-03-09T20:32:42Z
+176;MDU6SXNzdWUyOTA1MTY4OA==;{'totalCount': 2};Nothing Happens;2014-03-09T15:37:05Z;2014-03-11T17:21:07Z
+178;MDU6SXNzdWUyOTIxMjAwMA==;{'totalCount': 1};Confusion with detect animation end?;2014-03-11T20:02:02Z;2014-03-13T16:40:45Z
+179;MDU6SXNzdWUyOTI2Mzg4NQ==;{'totalCount': 2};slideInUp missing?;2014-03-12T13:50:20Z;2014-03-28T20:37:03Z
+182;MDU6SXNzdWUyOTYwNzYxMg==;{'totalCount': 1};Weird rendering in webkit browsers when combined with :hover pseudo;2014-03-17T23:13:21Z;2014-03-17T23:34:03Z
+184;MDU6SXNzdWUyOTgyMTc5OA==;{'totalCount': 1};Rendering issue in chrome;2014-03-20T14:16:45Z;2014-03-20T16:25:36Z
+186;MDU6SXNzdWUyOTk5MDQwOA==;{'totalCount': 7};Request: Simple zoom in/out?;2014-03-23T16:11:53Z;2014-03-28T20:34:29Z
+188;MDU6SXNzdWUzMDQzNzc4Ng==;{'totalCount': 2};Does it work ?;2014-03-29T05:25:27Z;2014-03-29T09:10:46Z
+190;MDU6SXNzdWUzMDQ1MDY4Mg==;{'totalCount': 4};Spelling mistake in README;2014-03-29T19:25:59Z;2014-03-30T00:15:47Z
+191;MDU6SXNzdWUzMDU0NDQ0NQ==;{'totalCount': 7};Make animation change fluid;2014-03-31T20:05:38Z;2014-04-10T22:56:56Z
+192;MDU6SXNzdWUzMDYwMTg5MQ==;{'totalCount': 7};Bower.json in version 3.1.0 not correct;2014-04-01T14:11:04Z;2014-04-22T14:48:37Z
+193;MDU6SXNzdWUzMDczMDYzOA==;{'totalCount': 1};README.md;2014-04-02T22:14:40Z;2014-04-02T23:12:12Z
+195;MDU6SXNzdWUzMDkzMzIzNg==;{'totalCount': 1};Should .shake move the element only once?;2014-04-06T08:40:53Z;2014-04-06T21:06:10Z
+196;MDU6SXNzdWUzMDk0MzY4NQ==;{'totalCount': 1};Bug in webkit;2014-04-06T18:49:42Z;2014-04-06T21:10:23Z
+198;MDU6SXNzdWUzMDk3MDYyNA==;{'totalCount': 12};fadeInRightBig causes horizontal scrollbar.;2014-04-07T09:46:19Z;2014-04-07T15:12:01Z
+199;MDU6SXNzdWUzMTIyNzk5Ng==;{'totalCount': 2};Add some animation delays as default. ;2014-04-10T09:43:47Z;2014-04-10T22:56:34Z
+201;MDU6SXNzdWUzMTMzOTA0NA==;{'totalCount': 1};Background Image Disappeared;2014-04-11T15:54:57Z;2015-11-04T02:00:13Z
+203;MDU6SXNzdWUzMTYwMDQyNA==;{'totalCount': 1};slideInUp: opacity not correctly set;2014-04-15T23:25:16Z;2014-04-18T18:39:13Z
+204;MDU6SXNzdWUzMTc0MjkxMA==;{'totalCount': 3};Background disappears - stellar.js;2014-04-17T16:48:11Z;2014-04-18T18:39:40Z
+205;MDU6SXNzdWUzMTgwNjMwOA==;{'totalCount': 2};zoomIn animation;2014-04-18T15:47:19Z;2014-04-22T14:59:08Z
+206;MDU6SXNzdWUzMTg1MzA3Mw==;{'totalCount': 1};New animations;2014-04-19T19:37:22Z;2014-04-20T20:41:24Z
+207;MDU6SXNzdWUzMjIzMDQ4MA==;{'totalCount': 1};Animate not working joomla;2014-04-25T13:11:06Z;2014-04-25T18:36:57Z
+208;MDU6SXNzdWUzMjI3MjA3OA==;{'totalCount': 0};slideInUp is messed up;2014-04-25T22:35:28Z;2014-04-26T01:21:24Z
+209;MDU6SXNzdWUzMjM3NTI4OA==;{'totalCount': 2};Disable animate.css;2014-04-28T16:31:09Z;2014-04-28T17:18:49Z
+212;MDU6SXNzdWUzMjg3NTA5NA==;{'totalCount': 2};Random page height on Webkit browsers;2014-05-06T08:51:20Z;2014-06-03T16:22:46Z
+213;MDU6SXNzdWUzMzIzNzUyMA==;{'totalCount': 13};Gulp support;2014-05-10T13:23:29Z;2014-06-03T01:18:44Z
+214;MDU6SXNzdWUzMzUzODI3MA==;{'totalCount': 4};Flip Issue;2014-05-14T22:13:23Z;2014-06-03T01:16:33Z
+215;MDU6SXNzdWUzMzU0MDgwMg==;{'totalCount': 2};Can animate.css work with spans?;2014-05-14T22:53:04Z;2014-06-03T01:17:47Z
+216;MDU6SXNzdWUzMzYxMjgwNA==;{'totalCount': 4};Animating (large-ish) elements with bounceInUp intermittently causes the <body> height to be too large;2014-05-15T18:39:35Z;2014-05-16T16:39:09Z
+219;MDU6SXNzdWUzMzkzODYzMA==;{'totalCount': 2};safari and firefox latest versions;2014-05-20T23:10:43Z;2014-06-17T19:34:47Z
+221;MDU6SXNzdWUzNDEzNjUzMw==;{'totalCount': 1};Bower?;2014-05-23T01:25:49Z;2014-05-23T01:26:55Z
+222;MDU6SXNzdWUzNDQwMzkxMg==;{'totalCount': 2};Publish to npm;2014-05-27T19:19:49Z;2014-06-03T01:14:24Z
+223;MDU6SXNzdWUzNDcwMjUwMg==;{'totalCount': 3};Copyright reduce performance;2014-05-31T08:51:02Z;2014-06-12T21:24:50Z
+225;MDU6SXNzdWUzNTUyNzkxNQ==;{'totalCount': 2};Can I create a Yeoman generator fot animate.css;2014-06-11T21:15:48Z;2014-06-12T18:00:49Z
+227;MDU6SXNzdWUzNTg0NjgzOQ==;{'totalCount': 1};Compability with IOS7 devices;2014-06-16T23:52:26Z;2014-06-17T19:34:34Z
+228;MDU6SXNzdWUzNTg5NTYxMQ==;{'totalCount': 3};Bootstrap Modal z-index broken;2014-06-17T14:41:29Z;2014-06-17T19:33:15Z
+229;MDU6SXNzdWUzNTkyNzgyOA==;{'totalCount': 1};FadeInOut;2014-06-17T20:25:01Z;2014-06-18T16:21:51Z
+230;MDU6SXNzdWUzNjEzNjc2Ng==;{'totalCount': 21};Can I use this in my Sass project?;2014-06-20T03:02:29Z;2014-09-02T05:49:43Z
+232;MDU6SXNzdWUzNjI0Nzc3NQ==;{'totalCount': 1};Doesn't respect main.css;2014-06-22T17:19:38Z;2014-07-05T17:33:04Z
+234;MDU6SXNzdWUzNjM4MjE1OA==;{'totalCount': 4};entrance bugs?;2014-06-24T13:14:15Z;2014-07-06T20:49:24Z
+235;MDU6SXNzdWUzNjU4MzMwMw==;{'totalCount': 1};Doesn't support IE?;2014-06-26T14:54:24Z;2014-07-05T17:26:49Z
+236;MDU6SXNzdWUzNjY3ODIzMw==;{'totalCount': 3};A CSS property which have been used for animation can't be used for hover in chrome;2014-06-27T15:43:23Z;2014-06-30T02:01:23Z
+237;MDU6SXNzdWUzNjg2MzEyNw==;{'totalCount': 1};Document how to avoid globbing issue...;2014-07-01T05:18:20Z;2014-07-01T06:38:47Z
+238;MDU6SXNzdWUzNzE5NTY1OA==;{'totalCount': 2};Use translate 3D;2014-07-05T09:37:10Z;2014-07-06T20:48:37Z
+242;MDU6SXNzdWUzNzM3Nzc5Mg==;{'totalCount': 6};Firefox scrollbar shows on animation on demo site.;2014-07-08T14:54:25Z;2014-07-10T20:37:31Z
+244;MDU6SXNzdWUzNzQ3NjgyNg==;{'totalCount': 2};It seams that when you add too big of a delay, the animation just fades in, instead of fading from the left;2014-07-09T15:26:24Z;2014-08-21T18:10:47Z
+246;MDU6SXNzdWUzNzYyOTM2OQ==;{'totalCount': 0};rotateOutDownLeft bug;2014-07-11T05:38:22Z;2014-08-07T15:31:17Z
+249;MDU6SXNzdWUzNzk5NjIzOA==;{'totalCount': 1};Would it be useful to include a Modernizr detection example?;2014-07-16T15:49:23Z;2014-07-16T23:24:23Z
+250;MDU6SXNzdWUzODAxNzQ0MQ==;{'totalCount': 4};Missing slide animations in 3.2.0;2014-07-16T19:42:21Z;2014-08-07T15:34:51Z
+251;MDU6SXNzdWUzODE2MjQ4Ng==;{'totalCount': 2};Identifier 'no_dest' is not in camel case.;2014-07-18T09:52:41Z;2014-08-07T15:37:59Z
+252;MDU6SXNzdWUzODE5NjgzNA==;{'totalCount': 4};Animating text gets really ugly in Safari;2014-07-18T17:41:22Z;2015-03-04T23:07:42Z
+253;MDU6SXNzdWUzODI1NzQ2Mw==;{'totalCount': 1};Slidesjs - animation run one time only.;2014-07-20T13:16:48Z;2014-08-07T15:36:56Z
+254;MDU6SXNzdWUzODM1MzcwOQ==;{'totalCount': 8};fadeInRight/Left is bit fast and longer in the new version;2014-07-21T23:00:03Z;2014-09-02T05:48:31Z
+257;MDU6SXNzdWUzODUyNTExNg==;{'totalCount': 10};BounceInUp issue with Android 4.3;2014-07-23T12:43:48Z;2014-08-07T15:32:14Z
+258;MDU6SXNzdWUzODgxMzA4OA==;{'totalCount': 2};rotateOutDownLeft bug;2014-07-26T08:24:28Z;2014-08-07T15:31:34Z
+259;MDU6SXNzdWUzODg5MTAyMQ==;{'totalCount': 2};3.2.1 Release;2014-07-28T13:44:44Z;2014-09-02T05:47:04Z
+260;MDU6SXNzdWUzOTQxMzYxMQ==;{'totalCount': 2};Demo site doesn't work in Chrome;2014-08-04T11:50:38Z;2014-08-04T12:23:33Z
+261;MDU6SXNzdWUzOTQ1ODM4OA==;{'totalCount': 1};Allow composer package support;2014-08-04T20:35:55Z;2014-08-07T15:30:48Z
+264;MDU6SXNzdWUzOTk2OTQ4MQ==;{'totalCount': 3};Browser Problem;2014-08-11T15:28:46Z;2014-08-11T17:12:19Z
+265;MDU6SXNzdWU0MDA1ODg2NQ==;{'totalCount': 2};Doesn't work on inline elements in firefox;2014-08-12T14:15:32Z;2014-09-02T05:45:31Z
+266;MDU6SXNzdWU0MDI2ODQzNg==;{'totalCount': 6};Hide to show animation?;2014-08-14T15:46:18Z;2014-08-15T06:57:19Z
+267;MDU6SXNzdWU0MDM1MDU5MQ==;{'totalCount': 0};delete please;2014-08-15T14:09:02Z;2014-09-02T05:44:09Z
+268;MDU6SXNzdWU0MDQxNTgyNA==;{'totalCount': 2};.bounceInDown does not work;2014-08-16T17:16:00Z;2014-09-02T05:43:53Z
+269;MDU6SXNzdWU0MDQ0MzI3NQ==;{'totalCount': 7};animate.css not working properly in Firefox (latest release);2014-08-17T20:57:25Z;2014-09-02T05:42:45Z
+271;MDU6SXNzdWU0MDYyMzkyNg==;{'totalCount': 5};Cannot combine different effects;2014-08-19T18:50:56Z;2014-08-26T16:45:07Z
+272;MDU6SXNzdWU0MDc0MDc1Nw==;{'totalCount': 1};Version mismatch;2014-08-20T20:26:01Z;2014-09-02T05:42:28Z
+274;MDU6SXNzdWU0MDc5MTcwNA==;{'totalCount': 9};Causes fixed positioned elements jump when scrolling in Chrome;2014-08-21T10:34:27Z;2014-08-21T10:50:08Z
+275;MDU6SXNzdWU0MTEwODY5MA==;{'totalCount': 1};fadeInDown a bit slow in Firefox;2014-08-25T21:16:07Z;2014-09-02T05:41:51Z
+279;MDU6SXNzdWU0MTc4NzAxMg==;{'totalCount': 0};animate.css was not rebuilt after issue fixed.;2014-09-03T06:56:57Z;2015-03-04T23:07:30Z
+281;MDU6SXNzdWU0MjEyNTQ3NQ==;{'totalCount': 4};rotateOutDownLeft act same like fadeOut;2014-09-06T20:12:14Z;2015-03-04T23:07:22Z
+282;MDU6SXNzdWU0MjE5NzM5NQ==;{'totalCount': 1};materialize;2014-09-08T13:45:50Z;2014-09-11T17:06:23Z
+284;MDU6SXNzdWU0MjQxNTgwMQ==;{'totalCount': 0};Simple Rotate Animation?;2014-09-10T14:02:42Z;2015-03-04T23:07:14Z
+285;MDU6SXNzdWU0MjQyODkyNw==;{'totalCount': 3};Don't work on Opera.;2014-09-10T15:57:34Z;2014-11-16T19:33:47Z
+287;MDU6SXNzdWU0MjkxOTA0Mw==;{'totalCount': 0};The commit that is tagged 3.2.0 has the incorrect version number in bower.json;2014-09-16T18:56:05Z;2014-11-16T19:33:33Z
+288;MDU6SXNzdWU0Mjk0NjcxMg==;{'totalCount': 5};updated to latest from 3.1.0 and fadeInUp and other are very different;2014-09-16T23:39:43Z;2014-11-16T19:33:04Z
+289;MDU6SXNzdWU0MzE1NTY4Mw==;{'totalCount': 1};example site issue;2014-09-18T17:01:02Z;2014-11-16T19:32:17Z
+290;MDU6SXNzdWU0MzE5NDAwNw==;{'totalCount': 2};Animation ignores transform property.;2014-09-19T00:40:50Z;2014-09-22T17:23:56Z
+291;MDU6SXNzdWU0MzIzNjQwMg==;{'totalCount': 1};Animation not centered;2014-09-19T13:10:40Z;2014-11-16T19:32:02Z
+292;MDU6SXNzdWU0MzMyMjQ3Mw==;{'totalCount': 1};Add UpLeft UpRight DownLeft DownRight choices for directional animations;2014-09-20T23:31:50Z;2014-11-16T19:30:17Z
+293;MDU6SXNzdWU0MzQ4NTkxOA==;{'totalCount': 4};bounceIn without animated class just works;2014-09-22T13:48:52Z;2014-11-16T19:29:36Z
+294;MDU6SXNzdWU0MzQ5MjM2OA==;{'totalCount': 2};Pulse not working in Safari or Firefox;2014-09-22T14:29:40Z;2014-09-23T13:27:29Z
+295;MDU6SXNzdWU0Mzc4OTgwOA==;{'totalCount': 2};Possible animation issue with several classes when hiding element before animating;2014-09-24T17:04:16Z;2014-11-16T19:28:21Z
+297;MDU6SXNzdWU0NDE1OTk4MQ==;{'totalCount': 2};making animation repeat / loop;2014-09-27T08:30:15Z;2014-09-29T05:04:58Z
+298;MDU6SXNzdWU0NDM2Mjk2MA==;{'totalCount': 13};ios8 flipOutY not working right;2014-09-29T22:02:47Z;2014-11-16T19:31:02Z
+299;MDU6SXNzdWU0NDQwNjI1NQ==;{'totalCount': 1};Animation of Flip is not the same between IE11 and Chrome;2014-09-30T07:49:56Z;2014-11-16T19:26:43Z
+301;MDU6SXNzdWU0NDY4Mjc1OA==;{'totalCount': 2};Url in animate.css not working;2014-10-02T12:53:56Z;2014-11-16T19:26:16Z
+302;MDU6SXNzdWU0NDk5NDg1OA==;{'totalCount': 2};Downloading animate.css using bower fails;2014-10-06T15:11:47Z;2014-10-06T17:51:29Z
+303;MDU6SXNzdWU0NTE1MTEwMw==;{'totalCount': 14};Font Awsome Spin Support;2014-10-07T19:25:26Z;2014-11-16T19:25:45Z
+304;MDU6SXNzdWU0NTQ4NzM2OA==;{'totalCount': 16};flipInX on IE 11 is buggy;2014-10-10T14:38:59Z;2014-10-15T18:32:10Z
+305;MDU6SXNzdWU0NTU3MTgyMg==;{'totalCount': 4};Supported browser and animations?;2014-10-12T06:50:23Z;2014-11-16T19:25:23Z
+306;MDU6SXNzdWU0NjE1MjY3Mw==;{'totalCount': 2};Spelling mistake;2014-10-17T22:56:03Z;2014-11-16T19:24:34Z
+308;MDU6SXNzdWU0NzM4NzkxMw==;{'totalCount': 3};Page width issues;2014-10-31T12:13:54Z;2014-11-16T19:23:32Z
+309;MDU6SXNzdWU0NzUzMDkzMw==;{'totalCount': 2};iOS and Safari, 3D animations are not working;2014-11-02T09:51:23Z;2014-11-16T19:22:01Z
+310;MDU6SXNzdWU0ODEyMjExNQ==;{'totalCount': 3};How run effect when the div appear on the screen?;2014-11-07T19:41:30Z;2014-11-08T00:26:12Z
+311;MDU6SXNzdWU0ODE5MDEyMA==;{'totalCount': 1};Disabling animation or timeout for mobile?;2014-11-09T04:03:54Z;2014-11-16T19:20:53Z
+313;MDU6SXNzdWU0ODczMDUzMg==;{'totalCount': 9};Can't fullscreen videos embedded in an element with an animation applied;2014-11-14T04:47:41Z;2015-03-04T23:07:04Z
+315;MDU6SXNzdWU0OTE3NTE0NA==;{'totalCount': 7};Webkit and perspective causing object position to be higher than intended position.;2014-11-18T03:06:25Z;2017-03-16T01:44:35Z
+317;MDU6SXNzdWU0OTgzOTkzMw==;{'totalCount': 4};better bower configuration;2014-11-23T21:26:51Z;2015-03-25T05:45:44Z
+318;MDU6SXNzdWU1MDA3NTkzNg==;{'totalCount': 2};Animations not showing in Chrome on android;2014-11-25T19:58:09Z;2015-03-04T23:05:33Z
+319;MDU6SXNzdWU1MDE0Mzg1OQ==;{'totalCount': 15};Animations not working properly in mozilla;2014-11-26T10:48:44Z;2015-03-04T23:05:03Z
+320;MDU6SXNzdWU1MTA1ODY3NQ==;{'totalCount': 3};Bower Installation broken?;2014-12-05T03:11:39Z;2015-02-20T23:56:48Z
+322;MDU6SXNzdWU1MTYwMzM3NA==;{'totalCount': 3};flipInX and flipInY not working on mobile;2014-12-10T19:57:04Z;2015-03-04T23:04:02Z
+323;MDU6SXNzdWU1MTg3MjQ3MA==;{'totalCount': 2};"Could you please add ""slideInDown/Up""?";2014-12-13T01:54:34Z;2015-03-04T23:03:18Z
+324;MDU6SXNzdWU1MTkyMDA5OQ==;{'totalCount': 1};bootstrap animated modal rotateInDownRight is not working;2014-12-14T14:01:51Z;2015-03-04T23:03:00Z
+325;MDU6SXNzdWU1MjAxNzQwOA==;{'totalCount': 9};make it in .SCSS;2014-12-15T17:53:57Z;2015-01-19T17:59:34Z
+326;MDU6SXNzdWU1MjE5OTQyOA==;{'totalCount': 4};Links being hovered not functional;2014-12-17T04:07:38Z;2014-12-19T06:54:57Z
+327;MDU6SXNzdWU1MjU2NjMxMQ==;{'totalCount': 11};Animations does not work in browser running on touchscreen devices;2014-12-20T14:59:45Z;2015-03-04T23:02:49Z
+329;MDU6SXNzdWU1MzE5NTYwMQ==;{'totalCount': 2};webkit extensions missing in source;2014-12-31T18:02:21Z;2015-01-02T11:00:49Z
+332;MDU6SXNzdWU1MzcxMzc5MA==;{'totalCount': 0};Package name;2015-01-08T04:34:01Z;2015-03-04T22:59:40Z
+333;MDU6SXNzdWU1Mzc3MjA0OA==;{'totalCount': 1};Custom build after bower update?;2015-01-08T16:46:28Z;2015-03-04T23:00:59Z
+335;MDU6SXNzdWU1NDc4OTYyMg==;{'totalCount': 2};Animation load only once (FireFox);2015-01-19T17:15:38Z;2015-01-26T11:26:32Z
+339;MDU6SXNzdWU1NTE1MDAwNQ==;{'totalCount': 1};Can you add an example for animating an SVG file?;2015-01-22T12:56:05Z;2015-03-04T22:56:15Z
+340;MDU6SXNzdWU1NTIyNzc4OQ==;{'totalCount': 8};slideInDown;2015-01-23T00:06:20Z;2015-03-05T00:09:14Z
+341;MDU6SXNzdWU1NTI2NzYwMA==;{'totalCount': 0};Release 3.2.0 - Bower installation failed;2015-01-23T10:40:18Z;2015-01-26T20:09:29Z
+345;MDU6SXNzdWU1NTQ5MzQzNw==;{'totalCount': 1};Array Bar Colors;2015-01-26T15:14:08Z;2015-01-26T15:14:31Z
+346;MDU6SXNzdWU1NjA2MzMyMA==;{'totalCount': 1};3d Animations using Touch Interactions;2015-01-30T17:49:13Z;2015-03-04T22:54:19Z
+347;MDU6SXNzdWU1NjE0OTg3Nw==;{'totalCount': 3};animate.css broken in firefox?;2015-02-01T03:13:36Z;2015-03-25T05:40:49Z
+348;MDU6SXNzdWU1NjM2NTEyMA==;{'totalCount': 1};Animate.css does not work properyl in Safari;2015-02-03T11:23:05Z;2015-03-04T22:50:00Z
+349;MDU6SXNzdWU1NjY1NDU4Mw==;{'totalCount': 7};Disable animations on mobile and tablets;2015-02-05T10:49:19Z;2015-03-04T22:49:47Z
+350;MDU6SXNzdWU1NjY4ODkzMA==;{'totalCount': 2};Animation Delay;2015-02-05T16:00:25Z;2015-02-05T17:58:34Z
+351;MDU6SXNzdWU1NjcxMTQ3Nw==;{'totalCount': 6};Animation Cancels Out If Reintroduced;2015-02-05T18:46:09Z;2015-02-08T16:12:41Z
+352;MDU6SXNzdWU1NzEzODUyNw==;{'totalCount': 7};Animate Broken on direction:rtl;2015-02-10T07:01:29Z;2015-03-04T22:49:16Z
+353;MDU6SXNzdWU1NzMyOTExNg==;{'totalCount': 2};When animate to right side, getting bottom scroll bar;2015-02-11T15:19:36Z;2015-03-04T22:48:34Z
+354;MDU6SXNzdWU1NzQxNDIxMw==;{'totalCount': 3};Color changing title;2015-02-12T03:53:51Z;2015-02-17T20:18:43Z
+355;MDU6SXNzdWU1NzQxODQ4Nw==;{'totalCount': 6};React compatibility;2015-02-12T05:15:50Z;2015-02-12T15:09:58Z
+357;MDU6SXNzdWU1ODMxNjgyNQ==;{'totalCount': 1};Alter animation speed;2015-02-20T06:55:20Z;2015-02-25T01:32:45Z
+358;MDU6SXNzdWU1ODM4ODg1Mg==;{'totalCount': 2};Mismatched version in bower.json in 3.2.0 tag;2015-02-20T18:05:54Z;2015-02-20T23:56:33Z
+360;MDU6SXNzdWU1ODQ2Nzg0Ng==;{'totalCount': 4};Hover animation? Question not a issue..;2015-02-21T17:52:24Z;2015-02-25T01:30:51Z
+361;MDU6SXNzdWU1ODU1NTY1OQ==;{'totalCount': 3};"Where is the ""Less"" version of animate file?";2015-02-23T08:16:26Z;2015-02-25T01:32:19Z
+362;MDU6SXNzdWU1OTI0MDMxOQ==;{'totalCount': 1};is it possible to use animation on  owl carousel?;2015-02-27T14:09:36Z;2015-03-04T22:48:24Z
+364;MDU6SXNzdWU1OTg3OTY5NQ==;{'totalCount': 2};Typo in bower.json;2015-03-04T23:25:47Z;2015-03-05T00:24:00Z
+368;MDU6SXNzdWU2MDg5OTQ1Ng==;{'totalCount': 2};FadeInUpBig Causes Funky Scroll;2015-03-12T20:52:02Z;2015-03-25T05:30:53Z
+369;MDU6SXNzdWU2MTY5NTk3NA==;{'totalCount': 2};Publish to npm;2015-03-14T21:12:19Z;2015-03-18T16:33:11Z
+370;MDU6SXNzdWU2MjA1MzkyNw==;{'totalCount': 11};flipOutX effect doesnot work well.;2015-03-16T11:44:23Z;2015-03-19T04:03:38Z
+371;MDU6SXNzdWU2MjI3Mjg5NA==;{'totalCount': 2};Scrollbar Issue;2015-03-17T03:25:02Z;2015-03-17T23:57:39Z
+372;MDU6SXNzdWU2MjUwMzE1Mw==;{'totalCount': 4};filteration of vendor prefixes.;2015-03-17T19:57:42Z;2015-03-18T16:40:26Z
+378;MDU6SXNzdWU2NDE4NzMxOA==;{'totalCount': 2};FadeInUp and  doesn't work in iphone 6 plus?;2015-03-25T06:11:32Z;2017-03-15T14:42:48Z
+379;MDU6SXNzdWU2NDE5NDg5NQ==;{'totalCount': 3};funny look to ZoomInDown;2015-03-25T06:55:05Z;2015-03-25T17:17:06Z
+380;MDU6SXNzdWU2NDI5MjA4OQ==;{'totalCount': 2};about sass branch - chrome error in 'animation-name' unknow property name.;2015-03-25T15:03:14Z;2015-03-25T15:31:45Z
+381;MDU6SXNzdWU2NDM4MzE2Mg==;{'totalCount': 0};Working with ScrollMagic causes a bug on ios;2015-03-25T22:03:10Z;2015-12-06T16:59:56Z
+382;MDU6SXNzdWU2NDQzMTMwOA==;{'totalCount': 7};FlipIn fix for iOS pre 8.3;2015-03-26T03:22:24Z;2015-12-06T17:00:33Z
+383;MDU6SXNzdWU2NjQzMjIyNA==;{'totalCount': 0};Reference;2015-04-05T12:22:29Z;2015-12-06T16:59:08Z
+384;MDU6SXNzdWU2NjkxNDI1NQ==;{'totalCount': 2};animation with flash object on background;2015-04-07T15:21:04Z;2015-04-29T08:05:03Z
+385;MDU6SXNzdWU2NzM5OTQzMw==;{'totalCount': 2};Animate pseudo-elements (:after);2015-04-09T16:30:09Z;2015-04-29T01:35:02Z
+386;MDU6SXNzdWU2Nzg3MTY3MQ==;{'totalCount': 2};Animations override opacity settings;2015-04-12T04:45:07Z;2015-04-29T01:34:54Z
+387;MDU6SXNzdWU2ODk4NTQwNw==;{'totalCount': 11};Video can't go fullscreen when container is animated;2015-04-16T18:42:07Z;2017-03-13T11:53:57Z
+388;MDU6SXNzdWU2OTMxNTU0Mg==;{'totalCount': 2};Would love a heartbeat animation similar to bounce;2015-04-18T14:47:04Z;2015-04-29T01:34:03Z
+389;MDU6SXNzdWU2OTM5NjQxNg==;{'totalCount': 0};!!! Stylus Port !!!;2015-04-19T07:32:32Z;2015-04-19T15:31:01Z
+390;MDU6SXNzdWU2OTY3NjMyMQ==;{'totalCount': 6};Animate.css use for Themeforest;2015-04-20T20:44:30Z;2015-04-21T23:51:31Z
+392;MDU6SXNzdWU3MDUzMDU5NA==;{'totalCount': 3};Reverse animation;2015-04-23T22:38:44Z;2015-08-10T02:25:32Z
+394;MDU6SXNzdWU3MDc0OTg4MQ==;{'totalCount': 1};pulse moving non-width-defined elements side to side;2015-04-24T17:39:17Z;2015-04-24T17:41:16Z
+395;MDU6SXNzdWU3MDg0MjkwNQ==;{'totalCount': 1};Issue with Chrome Mobile ;2015-04-25T02:35:29Z;2015-12-06T17:00:13Z
+399;MDU6SXNzdWU3MjA5MjQ1Nw==;{'totalCount': 5};The Animation End events don't fire on my setup;2015-04-30T07:57:24Z;2015-05-04T15:53:08Z
+400;MDU6SXNzdWU3MjUyNDU0Nw==;{'totalCount': 5};SyntaxError: illegal character animate.min.css:1:0;2015-05-01T21:12:09Z;2015-08-25T02:00:23Z
+401;MDU6SXNzdWU3Mjk1MDQ0Mg==;{'totalCount': 13};IE support;2015-05-04T07:56:26Z;2015-05-09T18:49:06Z
+402;MDU6SXNzdWU3MzM5NTEzMw==;{'totalCount': 2};Enhancement Request: Wipe Animation;2015-05-05T18:39:13Z;2015-05-17T23:52:55Z
+404;MDU6SXNzdWU3Mzk1NTk0NQ==;{'totalCount': 1};Bootstrap tables;2015-05-07T11:45:29Z;2015-12-06T17:00:05Z
+406;MDU6SXNzdWU3NTIyOTY2MA==;{'totalCount': 4};"Please Remove "".css"" from the label on bower package";2015-05-11T13:48:58Z;2015-06-27T16:29:48Z
+407;MDU6SXNzdWU3NTUwOTE3MQ==;{'totalCount': 2};When i add the classes to an element, the animation happens twice;2015-05-12T08:00:59Z;2015-06-27T16:42:24Z
+408;MDU6SXNzdWU3NTY3MTM1Mg==;{'totalCount': 1};Animations stops layering of Twitter Bootstrap dropdowns from working properly. ;2015-05-12T17:09:25Z;2017-03-10T01:27:36Z
+410;MDU6SXNzdWU3NjIyNDgwOQ==;{'totalCount': 1};Hide the list , when apply animation with ion-list;2015-05-14T04:22:59Z;2015-12-06T17:00:42Z
+412;MDU6SXNzdWU3NzE4MTAxMA==;{'totalCount': 7};CDNjs release;2015-05-17T01:42:04Z;2015-05-17T03:02:38Z
+413;MDU6SXNzdWU3NzIwNzE4NA==;{'totalCount': 1};Adding next version of animate.css to cdnjs;2015-05-17T04:17:16Z;2015-05-17T23:51:57Z
+414;MDU6SXNzdWU3NzM2NDM3NA==;{'totalCount': 1};[CDN] Need daneden's approval;2015-05-17T18:20:58Z;2015-05-17T23:51:49Z
+415;MDU6SXNzdWU3ODg0ODU1MA==;{'totalCount': 2};animate relative to an element;2015-05-21T06:02:32Z;2015-06-27T16:45:32Z
+416;MDU6SXNzdWU3OTc2MDI3Ng==;{'totalCount': 1};SlideIn/OutRight;2015-05-23T07:10:47Z;2015-06-27T16:42:49Z
+418;MDU6SXNzdWU4MDc2MDI3OQ==;{'totalCount': 0};closed;2015-05-26T02:58:03Z;2015-05-26T03:02:56Z
+419;MDU6SXNzdWU4MzM4MjU3Ng==;{'totalCount': 1};error compiling with grunt and sass;2015-06-01T08:25:48Z;2015-06-27T16:44:27Z
+421;MDU6SXNzdWU4MzYxNDE2MQ==;{'totalCount': 3};RubberBand Hover issues in Firefox 38.0.1;2015-06-01T17:30:05Z;2015-08-26T19:03:09Z
+422;MDU6SXNzdWU4NDkwNTIwMg==;{'totalCount': 2};Compatibility ;2015-06-04T04:28:51Z;2015-06-27T16:34:16Z
+423;MDU6SXNzdWU4NTUwNTgzNw==;{'totalCount': 0};Is it possible make multiple animations text;2015-06-05T10:53:33Z;2015-06-27T16:41:54Z
+424;MDU6SXNzdWU4NTUzMzU3NQ==;{'totalCount': 1};display style has to be set to block;2015-06-05T13:29:35Z;2015-06-27T16:40:17Z
+425;MDU6SXNzdWU4NTYyMjA4NA==;{'totalCount': 1};animate within a modal?;2015-06-05T20:08:14Z;2015-06-27T16:37:25Z
+426;MDU6SXNzdWU4NjQwOTkwOA==;{'totalCount': 2};Official LESS port;2015-06-09T02:11:57Z;2015-06-27T16:36:16Z
+427;MDU6SXNzdWU4NjQzODM5OQ==;{'totalCount': 1};bounceInDown and some other classes doesn't work;2015-06-09T04:16:01Z;2015-06-27T16:34:54Z
+429;MDU6SXNzdWU4ODE2MTU1Mw==;{'totalCount': 4};Browser Support...;2015-06-14T10:21:05Z;2015-06-27T16:32:40Z
+430;MDU6SXNzdWU4ODkzNDA5OA==;{'totalCount': 0};index.html;2015-06-17T07:09:23Z;2015-06-27T16:32:11Z
+431;MDU6SXNzdWU4OTgyNDkzMA==;{'totalCount': 2};firefox not working.... only one time;2015-06-20T22:12:37Z;2015-06-27T16:29:58Z
+432;MDU6SXNzdWU4OTk3NDU3MA==;{'totalCount': 2};Website ( and animation ) currently doesn't work on Safari;2015-06-21T23:32:59Z;2015-06-23T02:37:47Z
+433;MDU6SXNzdWU5MDA3NDY2Ng==;{'totalCount': 1};Animate.css | Summernote, modal issue;2015-06-22T11:28:44Z;2015-06-27T16:31:55Z
+436;MDU6SXNzdWU5MTYyOTMyNw==;{'totalCount': 2};Infinite rotation without fading effect?;2015-06-28T19:22:46Z;2015-08-02T20:18:23Z
+437;MDU6SXNzdWU5MjE5MzE0Mw==;{'totalCount': 1};Why is the .zoomIn animation animated from 0% to 50%?;2015-06-30T20:33:58Z;2015-08-02T20:16:41Z
+438;MDU6SXNzdWU5MjY5MjQxNA==;{'totalCount': 3};Jello;2015-07-02T17:38:08Z;2015-08-02T20:10:36Z
+440;MDU6SXNzdWU5MzM1Nzc4Mg==;{'totalCount': 1};MVC 5 No page Scroll  with modernizr;2015-07-06T19:27:52Z;2015-08-02T20:14:48Z
+441;MDU6SXNzdWU5NTE2NTE0Mg==;{'totalCount': 0};show and hidden, opacity , animate-fill-mode;2015-07-15T10:58:43Z;2015-07-15T11:15:24Z
+442;MDU6SXNzdWU5NTE3NTMxNA==;{'totalCount': 0};show and hidden, opacity , animate-fill-mode;2015-07-15T12:03:46Z;2015-08-02T20:14:09Z
+443;MDU6SXNzdWU5NTIxMjcyOA==;{'totalCount': 2};It's not you, it's Chrome.;2015-07-15T14:42:48Z;2015-07-15T17:01:05Z
+444;MDU6SXNzdWU5NTUxNzU5Ng==;{'totalCount': 2};Hinge;2015-07-16T20:13:58Z;2015-08-02T19:56:51Z
+445;MDU6SXNzdWU5NTgwMTUzNQ==;{'totalCount': 2};Add license text with the repo.;2015-07-18T07:58:44Z;2015-08-02T19:54:40Z
+446;MDU6SXNzdWU5NjkxMDg0OA==;{'totalCount': 3};Showing an hidden element with opacity-animation;2015-07-23T21:37:29Z;2015-08-02T19:55:49Z
+447;MDU6SXNzdWU5NzA3Njc4Mg==;{'totalCount': 1};Feature Request: Penner Easing Animation;2015-07-24T15:24:54Z;2015-08-02T19:57:52Z
+449;MDU6SXNzdWU5NzkzOTU5OA==;{'totalCount': 11};the class .slideInRight acts weird on mobile phone.;2015-07-29T13:46:07Z;2015-11-04T02:00:56Z
+452;MDU6SXNzdWU5OTU1ODkzOA==;{'totalCount': 5};How to start something in the 'hidden' state?;2015-08-07T01:46:41Z;2015-11-04T01:59:15Z
+455;MDU6SXNzdWUxMDAyNDQxMTY=;{'totalCount': 0};bower.json: change src to source in ignore;2015-08-11T07:18:42Z;2015-08-28T17:52:00Z
+456;MDU6SXNzdWUxMDE1Nzg2MTg=;{'totalCount': 5};Is it possible to build an accordion with animate.css;2015-08-18T06:01:21Z;2016-06-06T17:33:47Z
+458;MDU6SXNzdWUxMDMwMjUwNDg=;{'totalCount': 1};Issue info in README;2015-08-25T13:42:17Z;2015-12-06T16:58:20Z
+462;MDU6SXNzdWUxMDYyMzYwODQ=;{'totalCount': 1};Bug in sliding entrance;2015-09-13T19:45:45Z;2015-11-04T02:00:35Z
+463;MDU6SXNzdWUxMDczMDI1MzA=;{'totalCount': 6};"Animation ""Jello"" don't work";2015-09-19T01:31:20Z;2015-11-04T02:00:25Z
+464;MDU6SXNzdWUxMDc1MTEzNDU=;{'totalCount': 5};Update iOS8 effect slideInLeft bug (with textillate.js);2015-09-21T13:26:43Z;2015-11-04T01:59:47Z
+466;MDU6SXNzdWUxMDc3NzA3MTQ=;{'totalCount': 3};New animation proposal: headShake;2015-09-22T18:19:46Z;2015-12-06T16:57:46Z
+468;MDU6SXNzdWUxMDc3NzE1Njg=;{'totalCount': 3};New animation proposal: squash;2015-09-22T18:24:18Z;2015-12-06T16:42:57Z
+470;MDU6SXNzdWUxMDg1NjEwMjM=;{'totalCount': 3};Please add version to the header.;2015-09-27T21:06:57Z;2015-11-04T01:56:48Z
+472;MDU6SXNzdWUxMDg5ODUzMTQ=;{'totalCount': 3};bounceInUp not working anymore - iPhone 6 Plus/iOS9;2015-09-30T00:14:07Z;2016-02-29T05:40:02Z
+473;MDU6SXNzdWUxMDkyNzYxNDE=;{'totalCount': 4};Duration presets;2015-10-01T10:51:22Z;2015-11-04T01:51:48Z
+474;MDU6SXNzdWUxMDk4NDkyNTg=;{'totalCount': 2};Use a namespace.;2015-10-05T17:45:21Z;2015-11-04T01:58:44Z
+475;MDU6SXNzdWUxMTAyMjQ2Nzg=;{'totalCount': 1};bounceInRight in Chrome 45.0.2452.94 mobile scrolls to the top of the page.;2015-10-07T13:21:43Z;2015-11-04T01:57:59Z
+478;MDU6SXNzdWUxMTIxMzA0NTU=;{'totalCount': 1};Animations don't work during scrolling page;2015-10-19T12:02:57Z;2015-11-04T01:53:15Z
+479;MDU6SXNzdWUxMTI2OTg2MDM=;{'totalCount': 2};bounceInLeft is not working on ios 9 safari browser;2015-10-21T23:22:22Z;2017-03-16T01:35:57Z
+480;MDU6SXNzdWUxMTQzMDE3Mjk=;{'totalCount': 3};Is it possible to modify animate.css for react.js animation?;2015-10-30T16:15:19Z;2015-11-04T01:51:05Z
+481;MDU6SXNzdWUxMTQ0MTAxNjA=;{'totalCount': 3};How to add interval in between each iteration of animation?;2015-10-31T13:00:35Z;2015-11-04T01:50:16Z
+482;MDU6SXNzdWUxMTUyODY5NzA=;{'totalCount': 16};Version without -vendor- prefixes;2015-11-05T13:49:11Z;2015-12-06T16:57:01Z
+484;MDU6SXNzdWUxMTU2ODIwMTM=;{'totalCount': 5};New animation proposal: Squiggle;2015-11-07T18:08:52Z;2017-07-10T19:39:40Z
+485;MDU6SXNzdWUxMTU2OTU3MTE=;{'totalCount': 5};Page becomes super large when using fadeInRight in iOS+Safari;2015-11-07T22:11:33Z;2015-12-06T16:55:24Z
+486;MDU6SXNzdWUxMTU3MDEzNjk=;{'totalCount': 6};How do I do bounceIn then do a infinate loop of Shake?;2015-11-08T00:12:59Z;2015-12-06T16:55:15Z
+488;MDU6SXNzdWUxMTYwODc1ODc=;{'totalCount': 12};Element disappearing after animate (flipInX) – Safari 9 OS X;2015-11-10T11:23:38Z;2017-09-08T16:16:18Z
+489;MDU6SXNzdWUxMTYyMTUwMTk=;{'totalCount': 1};Demo site dropdown broken in Chrome 46;2015-11-10T22:17:00Z;2015-11-11T22:21:26Z
+492;MDU6SXNzdWUxMTgwNDk3NzQ=;{'totalCount': 3};Animate with JavaScript;2015-11-20T14:14:58Z;2015-12-06T16:54:38Z
+493;MDU6SXNzdWUxMTgwODc2ODI=;{'totalCount': 5};Sequential use of multiple effects/classes;2015-11-20T17:28:50Z;2015-12-06T16:55:01Z
+494;MDU6SXNzdWUxMTgzMzkwNTc=;{'totalCount': 1};Extremly Lagging :/;2015-11-23T08:46:27Z;2015-11-26T09:29:34Z
+500;MDU6SXNzdWUxMjAyNzQ2MjI=;{'totalCount': 1};New animation proposal: Float;2015-12-03T21:31:47Z;2015-12-06T16:54:26Z
+501;MDU6SXNzdWUxMjA2Mzg4OTU=;{'totalCount': 2};Bower - Use dist/ for final product;2015-12-06T14:58:12Z;2017-12-10T02:20:05Z
+503;MDU6SXNzdWUxMjA3NzUxOTU=;{'totalCount': 3};Pulse causing placement and border-radius issues;2015-12-07T13:33:43Z;2017-03-10T01:48:12Z
+506;MDU6SXNzdWUxMjE4MTY3NzA=;{'totalCount': 1};Use filtering (bilinear or bicubic) for animations that use scale3d;2015-12-12T00:05:17Z;2017-03-10T01:20:36Z
+508;MDU6SXNzdWUxMjI2NjMxMjE=;{'totalCount': 19};How to activate animation when the content scrolls into view.;2015-12-17T05:20:33Z;2015-12-19T08:14:06Z
+509;MDU6SXNzdWUxMjMwNTk2MjI=;{'totalCount': 1};Source directory no longer included using bower;2015-12-19T03:52:33Z;2016-06-06T17:39:01Z
+512;MDU6SXNzdWUxMjM4OTY0NjQ=;{'totalCount': 2};About using true in animate-config.json file.;2015-12-25T20:07:12Z;2015-12-31T23:50:34Z
+515;MDU6SXNzdWUxMjQxMTQ0MTI=;{'totalCount': 2};span cant be animated;2015-12-28T19:48:43Z;2016-02-03T00:21:35Z
+516;MDU6SXNzdWUxMjQyMjQwNjU=;{'totalCount': 2};Bootstrap button dropdowns overlapping;2015-12-29T15:14:41Z;2016-01-05T13:03:50Z
+518;MDU6SXNzdWUxMjUzOTg1NDc=;{'totalCount': 1};Add changelog;2016-01-07T13:57:02Z;2017-03-10T01:24:24Z
+519;MDU6SXNzdWUxMjU0ODUyMzA=;{'totalCount': 11};animations not working in iOS 9.2 safari;2016-01-07T21:10:36Z;2017-07-10T21:14:42Z
+521;MDU6SXNzdWUxMjY5ODkwNzY=;{'totalCount': 0};Add sliding animations to animate.scss;2016-01-16T01:02:26Z;2017-03-12T01:49:05Z
+522;MDU6SXNzdWUxMjcxMDU5OTk=;{'totalCount': 2};animation showing early;2016-01-17T16:26:42Z;2016-02-03T00:27:13Z
+523;MDU6SXNzdWUxMjc2NDU3MzU=;{'totalCount': 2};publish 3.5.0 on npm;2016-01-20T10:01:23Z;2016-02-03T00:18:32Z
+524;MDU6SXNzdWUxMjgxMzY1NzY=;{'totalCount': 2};License manifest missing;2016-01-22T11:27:18Z;2016-02-03T00:25:38Z
+527;MDU6SXNzdWUxMjg5MDI2Mzk=;{'totalCount': 5};How to make it shows shadow and save z-index?;2016-01-26T18:29:49Z;2017-03-16T01:35:04Z
+528;MDU6SXNzdWUxMjk1MTUzMjI=;{'totalCount': 6};Animations not working correctly in IE10;2016-01-28T17:14:47Z;2017-03-12T00:37:25Z
+529;MDU6SXNzdWUxMjk3NTU3MzE=;{'totalCount': 2};add main in package.json;2016-01-29T12:46:37Z;2016-02-03T00:20:08Z
+530;MDU6SXNzdWUxMzAxMDc0NTg=;{'totalCount': 1};Ionic list arent clickable anymore;2016-01-31T09:46:15Z;2016-02-03T00:19:00Z
+532;MDU6SXNzdWUxMzE5MjA0MDg=;{'totalCount': 2};"""peek in"" effect (close to SlideIn/Out but not quite)";2016-02-07T01:20:44Z;2016-02-07T14:30:47Z
+535;MDU6SXNzdWUxMzMwNDgxODY=;{'totalCount': 3};CSS4 Support;2016-02-11T18:22:08Z;2016-06-06T17:47:17Z
+536;MDU6SXNzdWUxMzM1ODc5NTI=;{'totalCount': 2};Animate.css not working on the server side in Safari;2016-02-14T22:32:18Z;2016-04-21T19:32:20Z
+537;MDU6SXNzdWUxMzQ1NzM2MDc=;{'totalCount': 8};Performance Improvement Hints (will-change);2016-02-18T12:53:43Z;2017-07-10T20:07:12Z
+543;MDU6SXNzdWUxMzY2NDU3MjU=;{'totalCount': 2};BounceIn: scrollbar visible for a moment;2016-02-26T09:42:16Z;2016-02-26T13:02:53Z
+544;MDU6SXNzdWUxMzgyMDc0OTA=;{'totalCount': 3};Promise is not defined when doing a custom build;2016-03-03T15:17:19Z;2016-03-04T14:37:51Z
+546;MDU6SXNzdWUxMzg4MDY2OTY=;{'totalCount': 2};Cannot combine 2 animation classes;2016-03-06T16:19:05Z;2016-03-07T02:54:14Z
+547;MDU6SXNzdWUxMzkyNTI1MjA=;{'totalCount': 4};animate not working at Windows Phone;2016-03-08T11:27:05Z;2017-03-16T01:41:04Z
+548;MDU6SXNzdWUxNDAzNDk4NjU=;{'totalCount': 1};opacity;2016-03-12T05:45:18Z;2016-06-06T17:46:13Z
+551;MDU6SXNzdWUxNDE1MjcyNzc=;{'totalCount': 1};Animation preserves height and thus next siblings are not moving with the animation;2016-03-17T09:28:15Z;2016-06-06T17:43:43Z
+552;MDU6SXNzdWUxNDIxNzIyODk=;{'totalCount': 9}; Wrong positioning when translateX is set to animate element.;2016-03-20T15:05:21Z;2016-06-06T17:43:32Z
+554;MDU6SXNzdWUxNDI2MjAxMzI=;{'totalCount': 1};animate.css is loading double time in firefox and chrome;2016-03-22T11:18:13Z;2016-06-06T17:44:01Z
+555;MDU6SXNzdWUxNDI2NDIzNDU=;{'totalCount': 1};Why animation copied from .site__title in Animate.css homepage is not work?;2016-03-22T12:59:21Z;2016-06-06T17:44:13Z
+557;MDU6SXNzdWUxNDMzMTc3MTM=;{'totalCount': 1};remove @-webkit-keyframes;2016-03-24T18:00:16Z;2016-06-06T17:44:28Z
+559;MDU6SXNzdWUxNDQzMjc1NDE=;{'totalCount': 2};"Can we control the ""size"" of animations?";2016-03-29T17:07:28Z;2016-06-06T17:44:40Z
+560;MDU6SXNzdWUxNDYxOTczODY=;{'totalCount': 2};Animation not working all the time with Jekyll;2016-04-06T06:15:04Z;2016-04-06T12:35:38Z
+561;MDU6SXNzdWUxNDcwODg0NDI=;{'totalCount': 2};bower install error;2016-04-09T04:31:06Z;2016-04-09T06:03:43Z
+562;MDU6SXNzdWUxNDcxNjAxODg=;{'totalCount': 0};Missing package.json;2016-04-09T20:14:32Z;2016-04-09T20:17:41Z
+564;MDU6SXNzdWUxNDc3MjE0OTc=;{'totalCount': 2};Question: copyright;2016-04-12T11:39:22Z;2016-04-21T19:45:29Z
+565;MDU6SXNzdWUxNDg3NDY0MjY=;{'totalCount': 2};Safari Browser;2016-04-15T19:20:50Z;2016-06-06T17:44:59Z
+567;MDU6SXNzdWUxNDg5MzIzNTM=;{'totalCount': 2};Webpack loader - if you want to include a link.;2016-04-17T08:53:57Z;2017-09-14T15:11:58Z
+568;MDU6SXNzdWUxNDkwMTEyNDU=;{'totalCount': 2};Animation on element removal;2016-04-18T00:34:23Z;2016-04-20T03:51:39Z
+569;MDU6SXNzdWUxNDk3NjU5OTk=;{'totalCount': 4};click and mouse events are not working with animate.css, only ready is working.... how to enable all events of animate.css with jquerry;2016-04-20T13:21:21Z;2016-06-06T17:43:19Z
+570;MDU6SXNzdWUxNDk4MjY5MDI=;{'totalCount': 1};jello demo not working;2016-04-20T16:55:33Z;2016-06-06T17:42:27Z
+571;MDU6SXNzdWUxNTA2MzYzNzg=;{'totalCount': 0};animate.css can support a element move start to end and reverse then return ?;2016-04-24T07:19:23Z;2016-06-06T17:43:06Z
+575;MDU6SXNzdWUxNTI4OTc0NTI=;{'totalCount': 1};Padding or margin error;2016-05-03T23:29:09Z;2016-06-06T17:42:21Z
+576;MDU6SXNzdWUxNTM2NTQyNzg=;{'totalCount': 1};Simultaneous animation graphic bug Chrome;2016-05-08T12:53:04Z;2016-06-06T17:41:54Z
+577;MDU6SXNzdWUxNTM4MzcxODA=;{'totalCount': 0};Bower include;2016-05-09T18:18:40Z;2016-06-06T17:41:18Z
+578;MDU6SXNzdWUxNTQ4MjcwNDk=;{'totalCount': 0};Animate to Transformed State;2016-05-14T01:30:08Z;2017-03-10T01:11:17Z
+581;MDU6SXNzdWUxNTUxMzQzMTA=;{'totalCount': 2};bounceInDown doesn't work on iPhone 6;2016-05-16T22:12:37Z;2016-06-06T17:40:06Z
+582;MDU6SXNzdWUxNTU5MjEwMTM=;{'totalCount': 1};gulp autoperfix not work;2016-05-20T09:21:42Z;2017-03-10T18:36:12Z
+583;MDU6SXNzdWUxNTYyMTY0NTk=;{'totalCount': 1};Animation not working on explorer edge;2016-05-23T07:32:26Z;2016-06-06T17:37:27Z
+584;MDU6SXNzdWUxNTY5ODU2ODE=;{'totalCount': 2};Any examples on how to use to animate elements from/to display: none?;2016-05-26T13:38:19Z;2016-06-06T17:37:19Z
+585;MDU6SXNzdWUxNTcxMTE1OTI=;{'totalCount': 1};Great job! but I have troubles using it with mdl light;2016-05-27T01:21:51Z;2016-06-06T17:36:52Z
+587;MDU6SXNzdWUxNTcxNTE0Njg=;{'totalCount': 1};Loop through items. How?;2016-05-27T08:02:33Z;2016-06-06T17:35:08Z
+588;MDU6SXNzdWUxNTc0NTM5OTI=;{'totalCount': 1};Left & Right transitions interfere with bootstrap classes;2016-05-30T08:17:44Z;2016-06-06T17:35:00Z
+589;MDU6SXNzdWUxNTc1NjYxNjg=;{'totalCount': 2};Delay Animation;2016-05-30T23:29:06Z;2016-06-06T17:34:11Z
+590;MDU6SXNzdWUxNTc4NjkzMTA=;{'totalCount': 0};thanks;2016-06-01T10:05:36Z;2016-06-06T17:34:00Z
+591;MDU6SXNzdWUxNTgzMDkwMTI=;{'totalCount': 3};animate-config.json structure;2016-06-03T07:40:15Z;2017-07-10T19:53:52Z
+592;MDU6SXNzdWUxNTgzNzA4NzE=;{'totalCount': 1};Using jQuery addClass not working with uppercase characters;2016-06-03T13:46:20Z;2017-03-17T00:06:14Z
+595;MDU6SXNzdWUxNTkxNjY2MjI=;{'totalCount': 4};New class for speed of animation;2016-06-08T13:42:34Z;2017-03-12T01:20:40Z
+596;MDU6SXNzdWUxNTkyNTk3NzQ=;{'totalCount': 5};Animate.css and typeahead z-index problems.;2016-06-08T20:11:23Z;2017-09-08T15:39:38Z
+597;MDU6SXNzdWUxNTk3ODI3NzI=;{'totalCount': 1};Version number not incremented in latest release;2016-06-11T17:03:19Z;2017-03-10T17:37:06Z
+599;MDU6SXNzdWUxNjA4NzYzODk=;{'totalCount': 2};How to repeat chained animations?;2016-06-17T12:22:18Z;2017-03-09T01:47:48Z
+600;MDU6SXNzdWUxNjEwNTY5OTg=;{'totalCount': 3};Is there a way to slow a fadeIn animation?;2016-06-19T05:11:20Z;2016-09-02T15:59:44Z
+602;MDU6SXNzdWUxNjE4NTk5NTc=;{'totalCount': 1};Element disapers after animation in IE11;2016-06-23T07:45:35Z;2016-09-26T03:22:51Z
+603;MDU6SXNzdWUxNjE4NzY0ODQ=;{'totalCount': 3};Transformation not working when using :hover ?;2016-06-23T09:20:05Z;2016-07-13T11:56:25Z
+604;MDU6SXNzdWUxNjMxOTI1NTM=;{'totalCount': 3};Detecting when animations end isn't reliable;2016-06-30T15:20:03Z;2016-09-02T15:59:32Z
+606;MDU6SXNzdWUxNjM5ODQ2Mzc=;{'totalCount': 1};Start animation only when element is completely in the viewport;2016-07-06T02:15:01Z;2016-09-02T15:58:48Z
+607;MDU6SXNzdWUxNjQ3Njk3NjM=;{'totalCount': 2};animate.css on slideshow text;2016-07-11T06:40:17Z;2016-09-26T03:20:38Z
+609;MDU6SXNzdWUxNjUzMDM5OTg=;{'totalCount': 4};Add a timer between loops when using infinite class ?;2016-07-13T12:02:18Z;2016-09-02T15:58:21Z
+610;MDU6SXNzdWUxNjYwNDI3NzE=;{'totalCount': 3};Animate.css not working in chrome 51.0 but works in firefox;2016-07-18T08:25:13Z;2017-03-10T18:39:43Z
+611;MDU6SXNzdWUxNjYxMjcyNjI=;{'totalCount': 3};CDN;2016-07-18T15:51:51Z;2016-09-02T15:44:54Z
+613;MDU6SXNzdWUxNjY1OTIxODA=;{'totalCount': 1};How to undo fadeOut in Android 4.2.2 browser?;2016-07-20T14:15:41Z;2016-07-20T18:00:40Z
+614;MDU6SXNzdWUxNjY3MjEzNzE=;{'totalCount': 1};Animate.css and wow.js compatibility;2016-07-21T02:04:11Z;2016-09-02T15:58:06Z
+615;MDU6SXNzdWUxNjc5ODQ5MzY=;{'totalCount': 0};Doesn't work with Aurelia.;2016-07-28T00:06:30Z;2016-09-02T15:57:50Z
+616;MDU6SXNzdWUxNjgyNjAzMzE=;{'totalCount': 2};Not working with ionic 2;2016-07-29T06:37:54Z;2016-09-02T15:52:47Z
+618;MDU6SXNzdWUxNjg5NDM1MjY=;{'totalCount': 11};Add namespacing;2016-08-02T17:34:30Z;2020-04-21T10:54:20Z
+619;MDU6SXNzdWUxNjkwMTkxMjU=;{'totalCount': 1};push latest version to npm;2016-08-03T00:20:07Z;2016-09-02T15:56:44Z
+620;MDU6SXNzdWUxNjkyNDM1MTU=;{'totalCount': 2};Dead CDN links in README.md;2016-08-03T21:53:18Z;2016-09-02T15:43:39Z
+621;MDU6SXNzdWUxNjk0MDkyMDQ=;{'totalCount': 1};Possible to make appear a div plus animated ?;2016-08-04T15:54:15Z;2016-09-02T15:45:12Z
+623;MDU6SXNzdWUxNjk4NDgwODc=;{'totalCount': 15};Animate.css is not working in any browser.;2016-08-08T05:50:10Z;2016-09-02T15:43:22Z
+624;MDU6SXNzdWUxNzI5MzM0MTY=;{'totalCount': 2};fadeIn doesn't work after fading item out with fadeOut;2016-08-24T12:01:35Z;2016-08-24T12:13:56Z
+625;MDU6SXNzdWUxNzMxMDcwMjM=;{'totalCount': 1};my unique css animation?;2016-08-25T03:34:44Z;2016-09-02T15:42:28Z
+628;MDU6SXNzdWUxNzM4MDUwOTY=;{'totalCount': 1};Trigger Animation When In View / Scroll;2016-08-29T15:43:45Z;2016-09-02T15:42:37Z
+629;MDU6SXNzdWUxNzQwNDI2NDY=;{'totalCount': 4};Regression on bounce animate.min.css introduced in 3.5.1;2016-08-30T14:57:33Z;2018-01-25T17:18:25Z
+632;MDU6SXNzdWUxNzQ0MzIyMzk=;{'totalCount': 3};IE Animations Disappear;2016-09-01T04:06:27Z;2016-09-26T03:22:47Z
+634;MDU6SXNzdWUxNzUzMjc0MTg=;{'totalCount': 5};where is the water animation?;2016-09-06T19:15:03Z;2016-09-08T14:09:13Z
+635;MDU6SXNzdWUxNzY4MDE2NzA=;{'totalCount': 3};animation is finished before the page scroll to the Item;2016-09-14T02:52:54Z;2016-09-26T03:18:19Z
+636;MDU6SXNzdWUxNzY4MjgzMDM=;{'totalCount': 1};Exit animation problem in Aurelia project;2016-09-14T06:47:00Z;2016-09-26T03:20:16Z
+639;MDU6SXNzdWUxNzkxOTU4MDQ=;{'totalCount': 4};How do I get the animation to start on scroll?;2016-09-26T10:48:00Z;2017-03-10T01:10:40Z
+640;MDU6SXNzdWUxODExMjg1NzY=;{'totalCount': 1};How to replicate the random text color generator used in this website?;2016-10-05T11:31:02Z;2017-03-16T01:32:44Z
+641;MDU6SXNzdWUxODE2OTI5ODM=;{'totalCount': 9};Uncaught SyntaxError: Invalid or unexpected token;2016-10-07T15:06:35Z;2017-03-09T02:07:32Z
+642;MDU6SXNzdWUxODE4MjA2MzQ=;{'totalCount': 2};Lightspeedin;2016-10-08T11:21:26Z;2016-11-10T17:33:35Z
+644;MDU6SXNzdWUxODQ4MzMyNzg=;{'totalCount': 4};animate.css and jquery in new firefox;2016-10-24T12:58:36Z;2018-01-29T16:54:43Z
+645;MDU6SXNzdWUxODQ5ODY2MDM=;{'totalCount': 2};Can't slow down animation fade in?;2016-10-25T00:09:13Z;2016-10-25T13:52:36Z
+646;MDU6SXNzdWUxODUyOTU1NzI=;{'totalCount': 2};'Jello' animation incompatible with latest iOS Safari?;2016-10-26T04:39:03Z;2017-03-10T01:09:26Z
+648;MDU6SXNzdWUxODcxNzAyMDA=;{'totalCount': 13};Bad naming effects!!!;2016-11-03T19:41:01Z;2017-07-10T21:16:21Z
+650;MDU6SXNzdWUxODg3Nzg0MTU=;{'totalCount': 4};Animation in Google Chrome Not Fluid;2016-11-11T15:01:40Z;2017-03-09T01:42:26Z
+652;MDU6SXNzdWUxODk5MTA2MDI=;{'totalCount': 1};Detect animation complete without jQuery;2016-11-17T01:51:11Z;2017-02-08T01:13:04Z
+654;MDU6SXNzdWUxOTE4MDc2MTk=;{'totalCount': 0};Breaks transform scale hover effects;2016-11-26T14:04:51Z;2016-11-26T19:27:59Z
+655;MDU6SXNzdWUxOTMyNzcxOTg=;{'totalCount': 1};iframe inside animated block - bug;2016-12-03T09:32:38Z;2017-03-09T02:06:21Z
+656;MDU6SXNzdWUxOTM1ODk0NTk=;{'totalCount': 2};Laggy animations;2016-12-05T19:34:44Z;2017-03-09T01:45:14Z
+657;MDU6SXNzdWUxOTQwMTIxMTM=;{'totalCount': 2};Animations removing other CSS transforms;2016-12-07T10:28:50Z;2017-03-09T01:27:21Z
+658;MDU6SXNzdWUxOTQ0NjQxMzU=;{'totalCount': 8};Chaining animations ?;2016-12-08T22:40:57Z;2017-07-10T19:55:01Z
+659;MDU6SXNzdWUxOTQ0ODQ2Nzk=;{'totalCount': 3};Demo site broken;2016-12-09T00:44:34Z;2016-12-12T23:28:29Z
+660;MDU6SXNzdWUxOTY2MjQ4ODk=;{'totalCount': 3};Positioning issue with some effects;2016-12-20T09:32:18Z;2017-03-09T14:36:13Z
+662;MDU6SXNzdWUxOTkwNTUwNzU=;{'totalCount': 2};Pause between iterations;2017-01-05T20:46:58Z;2017-03-09T01:29:50Z
+663;MDU6SXNzdWUyMDExNDA0MTg=;{'totalCount': 1};How do I make the animation to flip without shaking. ;2017-01-16T23:27:53Z;2017-03-10T01:30:57Z
+664;MDU6SXNzdWUyMDIyMzk1MDg=;{'totalCount': 1};Flippers, choice of direction, upturn effect;2017-01-20T20:52:34Z;2017-03-12T00:34:03Z
+665;MDU6SXNzdWUyMDI5NjE1Njk=;{'totalCount': 0};safari animation issue;2017-01-24T22:39:37Z;2017-01-25T16:31:29Z
+666;MDU6SXNzdWUyMDM0Mzk4MjU=;{'totalCount': 7};How to properly hide element to be slideInRight?;2017-01-26T17:45:20Z;2017-03-09T14:31:26Z
+667;MDU6SXNzdWUyMDQ0NzM2MzU=;{'totalCount': 1};FadeInUp seems to disable the navbar-fixed-top.;2017-02-01T01:21:37Z;2017-03-12T00:35:18Z
+668;MDU6SXNzdWUyMDU2NTQ4OTY=;{'totalCount': 6};Eliminate render blocking?;2017-02-06T17:29:53Z;2017-03-09T01:41:21Z
+669;MDU6SXNzdWUyMDgyNTY2NDg=;{'totalCount': 8};Problem with fadeInLeft effect on mobile and RTL web pages;2017-02-16T21:45:56Z;2017-02-22T18:32:40Z
+670;MDU6SXNzdWUyMDgzOTk0MzE=;{'totalCount': 10};Not work wow.js with overflow:scroll;2017-02-17T10:28:54Z;2017-03-09T01:39:25Z
+672;MDU6SXNzdWUyMDg4OTY4MDg=;{'totalCount': 5};_base.css gets ignored in gulp compile task due to Sass type naming convention;2017-02-20T14:34:24Z;2017-03-12T00:36:03Z
+674;MDU6SXNzdWUyMTAyODI4Nzg=;{'totalCount': 9};How to add animate.css in ionic 2;2017-02-26T04:03:17Z;2017-03-23T21:18:26Z
+675;MDU6SXNzdWUyMTAzMTYxMTE=;{'totalCount': 0};Would be great to make mobile (iOS?;2017-02-26T12:48:47Z;2017-02-26T12:49:08Z
+676;MDU6SXNzdWUyMTAzMTYyNTc=;{'totalCount': 6};Would be great to make mobile support more robust;2017-02-26T12:51:40Z;2017-07-10T21:06:44Z
+677;MDU6SXNzdWUyMTA4NDI1OTI=;{'totalCount': 10};IE11 weird issue for slideInRight and slideInLeft;2017-02-28T16:43:42Z;2017-03-10T18:37:17Z
+679;MDU6SXNzdWUyMTMwNDY3MDM=;{'totalCount': 3};Scrollbar appears during animations;2017-03-09T14:05:52Z;2017-03-10T01:05:18Z
+680;MDU6SXNzdWUyMTMzODU5Mzg=;{'totalCount': 3};Recent 3.5.2 release not updated in bower registry;2017-03-10T16:23:23Z;2017-12-15T01:59:38Z
+681;MDU6SXNzdWUyMTQwOTQ0NzI=;{'totalCount': 5};Documentation;2017-03-14T14:43:22Z;2018-08-12T15:51:51Z
+682;MDU6SXNzdWUyMTU4NTY3MTI=;{'totalCount': 4};Animate only one word in <h1>;2017-03-21T19:46:23Z;2017-03-23T21:16:55Z
+683;MDU6SXNzdWUyMTcxNDY0ODg=;{'totalCount': 2};When the element use 'zoomOut' class, it will go through a period of blank;2017-03-27T06:16:40Z;2017-04-12T05:45:11Z
+686;MDU6SXNzdWUyMTkyMzM1NjM=;{'totalCount': 1};Change class and apply new animation?;2017-04-04T12:27:02Z;2017-04-05T18:12:05Z
+688;MDU6SXNzdWUyMjE0ODU3MzY=;{'totalCount': 1};animate not work exactly in iphone safari;2017-04-13T07:53:57Z;2017-07-10T19:55:55Z
+690;MDU6SXNzdWUyMjI0ODA5MTc=;{'totalCount': 3};fadeInUp animation not working with chrome or mozilla;2017-04-18T16:56:39Z;2017-04-19T17:51:43Z
+692;MDU6SXNzdWUyMjQwNTE1NzE=;{'totalCount': 3};is that possible do not override my own transform when i dynamically add an animate to my dom ;2017-04-25T07:52:28Z;2017-04-28T12:10:38Z
+696;MDU6SXNzdWUyMjU0MDA1Mjg=;{'totalCount': 2};animate infinite and Mouse Wheel Scroll;2017-05-01T07:49:35Z;2017-07-29T21:25:18Z
+697;MDU6SXNzdWUyMjYyMzQxNzY=;{'totalCount': 2};How do i use it on ionic3 project?;2017-05-04T10:11:45Z;2017-07-10T19:46:26Z
+699;MDU6SXNzdWUyMjY3MzYyNDg=;{'totalCount': 1};More convenient to use animate.css;2017-05-06T04:00:21Z;2017-07-07T03:30:56Z
+703;MDU6SXNzdWUyMjgyMjYwNTc=;{'totalCount': 5};"Why not use "".animated.animeName"" to define animation?";2017-05-12T08:45:19Z;2017-11-09T15:26:49Z
+706;MDU6SXNzdWUyMzE1MzI3NDQ=;{'totalCount': 1};animation-iteration-count;2017-05-26T05:55:16Z;2017-05-26T13:40:22Z
+711;MDU6SXNzdWUyMzY3MjIyNjI=;{'totalCount': 3};how to animate just like animate.css written on your homepage?;2017-06-18T13:51:08Z;2017-07-10T18:14:54Z
+712;MDU6SXNzdWUyMzc2MjAxOTU=;{'totalCount': 8};animated link not clickable :/;2017-06-21T18:12:27Z;2017-07-28T20:07:07Z
+713;MDU6SXNzdWUyMzg0MzY1ODg=;{'totalCount': 1};Ripple effect missing;2017-06-26T03:59:30Z;2017-07-09T18:45:25Z
+714;MDU6SXNzdWUyMzg1Mzc5MzA=;{'totalCount': 5};Modal not working;2017-06-26T13:09:34Z;2017-07-27T16:56:54Z
+715;MDU6SXNzdWUyMzk2NDU5OTk=;{'totalCount': 2};Pulse Effect not showing the button but effect is working;2017-06-30T00:22:12Z;2017-07-27T16:58:35Z
+719;MDU6SXNzdWUyNDE5MzM5Nzg=;{'totalCount': 4};Animate.css not displaying demo of other effects;2017-07-11T06:03:06Z;2017-07-18T07:18:52Z
+723;MDU6SXNzdWUyNDY5MDY3MTA=;{'totalCount': 3};[Violation] 'animationend' handler took ...ms;2017-07-31T22:48:28Z;2017-08-04T19:54:11Z
+724;MDU6SXNzdWUyNDc5OTQxMzg=;{'totalCount': 2};Sass, Less or other preprocessor;2017-08-04T12:39:54Z;2017-08-04T13:19:53Z
+725;MDU6SXNzdWUyNDg0MTA0MDk=;{'totalCount': 6};Animate. CSS and JQUERY;2017-08-07T13:25:06Z;2017-09-08T15:31:54Z
+726;MDU6SXNzdWUyNDg1NzY1OTM=;{'totalCount': 0};flip anmiation on iphone problems;2017-08-08T01:40:11Z;2017-08-08T07:30:17Z
+727;MDU6SXNzdWUyNDg4NDU2MjU=;{'totalCount': 1};Sliding animations within a Bootstrap grid messes up border radius;2017-08-08T21:03:09Z;2017-08-31T20:53:00Z
+728;MDU6SXNzdWUyNDk3MzAzNDU=;{'totalCount': 2};Publish new version with jackInTheBox to npm;2017-08-11T19:46:00Z;2018-02-07T18:31:21Z
+729;MDU6SXNzdWUyNTAzNzg0OTc=;{'totalCount': 1};Does'nt work on inline elements;2017-08-15T17:16:21Z;2017-08-15T17:34:06Z
+730;MDU6SXNzdWUyNTA2NTkyNTc=;{'totalCount': 3};Adding/removing class is not fast enought to animate.css why?;2017-08-16T15:01:29Z;2017-12-10T02:44:56Z
+731;MDU6SXNzdWUyNTE0MjA2NTk=;{'totalCount': 4};Mouseenter mouseleave not working with animate.css;2017-08-19T12:02:18Z;2017-08-22T20:33:35Z
+732;MDU6SXNzdWUyNTIwODIwOTM=;{'totalCount': 4};Serious bug with animate.css;2017-08-22T20:38:10Z;2017-08-23T14:28:59Z
+733;MDU6SXNzdWUyNTI4MTA2Mzc=;{'totalCount': 1};Cannot import module css-animator notfound;2017-08-25T06:35:49Z;2017-09-08T15:26:28Z
+734;MDU6SXNzdWUyNTM2MTA2NjM=;{'totalCount': 2};every class runs twice ;2017-08-29T10:49:09Z;2017-09-13T09:33:28Z
+735;MDU6SXNzdWUyNTQ4NzEzNTg=;{'totalCount': 6};CDNJS - wrong content;2017-09-03T12:23:15Z;2018-07-21T14:41:49Z
+736;MDU6SXNzdWUyNTUxMjIyNjY=;{'totalCount': 1};validator.w3.org issues;2017-09-04T22:04:33Z;2017-09-04T22:17:31Z
+737;MDU6SXNzdWUyNTY0MjQ5ODU=;{'totalCount': 3};'jackInTheBox' is not included in the latest 3.5.2 NPM package.;2017-09-09T08:42:56Z;2017-12-15T02:08:25Z
+738;MDU6SXNzdWUyNTY4NzQ3ODQ=;{'totalCount': 1};Scroll Direction Up / Scroll back down;2017-09-11T23:49:13Z;2017-09-14T15:09:54Z
+739;MDU6SXNzdWUyNTc4NDAxMzg=;{'totalCount': 4};add overflow-x:hidden to the deme page;2017-09-14T20:04:53Z;2017-10-05T20:39:14Z
+741;MDU6SXNzdWUyNTkxNTE2Nzc=;{'totalCount': 4};Animations using x-axis on Chrome Android;2017-09-20T12:51:52Z;2017-10-16T14:22:11Z
+742;MDU6SXNzdWUyNjIxOTI1NTU=;{'totalCount': 8};Animate.css has stopped working in Chrome;2017-10-02T19:10:05Z;2017-10-06T17:27:58Z
+747;MDU6SXNzdWUyNjQ1NjcwODQ=;{'totalCount': 3};JavaScript library;2017-10-11T12:29:08Z;2017-12-15T02:04:42Z
+748;MDU6SXNzdWUyNjU2NzIwNDc=;{'totalCount': 2};ZoomOut with FlexBox (Bootstrap 4) not working on Edge/IE;2017-10-16T07:33:26Z;2018-01-25T17:20:01Z
+749;MDU6SXNzdWUyNjY3MDQ5NjU=;{'totalCount': 1};On Scroll animation is not working;2017-10-19T02:56:04Z;2017-11-09T13:16:26Z
+750;MDU6SXNzdWUyNjcxNjk4Mjg=;{'totalCount': 3};BounceInDown;2017-10-20T13:06:44Z;2017-11-02T15:01:34Z
+751;MDU6SXNzdWUyNjczNzA1MTM=;{'totalCount': 2};animation.css delay the ion-items from ion-list;2017-10-21T10:45:57Z;2017-11-09T13:15:22Z
+752;MDU6SXNzdWUyNjc3MjQwNzc=;{'totalCount': 3};fadeIn effects are jumping on mobile;2017-10-23T15:59:24Z;2017-12-10T02:03:12Z
+753;MDU6SXNzdWUyNjc5ODk1MDA=;{'totalCount': 2};some conflict In bootstrapTable  ;2017-10-24T11:06:57Z;2017-11-09T13:14:50Z
+754;MDU6SXNzdWUyNjk0MDAwNjE=;{'totalCount': 2};Image displayed completely before the animation;2017-10-29T13:42:08Z;2017-11-09T13:14:23Z
+755;MDU6SXNzdWUyNjk0NDA0OTE=;{'totalCount': 11};[Safari 11] Animated Elements have weird backgrounds ;2017-10-29T21:57:53Z;2017-12-10T02:02:48Z
+756;MDU6SXNzdWUyNzE4NzIxNTk=;{'totalCount': 2};SlideInLeft not working in Opera;2017-11-07T15:27:39Z;2017-11-09T13:36:38Z
+758;MDU6SXNzdWUyNzI2MTEwNzA=;{'totalCount': 6};Kill Bower support for V4+;2017-11-09T15:45:26Z;2020-04-21T10:53:18Z
+760;MDU6SXNzdWUyNzMyNjc0NTE=;{'totalCount': 0};Update base file;2017-11-12T21:35:27Z;2017-12-15T02:13:54Z
+768;MDU6SXNzdWUyODEyMzU5OTU=;{'totalCount': 2};Add prefixes to compiled files;2017-12-12T02:29:57Z;2018-01-25T17:21:45Z
+769;MDU6SXNzdWUyODEzMTE4MTc=;{'totalCount': 3};Divs dissapears while using animate.css;2017-12-12T09:24:15Z;2017-12-24T15:07:07Z
+770;MDU6SXNzdWUyODIxMTQxMDI=;{'totalCount': 3};.animated class clashes with bootstrap modal;2017-12-14T14:13:15Z;2018-01-25T17:22:27Z
+771;MDU6SXNzdWUyODI3MDQ2OTc=;{'totalCount': 3};Your sites down!;2017-12-17T16:16:30Z;2017-12-17T17:43:33Z
+772;MDU6SXNzdWUyODQzMzg0MTM=;{'totalCount': 2};animate.css和swiper怎么一起使用;2017-12-24T02:30:43Z;2018-01-02T20:21:01Z
+774;MDU6SXNzdWUyODUxMzc2ODQ=;{'totalCount': 2};Configuring effect;2017-12-29T18:43:16Z;2018-01-02T20:20:40Z
+776;MDU6SXNzdWUyODU0MTcwMjA=;{'totalCount': 1};Animations cause Scrollingbars;2018-01-02T12:20:10Z;2018-01-25T15:55:16Z
+777;MDU6SXNzdWUyODU1MDExNDk=;{'totalCount': 1};Animate text seems to stop video from playing in carousel;2018-01-02T18:20:10Z;2018-01-25T15:53:14Z
+778;MDU6SXNzdWUyODU5MjQ3ODA=;{'totalCount': 2};Animate.CSS should not repeat the animation every time on scrolling, Instead it should happen only once on the very first scroll;2018-01-04T09:24:20Z;2018-01-04T12:21:43Z
+779;MDU6SXNzdWUyODg4NTcwNjM=;{'totalCount': 0};zoomIn animation don't work on last Firefox version;2018-01-16T10:32:10Z;2018-01-16T10:35:32Z
+780;MDU6SXNzdWUyODkxOTQ5MjU=;{'totalCount': 10};Content is blurry after bounceIn effect;2018-01-17T09:26:04Z;2018-03-14T02:51:58Z
+781;MDU6SXNzdWUyODk2NjQ5MDI=;{'totalCount': 1};DELAY-NUMBER OF REPETITION-ENDURANCE;2018-01-18T15:16:03Z;2018-01-19T10:09:45Z
+782;MDU6SXNzdWUyOTE0NDIxNzY=;{'totalCount': 2};How to execute css animation one at a time? Coz the page load it will execute all the css animation all at once.;2018-01-25T03:52:04Z;2018-01-25T15:36:58Z
+783;MDU6SXNzdWUyOTE1MjE3MDc=;{'totalCount': 1};How to apply into Ionic;2018-01-25T10:32:47Z;2018-01-25T15:39:34Z
+784;MDU6SXNzdWUyOTM0Njk5NDA=;{'totalCount': 3};not working with Safari 11;2018-02-01T10:03:40Z;2018-02-25T14:51:56Z
+785;MDU6SXNzdWUyOTM3MDYzMzI=;{'totalCount': 2};On Scroll;2018-02-01T22:26:36Z;2018-02-06T16:44:44Z
+787;MDU6SXNzdWUyOTU2MzcyMjk=;{'totalCount': 2};Is it possible to trigger animation only when scroll?;2018-02-08T19:30:37Z;2018-02-09T01:04:30Z
+791;MDU6SXNzdWUyOTkyNjMxMDU=;{'totalCount': 1};animation make my div goes back;2018-02-22T08:39:36Z;2018-03-02T00:58:59Z
+792;MDU6SXNzdWUyOTk5NTM4MjE=;{'totalCount': 3};{CSS} transform: translate not working;2018-02-24T16:41:23Z;2018-03-02T00:58:49Z
+793;MDU6SXNzdWUzMDE0NDM2Mjg=;{'totalCount': 1};How to use animate.css with Webpack 3?;2018-03-01T15:19:40Z;2018-03-02T00:58:31Z
+794;MDU6SXNzdWUzMDM3MDgyNzM=;{'totalCount': 2};The animation effect is not effective after the element is disabled;2018-03-09T03:05:11Z;2018-04-18T09:54:05Z
+795;MDU6SXNzdWUzMDQ3NjQ5MDE=;{'totalCount': 1};Animations are not well shown on firefox;2018-03-13T13:29:58Z;2018-03-24T22:45:54Z
+797;MDU6SXNzdWUzMDUzODM3Nzk=;{'totalCount': 2};How do i use them with Ionic 3;2018-03-15T01:24:20Z;2018-05-13T11:05:15Z
+798;MDU6SXNzdWUzMDc1NzQ2MDI=;{'totalCount': 5};License under MIT or under the ☺ license (http://licence.visualidiot.com/);2018-03-22T09:59:52Z;2018-04-18T09:52:10Z
+799;MDU6SXNzdWUzMDgyMzg4MDU=;{'totalCount': 6};[Question] How should I use Exit Animations;2018-03-24T08:08:10Z;2018-05-13T18:04:48Z
+800;MDU6SXNzdWUzMDg3ODYyMzQ=;{'totalCount': 3};[Request] `rotateInBack` and `rotateOutBack`;2018-03-27T01:04:59Z;2018-04-13T14:48:46Z
+801;MDU6SXNzdWUzMDkwODM1OTU=;{'totalCount': 1};rotateFadeSlightInLeft / rotateFadeSlightInRight;2018-03-27T18:30:42Z;2018-05-13T11:40:43Z
+802;MDU6SXNzdWUzMDkzOTMxNzI=;{'totalCount': 3};CSS Grid;2018-03-28T14:31:58Z;2018-07-19T18:58:18Z
+803;MDU6SXNzdWUzMTA1NTY5MzQ=;{'totalCount': 2};Animation point of origin;2018-04-02T17:59:50Z;2018-04-02T21:04:46Z
+804;MDU6SXNzdWUzMTEzNDI3MDI=;{'totalCount': 9};Bounce animation changing div rotation;2018-04-04T18:33:13Z;2018-04-16T05:18:58Z
+805;MDU6SXNzdWUzMTIyNTk3NjI=;{'totalCount': 6};Flip animation bug in Firefox 59.0.2;2018-04-08T01:18:43Z;2018-07-21T14:41:20Z
+806;MDU6SXNzdWUzMTIzMTY5NTE=;{'totalCount': 6};Making an SVG circle bounce in properly;2018-04-08T15:59:22Z;2018-04-17T11:25:53Z
+807;MDU6SXNzdWUzMTI3MDY4ODc=;{'totalCount': 2};Absolute position?;2018-04-09T22:15:34Z;2018-05-13T11:36:30Z
+808;MDU6SXNzdWUzMTMyMjQzMDU=;{'totalCount': 2};Mobile Animation was bad;2018-04-11T08:35:58Z;2018-05-13T11:39:48Z
+810;MDU6SXNzdWUzMTQ5MTIzNDI=;{'totalCount': 2};Demo page does not work anymore because of jQuery;2018-04-17T05:38:46Z;2018-04-18T09:56:26Z
+811;MDU6SXNzdWUzMTUwNTgxMDE=;{'totalCount': 5};Flip animation bug in Edge 16;2018-04-17T13:23:57Z;2019-01-13T20:31:20Z
+812;MDU6SXNzdWUzMTY0MjI1MjU=;{'totalCount': 4};sequence of animations one after another;2018-04-20T21:53:20Z;2018-06-16T10:22:48Z
+813;MDU6SXNzdWUzMTY2NTg1OTc=;{'totalCount': 2};Suggestion: Add animation speed class;2018-04-23T04:32:42Z;2018-07-21T14:40:24Z
+816;MDU6SXNzdWUzMjI1MTA3OTY=;{'totalCount': 2};[Nhóm#10] Lỗi phi chức năng - Lỗi không hiện thị của trang http://online.ueh.edu.vn/;2018-05-12T13:16:41Z;2018-05-13T11:04:23Z
+817;MDU6SXNzdWUzMjY3MTIyODI=;{'totalCount': 14};Animate.css not active on mobile;2018-05-26T05:38:53Z;2018-06-15T09:02:20Z
+818;MDU6SXNzdWUzMjcyODAyNTI=;{'totalCount': 3};Showing/hiding with jQuery;2018-05-29T11:31:11Z;2018-06-16T10:21:28Z
+819;MDU6SXNzdWUzMjg0OTQyMTE=;{'totalCount': 10};Deprication warning;2018-06-01T12:03:57Z;2018-07-19T02:28:16Z
+820;MDU6SXNzdWUzMjg4ODM4ODI=;{'totalCount': 1};Ask, can Vue be used?;2018-06-04T01:46:43Z;2018-06-04T02:28:01Z
+821;MDU6SXNzdWUzMjk2NzM1NDY=;{'totalCount': 5};Turn off animations for printing;2018-06-06T00:52:39Z;2018-08-22T19:01:09Z
+822;MDU6SXNzdWUzMzA1Mzk3OTI=;{'totalCount': 1};Animation not Working with the JQuery .on() Event;2018-06-08T06:51:42Z;2018-06-08T07:44:43Z
+823;MDU6SXNzdWUzMzMxNjQ3Mzk=;{'totalCount': 1};jackInTheBox does not exist;2018-06-18T07:48:33Z;2018-07-19T02:17:02Z
+824;MDU6SXNzdWUzMzM0ODcxODM=;{'totalCount': 2};Transition is not responding;2018-06-19T01:20:22Z;2018-06-21T16:15:03Z
+825;MDU6SXNzdWUzMzgxNzc3MTk=;{'totalCount': 1};Flip effect zoom text on Chrome;2018-07-04T08:26:57Z;2018-07-19T02:58:08Z
+826;MDU6SXNzdWUzMzg5NzYxNjM=;{'totalCount': 1};Image gets shrank to the width of the parent div;2018-07-06T15:13:29Z;2018-07-21T14:38:24Z
+827;MDU6SXNzdWUzMzkyNDE1Mzk=;{'totalCount': 1};Instant load of modal;2018-07-08T17:10:41Z;2018-07-19T02:08:57Z
+828;MDU6SXNzdWUzMzk3OTk2MzY=;{'totalCount': 3};Running the transition while they are not being shown;2018-07-10T11:20:56Z;2018-07-21T16:24:41Z
+829;MDU6SXNzdWUzNDA2MDY4MTU=;{'totalCount': 3};How to make heart pulse with animate.css;2018-07-12T11:57:41Z;2018-07-21T15:58:02Z
+831;MDU6SXNzdWUzNDE2OTc5NDI=;{'totalCount': 1};Accessibility and animations;2018-07-16T22:16:52Z;2018-07-23T22:44:09Z
+833;MDU6SXNzdWUzNDE3MTI5ODQ=;{'totalCount': 2};Version numbers are out of sync;2018-07-16T23:25:21Z;2018-07-21T14:33:56Z
+835;MDU6SXNzdWUzNDMzMzc5Mzk=;{'totalCount': 12};Rewrite documentation;2018-07-21T16:20:17Z;2020-05-05T19:32:36Z
+836;MDU6SXNzdWUzNDMzMzgxMTg=;{'totalCount': 6};Switch to Rollup;2018-07-21T16:22:41Z;2019-06-05T02:34:22Z
+837;MDU6SXNzdWUzNDMzMzgzODM=;{'totalCount': 20};Update Website;2018-07-21T16:27:04Z;2020-05-05T19:32:40Z
+841;MDU6SXNzdWUzNDM5NTQyNTI=;{'totalCount': 1};在v3.6.1版本中没有faster，fast？（Don't have 'faster,fast' classname in v3.6.1）?;2018-07-24T09:22:39Z;2018-07-25T04:56:50Z
+843;MDU6SXNzdWUzNDUzNDYzNDc=;{'totalCount': 8};animate.css and bootstrap css working unusual together;2018-07-27T19:48:52Z;2018-08-10T10:51:48Z
+844;MDU6SXNzdWUzNDUzNjUwMzg=;{'totalCount': 1};NPM was not published, still at 3.6.1;2018-07-27T21:00:26Z;2018-07-28T16:06:14Z
+845;MDU6SXNzdWUzNDU0MzY3ODg=;{'totalCount': 2};How to hide/show elements in js?;2018-07-28T10:01:22Z;2018-08-12T15:24:41Z
+846;MDU6SXNzdWUzNDU1MDQyMjU=;{'totalCount': 1};any plan to migrate to sass?;2018-07-29T05:49:42Z;2018-07-29T15:10:23Z
+847;MDU6SXNzdWUzNDU3NDYzOTc=;{'totalCount': 1};SASS source;2018-07-30T12:57:37Z;2018-07-30T16:31:19Z
+848;MDU6SXNzdWUzNDY1NDI5Mzk=;{'totalCount': 7};see animation when page on scroll;2018-08-01T10:33:43Z;2018-08-04T23:07:24Z
+850;MDU6SXNzdWUzNDg4MTg3NTE=;{'totalCount': 2};Increase delay between infinite iterations;2018-08-08T17:21:55Z;2018-08-12T15:50:20Z
+851;MDU6SXNzdWUzNDg4NjA3MzU=;{'totalCount': 1};Yarn install is throwing this error;2018-08-08T19:29:01Z;2018-08-09T17:27:52Z
+852;MDU6SXNzdWUzNDg5ODI1NjY=;{'totalCount': 2};slideInRight not working on mobile properly;2018-08-09T05:27:11Z;2018-08-09T16:12:50Z
+853;MDU6SXNzdWUzNDk2NzcwNzI=;{'totalCount': 3};jQuery method will trigger and reset all animations on any element with a transition CSS property.;2018-08-10T22:40:08Z;2018-08-11T11:35:12Z
+854;MDU6SXNzdWUzNDk3ODE1MTQ=;{'totalCount': 1};Add Development Branch;2018-08-12T03:34:23Z;2018-08-12T15:56:03Z
+855;MDU6SXNzdWUzNDk5Mjc1NDM=;{'totalCount': 3};Restart animation;2018-08-13T08:09:51Z;2018-08-13T22:28:47Z
+857;MDU6SXNzdWUzNTEwMjY3NzM=;{'totalCount': 4};Bug with child element with transition and animate on parent in EDGE;2018-08-16T01:51:33Z;2018-08-26T23:40:28Z
+858;MDU6SXNzdWUzNTI2MjY5Nzg=;{'totalCount': 8};NativeScript Compatibility;2018-08-21T16:53:28Z;2018-08-30T18:51:09Z
+860;MDU6SXNzdWUzNTMzMTI5NzE=;{'totalCount': 4};Chrome 70.x compatibility issues;2018-08-23T10:07:17Z;2018-10-07T10:59:23Z
+861;MDU6SXNzdWUzNTY2Mjg3NDk=;{'totalCount': 1};change URL;2018-09-04T02:06:14Z;2018-09-17T22:17:20Z
+863;MDU6SXNzdWUzNTk4OTUzOTY=;{'totalCount': 4};Question: Is it possible to trigger animation on hover?;2018-09-13T13:26:39Z;2018-09-18T21:37:41Z
+864;MDU6SXNzdWUzNjAxMDY5MTk=;{'totalCount': 4};Disable Animate;2018-09-13T23:50:37Z;2018-09-15T18:51:56Z
+866;MDU6SXNzdWUzNjQ3ODM3OTM=;{'totalCount': 4};Make animation run once time when contructor ?;2018-09-28T08:07:20Z;2018-10-13T15:00:49Z
+869;MDU6SXNzdWUzNjcxMDczMDU=;{'totalCount': 1};Animation in view;2018-10-05T08:21:27Z;2018-10-05T08:48:20Z
+871;MDU6SXNzdWUzNjkzMTE3MDY=;{'totalCount': 2};How to run a 3s animation and wait xs for the next one;2018-10-11T21:26:41Z;2018-10-13T15:00:11Z
+873;MDU6SXNzdWUzNzAxNDIxNDU=;{'totalCount': 1};Works on another block;2018-10-15T12:35:30Z;2018-10-17T18:18:03Z
+874;MDU6SXNzdWUzNzAxODgwMjQ=;{'totalCount': 3};BEM;2018-10-15T14:23:32Z;2018-10-17T18:23:27Z
+875;MDU6SXNzdWUzNzEyMTY4NzM=;{'totalCount': 2};Update jQuery examples to Vanilla js;2018-10-17T18:46:13Z;2019-01-16T18:51:55Z
+876;MDU6SXNzdWUzNzE1MzMwNjM=;{'totalCount': 6};The wobble animation costs much CPU;2018-10-18T13:33:44Z;2018-11-28T22:01:48Z
+879;MDU6SXNzdWUzNzIwMDIyMDI=;{'totalCount': 12};missing releases on npmjs;2018-10-19T15:15:25Z;2018-11-28T19:21:06Z
+882;MDU6SXNzdWUzNzQ3NDcyNzQ=;{'totalCount': 3};Firefox 63.0 breaks something in v. 3.7.0;2018-10-28T12:12:45Z;2018-11-05T13:58:22Z
+884;MDU6SXNzdWUzNzYyMDg2NjA=;{'totalCount': 11};infinite loop with pause;2018-11-01T00:26:08Z;2018-11-19T21:45:36Z
+886;MDU6SXNzdWUzODE1NTkyMDg=;{'totalCount': 4};Animation relative to the containing div;2018-11-16T11:24:19Z;2018-11-16T17:47:20Z
+887;MDU6SXNzdWUzODIwMjk4MjQ=;{'totalCount': 5};Slow, Slower, Fast, and Faster Class is a problem on iponeX;2018-11-19T02:00:06Z;2018-12-04T03:15:10Z
+890;MDU6SXNzdWUzODUwNzQxNTY=;{'totalCount': 9};Bounce router-transition (bad positioning);2018-11-28T02:34:00Z;2018-11-29T21:54:37Z
+892;MDU6SXNzdWUzODU0OTY3Mjc=;{'totalCount': 2};Proposed Animate.css Icon/Logo;2018-11-28T23:09:25Z;2018-11-30T17:47:02Z
+894;MDU6SXNzdWUzOTE3MDk0Njk=;{'totalCount': 2};Delays and position absolute not being applied on Safari Browser;2018-12-17T13:22:01Z;2019-02-05T23:07:13Z
+895;MDU6SXNzdWUzOTUzNTIwNzE=;{'totalCount': 3};Add animation when hiding a div;2019-01-02T19:25:24Z;2019-01-13T20:35:40Z
+896;MDU6SXNzdWUzOTcyNTQ2NjY=;{'totalCount': 2};Absolute Position Element Animation;2019-01-09T08:09:08Z;2019-01-09T08:37:57Z
+897;MDU6SXNzdWUzOTc5NDEzNjk=;{'totalCount': 12};scroll to top bug;2019-01-10T17:41:08Z;2019-03-19T19:30:35Z
+898;MDU6SXNzdWUzOTkwOTk2Njc=;{'totalCount': 13};Bug with animate on latest firefox (even the last 2 major version of firefox);2019-01-14T22:22:22Z;2019-01-25T13:42:17Z
+902;MDU6SXNzdWU0MDAwNjM5NjM=;{'totalCount': 3};Code of Conduct;2019-01-17T00:51:10Z;2019-02-09T17:18:58Z
+903;MDU6SXNzdWU0MDAwNjUxNjg=;{'totalCount': 2};Set Guidelines;2019-01-17T00:56:26Z;2020-04-20T14:59:19Z
+905;MDU6SXNzdWU0MDEwMjg2NDk=;{'totalCount': 5};Only bounceIn class works, the rest dont...;2019-01-19T19:49:15Z;2019-01-20T15:38:16Z
+906;MDU6SXNzdWU0MDEwODcwNzk=;{'totalCount': 1};3D animations;2019-01-20T11:15:34Z;2019-01-25T13:41:26Z
+907;MDU6SXNzdWU0MDE2NjI4OTY=;{'totalCount': 1};Can't fadeInUp doesn't work in website how to use it please suggest me?;2019-01-22T09:07:15Z;2019-01-22T11:56:55Z
+908;MDU6SXNzdWU0MDIyNDU3MzQ=;{'totalCount': 3};Hinge animation does not work with rotated elements;2019-01-23T13:43:41Z;2019-01-25T13:41:07Z
+909;MDU6SXNzdWU0MDU5OTA5MTQ=;{'totalCount': 1};how to start animation with a button;2019-02-02T15:08:11Z;2019-02-05T23:06:31Z
+910;MDU6SXNzdWU0MDg0MzAyMDg=;{'totalCount': 4};Version 3.7 Does Not Support Firefox;2019-02-09T13:10:26Z;2019-02-11T07:38:39Z
+911;MDU6SXNzdWU0MDg1MTUyODk=;{'totalCount': 1};No favicon;2019-02-10T09:00:58Z;2019-02-27T00:06:27Z
+912;MDU6SXNzdWU0MTE1NzYwNjQ=;{'totalCount': 4};div takes two clicks to show animation;2019-02-18T17:14:40Z;2019-03-14T15:00:22Z
+913;MDU6SXNzdWU0MTE4NTc2ODg=;{'totalCount': 6};animations loading twice?;2019-02-19T10:41:39Z;2019-03-14T16:00:43Z
+914;MDU6SXNzdWU0MTI4ODYxMjM=;{'totalCount': 6};[Improvement] Set opacity to 0 on all elements with `out` classes when media is set to `prefers-reduced-motion`;2019-02-21T11:50:10Z;2020-04-21T17:03:00Z
+918;MDU6SXNzdWU0MjExNDEwODQ=;{'totalCount': 2};Change direction;2019-03-14T17:05:28Z;2019-03-19T19:45:34Z
+919;MDU6SXNzdWU0MjE4MjczODg=;{'totalCount': 1};don't work on firefox 65;2019-03-16T16:37:52Z;2019-03-16T17:24:05Z
+921;MDU6SXNzdWU0MjQ2Mjk2NTM=;{'totalCount': 3};Support on Safari 12;2019-03-24T16:07:42Z;2019-04-09T13:43:57Z
+922;MDU6SXNzdWU0MjY4NzIzMDU=;{'totalCount': 2};Stop animation with onClick function;2019-03-29T08:30:15Z;2019-05-01T18:58:01Z
+924;MDU6SXNzdWU0Mjk2NjEwMjU=;{'totalCount': 1};animated div position wrong;2019-04-05T09:22:45Z;2019-05-15T00:00:22Z
+925;MDU6SXNzdWU0MzIwOTA2OTE=;{'totalCount': 1};Installing with npm to Laravel project;2019-04-11T15:35:29Z;2019-04-11T15:44:24Z
+926;MDU6SXNzdWU0MzIxNDY0NjA=;{'totalCount': 2};bounce in some DIVs sequentially;2019-04-11T17:30:30Z;2019-05-14T23:53:15Z
+927;MDU6SXNzdWU0MzYyNTI5ODQ=;{'totalCount': 2};Animating element out (in React);2019-04-23T15:30:35Z;2019-04-23T19:59:52Z
+928;MDU6SXNzdWU0MzY3OTM4MjA=;{'totalCount': 32};It stoped working in latest Chrome and Firefox;2019-04-24T16:29:06Z;2019-05-29T02:34:39Z
+929;MDU6SXNzdWU0MzcyNDAwNzM=;{'totalCount': 1};animateCSS() function does not work.;2019-04-25T14:45:49Z;2019-04-25T16:03:00Z
+930;MDU6SXNzdWU0Mzc4NjU2MTc=;{'totalCount': 8};from css to mp4;2019-04-26T22:20:27Z;2019-05-15T00:54:55Z
+932;MDU6SXNzdWU0NDE2NzEzMjU=;{'totalCount': 5};[Chrome 74] @media(prefers-reduced-motion) rule;2019-05-08T10:47:57Z;2019-05-14T23:51:31Z
+933;MDU6SXNzdWU0NDE3MDY5Nzc=;{'totalCount': 8};Generate a CSS module file;2019-05-08T12:21:05Z;2020-04-21T12:47:24Z
+934;MDU6SXNzdWU0NDIxOTA4NDE=;{'totalCount': 11};Really choppy animations in Chrome iOS;2019-05-09T11:35:15Z;2019-05-14T23:49:39Z
+935;MDU6SXNzdWU0NDUxNDQ2Njk=;{'totalCount': 1};Animation stuttering experienced, video attached;2019-05-16T20:27:23Z;2019-05-16T21:47:34Z
+937;MDU6SXNzdWU0NDk3NDgwMDQ=;{'totalCount': 1};How to add and remove class;2019-05-29T11:19:21Z;2019-05-29T13:18:43Z
+938;MDU6SXNzdWU0NTAzMjQ0NzA=;{'totalCount': 9};Issue installing with Node v12 (fsevents);2019-05-30T14:04:40Z;2019-06-04T22:38:41Z
+942;MDU6SXNzdWU0NTE2NTM1NTU=;{'totalCount': 2};Update Readme file for new-build;2019-06-03T19:36:33Z;2019-06-04T23:05:55Z
+944;MDU6SXNzdWU0NTM1MTA0Mjk=;{'totalCount': 3};Items visible before the animation;2019-06-07T13:20:09Z;2019-06-25T23:39:23Z
+945;MDU6SXNzdWU0NTM4OTUzODc=;{'totalCount': 2};Animate.css Conflict With Perspective & Preserve-3D properties;2019-06-09T12:59:25Z;2019-06-25T23:58:20Z
+946;MDU6SXNzdWU0NTUyNzcwNDg=;{'totalCount': 4};Animate elements one by one?;2019-06-12T15:21:32Z;2019-06-17T11:42:16Z
+947;MDU6SXNzdWU0NTY1Mjc3NDY=;{'totalCount': 1};transform: translate3d disregarding z-index;2019-06-15T11:16:00Z;2019-07-10T11:38:05Z
+948;MDU6SXNzdWU0NjAzNzAyMjY=;{'totalCount': 5};Demo website not working;2019-06-25T11:33:44Z;2019-06-26T00:01:31Z
+949;MDU6SXNzdWU0NjAzODYzNTY=;{'totalCount': 1};Support for repeating animation ever x seconds;2019-06-25T12:10:26Z;2019-06-25T23:56:59Z
+950;MDU6SXNzdWU0NjI3Mzg0NDE=;{'totalCount': 4};Provide a compatibility version with v4;2019-07-01T14:13:19Z;2020-04-21T10:51:23Z
+951;MDU6SXNzdWU0NjI5MDkyOTQ=;{'totalCount': 2};Making Animations Wait Till Visible;2019-07-01T21:00:03Z;2019-07-01T21:37:14Z
+953;MDU6SXNzdWU0NjQxMTM4MTA=;{'totalCount': 9};我用zoomIn和zoomOut他的缩放中心怎么不在中间呢？怎么控制？;2019-07-04T07:40:41Z;2019-07-05T19:38:19Z
+954;MDU6SXNzdWU0NjUwNTUwNjA=;{'totalCount': 1};background image ;2019-07-08T05:00:59Z;2019-07-08T05:35:05Z
+955;MDU6SXNzdWU0NjYzMjAzNzA=;{'totalCount': 4};Move animate's Github page  to master;2019-07-10T13:48:11Z;2020-04-20T15:02:20Z
+956;MDU6SXNzdWU0NjY4NjA2MzI=;{'totalCount': 8};Add compile step to commit hooks;2019-07-11T12:24:59Z;2020-05-05T19:44:16Z
+958;MDU6SXNzdWU0NjgzMTAxNjg=;{'totalCount': 2};animation-fill-mode breaks width on ul>li ltems;2019-07-15T20:03:42Z;2019-07-21T15:11:14Z
+959;MDU6SXNzdWU0NzI5ODY5NTI=;{'totalCount': 1};Animate.css doesn't work on its demo page.;2019-07-25T17:35:54Z;2019-07-26T16:29:17Z
+961;MDU6SXNzdWU0NzYzMzE3NDg=;{'totalCount': 2};animate css stopped working;2019-08-02T19:50:39Z;2019-08-04T08:02:04Z
+962;MDU6SXNzdWU0Nzc1NzQzNjk=;{'totalCount': 1};FlipInX Effect and horizontal scroll bar;2019-08-06T20:17:43Z;2019-08-06T22:25:39Z
+965;MDU6SXNzdWU0ODIwMzMzODM=;{'totalCount': 1};bouncein effects not working;2019-08-18T20:22:22Z;2019-08-22T02:16:19Z
+966;MDU6SXNzdWU0ODM2MDk1Mzg=;{'totalCount': 2};Dev branch animation delay not working...;2019-08-21T19:27:56Z;2019-08-31T16:07:11Z
+967;MDU6SXNzdWU0ODYxNDcxMzM=;{'totalCount': 7};Add Ethereum name or address to package.json;2019-08-28T03:58:22Z;2019-12-07T14:36:16Z
+968;MDU6SXNzdWU0ODcyNzIxODU=;{'totalCount': 3};Ui event expired;2019-08-30T03:52:16Z;2019-10-10T22:22:56Z
+969;MDU6SXNzdWU0ODczNDc5NTg=;{'totalCount': 1};animated Class affects overflow-y?;2019-08-30T08:07:46Z;2019-09-28T11:25:17Z
+970;MDU6SXNzdWU0ODc0NDIyNjQ=;{'totalCount': 3};Overflow issue on elements with animated classes;2019-08-30T11:50:58Z;2019-09-28T11:24:32Z
+973;MDU6SXNzdWU0OTA3NTcyNDc=;{'totalCount': 2};Chrome on iOS animation problem;2019-09-08T13:53:20Z;2019-09-28T11:23:06Z
+974;MDU6SXNzdWU0OTE3MDgwOTQ=;{'totalCount': 2};Swing does not work when set to enter animation;2019-09-10T14:25:58Z;2019-09-11T01:03:00Z
+975;MDU6SXNzdWU0OTIyMDY2MjI=;{'totalCount': 1};v3.7.2 still does not make the toast go away witthout a CSS override;2019-09-11T12:28:09Z;2019-09-28T11:18:32Z
+976;MDU6SXNzdWU0OTY3NTE1NTM=;{'totalCount': 1};"""pulse"" property creating recurring overflow on page using Firefox";2019-09-22T08:55:59Z;2019-09-28T11:13:36Z
+977;MDU6SXNzdWU0OTY5Mzc1NzI=;{'totalCount': 1};not working well on iOS13.0;2019-09-23T07:34:45Z;2019-09-26T05:57:08Z
+978;MDU6SXNzdWU0OTczNDU5ODc=;{'totalCount': 0};Items appearing late on Mobile (Two use cases with instructions to replicate issue);2019-09-23T21:48:56Z;2019-09-26T15:26:56Z
+987;MDU6SXNzdWU1MDk4NDc5MzE=;{'totalCount': 1};Can't see the animation at button click on IE11;2019-10-21T09:38:57Z;2019-10-21T10:53:09Z
+988;MDU6SXNzdWU1MTAwNjEwMDM=;{'totalCount': 3};Puff in/out?;2019-10-21T15:40:06Z;2020-04-20T15:05:10Z
+991;MDU6SXNzdWU1MjA2MTI4NTk=;{'totalCount': 5}; I want to use aniamtion.css but I don't understand the licence;2019-11-10T15:03:00Z;2019-11-14T18:16:50Z
+993;MDU6SXNzdWU1MjI2OTQ5MTY=;{'totalCount': 18};Animate.css don't work in Vue.;2019-11-14T08:17:19Z;2019-12-27T00:02:27Z
+994;MDU6SXNzdWU1MjM0OTQ5MDE=;{'totalCount': 1};animation-delay not working with decimals;2019-11-15T14:17:30Z;2019-11-18T22:43:39Z
+996;MDU6SXNzdWU1MzAyMDU2NTE=;{'totalCount': 6};Animations makes bootstrap modals see-through;2019-11-29T07:57:18Z;2020-03-01T17:31:08Z
+997;MDU6SXNzdWU1Mzc1Njc0NjQ=;{'totalCount': 7};Animation not working on safari;2019-12-13T14:04:32Z;2020-03-01T17:31:45Z
+998;MDU6SXNzdWU1NDE3NDg5ODY=;{'totalCount': 4};Add Iteration-Count CSS utility classes;2019-12-23T13:12:56Z;2020-03-17T19:25:56Z
+999;MDU6SXNzdWU1NDIxOTA1MjU=;{'totalCount': 3};Add FadeInSmall classes;2019-12-24T18:26:16Z;2020-04-21T10:52:23Z
+1000;MDU6SXNzdWU1NDQ4NzU4MjI=;{'totalCount': 3};Invalid CSS Media Query Syntax;2020-01-03T07:03:22Z;2020-03-17T19:25:27Z
+1001;MDU6SXNzdWU1NDUwNDgxMjM=;{'totalCount': 3};Animations not working in Firefox 71.0;2020-01-03T15:51:21Z;2020-01-07T11:58:50Z
+1002;MDU6SXNzdWU1NDUzMzU4MzY=;{'totalCount': 4};Feature request - Concave/Convex (CSS 3D transformations);2020-01-04T21:40:27Z;2020-03-01T17:38:51Z
+1003;MDU6SXNzdWU1NDUzNDE0OTA=;{'totalCount': 2};Feature request - Glow animation;2020-01-04T22:44:44Z;2020-03-01T18:19:19Z
+1004;MDU6SXNzdWU1NDYzOTYwMTQ=;{'totalCount': 7};lightSpeedInLeft?;2020-01-07T16:57:23Z;2020-03-03T07:04:44Z
+1006;MDU6SXNzdWU1NDg1MTkzNzc=;{'totalCount': 4};Start Animation after element comes into viewport;2020-01-12T04:24:04Z;2020-01-23T18:45:01Z
+1007;MDU6SXNzdWU1NDg3MTY3MDg=;{'totalCount': 2};Move to org;2020-01-13T05:41:13Z;2020-03-24T18:37:49Z
+1008;MDU6SXNzdWU1NDg3MzAzNDU=;{'totalCount': 1};Update Pull Request Template;2020-01-13T06:27:15Z;2020-01-16T00:03:06Z
+1009;MDU6SXNzdWU1NDg5NTQ2Njg=;{'totalCount': 7};[feature request] Configurable magnitude;2020-01-13T14:09:34Z;
+1010;MDU6SXNzdWU1NDkxNDcwNDY=;{'totalCount': 3};Additive CSS discussion;2020-01-13T19:55:19Z;2020-04-10T15:42:23Z
+1011;MDU6SXNzdWU1NDk4MTUzMTU=;{'totalCount': 3};Input with autoFocus in React wrecks animate;2020-01-14T20:59:42Z;2020-03-24T18:35:43Z
+1012;MDU6SXNzdWU1NTM4MzM3Nzg=;{'totalCount': 11};Make animation slideOutLeft slide back and forth?;2020-01-22T22:33:15Z;2020-03-03T00:51:01Z
+1013;MDU6SXNzdWU1NTM4MzYyMTk=;{'totalCount': 2};The Contribute Section: Readme File;2020-01-22T22:39:09Z;2020-01-23T14:01:20Z
+1015;MDU6SXNzdWU1NTQxMTAzMjk=;{'totalCount': 2};Chrome Same-site cookie warning;2020-01-23T11:52:17Z;2020-01-23T13:55:15Z
+1016;MDU6SXNzdWU1NTQyNDMzMDg=;{'totalCount': 3};Datatable Issues;2020-01-23T15:50:33Z;2020-03-01T17:56:05Z
+1017;MDU6SXNzdWU1NTUxNTEzNzE=;{'totalCount': 2};Suggestion: Have 100-1000ms delays built in;2020-01-25T23:10:03Z;2020-03-01T17:57:48Z
+1020;MDU6SXNzdWU1NTkxNzYwMDE=;{'totalCount': 1};Website issue;2020-02-03T16:00:08Z;2020-03-01T18:01:55Z
+1021;MDU6SXNzdWU1NjAxNzcyMjA=;{'totalCount': 1};bootstrap tooltip position move to the top after i add animation class;2020-02-05T06:55:13Z;2020-03-01T18:05:10Z
+1022;MDU6SXNzdWU1NjA0OTExNjI=;{'totalCount': 7};Usage of Font Awesome 4.7.0, causes conflict with FA^5.1.0;2020-02-05T16:37:08Z;2020-03-18T15:23:32Z
+1024;MDU6SXNzdWU1NjQ2NjY0MTE=;{'totalCount': 5};Relative positioning of the animation - Included in animated.css?;2020-02-13T12:59:21Z;2020-04-10T14:19:04Z
+1026;MDU6SXNzdWU1Njg0NjE2OTg=;{'totalCount': 1};Feature Request - Typescript function call for entrance;2020-02-20T17:35:00Z;2020-03-01T17:27:36Z
+1028;MDU6SXNzdWU1Njg2ODU2NDc=;{'totalCount': 1};zoomIn flashes element before disappearing and then zooming in!;2020-02-21T01:45:11Z;2020-03-01T17:23:12Z
+1031;MDU6SXNzdWU1NzczNDMzNDQ=;{'totalCount': 2};Release in ESM format;2020-03-07T14:37:43Z;2020-03-24T18:33:57Z
+1032;MDU6SXNzdWU1Nzg4NjAxNDc=;{'totalCount': 2};Add news ticker style;2020-03-10T21:02:33Z;2020-03-17T19:13:28Z
+1034;MDU6SXNzdWU1ODg5OTExNTg=;{'totalCount': 10};Add rotateClockwise & rotateCounterClockwise Class;2020-03-27T09:11:15Z;2020-03-30T12:55:33Z
+1035;MDU6SXNzdWU1ODk0MTc4NzY=;{'totalCount': 4};[Feature Request] Simple Typing Animation;2020-03-27T21:18:08Z;2020-03-29T12:03:24Z
+1041;MDU6SXNzdWU1OTgwNjg2MTY=;{'totalCount': 2};Support for browserify?;2020-04-10T20:04:43Z;2020-04-20T14:45:02Z
+1042;MDU6SXNzdWU1OTgzNTU2ODE=;{'totalCount': 3};Collapse;2020-04-11T21:35:21Z;2020-04-22T14:41:15Z
+1044;MDU6SXNzdWU2MDM1MTkxOTI=;{'totalCount': 2};Does not work at all on iOs devices running CHROME;2020-04-20T20:37:46Z;2020-04-22T18:06:37Z
+1045;MDU6SXNzdWU2MDM1NTg5MzQ=;{'totalCount': 0};Animate.js --> https://github.com/koffiisen/Animate.js;2020-04-20T21:51:39Z;2020-04-21T10:23:58Z
+1048;MDU6SXNzdWU2MDkyMDIxOTE=;{'totalCount': 1};Repeat animation;2020-04-29T16:44:33Z;2020-04-29T17:41:32Z
+1049;MDU6SXNzdWU2MTEyNTIwNTU=;{'totalCount': 1};Is there any way to add animation iteration count using classes like we can add delay as `delay-2s` class?;2020-05-02T18:53:31Z;2020-05-02T23:01:44Z
+1055;MDU6SXNzdWU2MTQ4MzUzNDY=;{'totalCount': 1};Animate.css does not seem to work with Laravel 7.10.3;2020-05-08T16:06:45Z;2020-05-08T22:07:26Z
+1056;MDU6SXNzdWU2MTQ5MDI1NDA=;{'totalCount': 4};TypeError: Cannot read property 'name' of undefined;2020-05-08T18:18:21Z;
+1057;MDU6SXNzdWU2MTU1MDU4MTY=;{'totalCount': 0};data attributes;2020-05-11T00:02:17Z;
