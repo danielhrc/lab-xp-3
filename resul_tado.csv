@@ -1,0 +1,200 @@
+name;owner;url;stargazers;issues;primaryLanguage
+996.ICU;996icu;https://github.com/996icu/996.ICU;{'totalCount': 249476};{'totalCount': 0};{'name': 'Rust'}
+vue;vuejs;https://github.com/vuejs/vue;{'totalCount': 163642};{'totalCount': 8988};{'name': 'JavaScript'}
+react;facebook;https://github.com/facebook/react;{'totalCount': 148373};{'totalCount': 9118};{'name': 'JavaScript'}
+free-programming-books;EbookFoundation;https://github.com/EbookFoundation/free-programming-books;{'totalCount': 147040};{'totalCount': 427};
+tensorflow;tensorflow;https://github.com/tensorflow/tensorflow;{'totalCount': 144096};{'totalCount': 24866};{'name': 'C++'}
+bootstrap;twbs;https://github.com/twbs/bootstrap;{'totalCount': 140629};{'totalCount': 19239};{'name': 'JavaScript'}
+awesome;sindresorhus;https://github.com/sindresorhus/awesome;{'totalCount': 132725};{'totalCount': 249};
+You-Dont-Know-JS;getify;https://github.com/getify/You-Dont-Know-JS;{'totalCount': 121009};{'totalCount': 833};
+coding-interview-university;jwasham;https://github.com/jwasham/coding-interview-university;{'totalCount': 113980};{'totalCount': 114};
+ohmyzsh;ohmyzsh;https://github.com/ohmyzsh/ohmyzsh;{'totalCount': 109453};{'totalCount': 3326};{'name': 'Shell'}
+developer-roadmap;kamranahmedse;https://github.com/kamranahmedse/developer-roadmap;{'totalCount': 107527};{'totalCount': 418};
+gitignore;github;https://github.com/github/gitignore;{'totalCount': 101215};{'totalCount': 0};
+CS-Notes;CyC2018;https://github.com/CyC2018/CS-Notes;{'totalCount': 100438};{'totalCount': 398};{'name': 'Java'}
+vscode;microsoft;https://github.com/microsoft/vscode;{'totalCount': 96036};{'totalCount': 88878};{'name': 'TypeScript'}
+javascript;airbnb;https://github.com/airbnb/javascript;{'totalCount': 95229};{'totalCount': 984};{'name': 'JavaScript'}
+system-design-primer;donnemartin;https://github.com/donnemartin/system-design-primer;{'totalCount': 94513};{'totalCount': 117};{'name': 'Python'}
+flutter;flutter;https://github.com/flutter/flutter;{'totalCount': 92076};{'totalCount': 36683};{'name': 'Dart'}
+d3;d3;https://github.com/d3/d3;{'totalCount': 91399};{'totalCount': 2036};{'name': 'JavaScript'}
+linux;torvalds;https://github.com/torvalds/linux;{'totalCount': 90741};{'totalCount': 0};{'name': 'C'}
+react-native;facebook;https://github.com/facebook/react-native;{'totalCount': 87056};{'totalCount': 19331};{'name': 'JavaScript'}
+Python-100-Days;jackfrued;https://github.com/jackfrued/Python-100-Days;{'totalCount': 85260};{'totalCount': 345};{'name': 'Jupyter Notebook'}
+electron;electron;https://github.com/electron/electron;{'totalCount': 82535};{'totalCount': 12895};{'name': 'C++'}
+awesome-python;vinta;https://github.com/vinta/awesome-python;{'totalCount': 82265};{'totalCount': 166};{'name': 'Python'}
+public-apis;public-apis;https://github.com/public-apis/public-apis;{'totalCount': 81219};{'totalCount': 128};{'name': 'Python'}
+create-react-app;facebook;https://github.com/facebook/create-react-app;{'totalCount': 78537};{'totalCount': 5783};{'name': 'JavaScript'}
+JavaGuide;Snailclimb;https://github.com/Snailclimb/JavaGuide;{'totalCount': 78131};{'totalCount': 379};{'name': 'Java'}
+the-art-of-command-line;jlevy;https://github.com/jlevy/the-art-of-command-line;{'totalCount': 75061};{'totalCount': 163};
+axios;axios;https://github.com/axios/axios;{'totalCount': 73009};{'totalCount': 2280};{'name': 'JavaScript'}
+go;golang;https://github.com/golang/go;{'totalCount': 72304};{'totalCount': 37677};{'name': 'Go'}
+Python;TheAlgorithms;https://github.com/TheAlgorithms/Python;{'totalCount': 71127};{'totalCount': 292};{'name': 'Python'}
+build-your-own-x;danistefanovic;https://github.com/danistefanovic/build-your-own-x;{'totalCount': 70413};{'totalCount': 315};
+node;nodejs;https://github.com/nodejs/node;{'totalCount': 69831};{'totalCount': 11579};{'name': 'JavaScript'}
+javascript-algorithms;trekhleb;https://github.com/trekhleb/javascript-algorithms;{'totalCount': 69759};{'totalCount': 134};{'name': 'JavaScript'}
+animate.css;animate-css;https://github.com/animate-css/animate.css;{'totalCount': 66569};{'totalCount': 704};{'name': 'CSS'}
+free-programming-books-zh_CN;justjavac;https://github.com/justjavac/free-programming-books-zh_CN;{'totalCount': 66272};{'totalCount': 0};
+youtube-dl;ytdl-org;https://github.com/ytdl-org/youtube-dl;{'totalCount': 65930};{'totalCount': 20234};{'name': 'Python'}
+kubernetes;kubernetes;https://github.com/kubernetes/kubernetes;{'totalCount': 65878};{'totalCount': 34654};{'name': 'Go'}
+models;tensorflow;https://github.com/tensorflow/models;{'totalCount': 63605};{'totalCount': 5281};{'name': 'Python'}
+Font-Awesome;FortAwesome;https://github.com/FortAwesome/Font-Awesome;{'totalCount': 62787};{'totalCount': 15936};{'name': 'JavaScript'}
+terminal;microsoft;https://github.com/microsoft/terminal;{'totalCount': 61273};{'totalCount': 4557};{'name': 'C++'}
+puppeteer;puppeteer;https://github.com/puppeteer/puppeteer;{'totalCount': 61147};{'totalCount': 3930};{'name': 'JavaScript'}
+angular;angular;https://github.com/angular/angular;{'totalCount': 60852};{'totalCount': 20726};{'name': 'TypeScript'}
+three.js;mrdoob;https://github.com/mrdoob/three.js;{'totalCount': 60417};{'totalCount': 9701};{'name': 'JavaScript'}
+TypeScript;microsoft;https://github.com/microsoft/TypeScript;{'totalCount': 60148};{'totalCount': 26229};{'name': 'TypeScript'}
+computer-science;ossu;https://github.com/ossu/computer-science;{'totalCount': 59595};{'totalCount': 448};
+ant-design;ant-design;https://github.com/ant-design/ant-design;{'totalCount': 59551};{'totalCount': 17199};{'name': 'TypeScript'}
+angular.js;angular;https://github.com/angular/angular.js;{'totalCount': 59539};{'totalCount': 8986};{'name': 'JavaScript'}
+laravel;laravel;https://github.com/laravel/laravel;{'totalCount': 59042};{'totalCount': 0};{'name': 'PHP'}
+java-design-patterns;iluwatar;https://github.com/iluwatar/java-design-patterns;{'totalCount': 57601};{'totalCount': 542};{'name': 'Java'}
+material-ui;mui-org;https://github.com/mui-org/material-ui;{'totalCount': 57188};{'totalCount': 11045};{'name': 'JavaScript'}
+moby;moby;https://github.com/moby/moby;{'totalCount': 57015};{'totalCount': 20169};{'name': 'Go'}
+30-seconds-of-code;30-seconds;https://github.com/30-seconds/30-seconds-of-code;{'totalCount': 56427};{'totalCount': 241};{'name': 'JavaScript'}
+awesome-go;avelino;https://github.com/avelino/awesome-go;{'totalCount': 54204};{'totalCount': 218};{'name': 'Go'}
+webpack;webpack;https://github.com/webpack/webpack;{'totalCount': 54131};{'totalCount': 7091};{'name': 'JavaScript'}
+vue-element-admin;PanJiaChen;https://github.com/PanJiaChen/vue-element-admin;{'totalCount': 54011};{'totalCount': 2690};{'name': 'Vue'}
+awesome-vue;vuejs;https://github.com/vuejs/awesome-vue;{'totalCount': 53998};{'totalCount': 170};
+LeetCodeAnimation;MisterBooo;https://github.com/MisterBooo/LeetCodeAnimation;{'totalCount': 53714};{'totalCount': 32};{'name': 'Java'}
+thefuck;nvbn;https://github.com/nvbn/thefuck;{'totalCount': 53406};{'totalCount': 542};{'name': 'Python'}
+jquery;jquery;https://github.com/jquery/jquery;{'totalCount': 53295};{'totalCount': 2006};{'name': 'JavaScript'}
+redux;reduxjs;https://github.com/reduxjs/redux;{'totalCount': 53140};{'totalCount': 1759};{'name': 'TypeScript'}
+atom;atom;https://github.com/atom/atom;{'totalCount': 51859};{'totalCount': 15672};{'name': 'JavaScript'}
+swift;apple;https://github.com/apple/swift;{'totalCount': 51519};{'totalCount': 0};{'name': 'C++'}
+reveal.js;hakimel;https://github.com/hakimel/reveal.js;{'totalCount': 51488};{'totalCount': 1779};{'name': 'JavaScript'}
+flask;pallets;https://github.com/pallets/flask;{'totalCount': 50246};{'totalCount': 1927};{'name': 'Python'}
+deno;denoland;https://github.com/denoland/deno;{'totalCount': 49563};{'totalCount': 1908};{'name': 'TypeScript'}
+socket.io;socketio;https://github.com/socketio/socket.io;{'totalCount': 49546};{'totalCount': 2839};{'name': 'JavaScript'}
+shadowsocks-windows;shadowsocks;https://github.com/shadowsocks/shadowsocks-windows;{'totalCount': 49235};{'totalCount': 2491};{'name': 'C#'}
+django;django;https://github.com/django/django;{'totalCount': 49168};{'totalCount': 0};{'name': 'Python'}
+elasticsearch;elastic;https://github.com/elastic/elasticsearch;{'totalCount': 48733};{'totalCount': 23663};{'name': 'Java'}
+Chart.js;chartjs;https://github.com/chartjs/Chart.js;{'totalCount': 48638};{'totalCount': 5104};{'name': 'JavaScript'}
+express;expressjs;https://github.com/expressjs/express;{'totalCount': 48536};{'totalCount': 3277};{'name': 'JavaScript'}
+keras;keras-team;https://github.com/keras-team/keras;{'totalCount': 48139};{'totalCount': 10100};{'name': 'Python'}
+next.js;zeit;https://github.com/zeit/next.js;{'totalCount': 47942};{'totalCount': 6314};{'name': 'JavaScript'}
+storybook;storybookjs;https://github.com/storybookjs/storybook;{'totalCount': 47874};{'totalCount': 5294};{'name': 'TypeScript'}
+Semantic-UI;Semantic-Org;https://github.com/Semantic-Org/Semantic-UI;{'totalCount': 47828};{'totalCount': 6091};{'name': 'JavaScript'}
+spring-boot;spring-projects;https://github.com/spring-projects/spring-boot;{'totalCount': 47546};{'totalCount': 17066};{'name': 'Java'}
+json-server;typicode;https://github.com/typicode/json-server;{'totalCount': 47224};{'totalCount': 864};{'name': 'JavaScript'}
+Apollo-11;chrislgarry;https://github.com/chrislgarry/Apollo-11;{'totalCount': 47054};{'totalCount': 359};{'name': 'Assembly'}
+FiraCode;tonsky;https://github.com/tonsky/FiraCode;{'totalCount': 46846};{'totalCount': 892};{'name': 'Clojure'}
+httpie;jakubroztocil;https://github.com/jakubroztocil/httpie;{'totalCount': 46659};{'totalCount': 601};{'name': 'Python'}
+netdata;netdata;https://github.com/netdata/netdata;{'totalCount': 46561};{'totalCount': 5186};{'name': 'C'}
+markdown-here;adam-p;https://github.com/adam-p/markdown-here;{'totalCount': 46222};{'totalCount': 543};{'name': 'JavaScript'}
+rails;rails;https://github.com/rails/rails;{'totalCount': 45544};{'totalCount': 13718};{'name': 'Ruby'}
+architect-awesome;xingshaocheng;https://github.com/xingshaocheng/architect-awesome;{'totalCount': 45264};{'totalCount': 62};
+element;ElemeFE;https://github.com/ElemeFE/element;{'totalCount': 45156};{'totalCount': 15020};{'name': 'Vue'}
+html5-boilerplate;h5bp;https://github.com/h5bp/html5-boilerplate;{'totalCount': 44787};{'totalCount': 1166};{'name': 'JavaScript'}
+lodash;lodash;https://github.com/lodash/lodash;{'totalCount': 44685};{'totalCount': 3662};{'name': 'JavaScript'}
+rust;rust-lang;https://github.com/rust-lang/rust;{'totalCount': 44637};{'totalCount': 34139};{'name': 'Rust'}
+awesome-machine-learning;josephmisiti;https://github.com/josephmisiti/awesome-machine-learning;{'totalCount': 44570};{'totalCount': 63};{'name': 'Python'}
+Front-end-Developer-Interview-Questions;h5bp;https://github.com/h5bp/Front-end-Developer-Interview-Questions;{'totalCount': 44365};{'totalCount': 97};{'name': 'HTML'}
+opencv;opencv;https://github.com/opencv/opencv;{'totalCount': 44358};{'totalCount': 6564};{'name': 'C++'}
+resume.github.com;resume;https://github.com/resume/resume.github.com;{'totalCount': 44336};{'totalCount': 83};{'name': 'JavaScript'}
+awesome-selfhosted;awesome-selfhosted;https://github.com/awesome-selfhosted/awesome-selfhosted;{'totalCount': 44316};{'totalCount': 512};{'name': 'JavaScript'}
+gatsby;gatsbyjs;https://github.com/gatsbyjs/gatsby;{'totalCount': 44192};{'totalCount': 10350};{'name': 'JavaScript'}
+moment;moment;https://github.com/moment/moment;{'totalCount': 43961};{'totalCount': 3656};{'name': 'JavaScript'}
+interviews;kdn251;https://github.com/kdn251/interviews;{'totalCount': 43857};{'totalCount': 43};{'name': 'Java'}
+hugo;gohugoio;https://github.com/gohugoio/hugo;{'totalCount': 43856};{'totalCount': 4602};{'name': 'Go'}
+nodebestpractices;goldbergyoni;https://github.com/goldbergyoni/nodebestpractices;{'totalCount': 43614};{'totalCount': 179};{'name': 'JavaScript'}
+advanced-java;doocs;https://github.com/doocs/advanced-java;{'totalCount': 43279};{'totalCount': 95};{'name': 'Java'}
+bitcoin;bitcoin;https://github.com/bitcoin/bitcoin;{'totalCount': 43264};{'totalCount': 5410};{'name': 'C++'}
+ansible;ansible;https://github.com/ansible/ansible;{'totalCount': 43049};{'totalCount': 27084};{'name': 'Python'}
+redis;antirez;https://github.com/antirez/redis;{'totalCount': 42723};{'totalCount': 4178};{'name': 'C'}
+RxJava;ReactiveX;https://github.com/ReactiveX/RxJava;{'totalCount': 42594};{'totalCount': 2913};{'name': 'Java'}
+tech-interview-handbook;yangshun;https://github.com/yangshun/tech-interview-handbook;{'totalCount': 42546};{'totalCount': 0};{'name': 'JavaScript'}
+requests;psf;https://github.com/psf/requests;{'totalCount': 42416};{'totalCount': 3129};{'name': 'Python'}
+meteor;meteor;https://github.com/meteor/meteor;{'totalCount': 41756};{'totalCount': 8317};{'name': 'JavaScript'}
+nvm;nvm-sh;https://github.com/nvm-sh/nvm;{'totalCount': 41654};{'totalCount': 1380};{'name': 'Shell'}
+every-programmer-should-know;mtdvio;https://github.com/mtdvio/every-programmer-should-know;{'totalCount': 41528};{'totalCount': 28};
+protobuf;protocolbuffers;https://github.com/protocolbuffers/protobuf;{'totalCount': 41400};{'totalCount': 3887};{'name': 'C++'}
+nocode;kelseyhightower;https://github.com/kelseyhightower/nocode;{'totalCount': 41349};{'totalCount': 3524};{'name': 'Dockerfile'}
+ionic;ionic-team;https://github.com/ionic-team/ionic;{'totalCount': 40917};{'totalCount': 17408};{'name': 'TypeScript'}
+incubator-echarts;apache;https://github.com/apache/incubator-echarts;{'totalCount': 40900};{'totalCount': 11878};{'name': 'JavaScript'}
+scikit-learn;scikit-learn;https://github.com/scikit-learn/scikit-learn;{'totalCount': 40584};{'totalCount': 7417};{'name': 'Python'}
+react-router;ReactTraining;https://github.com/ReactTraining/react-router;{'totalCount': 40407};{'totalCount': 5415};{'name': 'JavaScript'}
+jekyll;jekyll;https://github.com/jekyll/jekyll;{'totalCount': 40344};{'totalCount': 4177};{'name': 'Ruby'}
+realworld;gothinkster;https://github.com/gothinkster/realworld;{'totalCount': 40310};{'totalCount': 339};{'name': 'JavaScript'}
+papers-we-love;papers-we-love;https://github.com/papers-we-love/papers-we-love;{'totalCount': 40295};{'totalCount': 128};{'name': 'Shell'}
+material-design-icons;google;https://github.com/google/material-design-icons;{'totalCount': 40153};{'totalCount': 862};{'name': 'CSS'}
+bulma;jgthms;https://github.com/jgthms/bulma;{'totalCount': 39679};{'totalCount': 2008};{'name': 'CSS'}
+fucking-algorithm;labuladong;https://github.com/labuladong/fucking-algorithm;{'totalCount': 39373};{'totalCount': 164};
+Front-End-Checklist;thedaviddias;https://github.com/thedaviddias/Front-End-Checklist;{'totalCount': 39220};{'totalCount': 108};
+awesome-public-datasets;awesomedata;https://github.com/awesomedata/awesome-public-datasets;{'totalCount': 39104};{'totalCount': 88};
+normalize.css;necolas;https://github.com/necolas/normalize.css;{'totalCount': 38797};{'totalCount': 458};{'name': 'CSS'}
+pytorch;pytorch;https://github.com/pytorch/pytorch;{'totalCount': 38493};{'totalCount': 14023};{'name': 'C++'}
+yarn;yarnpkg;https://github.com/yarnpkg/yarn;{'totalCount': 38428};{'totalCount': 5792};{'name': 'JavaScript'}
+gin;gin-gonic;https://github.com/gin-gonic/gin;{'totalCount': 37884};{'totalCount': 1375};{'name': 'Go'}
+awesome-android-ui;wasabeef;https://github.com/wasabeef/awesome-android-ui;{'totalCount': 37822};{'totalCount': 0};
+hacker-scripts;NARKOZ;https://github.com/NARKOZ/hacker-scripts;{'totalCount': 37802};{'totalCount': 56};{'name': 'JavaScript'}
+DeepLearning-500-questions;scutan90;https://github.com/scutan90/DeepLearning-500-questions;{'totalCount': 37760};{'totalCount': 151};
+awesome-mac;jaywcjlove;https://github.com/jaywcjlove/awesome-mac;{'totalCount': 37602};{'totalCount': 261};{'name': 'JavaScript'}
+materialize;Dogfalo;https://github.com/Dogfalo/materialize;{'totalCount': 37498};{'totalCount': 5121};{'name': 'JavaScript'}
+TensorFlow-Examples;aymericdamien;https://github.com/aymericdamien/TensorFlow-Examples;{'totalCount': 37229};{'totalCount': 208};{'name': 'Jupyter Notebook'}
+guava;google;https://github.com/google/guava;{'totalCount': 37164};{'totalCount': 3114};{'name': 'Java'}
+scrapy;scrapy;https://github.com/scrapy/scrapy;{'totalCount': 37035};{'totalCount': 2183};{'name': 'Python'}
+Awesome-Hacking;Hack-with-Github;https://github.com/Hack-with-Github/Awesome-Hacking;{'totalCount': 37006};{'totalCount': 0};
+okhttp;square;https://github.com/square/okhttp;{'totalCount': 36963};{'totalCount': 3064};{'name': 'Java'}
+spring-framework;spring-projects;https://github.com/spring-projects/spring-framework;{'totalCount': 36863};{'totalCount': 19451};{'name': 'Java'}
+freecodecamp.cn;FreeCodeCampChina;https://github.com/FreeCodeCampChina/freecodecamp.cn;{'totalCount': 36826};{'totalCount': 585};{'name': 'CSS'}
+awesome-react;enaqx;https://github.com/enaqx/awesome-react;{'totalCount': 36814};{'totalCount': 63};
+nw.js;nwjs;https://github.com/nwjs/nw.js;{'totalCount': 36798};{'totalCount': 6648};{'name': 'JavaScript'}
+neovim;neovim;https://github.com/neovim/neovim;{'totalCount': 36539};{'totalCount': 5497};{'name': 'Vim script'}
+babel;babel;https://github.com/babel/babel;{'totalCount': 36484};{'totalCount': 7081};{'name': 'JavaScript'}
+prettier;prettier;https://github.com/prettier/prettier;{'totalCount': 36425};{'totalCount': 4191};{'name': 'JavaScript'}
+architecture-samples;android;https://github.com/android/architecture-samples;{'totalCount': 36331};{'totalCount': 381};{'name': 'Kotlin'}
+serverless;serverless;https://github.com/serverless/serverless;{'totalCount': 35766};{'totalCount': 4354};{'name': 'JavaScript'}
+big-list-of-naughty-strings;minimaxir;https://github.com/minimaxir/big-list-of-naughty-strings;{'totalCount': 35732};{'totalCount': 72};{'name': 'Python'}
+awesome-nodejs;sindresorhus;https://github.com/sindresorhus/awesome-nodejs;{'totalCount': 35666};{'totalCount': 89};
+impress.js;impress;https://github.com/impress/impress.js;{'totalCount': 35665};{'totalCount': 436};{'name': 'JavaScript'}
+parcel;parcel-bundler;https://github.com/parcel-bundler/parcel;{'totalCount': 35646};{'totalCount': 2965};{'name': 'JavaScript'}
+frp;fatedier;https://github.com/fatedier/frp;{'totalCount': 35640};{'totalCount': 1429};{'name': 'Go'}
+clean-code-javascript;ryanmcdermott;https://github.com/ryanmcdermott/clean-code-javascript;{'totalCount': 35576};{'totalCount': 91};{'name': 'JavaScript'}
+retrofit;square;https://github.com/square/retrofit;{'totalCount': 35548};{'totalCount': 2364};{'name': 'Java'}
+anime;juliangarnier;https://github.com/juliangarnier/anime;{'totalCount': 35322};{'totalCount': 534};{'name': 'JavaScript'}
+node-v0.x-archive;nodejs;https://github.com/nodejs/node-v0.x-archive;{'totalCount': 35167};{'totalCount': 6383};
+x64dbg;x64dbg;https://github.com/x64dbg/x64dbg;{'totalCount': 35061};{'totalCount': 1785};{'name': 'C++'}
+free-for-dev;ripienaar;https://github.com/ripienaar/free-for-dev;{'totalCount': 35022};{'totalCount': 0};{'name': 'HTML'}
+grafana;grafana;https://github.com/grafana/grafana;{'totalCount': 34856};{'totalCount': 15823};{'name': 'TypeScript'}
+awesome-ios;vsouza;https://github.com/vsouza/awesome-ios;{'totalCount': 34820};{'totalCount': 432};{'name': 'Swift'}
+learn-regex;ziishaned;https://github.com/ziishaned/learn-regex;{'totalCount': 34797};{'totalCount': 68};
+build-web-application-with-golang;astaxie;https://github.com/astaxie/build-web-application-with-golang;{'totalCount': 34601};{'totalCount': 277};{'name': 'Go'}
+AdminLTE;ColorlibHQ;https://github.com/ColorlibHQ/AdminLTE;{'totalCount': 34389};{'totalCount': 2151};{'name': 'JavaScript'}
+tesseract;tesseract-ocr;https://github.com/tesseract-ocr/tesseract;{'totalCount': 34290};{'totalCount': 1824};{'name': 'C++'}
+gogs;gogs;https://github.com/gogs/gogs;{'totalCount': 34233};{'totalCount': 4540};{'name': 'Go'}
+mall;macrozheng;https://github.com/macrozheng/mall;{'totalCount': 34177};{'totalCount': 271};{'name': 'Java'}
+awesome-interview-questions;MaximAbramchuck;https://github.com/MaximAbramchuck/awesome-interview-questions;{'totalCount': 34042};{'totalCount': 22};
+face_recognition;ageitgey;https://github.com/ageitgey/face_recognition;{'totalCount': 34040};{'totalCount': 983};{'name': 'Python'}
+git-flight-rules;k88hudson;https://github.com/k88hudson/git-flight-rules;{'totalCount': 33619};{'totalCount': 54};
+Ghost;TryGhost;https://github.com/TryGhost/Ghost;{'totalCount': 33602};{'totalCount': 5744};{'name': 'JavaScript'}
+svelte;sveltejs;https://github.com/sveltejs/svelte;{'totalCount': 33545};{'totalCount': 2764};{'name': 'JavaScript'}
+Alamofire;Alamofire;https://github.com/Alamofire/Alamofire;{'totalCount': 33455};{'totalCount': 2335};{'name': 'Swift'}
+awesome-courses;prakhar1989;https://github.com/prakhar1989/awesome-courses;{'totalCount': 33253};{'totalCount': 58};
+hyper;zeit;https://github.com/zeit/hyper;{'totalCount': 33199};{'totalCount': 2983};{'name': 'TypeScript'}
+vue2-elm;bailicangdu;https://github.com/bailicangdu/vue2-elm;{'totalCount': 33070};{'totalCount': 490};{'name': 'Vue'}
+core;home-assistant;https://github.com/home-assistant/core;{'totalCount': 33044};{'totalCount': 14289};{'name': 'Python'}
+you-get;soimort;https://github.com/soimort/you-get;{'totalCount': 32848};{'totalCount': 0};{'name': 'Python'}
+AFNetworking;AFNetworking;https://github.com/AFNetworking/AFNetworking;{'totalCount': 32730};{'totalCount': 3023};{'name': 'Objective-C'}
+shadowsocks;shadowsocks;https://github.com/shadowsocks/shadowsocks;{'totalCount': 32614};{'totalCount': 0};{'name': 'Python'}
+git;git;https://github.com/git/git;{'totalCount': 32470};{'totalCount': 0};{'name': 'C'}
+pm2;Unitech;https://github.com/Unitech/pm2;{'totalCount': 32316};{'totalCount': 3939};{'name': 'JavaScript'}
+project-based-learning;tuvtran;https://github.com/tuvtran/project-based-learning;{'totalCount': 32283};{'totalCount': 26};
+the-book-of-secret-knowledge;trimstray;https://github.com/trimstray/the-book-of-secret-knowledge;{'totalCount': 32248};{'totalCount': 37};
+dubbo;apache;https://github.com/apache/dubbo;{'totalCount': 32197};{'totalCount': 3405};{'name': 'Java'}
+leetcode;azl397985856;https://github.com/azl397985856/leetcode;{'totalCount': 31855};{'totalCount': 159};{'name': 'JavaScript'}
+33-js-concepts;leonardomso;https://github.com/leonardomso/33-js-concepts;{'totalCount': 31757};{'totalCount': 26};{'name': 'JavaScript'}
+gulp;gulpjs;https://github.com/gulpjs/gulp;{'totalCount': 31728};{'totalCount': 1802};{'name': 'JavaScript'}
+kotlin;JetBrains;https://github.com/JetBrains/kotlin;{'totalCount': 31680};{'totalCount': 0};{'name': 'Kotlin'}
+material-design-lite;google;https://github.com/google/material-design-lite;{'totalCount': 31591};{'totalCount': 2144};{'name': 'HTML'}
+Best-websites-a-programmer-should-visit;sdmg15;https://github.com/sdmg15/Best-websites-a-programmer-should-visit;{'totalCount': 31531};{'totalCount': 46};
+brackets;adobe;https://github.com/adobe/brackets;{'totalCount': 31294};{'totalCount': 9492};{'name': 'JavaScript'}
+awesome-wechat-weapp;justjavac;https://github.com/justjavac/awesome-wechat-weapp;{'totalCount': 31252};{'totalCount': 0};
+v2ray-core;v2ray;https://github.com/v2ray/v2ray-core;{'totalCount': 31138};{'totalCount': 2115};{'name': 'Go'}
+syncthing;syncthing;https://github.com/syncthing/syncthing;{'totalCount': 31109};{'totalCount': 4056};{'name': 'Go'}
+cpython;python;https://github.com/python/cpython;{'totalCount': 30954};{'totalCount': 0};{'name': 'Python'}
+etcd;etcd-io;https://github.com/etcd-io/etcd;{'totalCount': 30949};{'totalCount': 4846};{'name': 'Go'}
+jest;facebook;https://github.com/facebook/jest;{'totalCount': 30855};{'totalCount': 5342};{'name': 'TypeScript'}
+Projects;karan;https://github.com/karan/Projects;{'totalCount': 30716};{'totalCount': 56};
+prometheus;prometheus;https://github.com/prometheus/prometheus;{'totalCount': 30659};{'totalCount': 3326};{'name': 'Go'}
+jQuery-File-Upload;blueimp;https://github.com/blueimp/jQuery-File-Upload;{'totalCount': 30651};{'totalCount': 3220};{'name': 'PHP'}
+discourse;discourse;https://github.com/discourse/discourse;{'totalCount': 30634};{'totalCount': 0};{'name': 'Ruby'}
