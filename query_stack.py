@@ -1,0 +1,1 @@
+query = 'https://api.stackexchange.com/2.2/questions?page=%s&pagesize=100&fromdate=1585699200&todate=1588204800&order=desc&min=10&sort=creation&tagged=%s&site=stackoverflow&key=cc4iaNiRsiGa)Bf9o5gxZw(('
